@@ -1,0 +1,439 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		600286851AE413750083D6C2 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 600286841AE413750083D6C2 /* AppDelegate.swift */; };
+		600286881AE413750083D6C2 /* HikingAltimiter.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 600286861AE413750083D6C2 /* HikingAltimiter.xcdatamodeld */; };
+		6002868A1AE413750083D6C2 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 600286891AE413750083D6C2 /* ViewController.swift */; };
+		6002868D1AE413750083D6C2 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6002868B1AE413750083D6C2 /* Main.storyboard */; };
+		6002868F1AE413750083D6C2 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6002868E1AE413750083D6C2 /* Images.xcassets */; };
+		600286921AE413750083D6C2 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 600286901AE413750083D6C2 /* LaunchScreen.xib */; };
+		6002869E1AE413750083D6C2 /* HikingAltimiterTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6002869D1AE413750083D6C2 /* HikingAltimiterTests.swift */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		600286981AE413750083D6C2 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 600286771AE413750083D6C2 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 6002867E1AE413750083D6C2;
+			remoteInfo = HikingAltimiter;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		6002867F1AE413750083D6C2 /* HikingAltimiter.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = HikingAltimiter.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		600286831AE413750083D6C2 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		600286841AE413750083D6C2 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		600286871AE413750083D6C2 /* HikingAltimiter.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = HikingAltimiter.xcdatamodel; sourceTree = "<group>"; };
+		600286891AE413750083D6C2 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		6002868C1AE413750083D6C2 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		6002868E1AE413750083D6C2 /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
+		600286911AE413750083D6C2 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = Base; path = Base.lproj/LaunchScreen.xib; sourceTree = "<group>"; };
+		600286971AE413750083D6C2 /* HikingAltimiterTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = HikingAltimiterTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		6002869C1AE413750083D6C2 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		6002869D1AE413750083D6C2 /* HikingAltimiterTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HikingAltimiterTests.swift; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		6002867C1AE413750083D6C2 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		600286941AE413750083D6C2 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		600286761AE413750083D6C2 = {
+			isa = PBXGroup;
+			children = (
+				600286811AE413750083D6C2 /* HikingAltimiter */,
+				6002869A1AE413750083D6C2 /* HikingAltimiterTests */,
+				600286801AE413750083D6C2 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		600286801AE413750083D6C2 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				6002867F1AE413750083D6C2 /* HikingAltimiter.app */,
+				600286971AE413750083D6C2 /* HikingAltimiterTests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		600286811AE413750083D6C2 /* HikingAltimiter */ = {
+			isa = PBXGroup;
+			children = (
+				600286841AE413750083D6C2 /* AppDelegate.swift */,
+				600286891AE413750083D6C2 /* ViewController.swift */,
+				6002868B1AE413750083D6C2 /* Main.storyboard */,
+				6002868E1AE413750083D6C2 /* Images.xcassets */,
+				600286901AE413750083D6C2 /* LaunchScreen.xib */,
+				600286861AE413750083D6C2 /* HikingAltimiter.xcdatamodeld */,
+				600286821AE413750083D6C2 /* Supporting Files */,
+			);
+			path = HikingAltimiter;
+			sourceTree = "<group>";
+		};
+		600286821AE413750083D6C2 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				600286831AE413750083D6C2 /* Info.plist */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		6002869A1AE413750083D6C2 /* HikingAltimiterTests */ = {
+			isa = PBXGroup;
+			children = (
+				6002869D1AE413750083D6C2 /* HikingAltimiterTests.swift */,
+				6002869B1AE413750083D6C2 /* Supporting Files */,
+			);
+			path = HikingAltimiterTests;
+			sourceTree = "<group>";
+		};
+		6002869B1AE413750083D6C2 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				6002869C1AE413750083D6C2 /* Info.plist */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		6002867E1AE413750083D6C2 /* HikingAltimiter */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 600286A11AE413750083D6C2 /* Build configuration list for PBXNativeTarget "HikingAltimiter" */;
+			buildPhases = (
+				6002867B1AE413750083D6C2 /* Sources */,
+				6002867C1AE413750083D6C2 /* Frameworks */,
+				6002867D1AE413750083D6C2 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = HikingAltimiter;
+			productName = HikingAltimiter;
+			productReference = 6002867F1AE413750083D6C2 /* HikingAltimiter.app */;
+			productType = "com.apple.product-type.application";
+		};
+		600286961AE413750083D6C2 /* HikingAltimiterTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 600286A41AE413750083D6C2 /* Build configuration list for PBXNativeTarget "HikingAltimiterTests" */;
+			buildPhases = (
+				600286931AE413750083D6C2 /* Sources */,
+				600286941AE413750083D6C2 /* Frameworks */,
+				600286951AE413750083D6C2 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				600286991AE413750083D6C2 /* PBXTargetDependency */,
+			);
+			name = HikingAltimiterTests;
+			productName = HikingAltimiterTests;
+			productReference = 600286971AE413750083D6C2 /* HikingAltimiterTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		600286771AE413750083D6C2 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0620;
+				ORGANIZATIONNAME = "Ganger, Keith E";
+				TargetAttributes = {
+					6002867E1AE413750083D6C2 = {
+						CreatedOnToolsVersion = 6.2;
+					};
+					600286961AE413750083D6C2 = {
+						CreatedOnToolsVersion = 6.2;
+						TestTargetID = 6002867E1AE413750083D6C2;
+					};
+				};
+			};
+			buildConfigurationList = 6002867A1AE413750083D6C2 /* Build configuration list for PBXProject "HikingAltimiter" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 600286761AE413750083D6C2;
+			productRefGroup = 600286801AE413750083D6C2 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				6002867E1AE413750083D6C2 /* HikingAltimiter */,
+				600286961AE413750083D6C2 /* HikingAltimiterTests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		6002867D1AE413750083D6C2 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				6002868D1AE413750083D6C2 /* Main.storyboard in Resources */,
+				600286921AE413750083D6C2 /* LaunchScreen.xib in Resources */,
+				6002868F1AE413750083D6C2 /* Images.xcassets in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		600286951AE413750083D6C2 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		6002867B1AE413750083D6C2 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				6002868A1AE413750083D6C2 /* ViewController.swift in Sources */,
+				600286851AE413750083D6C2 /* AppDelegate.swift in Sources */,
+				600286881AE413750083D6C2 /* HikingAltimiter.xcdatamodeld in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		600286931AE413750083D6C2 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				6002869E1AE413750083D6C2 /* HikingAltimiterTests.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		600286991AE413750083D6C2 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 6002867E1AE413750083D6C2 /* HikingAltimiter */;
+			targetProxy = 600286981AE413750083D6C2 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin PBXVariantGroup section */
+		6002868B1AE413750083D6C2 /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				6002868C1AE413750083D6C2 /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		600286901AE413750083D6C2 /* LaunchScreen.xib */ = {
+			isa = PBXVariantGroup;
+			children = (
+				600286911AE413750083D6C2 /* Base */,
+			);
+			name = LaunchScreen.xib;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		6002869F1AE413750083D6C2 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.2;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		600286A01AE413750083D6C2 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.2;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				SDKROOT = iphoneos;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		600286A21AE413750083D6C2 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				INFOPLIST_FILE = HikingAltimiter/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		600286A31AE413750083D6C2 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				INFOPLIST_FILE = HikingAltimiter/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+		600286A51AE413750083D6C2 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(SDKROOT)/Developer/Library/Frameworks",
+					"$(inherited)",
+				);
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				INFOPLIST_FILE = HikingAltimiterTests/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/HikingAltimiter.app/HikingAltimiter";
+			};
+			name = Debug;
+		};
+		600286A61AE413750083D6C2 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(SDKROOT)/Developer/Library/Frameworks",
+					"$(inherited)",
+				);
+				INFOPLIST_FILE = HikingAltimiterTests/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/HikingAltimiter.app/HikingAltimiter";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		6002867A1AE413750083D6C2 /* Build configuration list for PBXProject "HikingAltimiter" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				6002869F1AE413750083D6C2 /* Debug */,
+				600286A01AE413750083D6C2 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		600286A11AE413750083D6C2 /* Build configuration list for PBXNativeTarget "HikingAltimiter" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				600286A21AE413750083D6C2 /* Debug */,
+				600286A31AE413750083D6C2 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+		600286A41AE413750083D6C2 /* Build configuration list for PBXNativeTarget "HikingAltimiterTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				600286A51AE413750083D6C2 /* Debug */,
+				600286A61AE413750083D6C2 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+/* End XCConfigurationList section */
+
+/* Begin XCVersionGroup section */
+		600286861AE413750083D6C2 /* HikingAltimiter.xcdatamodeld */ = {
+			isa = XCVersionGroup;
+			children = (
+				600286871AE413750083D6C2 /* HikingAltimiter.xcdatamodel */,
+			);
+			currentVersion = 600286871AE413750083D6C2 /* HikingAltimiter.xcdatamodel */;
+			path = HikingAltimiter.xcdatamodeld;
+			sourceTree = "<group>";
+			versionGroupType = wrapper.xcdatamodel;
+		};
+/* End XCVersionGroup section */
+	};
+	rootObject = 600286771AE413750083D6C2 /* Project object */;
+}
