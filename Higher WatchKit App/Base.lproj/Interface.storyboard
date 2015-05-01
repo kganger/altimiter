@@ -45,6 +45,7 @@
                         <outlet property="currentAltitudeLabel" destination="U9e-mc-sdC" id="WGD-fL-csu"/>
                         <outlet property="group" destination="voT-fI-9AO" id="dHt-S2-Arr"/>
                         <outlet property="timer" destination="3wN-Ba-djc" id="UjW-qp-sUf"/>
+                        <segue destination="NBg-rL-eJC" kind="relationship" relationship="nextPage" id="7ly-en-bET"/>
                     </connections>
                 </controller>
             </objects>
@@ -55,10 +56,15 @@
             <objects>
                 <controller id="NBg-rL-eJC">
                     <items>
-                        <label alignment="center" text="Remaining" textAlignment="left" id="G7X-wz-9dl">
-                            <fontDescription key="font" style="UICTFontTextStyleHeadline"/>
-                        </label>
-                        <label alignment="center" text="490Ft" textAlignment="center" id="42U-oC-C5e"/>
+                        <group width="135" height="78.5" alignment="left" id="xWc-Bt-zR1">
+                            <items>
+                                <label width="73.5" alignment="left" text="Remaining" textAlignment="left" id="G7X-wz-9dl">
+                                    <fontDescription key="font" style="UICTFontTextStyleHeadline"/>
+                                </label>
+                                <label width="90.5" alignment="left" verticalAlignment="center" text="Label" textAlignment="left" id="lmm-hI-tpB"/>
+                            </items>
+                            <color key="backgroundColor" red="0.098039217293262482" green="0.098039217293262482" blue="0.098039217293262482" alpha="1" colorSpace="calibratedRGB"/>
+                        </group>
                     </items>
                 </controller>
             </objects>

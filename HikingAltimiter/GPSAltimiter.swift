@@ -17,12 +17,13 @@ class GPSAltimiter: NSObject, CLLocationManagerDelegate{
     let prefs = PreferenceHelper.getUserDefaults()
     var hasUpdatedPrefs = false
     private let locationManager = CLLocationManager()
-    private let useBarometer : Bool =  CMAltimeter.isRelativeAltitudeAvailable()
+    private var useBarometer = true
      private var calibrationData : [(alititude: Double, accuracy : Int)] = []
     private var recalibrationStart  = NSDate()
     init(altimiter : Altimiter){
         super.init()
         self.altimiter = altimiter
+        useBarometer = altimiter.useBarometer
         locationManager.delegate = self
     }
     
