@@ -1,0 +1,21 @@
+
+/* Class = "UILabel"; text = "+2000 FT"; ObjectID = "65m-Jo-K4P"; */
+"65m-Jo-K4P.text" = "+2000 FT";
+
+/* Class = "UILabel"; text = "Current Altitude"; ObjectID = "Bsj-nS-2Ip"; */
+"Bsj-nS-2Ip.text" = "Current Altitude";
+
+/* Class = "UILabel"; text = "-400 FT"; ObjectID = "CBr-cQ-a0c"; */
+"CBr-cQ-a0c.text" = "-400 FT";
+
+/* Class = "UILabel"; text = "Altitude Of Destination"; ObjectID = "SMl-7K-amR"; */
+"SMl-7K-amR.text" = "Altitude Of Destination";
+
+/* Class = "UILabel"; text = "Unknown"; ObjectID = "lxx-mv-7D0"; */
+"lxx-mv-7D0.text" = "Unknown";
+
+/* Class = "UILabel"; text = "+2000 FT"; ObjectID = "nVP-Tk-Q4C"; */
+"nVP-Tk-Q4C.text" = "+2000 FT";
+
+/* Class = "UILabel"; text = "-400 FT"; ObjectID = "uH9-r9-SZq"; */
+"uH9-r9-SZq.text" = "-400 FT";

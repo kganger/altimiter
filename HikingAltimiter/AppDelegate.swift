@@ -13,11 +13,73 @@ import CoreData
 class AppDelegate: UIResponder, UIApplicationDelegate {
 
     var window: UIWindow?
-
+    let altimiter = Altimiter()
+    var backgroundedTime = NSDate()
+    let parser = GPXParser()
+    var hasLocationDatabase = false
+    var hasLoadedDB = false
 
     func application(application: UIApplication, didFinishLaunchingWithOptions launchOptions: [NSObject: AnyObject]?) -> Bool {
+       // sleep(5)
+     
+        loadPointDatabase()
+        altimiter.startIfNotRunning()
         // Override point for customization after application launch.
         return true
+    }
+    
+    func loadPointDatabase(){
+        if(!hasLoadedDB){
+            let bundle = NSBundle.mainBundle()
+            let prefs = PreferenceHelper.getUserDefaults()
+            let state = prefs.objectForKey("state") as NSString
+            let path = bundle.pathForResource(state, ofType: "gpx")
+            println ("Loading point db for \(state)")
+            if(path != nil){
+                parser.parseGPX(NSURL(fileURLWithPath: path!)!)
+                hasLocationDatabase = true
+            }
+        }
+    
+        hasLoadedDB = true
+
+    }
+    
+    func getWaypoints()->[GPXWaypoint]{
+        return parser.wayPoints
+    }
+    
+    func application(application: UIApplication!, handleWatchKitExtensionRequest userInfo: [NSObject : AnyObject]!, reply: (([NSObject : AnyObject]!) -> Void)!) {
+       // altimiter.startIfNotRunning()
+        // retrieved parameters from Apple Watch
+//        println(userInfo["value1"])
+//        println(userInfo["value2"])
+        println (userInfo["action"])
+        if(userInfo["action"] != nil){
+            let action = userInfo["action"]! as String
+            if(action == "setDestination" && userInfo["destination"] != nil){
+                let newDestination : NSNumber = userInfo["destination"] as NSNumber
+                altimiter.setDestination(newDestination)
+            }else if action == "stop"{
+                altimiter.stopTracking()
+            }else if action == "start" {
+                altimiter.calibrateAndStart()
+            }
+        }
+        // pass back values to Apple Watch
+        var retValues = Dictionary<String,NSObject>()
+        let currentAltitude = altimiter.getCurrentAltitudeSynchcronsously()
+        if(currentAltitude > -1000){
+        retValues["currentAltitude"] = (altimiter.formatForDisplay(currentAltitude, roundToTens: true) as NSString)
+        }else{
+            retValues["currentAltitude"] = ""
+        }
+        retValues["destinationAltitude"] = altimiter.adjustForMetric(altimiter.destinationAltitude as NSNumber)
+        retValues["percentComplete"] = altimiter.getPercentComplete()
+        retValues["userStoped"] = altimiter.userStoped 
+        retValues["startTime"] = altimiter.startTime
+        
+        reply(retValues)
     }
 
     func applicationWillResignActive(application: UIApplication) {
@@ -26,11 +88,17 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
     }
 
     func applicationDidEnterBackground(application: UIApplication) {
+        backgroundedTime = NSDate()
+        altimiter.enterBackgroundMode()
         // Use this method to release shared resources, save user data, invalidate timers, and store enough application state information to restore your application to its current state in case it is terminated later.
         // If your application supports background execution, this method is called instead of applicationWillTerminate: when the user quits.
-    }
+    }////  //
 
     func applicationWillEnterForeground(application: UIApplication) {
+        if(-backgroundedTime.timeIntervalSinceNow > 120){
+            altimiter.gps.reCalibrate()
+        }
+        altimiter.enterForegroundMode()
         // Called as part of the transition from the background to the inactive state; here you can undo many of the changes made on entering the background.
     }
 

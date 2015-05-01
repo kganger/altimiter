@@ -14,6 +14,38 @@
 		6002868F1AE413750083D6C2 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6002868E1AE413750083D6C2 /* Images.xcassets */; };
 		600286921AE413750083D6C2 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 600286901AE413750083D6C2 /* LaunchScreen.xib */; };
 		6002869E1AE413750083D6C2 /* HikingAltimiterTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6002869D1AE413750083D6C2 /* HikingAltimiterTests.swift */; };
+		6024799B1AED9A64008B1B4A /* Settings.bundle in Resources */ = {isa = PBXBuildFile; fileRef = 6024799A1AED9A64008B1B4A /* Settings.bundle */; };
+		602479A31AEDC3A2008B1B4A /* NM.gpx in Resources */ = {isa = PBXBuildFile; fileRef = 6024799C1AEDC3A2008B1B4A /* NM.gpx */; };
+		602479A41AEDC3A2008B1B4A /* HI.gpx in Resources */ = {isa = PBXBuildFile; fileRef = 6024799D1AEDC3A2008B1B4A /* HI.gpx */; };
+		602479A51AEDC3A2008B1B4A /* WA.gpx in Resources */ = {isa = PBXBuildFile; fileRef = 6024799E1AEDC3A2008B1B4A /* WA.gpx */; };
+		602479A61AEDC3A2008B1B4A /* WY.gpx in Resources */ = {isa = PBXBuildFile; fileRef = 6024799F1AEDC3A2008B1B4A /* WY.gpx */; };
+		602479A71AEDC3A2008B1B4A /* UT.gpx in Resources */ = {isa = PBXBuildFile; fileRef = 602479A01AEDC3A2008B1B4A /* UT.gpx */; };
+		602479A81AEDC3A2008B1B4A /* AK.gpx in Resources */ = {isa = PBXBuildFile; fileRef = 602479A11AEDC3A2008B1B4A /* AK.gpx */; };
+		602479A91AEDC3A2008B1B4A /* MT.gpx in Resources */ = {isa = PBXBuildFile; fileRef = 602479A21AEDC3A2008B1B4A /* MT.gpx */; };
+		602479AB1AEDC3C8008B1B4A /* ID.gpx in Resources */ = {isa = PBXBuildFile; fileRef = 602479AA1AEDC3C8008B1B4A /* ID.gpx */; };
+		602479AF1AEDD6D0008B1B4A /* CA.gpx in Resources */ = {isa = PBXBuildFile; fileRef = 602479AD1AEDD6D0008B1B4A /* CA.gpx */; };
+		6050DCAD1AF16090002AB7B8 /* GPSAltimiter.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6050DCAC1AF16090002AB7B8 /* GPSAltimiter.swift */; };
+		605748C21AF01A02007874F1 /* AltimiterWatchController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 605748C11AF01A02007874F1 /* AltimiterWatchController.swift */; };
+		607F20DB1AE42C1D006DBDDB /* Altimiter.swift in Sources */ = {isa = PBXBuildFile; fileRef = 607F20D41AE42C1D006DBDDB /* Altimiter.swift */; };
+		607F20DC1AE42C1D006DBDDB /* Chart.swift in Sources */ = {isa = PBXBuildFile; fileRef = 607F20D51AE42C1D006DBDDB /* Chart.swift */; };
+		607F20DD1AE42C1D006DBDDB /* AltimiterDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 607F20D61AE42C1D006DBDDB /* AltimiterDelegate.swift */; };
+		607F20DE1AE42C1D006DBDDB /* ChartColors.swift in Sources */ = {isa = PBXBuildFile; fileRef = 607F20D71AE42C1D006DBDDB /* ChartColors.swift */; };
+		607F20DF1AE42C1D006DBDDB /* ChartSeries.swift in Sources */ = {isa = PBXBuildFile; fileRef = 607F20D81AE42C1D006DBDDB /* ChartSeries.swift */; };
+		607F20E11AE42C1D006DBDDB /* PreferenceHelper.swift in Sources */ = {isa = PBXBuildFile; fileRef = 607F20DA1AE42C1D006DBDDB /* PreferenceHelper.swift */; };
+		607F20EF1AE57EF7006DBDDB /* gpx.swift in Sources */ = {isa = PBXBuildFile; fileRef = 607F20EE1AE57EF7006DBDDB /* gpx.swift */; };
+		607F20F11AE58115006DBDDB /* SavedPointHelper.swift in Sources */ = {isa = PBXBuildFile; fileRef = 607F20F01AE58115006DBDDB /* SavedPointHelper.swift */; };
+		607F20F31AE5AC5E006DBDDB /* CO.gpx in Resources */ = {isa = PBXBuildFile; fileRef = 607F20F21AE5AC5E006DBDDB /* CO.gpx */; };
+		607F20F51AE5B842006DBDDB /* CO.gpx in Resources */ = {isa = PBXBuildFile; fileRef = 607F20F21AE5AC5E006DBDDB /* CO.gpx */; };
+		607F20F91AE5C26F006DBDDB /* PlacesTableView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 607F20F81AE5C26F006DBDDB /* PlacesTableView.swift */; };
+		60DD027D1AF299A7008D9503 /* SetDestinationController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 60DD027C1AF299A7008D9503 /* SetDestinationController.swift */; };
+		60F867F81AEEDD6400067EC5 /* InterfaceController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 60F867F71AEEDD6400067EC5 /* InterfaceController.swift */; };
+		60F867FA1AEEDD6400067EC5 /* NotificationController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 60F867F91AEEDD6400067EC5 /* NotificationController.swift */; };
+		60F867FC1AEEDD6400067EC5 /* GlanceController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 60F867FB1AEEDD6400067EC5 /* GlanceController.swift */; };
+		60F867FE1AEEDD6400067EC5 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 60F867FD1AEEDD6400067EC5 /* Images.xcassets */; };
+		60F868021AEEDD6400067EC5 /* Higher WatchKit App.app in Resources */ = {isa = PBXBuildFile; fileRef = 60F868011AEEDD6400067EC5 /* Higher WatchKit App.app */; };
+		60F8680A1AEEDD6400067EC5 /* Interface.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 60F868081AEEDD6400067EC5 /* Interface.storyboard */; };
+		60F8680C1AEEDD6400067EC5 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 60F8680B1AEEDD6400067EC5 /* Images.xcassets */; };
+		60F8680F1AEEDD6400067EC5 /* Higher WatchKit Extension.appex in Embed App Extensions */ = {isa = PBXBuildFile; fileRef = 60F867F21AEEDD6300067EC5 /* Higher WatchKit Extension.appex */; settings = {ATTRIBUTES = (RemoveHeadersOnCopy, ); }; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -24,7 +56,35 @@
 			remoteGlobalIDString = 6002867E1AE413750083D6C2;
 			remoteInfo = HikingAltimiter;
 		};
+		60F868031AEEDD6400067EC5 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 600286771AE413750083D6C2 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 60F868001AEEDD6400067EC5;
+			remoteInfo = "Higher WatchKit App";
+		};
+		60F8680D1AEEDD6400067EC5 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 600286771AE413750083D6C2 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 60F867F11AEEDD6300067EC5;
+			remoteInfo = "Higher WatchKit Extension";
+		};
 /* End PBXContainerItemProxy section */
+
+/* Begin PBXCopyFilesBuildPhase section */
+		60F868161AEEDD6400067EC5 /* Embed App Extensions */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = "";
+			dstSubfolderSpec = 13;
+			files = (
+				60F8680F1AEEDD6400067EC5 /* Higher WatchKit Extension.appex in Embed App Extensions */,
+			);
+			name = "Embed App Extensions";
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
 		6002867F1AE413750083D6C2 /* HikingAltimiter.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = HikingAltimiter.app; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -38,6 +98,44 @@
 		600286971AE413750083D6C2 /* HikingAltimiterTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = HikingAltimiterTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		6002869C1AE413750083D6C2 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		6002869D1AE413750083D6C2 /* HikingAltimiterTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HikingAltimiterTests.swift; sourceTree = "<group>"; };
+		6024799A1AED9A64008B1B4A /* Settings.bundle */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.plug-in"; path = Settings.bundle; sourceTree = "<group>"; };
+		6024799C1AEDC3A2008B1B4A /* NM.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; name = NM.gpx; path = ../../../Downloads/NM.gpx; sourceTree = "<group>"; };
+		6024799D1AEDC3A2008B1B4A /* HI.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; name = HI.gpx; path = ../../../Downloads/HI.gpx; sourceTree = "<group>"; };
+		6024799E1AEDC3A2008B1B4A /* WA.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; name = WA.gpx; path = ../../../Downloads/WA.gpx; sourceTree = "<group>"; };
+		6024799F1AEDC3A2008B1B4A /* WY.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; name = WY.gpx; path = ../../../Downloads/WY.gpx; sourceTree = "<group>"; };
+		602479A01AEDC3A2008B1B4A /* UT.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; name = UT.gpx; path = ../../../Downloads/UT.gpx; sourceTree = "<group>"; };
+		602479A11AEDC3A2008B1B4A /* AK.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; name = AK.gpx; path = ../../../Downloads/AK.gpx; sourceTree = "<group>"; };
+		602479A21AEDC3A2008B1B4A /* MT.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; name = MT.gpx; path = ../../../Downloads/MT.gpx; sourceTree = "<group>"; };
+		602479AA1AEDC3C8008B1B4A /* ID.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; name = ID.gpx; path = ../../../Downloads/ID.gpx; sourceTree = "<group>"; };
+		602479AD1AEDD6D0008B1B4A /* CA.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; name = CA.gpx; path = ../../../Downloads/CA.gpx; sourceTree = "<group>"; };
+		6050DCAC1AF16090002AB7B8 /* GPSAltimiter.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = GPSAltimiter.swift; sourceTree = "<group>"; };
+		605748B71AF010D8007874F1 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		605748C11AF01A02007874F1 /* AltimiterWatchController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AltimiterWatchController.swift; sourceTree = "<group>"; };
+		607F20D21AE424E2006DBDDB /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/Main.strings; sourceTree = "<group>"; };
+		607F20D41AE42C1D006DBDDB /* Altimiter.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = Altimiter.swift; path = ../../HikingApp/HikingApp/Altimiter.swift; sourceTree = "<group>"; };
+		607F20D51AE42C1D006DBDDB /* Chart.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = Chart.swift; path = ../../HikingApp/HikingApp/Chart.swift; sourceTree = "<group>"; };
+		607F20D61AE42C1D006DBDDB /* AltimiterDelegate.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = AltimiterDelegate.swift; path = ../../HikingApp/HikingApp/AltimiterDelegate.swift; sourceTree = "<group>"; };
+		607F20D71AE42C1D006DBDDB /* ChartColors.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = ChartColors.swift; path = ../../HikingApp/HikingApp/ChartColors.swift; sourceTree = "<group>"; };
+		607F20D81AE42C1D006DBDDB /* ChartSeries.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = ChartSeries.swift; path = ../../HikingApp/HikingApp/ChartSeries.swift; sourceTree = "<group>"; };
+		607F20DA1AE42C1D006DBDDB /* PreferenceHelper.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = PreferenceHelper.swift; path = ../../HikingApp/HikingApp/PreferenceHelper.swift; sourceTree = "<group>"; };
+		607F20EE1AE57EF7006DBDDB /* gpx.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = gpx.swift; path = ../../gpxImporttest/gpxImporttest/gpx.swift; sourceTree = "<group>"; };
+		607F20F01AE58115006DBDDB /* SavedPointHelper.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SavedPointHelper.swift; sourceTree = "<group>"; };
+		607F20F21AE5AC5E006DBDDB /* CO.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; name = CO.gpx; path = HikingAltimiterTests/CO.gpx; sourceTree = SOURCE_ROOT; };
+		607F20F81AE5C26F006DBDDB /* PlacesTableView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PlacesTableView.swift; sourceTree = "<group>"; };
+		60DD027C1AF299A7008D9503 /* SetDestinationController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SetDestinationController.swift; sourceTree = "<group>"; };
+		60F867F21AEEDD6300067EC5 /* Higher WatchKit Extension.appex */ = {isa = PBXFileReference; explicitFileType = "wrapper.app-extension"; includeInIndex = 0; path = "Higher WatchKit Extension.appex"; sourceTree = BUILT_PRODUCTS_DIR; };
+		60F867F51AEEDD6300067EC5 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		60F867F61AEEDD6300067EC5 /* PushNotificationPayload.apns */ = {isa = PBXFileReference; lastKnownFileType = text; path = PushNotificationPayload.apns; sourceTree = "<group>"; };
+		60F867F71AEEDD6400067EC5 /* InterfaceController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InterfaceController.swift; sourceTree = "<group>"; };
+		60F867F91AEEDD6400067EC5 /* NotificationController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NotificationController.swift; sourceTree = "<group>"; };
+		60F867FB1AEEDD6400067EC5 /* GlanceController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GlanceController.swift; sourceTree = "<group>"; };
+		60F867FD1AEEDD6400067EC5 /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
+		60F868011AEEDD6400067EC5 /* Higher WatchKit App.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Higher WatchKit App.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		60F868071AEEDD6400067EC5 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		60F868091AEEDD6400067EC5 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Interface.storyboard; sourceTree = "<group>"; };
+		60F8680B1AEEDD6400067EC5 /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
+		60F868171AEEDF4000067EC5 /* Location.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = Location.gpx; sourceTree = "<group>"; };
+		60F868181AEEEB8400067EC5 /* HikingAltimiter.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = HikingAltimiter.entitlements; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -55,14 +153,25 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
+		60F867EF1AEEDD6300067EC5 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
 		600286761AE413750083D6C2 = {
 			isa = PBXGroup;
 			children = (
+				6024799A1AED9A64008B1B4A /* Settings.bundle */,
 				600286811AE413750083D6C2 /* HikingAltimiter */,
 				6002869A1AE413750083D6C2 /* HikingAltimiterTests */,
+				60F867F31AEEDD6300067EC5 /* Higher WatchKit Extension */,
+				60F868051AEEDD6400067EC5 /* Higher WatchKit App */,
+				605748B51AF010D8007874F1 /* HigherHelperTests */,
 				600286801AE413750083D6C2 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -72,6 +181,8 @@
 			children = (
 				6002867F1AE413750083D6C2 /* HikingAltimiter.app */,
 				600286971AE413750083D6C2 /* HikingAltimiterTests.xctest */,
+				60F867F21AEEDD6300067EC5 /* Higher WatchKit Extension.appex */,
+				60F868011AEEDD6400067EC5 /* Higher WatchKit App.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -79,8 +190,13 @@
 		600286811AE413750083D6C2 /* HikingAltimiter */ = {
 			isa = PBXGroup;
 			children = (
+				6050DCAB1AF16069002AB7B8 /* Deprecated */,
+				60F868181AEEEB8400067EC5 /* HikingAltimiter.entitlements */,
+				607F20F41AE5B81C006DBDDB /* Place Data */,
+				607F20D31AE42C10006DBDDB /* Classes */,
 				600286841AE413750083D6C2 /* AppDelegate.swift */,
 				600286891AE413750083D6C2 /* ViewController.swift */,
+				607F20F81AE5C26F006DBDDB /* PlacesTableView.swift */,
 				6002868B1AE413750083D6C2 /* Main.storyboard */,
 				6002868E1AE413750083D6C2 /* Images.xcassets */,
 				600286901AE413750083D6C2 /* LaunchScreen.xib */,
@@ -115,6 +231,104 @@
 			name = "Supporting Files";
 			sourceTree = "<group>";
 		};
+		6050DCAB1AF16069002AB7B8 /* Deprecated */ = {
+			isa = PBXGroup;
+			children = (
+				607F20D51AE42C1D006DBDDB /* Chart.swift */,
+				607F20D71AE42C1D006DBDDB /* ChartColors.swift */,
+				607F20D81AE42C1D006DBDDB /* ChartSeries.swift */,
+			);
+			name = Deprecated;
+			sourceTree = "<group>";
+		};
+		605748B51AF010D8007874F1 /* HigherHelperTests */ = {
+			isa = PBXGroup;
+			children = (
+				605748B61AF010D8007874F1 /* Supporting Files */,
+			);
+			path = HigherHelperTests;
+			sourceTree = "<group>";
+		};
+		605748B61AF010D8007874F1 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				605748B71AF010D8007874F1 /* Info.plist */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		607F20D31AE42C10006DBDDB /* Classes */ = {
+			isa = PBXGroup;
+			children = (
+				607F20EE1AE57EF7006DBDDB /* gpx.swift */,
+				607F20D41AE42C1D006DBDDB /* Altimiter.swift */,
+				607F20D61AE42C1D006DBDDB /* AltimiterDelegate.swift */,
+				607F20DA1AE42C1D006DBDDB /* PreferenceHelper.swift */,
+				607F20F01AE58115006DBDDB /* SavedPointHelper.swift */,
+				6050DCAC1AF16090002AB7B8 /* GPSAltimiter.swift */,
+			);
+			name = Classes;
+			sourceTree = "<group>";
+		};
+		607F20F41AE5B81C006DBDDB /* Place Data */ = {
+			isa = PBXGroup;
+			children = (
+				602479AD1AEDD6D0008B1B4A /* CA.gpx */,
+				602479AA1AEDC3C8008B1B4A /* ID.gpx */,
+				6024799C1AEDC3A2008B1B4A /* NM.gpx */,
+				6024799D1AEDC3A2008B1B4A /* HI.gpx */,
+				6024799E1AEDC3A2008B1B4A /* WA.gpx */,
+				6024799F1AEDC3A2008B1B4A /* WY.gpx */,
+				602479A01AEDC3A2008B1B4A /* UT.gpx */,
+				602479A11AEDC3A2008B1B4A /* AK.gpx */,
+				602479A21AEDC3A2008B1B4A /* MT.gpx */,
+				607F20F21AE5AC5E006DBDDB /* CO.gpx */,
+				60F868171AEEDF4000067EC5 /* Location.gpx */,
+			);
+			name = "Place Data";
+			sourceTree = "<group>";
+		};
+		60F867F31AEEDD6300067EC5 /* Higher WatchKit Extension */ = {
+			isa = PBXGroup;
+			children = (
+				60F867F71AEEDD6400067EC5 /* InterfaceController.swift */,
+				60F867F91AEEDD6400067EC5 /* NotificationController.swift */,
+				60F867FB1AEEDD6400067EC5 /* GlanceController.swift */,
+				605748C11AF01A02007874F1 /* AltimiterWatchController.swift */,
+				60F867FD1AEEDD6400067EC5 /* Images.xcassets */,
+				60F867F41AEEDD6300067EC5 /* Supporting Files */,
+				60DD027C1AF299A7008D9503 /* SetDestinationController.swift */,
+			);
+			path = "Higher WatchKit Extension";
+			sourceTree = "<group>";
+		};
+		60F867F41AEEDD6300067EC5 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				60F867F51AEEDD6300067EC5 /* Info.plist */,
+				60F867F61AEEDD6300067EC5 /* PushNotificationPayload.apns */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		60F868051AEEDD6400067EC5 /* Higher WatchKit App */ = {
+			isa = PBXGroup;
+			children = (
+				60F868081AEEDD6400067EC5 /* Interface.storyboard */,
+				60F8680B1AEEDD6400067EC5 /* Images.xcassets */,
+				60F868061AEEDD6400067EC5 /* Supporting Files */,
+			);
+			path = "Higher WatchKit App";
+			sourceTree = "<group>";
+		};
+		60F868061AEEDD6400067EC5 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				60F868071AEEDD6400067EC5 /* Info.plist */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
@@ -125,10 +339,12 @@
 				6002867B1AE413750083D6C2 /* Sources */,
 				6002867C1AE413750083D6C2 /* Frameworks */,
 				6002867D1AE413750083D6C2 /* Resources */,
+				60F868161AEEDD6400067EC5 /* Embed App Extensions */,
 			);
 			buildRules = (
 			);
 			dependencies = (
+				60F8680E1AEEDD6400067EC5 /* PBXTargetDependency */,
 			);
 			name = HikingAltimiter;
 			productName = HikingAltimiter;
@@ -153,6 +369,39 @@
 			productReference = 600286971AE413750083D6C2 /* HikingAltimiterTests.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
+		60F867F11AEEDD6300067EC5 /* Higher WatchKit Extension */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 60F868151AEEDD6400067EC5 /* Build configuration list for PBXNativeTarget "Higher WatchKit Extension" */;
+			buildPhases = (
+				60F867EE1AEEDD6300067EC5 /* Sources */,
+				60F867EF1AEEDD6300067EC5 /* Frameworks */,
+				60F867F01AEEDD6300067EC5 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				60F868041AEEDD6400067EC5 /* PBXTargetDependency */,
+			);
+			name = "Higher WatchKit Extension";
+			productName = "Higher WatchKit Extension";
+			productReference = 60F867F21AEEDD6300067EC5 /* Higher WatchKit Extension.appex */;
+			productType = "com.apple.product-type.watchkit-extension";
+		};
+		60F868001AEEDD6400067EC5 /* Higher WatchKit App */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 60F868141AEEDD6400067EC5 /* Build configuration list for PBXNativeTarget "Higher WatchKit App" */;
+			buildPhases = (
+				60F867FF1AEEDD6400067EC5 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "Higher WatchKit App";
+			productName = "Higher WatchKit App";
+			productReference = 60F868011AEEDD6400067EC5 /* Higher WatchKit App.app */;
+			productType = "com.apple.product-type.application.watchapp";
+		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
@@ -164,10 +413,22 @@
 				TargetAttributes = {
 					6002867E1AE413750083D6C2 = {
 						CreatedOnToolsVersion = 6.2;
+						DevelopmentTeam = H82NNYWF4E;
+						SystemCapabilities = {
+							com.apple.ApplicationGroups.iOS = {
+								enabled = 1;
+							};
+						};
 					};
 					600286961AE413750083D6C2 = {
 						CreatedOnToolsVersion = 6.2;
 						TestTargetID = 6002867E1AE413750083D6C2;
+					};
+					60F867F11AEEDD6300067EC5 = {
+						CreatedOnToolsVersion = 6.2;
+					};
+					60F868001AEEDD6400067EC5 = {
+						CreatedOnToolsVersion = 6.2;
 					};
 				};
 			};
@@ -186,6 +447,8 @@
 			targets = (
 				6002867E1AE413750083D6C2 /* HikingAltimiter */,
 				600286961AE413750083D6C2 /* HikingAltimiterTests */,
+				60F867F11AEEDD6300067EC5 /* Higher WatchKit Extension */,
+				60F868001AEEDD6400067EC5 /* Higher WatchKit App */,
 			);
 		};
 /* End PBXProject section */
@@ -195,9 +458,20 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				602479AF1AEDD6D0008B1B4A /* CA.gpx in Resources */,
+				602479AB1AEDC3C8008B1B4A /* ID.gpx in Resources */,
+				602479A91AEDC3A2008B1B4A /* MT.gpx in Resources */,
+				602479A71AEDC3A2008B1B4A /* UT.gpx in Resources */,
+				607F20F51AE5B842006DBDDB /* CO.gpx in Resources */,
 				6002868D1AE413750083D6C2 /* Main.storyboard in Resources */,
+				602479A81AEDC3A2008B1B4A /* AK.gpx in Resources */,
+				6024799B1AED9A64008B1B4A /* Settings.bundle in Resources */,
+				602479A51AEDC3A2008B1B4A /* WA.gpx in Resources */,
+				602479A31AEDC3A2008B1B4A /* NM.gpx in Resources */,
+				602479A41AEDC3A2008B1B4A /* HI.gpx in Resources */,
 				600286921AE413750083D6C2 /* LaunchScreen.xib in Resources */,
 				6002868F1AE413750083D6C2 /* Images.xcassets in Resources */,
+				602479A61AEDC3A2008B1B4A /* WY.gpx in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -205,6 +479,25 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				607F20F31AE5AC5E006DBDDB /* CO.gpx in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		60F867F01AEEDD6300067EC5 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				60F867FE1AEEDD6400067EC5 /* Images.xcassets in Resources */,
+				60F868021AEEDD6400067EC5 /* Higher WatchKit App.app in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		60F867FF1AEEDD6400067EC5 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				60F8680A1AEEDD6400067EC5 /* Interface.storyboard in Resources */,
+				60F8680C1AEEDD6400067EC5 /* Images.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -215,8 +508,18 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				607F20E11AE42C1D006DBDDB /* PreferenceHelper.swift in Sources */,
+				607F20F11AE58115006DBDDB /* SavedPointHelper.swift in Sources */,
+				607F20DC1AE42C1D006DBDDB /* Chart.swift in Sources */,
+				607F20DF1AE42C1D006DBDDB /* ChartSeries.swift in Sources */,
+				607F20EF1AE57EF7006DBDDB /* gpx.swift in Sources */,
 				6002868A1AE413750083D6C2 /* ViewController.swift in Sources */,
+				607F20DB1AE42C1D006DBDDB /* Altimiter.swift in Sources */,
+				607F20F91AE5C26F006DBDDB /* PlacesTableView.swift in Sources */,
+				607F20DE1AE42C1D006DBDDB /* ChartColors.swift in Sources */,
 				600286851AE413750083D6C2 /* AppDelegate.swift in Sources */,
+				6050DCAD1AF16090002AB7B8 /* GPSAltimiter.swift in Sources */,
+				607F20DD1AE42C1D006DBDDB /* AltimiterDelegate.swift in Sources */,
 				600286881AE413750083D6C2 /* HikingAltimiter.xcdatamodeld in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -229,6 +532,18 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
+		60F867EE1AEEDD6300067EC5 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				60F867FA1AEEDD6400067EC5 /* NotificationController.swift in Sources */,
+				60DD027D1AF299A7008D9503 /* SetDestinationController.swift in Sources */,
+				60F867F81AEEDD6400067EC5 /* InterfaceController.swift in Sources */,
+				60F867FC1AEEDD6400067EC5 /* GlanceController.swift in Sources */,
+				605748C21AF01A02007874F1 /* AltimiterWatchController.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXTargetDependency section */
@@ -237,6 +552,16 @@
 			target = 6002867E1AE413750083D6C2 /* HikingAltimiter */;
 			targetProxy = 600286981AE413750083D6C2 /* PBXContainerItemProxy */;
 		};
+		60F868041AEEDD6400067EC5 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 60F868001AEEDD6400067EC5 /* Higher WatchKit App */;
+			targetProxy = 60F868031AEEDD6400067EC5 /* PBXContainerItemProxy */;
+		};
+		60F8680E1AEEDD6400067EC5 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 60F867F11AEEDD6300067EC5 /* Higher WatchKit Extension */;
+			targetProxy = 60F8680D1AEEDD6400067EC5 /* PBXContainerItemProxy */;
+		};
 /* End PBXTargetDependency section */
 
 /* Begin PBXVariantGroup section */
@@ -244,6 +569,7 @@
 			isa = PBXVariantGroup;
 			children = (
 				6002868C1AE413750083D6C2 /* Base */,
+				607F20D21AE424E2006DBDDB /* en */,
 			);
 			name = Main.storyboard;
 			sourceTree = "<group>";
@@ -254,6 +580,14 @@
 				600286911AE413750083D6C2 /* Base */,
 			);
 			name = LaunchScreen.xib;
+			sourceTree = "<group>";
+		};
+		60F868081AEEDD6400067EC5 /* Interface.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				60F868091AEEDD6400067EC5 /* Base */,
+			);
+			name = Interface.storyboard;
 			sourceTree = "<group>";
 		};
 /* End PBXVariantGroup section */
@@ -342,9 +676,15 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_ENTITLEMENTS = HikingAltimiter/HikingAltimiter.entitlements;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				EMBEDDED_CONTENT_CONTAINS_SWIFT = YES;
 				INFOPLIST_FILE = HikingAltimiter/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "";
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Debug;
 		};
@@ -352,9 +692,15 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_ENTITLEMENTS = HikingAltimiter/HikingAltimiter.entitlements;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				EMBEDDED_CONTENT_CONTAINS_SWIFT = YES;
 				INFOPLIST_FILE = HikingAltimiter/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "";
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Release;
 		};
@@ -392,6 +738,60 @@
 			};
 			name = Release;
 		};
+		60F868101AEEDD6400067EC5 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				INFOPLIST_FILE = "Higher WatchKit Extension/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @executable_path/../../Frameworks";
+				PRODUCT_NAME = "${TARGET_NAME}";
+				SKIP_INSTALL = YES;
+			};
+			name = Debug;
+		};
+		60F868111AEEDD6400067EC5 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				INFOPLIST_FILE = "Higher WatchKit Extension/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @executable_path/../../Frameworks";
+				PRODUCT_NAME = "${TARGET_NAME}";
+				SKIP_INSTALL = YES;
+			};
+			name = Release;
+		};
+		60F868121AEEDD6400067EC5 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				IBSC_MODULE = Higher_WatchKit_Extension;
+				INFOPLIST_FILE = "Higher WatchKit App/Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SKIP_INSTALL = YES;
+				TARGETED_DEVICE_FAMILY = 4;
+				"TARGETED_DEVICE_FAMILY[sdk=iphonesimulator*]" = "1,4";
+			};
+			name = Debug;
+		};
+		60F868131AEEDD6400067EC5 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				IBSC_MODULE = Higher_WatchKit_Extension;
+				INFOPLIST_FILE = "Higher WatchKit App/Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SKIP_INSTALL = YES;
+				TARGETED_DEVICE_FAMILY = 4;
+				"TARGETED_DEVICE_FAMILY[sdk=iphonesimulator*]" = "1,4";
+			};
+			name = Release;
+		};
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
@@ -411,6 +811,7 @@
 				600286A31AE413750083D6C2 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		600286A41AE413750083D6C2 /* Build configuration list for PBXNativeTarget "HikingAltimiterTests" */ = {
 			isa = XCConfigurationList;
@@ -419,6 +820,25 @@
 				600286A61AE413750083D6C2 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		60F868141AEEDD6400067EC5 /* Build configuration list for PBXNativeTarget "Higher WatchKit App" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				60F868121AEEDD6400067EC5 /* Debug */,
+				60F868131AEEDD6400067EC5 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		60F868151AEEDD6400067EC5 /* Build configuration list for PBXNativeTarget "Higher WatchKit Extension" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				60F868101AEEDD6400067EC5 /* Debug */,
+				60F868111AEEDD6400067EC5 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 
