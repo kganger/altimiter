@@ -1,0 +1,2048 @@
+﻿<?xml version="1.0"?>
+<gpx creator="GPS Visualizer http://www.gpsvisualizer.com/" version="1.1" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+<wpt lat="19.808611111" lon="-155.611944444">
+  <ele>7014.0</ele>
+  <name>Ahumoa</name>
+  <desc>HI</desc>
+</wpt>
+<wpt lat="19.824444444" lon="-155.529166667">
+  <ele>11322.0</ele>
+  <name>Nau</name>
+  <desc>HI</desc>
+</wpt>
+<wpt lat="19.844722222" lon="-155.563888889">
+  <ele>8766.0</ele>
+  <name>Puu Nana</name>
+  <desc>HI</desc>
+</wpt>
+<wpt lat="19.76" lon="-155.624166667">
+  <ele>5725.0</ele>
+  <name>Pu‘ukea</name>
+  <desc>HI</desc>
+</wpt>
+<wpt lat="19.776944444" lon="-155.601944444">
+  <ele>5899.0</ele>
+  <name>Pu‘ukoko</name>
+  <desc>HI</desc>
+</wpt>
+<wpt lat="19.833888889" lon="-155.594722222">
+  <ele>7451.0</ele>
+  <name>Pu‘ulā‘au</name>
+  <desc>HI</desc>
+</wpt>
+<wpt lat="19.807777778" lon="-155.584166667">
+  <ele>7756.0</ele>
+  <name>Pu‘umana‘o</name>
+  <desc>HI</desc>
+</wpt>
+<wpt lat="19.774722222" lon="-155.593888889">
+  <ele>6086.0</ele>
+  <name>Pu‘uma‘au</name>
+  <desc>HI</desc>
+</wpt>
+<wpt lat="19.841944444" lon="-155.56">
+  <ele>9091.0</ele>
+  <name>Pu‘unanaha</name>
+  <desc>HI</desc>
+</wpt>
+<wpt lat="19.798055556" lon="-155.578611111">
+  <ele>7936.0</ele>
+  <name>Pu‘uokau</name>
+  <desc>HI</desc>
+</wpt>
+<wpt lat="19.798055556" lon="-155.566666667">
+  <ele>8294.0</ele>
+  <name>Pu‘uokauha</name>
+  <desc>HI</desc>
+</wpt>
+<wpt lat="19.759444444" lon="-155.536388889">
+  <ele>6470.0</ele>
+  <name>Pu‘upōhakuloa</name>
+  <desc>HI</desc>
+</wpt>
+<wpt lat="19.836388889" lon="-155.616388889">
+  <ele>6361.0</ele>
+  <name>Pu‘u‘ai‘ākala</name>
+  <desc>HI</desc>
+</wpt>
+<wpt lat="19.810555556" lon="-155.591111111">
+  <ele>7421.0</ele>
+  <name>Pu‘u‘ula‘ula</name>
+  <desc>HI</desc>
+</wpt>
+<wpt lat="19.272777778" lon="-155.731944444">
+  <ele>7844.0</ele>
+  <name>‘Ālika Cone</name>
+  <desc>HI</desc>
+</wpt>
+<wpt lat="22.1225" lon="-159.413333333">
+  <ele>3212.0</ele>
+  <name>Makaleha</name>
+  <desc>HI</desc>
+</wpt>
+<wpt lat="22.181388889" lon="-159.586944444">
+  <ele>3310.0</ele>
+  <name>Hono‘onāpali</name>
+  <desc>HI</desc>
+</wpt>
+<wpt lat="22.156388889" lon="-159.651666667">
+  <ele>3740.0</ele>
+  <name>Kalahū</name>
+  <desc>HI</desc>
+</wpt>
+<wpt lat="22.157222222" lon="-159.551111111">
+  <ele>3881.0</ele>
+  <name>Kamakeanu</name>
+  <desc>HI</desc>
+</wpt>
+<wpt lat="22.146388889" lon="-159.653333333">
+  <ele>4098.0</ele>
+  <name>Ka‘inamanu</name>
+  <desc>HI</desc>
+</wpt>
+<wpt lat="22.168055556" lon="-159.619722222">
+  <ele>4117.0</ele>
+  <name>Keanapuka</name>
+  <desc>HI</desc>
+</wpt>
+<wpt lat="22.155555556" lon="-159.593611111">
+  <ele>4009.0</ele>
+  <name>Kilohana</name>
+  <desc>HI</desc>
+</wpt>
+<wpt lat="22.134722222" lon="-159.590833333">
+  <ele>4160.0</ele>
+  <name>Koali</name>
+  <desc>HI</desc>
+</wpt>
+<wpt lat="22.168888889" lon="-159.609444444">
+  <ele>4016.0</ele>
+  <name>Moaalele</name>
+  <desc>HI</desc>
+</wpt>
+<wpt lat="22.159166667" lon="-159.655">
+  <ele>3560.0</ele>
+  <name>Ni‘ani‘au</name>
+  <desc>HI</desc>
+</wpt>
+<wpt lat="22.184722222" lon="-159.579444444">
+  <ele>3212.0</ele>
+  <name>Pali‘ele‘ele</name>
+  <desc>HI</desc>
+</wpt>
+<wpt lat="22.154722222" lon="-159.6175">
+  <ele>4219.0</ele>
+  <name>Pihea</name>
+  <desc>HI</desc>
+</wpt>
+<wpt lat="22.133333333" lon="-159.645">
+  <ele>3802.0</ele>
+  <name>Pu‘uka‘ohelo</name>
+  <desc>HI</desc>
+</wpt>
+<wpt lat="22.147777778" lon="-159.631111111">
+  <ele>4163.0</ele>
+  <name>Pu‘uokila</name>
+  <desc>HI</desc>
+</wpt>
+<wpt lat="22.165833333" lon="-159.552222222">
+  <ele>3333.0</ele>
+  <name>Pu‘u‘iliahi</name>
+  <desc>HI</desc>
+</wpt>
+<wpt lat="22.139722222" lon="-159.645555556">
+  <ele>4213.0</ele>
+  <name>Pōhakuwa‘awa‘a</name>
+  <desc>HI</desc>
+</wpt>
+<wpt lat="22.188611111" lon="-159.605555556">
+  <ele>3340.0</ele>
+  <name>Pōhākea</name>
+  <desc>HI</desc>
+</wpt>
+<wpt lat="22.175" lon="-159.618611111">
+  <ele>3868.0</ele>
+  <name>Waiahuakua</name>
+  <desc>HI</desc>
+</wpt>
+<wpt lat="22.174444444" lon="-159.626111111">
+  <ele>3858.0</ele>
+  <name>‘Alēalau</name>
+  <desc>HI</desc>
+</wpt>
+<wpt lat="21.112222222" lon="-156.807777778">
+  <ele>3258.0</ele>
+  <name>Kawaiuliuli</name>
+  <desc>HI</desc>
+</wpt>
+<wpt lat="21.143055556" lon="-156.822222222">
+  <ele>3015.0</ele>
+  <name>Nā‘ehu</name>
+  <desc>HI</desc>
+</wpt>
+<wpt lat="21.108888889" lon="-156.811388889">
+  <ele>3173.0</ele>
+  <name>Pu‘ulua</name>
+  <desc>HI</desc>
+</wpt>
+<wpt lat="21.114166667" lon="-156.806388889">
+  <ele>3340.0</ele>
+  <name>Pu‘u‘ōhelo</name>
+  <desc>HI</desc>
+</wpt>
+<wpt lat="21.109444444" lon="-156.810277778">
+  <ele>3140.0</ele>
+  <name>Waiopipi</name>
+  <desc>HI</desc>
+</wpt>
+<wpt lat="21.511944444" lon="-158.132777778">
+  <ele>3360.0</ele>
+  <name>Kamaohanui</name>
+  <desc>HI</desc>
+</wpt>
+<wpt lat="21.507777778" lon="-158.142222222">
+  <ele>4032.0</ele>
+  <name>Ka‘ala</name>
+  <desc>HI</desc>
+</wpt>
+<wpt lat="20.725277778" lon="-156.046388889">
+  <ele>3458.0</ele>
+  <name>Pu‘ukaukanu</name>
+  <desc>HI</desc>
+</wpt>
+<wpt lat="22.1475" lon="-159.496388889">
+  <ele>4196.0</ele>
+  <name>Kaliko</name>
+  <desc>HI</desc>
+</wpt>
+<wpt lat="22.118888889" lon="-159.481666667">
+  <ele>3287.0</ele>
+  <name>Kawailewa</name>
+  <desc>HI</desc>
+</wpt>
+<wpt lat="22.122777778" lon="-159.416666667">
+  <ele>3081.0</ele>
+  <name>Leleiwi</name>
+  <desc>HI</desc>
+</wpt>
+<wpt lat="22.163888889" lon="-159.514166667">
+  <ele>3730.0</ele>
+  <name>Māmalahoa</name>
+  <desc>HI</desc>
+</wpt>
+<wpt lat="22.138333333" lon="-159.499722222">
+  <ele>4363.0</ele>
+  <name>Nāmolokama Mountain</name>
+  <desc>HI</desc>
+</wpt>
+<wpt lat="22.117222222" lon="-159.525">
+  <ele>3474.0</ele>
+  <name>Puu Laau</name>
+  <desc>HI</desc>
+</wpt>
+<wpt lat="22.13" lon="-159.535">
+  <ele>4022.0</ele>
+  <name>Pu‘ukamaha</name>
+  <desc>HI</desc>
+</wpt>
+<wpt lat="22.156388889" lon="-159.509444444">
+  <ele>3205.0</ele>
+  <name>Pu‘umanu</name>
+  <desc>HI</desc>
+</wpt>
+<wpt lat="22.117222222" lon="-159.419444444">
+  <ele>3150.0</ele>
+  <name>Uluawaa</name>
+  <desc>HI</desc>
+</wpt>
+<wpt lat="22.116666667" lon="-159.416944444">
+  <ele>3110.0</ele>
+  <name>Wēkiu</name>
+  <desc>HI</desc>
+</wpt>
+<wpt lat="20.128333333" lon="-155.773333333">
+  <ele>4012.0</ele>
+  <name>Ahu Noa</name>
+  <desc>HI</desc>
+</wpt>
+<wpt lat="20.146388889" lon="-155.799444444">
+  <ele>3333.0</ele>
+  <name>Lahikiola</name>
+  <desc>HI</desc>
+</wpt>
+<wpt lat="20.126388889" lon="-155.767777778">
+  <ele>3884.0</ele>
+  <name>Puu Iki</name>
+  <desc>HI</desc>
+</wpt>
+<wpt lat="20.141111111" lon="-155.753888889">
+  <ele>3438.0</ele>
+  <name>Puu Kamau</name>
+  <desc>HI</desc>
+</wpt>
+<wpt lat="20.135" lon="-155.799722222">
+  <ele>3041.0</ele>
+  <name>Puu Lepo</name>
+  <desc>HI</desc>
+</wpt>
+<wpt lat="20.141944444" lon="-155.793888889">
+  <ele>3012.0</ele>
+  <name>Puu Maile</name>
+  <desc>HI</desc>
+</wpt>
+<wpt lat="20.137777778" lon="-155.79">
+  <ele>3133.0</ele>
+  <name>Puu Oo</name>
+  <desc>HI</desc>
+</wpt>
+<wpt lat="20.129444444" lon="-155.758055556">
+  <ele>3868.0</ele>
+  <name>Puu Uau</name>
+  <desc>HI</desc>
+</wpt>
+<wpt lat="20.125555556" lon="-155.777777778">
+  <ele>3825.0</ele>
+  <name>Waiakanonula</name>
+  <desc>HI</desc>
+</wpt>
+<wpt lat="21.353333333" lon="-157.788611111">
+  <ele>3091.0</ele>
+  <name>Kōnāhuanui</name>
+  <desc>HI</desc>
+</wpt>
+<wpt lat="19.747222222" lon="-155.810833333">
+  <ele>4081.0</ele>
+  <name>Hainoa</name>
+  <desc>HI</desc>
+</wpt>
+<wpt lat="19.650277778" lon="-155.8325">
+  <ele>6227.0</ele>
+  <name>Hinau</name>
+  <desc>HI</desc>
+</wpt>
+<wpt lat="19.689166667" lon="-155.864444444">
+  <ele>8261.0</ele>
+  <name>Hualālai</name>
+  <desc>HI</desc>
+</wpt>
+<wpt lat="19.743611111" lon="-155.811944444">
+  <ele>4121.0</ele>
+  <name>Kalamalu</name>
+  <desc>HI</desc>
+</wpt>
+<wpt lat="19.669444444" lon="-155.826388889">
+  <ele>6968.0</ele>
+  <name>Kauunuoku</name>
+  <desc>HI</desc>
+</wpt>
+<wpt lat="19.710833333" lon="-155.839444444">
+  <ele>5879.0</ele>
+  <name>Kileo</name>
+  <desc>HI</desc>
+</wpt>
+<wpt lat="19.675555556" lon="-155.794166667">
+  <ele>5604.0</ele>
+  <name>Mailehahei</name>
+  <desc>HI</desc>
+</wpt>
+<wpt lat="19.679722222" lon="-155.830833333">
+  <ele>7313.0</ele>
+  <name>Poikahi</name>
+  <desc>HI</desc>
+</wpt>
+<wpt lat="19.740277778" lon="-155.862222222">
+  <ele>4039.0</ele>
+  <name>Poohohoo</name>
+  <desc>HI</desc>
+</wpt>
+<wpt lat="19.735833333" lon="-155.8425">
+  <ele>4327.0</ele>
+  <name>Potato Hill</name>
+  <desc>HI</desc>
+</wpt>
+<wpt lat="19.628888889" lon="-155.815277778">
+  <ele>5574.0</ele>
+  <name>Puu Ikaaka</name>
+  <desc>HI</desc>
+</wpt>
+<wpt lat="19.686944444" lon="-155.863611111">
+  <ele>8248.0</ele>
+  <name>Puu Lalakaukole</name>
+  <desc>HI</desc>
+</wpt>
+<wpt lat="19.627222222" lon="-155.835555556">
+  <ele>5285.0</ele>
+  <name>Puu o Kalaukani</name>
+  <desc>HI</desc>
+</wpt>
+<wpt lat="19.665277778" lon="-155.853333333">
+  <ele>6394.0</ele>
+  <name>Pu‘uhale</name>
+  <desc>HI</desc>
+</wpt>
+<wpt lat="19.688611111" lon="-155.870555556">
+  <ele>8199.0</ele>
+  <name>Pu‘uhonua‘ula</name>
+  <desc>HI</desc>
+</wpt>
+<wpt lat="19.672222222" lon="-155.874444444">
+  <ele>6519.0</ele>
+  <name>Pu‘ula‘alā‘au</name>
+  <desc>HI</desc>
+</wpt>
+<wpt lat="19.680277778" lon="-155.813611111">
+  <ele>6644.0</ele>
+  <name>Pu‘uma‘au</name>
+  <desc>HI</desc>
+</wpt>
+<wpt lat="19.702222222" lon="-155.814166667">
+  <ele>5758.0</ele>
+  <name>Pu‘unāhāhā</name>
+  <desc>HI</desc>
+</wpt>
+<wpt lat="19.640277778" lon="-155.825555556">
+  <ele>5971.0</ele>
+  <name>Pu‘u‘omāwae</name>
+  <desc>HI</desc>
+</wpt>
+<wpt lat="19.652222222" lon="-155.815277778">
+  <ele>6056.0</ele>
+  <name>Pōhakuloa</name>
+  <desc>HI</desc>
+</wpt>
+<wpt lat="19.678055556" lon="-155.85">
+  <ele>7126.0</ele>
+  <name>Umiahu</name>
+  <desc>HI</desc>
+</wpt>
+<wpt lat="19.716666667" lon="-155.913888889">
+  <ele>5833.0</ele>
+  <name>Hinakapoula</name>
+  <desc>HI</desc>
+</wpt>
+<wpt lat="19.715555556" lon="-155.900277778">
+  <ele>6342.0</ele>
+  <name>Kalulu</name>
+  <desc>HI</desc>
+</wpt>
+<wpt lat="19.738611111" lon="-155.953333333">
+  <ele>3212.0</ele>
+  <name>Moanuiahea</name>
+  <desc>HI</desc>
+</wpt>
+<wpt lat="21.1225" lon="-156.911666667">
+  <ele>4065.0</ele>
+  <name>Hanalilolilo</name>
+  <desc>HI</desc>
+</wpt>
+<wpt lat="21.155" lon="-156.866944444">
+  <ele>3323.0</ele>
+  <name>Honuka‘upu</name>
+  <desc>HI</desc>
+</wpt>
+<wpt lat="21.104444444" lon="-156.862777778">
+  <ele>4721.0</ele>
+  <name>Kaholoapele</name>
+  <desc>HI</desc>
+</wpt>
+<wpt lat="21.152777778" lon="-156.938055556">
+  <ele>3248.0</ele>
+  <name>Kaluahauoni</name>
+  <desc>HI</desc>
+</wpt>
+<wpt lat="21.133055556" lon="-156.922777778">
+  <ele>3537.0</ele>
+  <name>Kalāhuapueo</name>
+  <desc>HI</desc>
+</wpt>
+<wpt lat="21.106388889" lon="-156.868333333">
+  <ele>4931.0</ele>
+  <name>Kamakou</name>
+  <desc>HI</desc>
+</wpt>
+<wpt lat="21.126944444" lon="-156.927777778">
+  <ele>3681.0</ele>
+  <name>Kaulahuki</name>
+  <desc>HI</desc>
+</wpt>
+<wpt lat="21.134722222" lon="-156.9475">
+  <ele>3028.0</ele>
+  <name>Kaulolo</name>
+  <desc>HI</desc>
+</wpt>
+<wpt lat="21.113888889" lon="-156.885555556">
+  <ele>4518.0</ele>
+  <name>Kaunuohua</name>
+  <desc>HI</desc>
+</wpt>
+<wpt lat="21.092777778" lon="-156.879166667">
+  <ele>3622.0</ele>
+  <name>Ka‘āpahu</name>
+  <desc>HI</desc>
+</wpt>
+<wpt lat="21.135277778" lon="-156.937222222">
+  <ele>3159.0</ele>
+  <name>Kikiakalā</name>
+  <desc>HI</desc>
+</wpt>
+<wpt lat="21.103055556" lon="-156.844444444">
+  <ele>4091.0</ele>
+  <name>Kīlau</name>
+  <desc>HI</desc>
+</wpt>
+<wpt lat="21.105" lon="-156.894166667">
+  <ele>4091.0</ele>
+  <name>Lehu‘ula</name>
+  <desc>HI</desc>
+</wpt>
+<wpt lat="21.098333333" lon="-156.884444444">
+  <ele>3419.0</ele>
+  <name>Mo‘oloa</name>
+  <desc>HI</desc>
+</wpt>
+<wpt lat="21.1325" lon="-156.849722222">
+  <ele>4603.0</ele>
+  <name>Oloku‘i</name>
+  <desc>HI</desc>
+</wpt>
+<wpt lat="21.128333333" lon="-156.897222222">
+  <ele>4157.0</ele>
+  <name>Pu‘uali‘i</name>
+  <desc>HI</desc>
+</wpt>
+<wpt lat="21.0975" lon="-156.876944444">
+  <ele>3707.0</ele>
+  <name>Pu‘uhaha</name>
+  <desc>HI</desc>
+</wpt>
+<wpt lat="21.136111111" lon="-156.926111111">
+  <ele>3671.0</ele>
+  <name>Pu‘ukae‘o</name>
+  <desc>HI</desc>
+</wpt>
+<wpt lat="21.102222222" lon="-156.901666667">
+  <ele>3944.0</ele>
+  <name>Pu‘ukolekole</name>
+  <desc>HI</desc>
+</wpt>
+<wpt lat="21.131111111" lon="-156.941111111">
+  <ele>3287.0</ele>
+  <name>Pu‘umakali‘ili‘i</name>
+  <desc>HI</desc>
+</wpt>
+<wpt lat="21.113888889" lon="-156.916388889">
+  <ele>3750.0</ele>
+  <name>Pu‘uoka‘eha</name>
+  <desc>HI</desc>
+</wpt>
+<wpt lat="21.109444444" lon="-156.868888889">
+  <ele>3999.0</ele>
+  <name>Pu‘uowaha‘ula</name>
+  <desc>HI</desc>
+</wpt>
+<wpt lat="21.102777778" lon="-156.851388889">
+  <ele>4318.0</ele>
+  <name>Pāku‘i</name>
+  <desc>HI</desc>
+</wpt>
+<wpt lat="21.118888889" lon="-156.896111111">
+  <ele>4298.0</ele>
+  <name>Pēpē‘ōpae</name>
+  <desc>HI</desc>
+</wpt>
+<wpt lat="21.145277778" lon="-156.860555556">
+  <ele>3957.0</ele>
+  <name>Pōhaku‘ula‘ula</name>
+  <desc>HI</desc>
+</wpt>
+<wpt lat="21.145833333" lon="-156.8925">
+  <ele>3366.0</ele>
+  <name>‘Ōhi‘alele</name>
+  <desc>HI</desc>
+</wpt>
+<wpt lat="20.079722222" lon="-155.723611111">
+  <ele>5321.0</ele>
+  <name>Eke</name>
+  <desc>HI</desc>
+</wpt>
+<wpt lat="20.0475" lon="-155.647777778">
+  <ele>4091.0</ele>
+  <name>Haloa</name>
+  <desc>HI</desc>
+</wpt>
+<wpt lat="20.031944444" lon="-155.680833333">
+  <ele>3366.0</ele>
+  <name>Hokuula</name>
+  <desc>HI</desc>
+</wpt>
+<wpt lat="20.073888889" lon="-155.665">
+  <ele>4045.0</ele>
+  <name>Kaholopo‘ohina</name>
+  <desc>HI</desc>
+</wpt>
+<wpt lat="20.065" lon="-155.645277778">
+  <ele>3445.0</ele>
+  <name>Kahonohono</name>
+  <desc>HI</desc>
+</wpt>
+<wpt lat="20.0775" lon="-155.681388889">
+  <ele>4416.0</ele>
+  <name>Kaiholena</name>
+  <desc>HI</desc>
+</wpt>
+<wpt lat="20.085833333" lon="-155.717222222">
+  <ele>5489.0</ele>
+  <name>Kaumu o Kaleihoohie</name>
+  <desc>HI</desc>
+</wpt>
+<wpt lat="20.050833333" lon="-155.635833333">
+  <ele>3973.0</ele>
+  <name>Ka‘ala</name>
+  <desc>HI</desc>
+</wpt>
+<wpt lat="20.083333333" lon="-155.716666667">
+  <ele>5072.0</ele>
+  <name>Kohala (historical)</name>
+  <desc>HI</desc>
+</wpt>
+<wpt lat="20.086111111" lon="-155.712222222">
+  <ele>5443.0</ele>
+  <name>Opaeloa</name>
+  <desc>HI</desc>
+</wpt>
+<wpt lat="20.094166667" lon="-155.737222222">
+  <ele>4911.0</ele>
+  <name>Puu Ahia</name>
+  <desc>HI</desc>
+</wpt>
+<wpt lat="20.054722222" lon="-155.664166667">
+  <ele>3770.0</ele>
+  <name>Puu Iki</name>
+  <desc>HI</desc>
+</wpt>
+<wpt lat="20.031944444" lon="-155.645277778">
+  <ele>3130.0</ele>
+  <name>Puu Kakanihia</name>
+  <desc>HI</desc>
+</wpt>
+<wpt lat="20.045555556" lon="-155.713888889">
+  <ele>3412.0</ele>
+  <name>Puu Kamoa</name>
+  <desc>HI</desc>
+</wpt>
+<wpt lat="20.042222222" lon="-155.735">
+  <ele>3209.0</ele>
+  <name>Puu Kawaiwai</name>
+  <desc>HI</desc>
+</wpt>
+<wpt lat="20.031944444" lon="-155.668888889">
+  <ele>3202.0</ele>
+  <name>Puu Ki</name>
+  <desc>HI</desc>
+</wpt>
+<wpt lat="20.119444444" lon="-155.748055556">
+  <ele>3966.0</ele>
+  <name>Puu Laalaau</name>
+  <desc>HI</desc>
+</wpt>
+<wpt lat="20.045" lon="-155.690277778">
+  <ele>3655.0</ele>
+  <name>Puu Laelae</name>
+  <desc>HI</desc>
+</wpt>
+<wpt lat="20.044722222" lon="-155.705833333">
+  <ele>3442.0</ele>
+  <name>Puu Lanikepu</name>
+  <desc>HI</desc>
+</wpt>
+<wpt lat="20.095277778" lon="-155.746944444">
+  <ele>4774.0</ele>
+  <name>Puu Mala</name>
+  <desc>HI</desc>
+</wpt>
+<wpt lat="20.045" lon="-155.668888889">
+  <ele>3930.0</ele>
+  <name>Puu Ohu</name>
+  <desc>HI</desc>
+</wpt>
+<wpt lat="20.035277778" lon="-155.675555556">
+  <ele>3448.0</ele>
+  <name>Puu Owaowaka</name>
+  <desc>HI</desc>
+</wpt>
+<wpt lat="20.0675" lon="-155.711388889">
+  <ele>4888.0</ele>
+  <name>Puu Palailai</name>
+  <desc>HI</desc>
+</wpt>
+<wpt lat="20.061944444" lon="-155.695833333">
+  <ele>4567.0</ele>
+  <name>Puu Pohoulaula</name>
+  <desc>HI</desc>
+</wpt>
+<wpt lat="20.079166667" lon="-155.703055556">
+  <ele>5246.0</ele>
+  <name>Puu o Umi</name>
+  <desc>HI</desc>
+</wpt>
+<wpt lat="22.112777778" lon="-159.413333333">
+  <ele>3218.0</ele>
+  <name>Kapehuaala</name>
+  <desc>HI</desc>
+</wpt>
+<wpt lat="19.347777778" lon="-155.3525">
+  <ele>3018.0</ele>
+  <name>Maunaiki</name>
+  <desc>HI</desc>
+</wpt>
+<wpt lat="19.350833333" lon="-155.276388889">
+  <ele>3307.0</ele>
+  <name>Puu Ohale</name>
+  <desc>HI</desc>
+</wpt>
+<wpt lat="19.355277778" lon="-155.3225">
+  <ele>3232.0</ele>
+  <name>Pu‘ukoa‘e</name>
+  <desc>HI</desc>
+</wpt>
+<wpt lat="19.481111111" lon="-155.788333333">
+  <ele>5403.0</ele>
+  <name>Pu‘ukinikini</name>
+  <desc>HI</desc>
+</wpt>
+<wpt lat="20.701388889" lon="-156.173333333">
+  <ele>8209.0</ele>
+  <name>Haleakalā</name>
+  <desc>HI</desc>
+</wpt>
+<wpt lat="20.702222222" lon="-156.203055556">
+  <ele>8104.0</ele>
+  <name>Kumu‘iliahi</name>
+  <desc>HI</desc>
+</wpt>
+<wpt lat="20.685277778" lon="-156.114444444">
+  <ele>4649.0</ele>
+  <name>Pu‘uahulili</name>
+  <desc>HI</desc>
+</wpt>
+<wpt lat="20.123333333" lon="-155.801111111">
+  <ele>3054.0</ele>
+  <name>Puu Aiea</name>
+  <desc>HI</desc>
+</wpt>
+<wpt lat="20.103611111" lon="-155.770277778">
+  <ele>4019.0</ele>
+  <name>Puu Honu</name>
+  <desc>HI</desc>
+</wpt>
+<wpt lat="20.102777778" lon="-155.763055556">
+  <ele>4291.0</ele>
+  <name>Puu Iki</name>
+  <desc>HI</desc>
+</wpt>
+<wpt lat="20.101666667" lon="-155.755">
+  <ele>4649.0</ele>
+  <name>Puu Lapalapa</name>
+  <desc>HI</desc>
+</wpt>
+<wpt lat="20.074166667" lon="-155.750277778">
+  <ele>4114.0</ele>
+  <name>Puu Loa</name>
+  <desc>HI</desc>
+</wpt>
+<wpt lat="20.072222222" lon="-155.758888889">
+  <ele>3645.0</ele>
+  <name>Puu Makela</name>
+  <desc>HI</desc>
+</wpt>
+<wpt lat="20.105555556" lon="-155.753333333">
+  <ele>4498.0</ele>
+  <name>Puu Pala</name>
+  <desc>HI</desc>
+</wpt>
+<wpt lat="20.114722222" lon="-155.763333333">
+  <ele>4695.0</ele>
+  <name>Puu Pili</name>
+  <desc>HI</desc>
+</wpt>
+<wpt lat="19.830277778" lon="-155.689722222">
+  <ele>3878.0</ele>
+  <name>Pu‘uhe‘ewai</name>
+  <desc>HI</desc>
+</wpt>
+<wpt lat="19.855555556" lon="-155.658888889">
+  <ele>4639.0</ele>
+  <name>Pu‘ukahekili</name>
+  <desc>HI</desc>
+</wpt>
+<wpt lat="19.831666667" lon="-155.665277778">
+  <ele>4524.0</ele>
+  <name>Pu‘ukanalopakali‘ili‘i</name>
+  <desc>HI</desc>
+</wpt>
+<wpt lat="19.826944444" lon="-155.658055556">
+  <ele>5036.0</ele>
+  <name>Pu‘ukanalopakanui</name>
+  <desc>HI</desc>
+</wpt>
+<wpt lat="19.766944444" lon="-155.635833333">
+  <ele>5774.0</ele>
+  <name>Pu‘ukapele</name>
+  <desc>HI</desc>
+</wpt>
+<wpt lat="19.786111111" lon="-155.634722222">
+  <ele>5738.0</ele>
+  <name>Pu‘uke‘eke‘e</name>
+  <desc>HI</desc>
+</wpt>
+<wpt lat="19.882222222" lon="-155.365277778">
+  <ele>7671.0</ele>
+  <name>Kālepa</name>
+  <desc>HI</desc>
+</wpt>
+<wpt lat="19.9075" lon="-155.3375">
+  <ele>5561.0</ele>
+  <name>Pu‘ulahohinu</name>
+  <desc>HI</desc>
+</wpt>
+<wpt lat="19.936666667" lon="-155.339166667">
+  <ele>4767.0</ele>
+  <name>Pu‘uloa</name>
+  <desc>HI</desc>
+</wpt>
+<wpt lat="22.113333333" lon="-159.670833333">
+  <ele>3596.0</ele>
+  <name>Halemanu</name>
+  <desc>HI</desc>
+</wpt>
+<wpt lat="19.4" lon="-155.283333333">
+  <ele>3668.0</ele>
+  <name>Kīlauea Volcano</name>
+  <desc>HI</desc>
+</wpt>
+<wpt lat="19.411944444" lon="-155.253333333">
+  <ele>3881.0</ele>
+  <name>Pu‘u Pua‘i</name>
+  <desc>HI</desc>
+</wpt>
+<wpt lat="19.433611111" lon="-155.261388889">
+  <ele>4003.0</ele>
+  <name>Sulphur Banks</name>
+  <desc>HI</desc>
+</wpt>
+<wpt lat="20.716388889" lon="-156.227777778">
+  <ele>8172.0</ele>
+  <name>Kama‘oli‘i</name>
+  <desc>HI</desc>
+</wpt>
+<wpt lat="20.726666667" lon="-156.241944444">
+  <ele>9557.0</ele>
+  <name>Kilohana</name>
+  <desc>HI</desc>
+</wpt>
+<wpt lat="20.78" lon="-156.231944444">
+  <ele>6250.0</ele>
+  <name>Pu‘ulū‘au</name>
+  <desc>HI</desc>
+</wpt>
+<wpt lat="20.793611111" lon="-156.283333333">
+  <ele>4019.0</ele>
+  <name>Pu‘umahanalua</name>
+  <desc>HI</desc>
+</wpt>
+<wpt lat="20.746388889" lon="-156.298888889">
+  <ele>4403.0</ele>
+  <name>Pu‘umaho</name>
+  <desc>HI</desc>
+</wpt>
+<wpt lat="20.772222222" lon="-156.244444444">
+  <ele>6850.0</ele>
+  <name>Pu‘unianiau</name>
+  <desc>HI</desc>
+</wpt>
+<wpt lat="20.755555556" lon="-156.248888889">
+  <ele>7290.0</ele>
+  <name>Pu‘uoili</name>
+  <desc>HI</desc>
+</wpt>
+<wpt lat="20.800277778" lon="-156.241944444">
+  <ele>4970.0</ele>
+  <name>Pu‘uokāka‘e</name>
+  <desc>HI</desc>
+</wpt>
+<wpt lat="20.718611111" lon="-156.219444444">
+  <ele>8130.0</ele>
+  <name>Pu‘uomāui</name>
+  <desc>HI</desc>
+</wpt>
+<wpt lat="20.710833333" lon="-156.22">
+  <ele>7894.0</ele>
+  <name>Pu‘uopele</name>
+  <desc>HI</desc>
+</wpt>
+<wpt lat="20.751944444" lon="-156.269444444">
+  <ele>6237.0</ele>
+  <name>Pu‘upahu</name>
+  <desc>HI</desc>
+</wpt>
+<wpt lat="20.8125" lon="-156.290555556">
+  <ele>3274.0</ele>
+  <name>Pu‘u‘alaea</name>
+  <desc>HI</desc>
+</wpt>
+<wpt lat="20.709722222" lon="-156.253333333">
+  <ele>10006.0</ele>
+  <name>Pu‘u‘ula‘ula</name>
+  <desc>HI</desc>
+</wpt>
+<wpt lat="20.713611111" lon="-156.25">
+  <ele>9875.0</ele>
+  <name>Pāka‘ao‘ao</name>
+  <desc>HI</desc>
+</wpt>
+<wpt lat="20.707777778" lon="-156.067777778">
+  <ele>4593.0</ele>
+  <name>Kaumakani</name>
+  <desc>HI</desc>
+</wpt>
+<wpt lat="20.705833333" lon="-156.049444444">
+  <ele>3445.0</ele>
+  <name>Pu‘uho‘olio</name>
+  <desc>HI</desc>
+</wpt>
+<wpt lat="19.401111111" lon="-155.445833333">
+  <ele>5587.0</ele>
+  <name>Nāpu‘ukūlua</name>
+  <desc>HI</desc>
+</wpt>
+<wpt lat="19.386944444" lon="-155.438888889">
+  <ele>5111.0</ele>
+  <name>Pu‘u Pili</name>
+  <desc>HI</desc>
+</wpt>
+<wpt lat="19.519166667" lon="-155.515555556">
+  <ele>11407.0</ele>
+  <name>Dewey Cone</name>
+  <desc>HI</desc>
+</wpt>
+<wpt lat="19.610555556" lon="-155.571666667">
+  <ele>8048.0</ele>
+  <name>Kōko‘olau</name>
+  <desc>HI</desc>
+</wpt>
+<wpt lat="19.503333333" lon="-155.554722222">
+  <ele>12369.0</ele>
+  <name>Pohaku‘ohanalei</name>
+  <desc>HI</desc>
+</wpt>
+<wpt lat="19.524444444" lon="-155.501666667">
+  <ele>11053.0</ele>
+  <name>Pukauahi</name>
+  <desc>HI</desc>
+</wpt>
+<wpt lat="19.5125" lon="-155.532222222">
+  <ele>11703.0</ele>
+  <name>Steaming Cone</name>
+  <desc>HI</desc>
+</wpt>
+<wpt lat="21.977777778" lon="-159.493333333">
+  <ele>3038.0</ele>
+  <name>Kāhili</name>
+  <desc>HI</desc>
+</wpt>
+<wpt lat="20.011388889" lon="-155.535">
+  <ele>3501.0</ele>
+  <name>Puu Kaala</name>
+  <desc>HI</desc>
+</wpt>
+<wpt lat="20.056388889" lon="-155.622222222">
+  <ele>3205.0</ele>
+  <name>Puu Lala</name>
+  <desc>HI</desc>
+</wpt>
+<wpt lat="20.029166667" lon="-155.624166667">
+  <ele>3005.0</ele>
+  <name>Puu Manu</name>
+  <desc>HI</desc>
+</wpt>
+<wpt lat="20.007777778" lon="-155.520555556">
+  <ele>3563.0</ele>
+  <name>Puu Ohia</name>
+  <desc>HI</desc>
+</wpt>
+<wpt lat="19.520555556" lon="-155.299444444">
+  <ele>5495.0</ele>
+  <name>Kūlani</name>
+  <desc>HI</desc>
+</wpt>
+<wpt lat="19.517777778" lon="-155.283333333">
+  <ele>4596.0</ele>
+  <name>Na Lua Mahoe</name>
+  <desc>HI</desc>
+</wpt>
+<wpt lat="19.55" lon="-155.338333333">
+  <ele>6286.0</ele>
+  <name>Pu‘ukīpū</name>
+  <desc>HI</desc>
+</wpt>
+<wpt lat="19.510555556" lon="-155.315277778">
+  <ele>5495.0</ele>
+  <name>Pu‘ulala‘au</name>
+  <desc>HI</desc>
+</wpt>
+<wpt lat="20.866111111" lon="-156.600833333">
+  <ele>4685.0</ele>
+  <name>Helu</name>
+  <desc>HI</desc>
+</wpt>
+<wpt lat="20.851666667" lon="-156.598333333">
+  <ele>4193.0</ele>
+  <name>Līhau</name>
+  <desc>HI</desc>
+</wpt>
+<wpt lat="20.890277778" lon="-156.586388889">
+  <ele>5758.0</ele>
+  <name>Pu‘ukukui</name>
+  <desc>HI</desc>
+</wpt>
+<wpt lat="20.809166667" lon="-156.867777778">
+  <ele>3363.0</ele>
+  <name>Ha‘alelepa‘akai</name>
+  <desc>HI</desc>
+</wpt>
+<wpt lat="20.811111111" lon="-156.8725">
+  <ele>3346.0</ele>
+  <name>Lāna‘ihale</name>
+  <desc>HI</desc>
+</wpt>
+<wpt lat="20.818333333" lon="-156.8775">
+  <ele>3205.0</ele>
+  <name>Puu Aalii</name>
+  <desc>HI</desc>
+</wpt>
+<wpt lat="20.805277778" lon="-156.864722222">
+  <ele>3255.0</ele>
+  <name>Waiakeakua</name>
+  <desc>HI</desc>
+</wpt>
+<wpt lat="20.700833333" lon="-156.224722222">
+  <ele>9147.0</ele>
+  <name>Haupa‘akea Peak</name>
+  <desc>HI</desc>
+</wpt>
+<wpt lat="20.696388889" lon="-156.281944444">
+  <ele>9081.0</ele>
+  <name>Kalepeamoa</name>
+  <desc>HI</desc>
+</wpt>
+<wpt lat="20.690555556" lon="-156.293055556">
+  <ele>8720.0</ele>
+  <name>Kanahau</name>
+  <desc>HI</desc>
+</wpt>
+<wpt lat="20.707222222" lon="-156.256111111">
+  <ele>10000.0</ele>
+  <name>Kolekole</name>
+  <desc>HI</desc>
+</wpt>
+<wpt lat="20.677222222" lon="-156.273888889">
+  <ele>7132.0</ele>
+  <name>Kāhua</name>
+  <desc>HI</desc>
+</wpt>
+<wpt lat="20.707777778" lon="-156.250555556">
+  <ele>10016.0</ele>
+  <name>Magnetic Peak</name>
+  <desc>HI</desc>
+</wpt>
+<wpt lat="20.642222222" lon="-156.293055556">
+  <ele>3602.0</ele>
+  <name>Manukani</name>
+  <desc>HI</desc>
+</wpt>
+<wpt lat="20.645555556" lon="-156.276944444">
+  <ele>3350.0</ele>
+  <name>Nāwini</name>
+  <desc>HI</desc>
+</wpt>
+<wpt lat="20.692777778" lon="-156.228333333">
+  <ele>8045.0</ele>
+  <name>Pu‘uali‘i</name>
+  <desc>HI</desc>
+</wpt>
+<wpt lat="20.640833333" lon="-156.311666667">
+  <ele>3465.0</ele>
+  <name>Pu‘ukao</name>
+  <desc>HI</desc>
+</wpt>
+<wpt lat="20.678888889" lon="-156.321944444">
+  <ele>7050.0</ele>
+  <name>Pu‘ukeōkea</name>
+  <desc>HI</desc>
+</wpt>
+<wpt lat="20.656944444" lon="-156.249722222">
+  <ele>4012.0</ele>
+  <name>Pu‘upane</name>
+  <desc>HI</desc>
+</wpt>
+<wpt lat="20.638611111" lon="-156.291944444">
+  <ele>3156.0</ele>
+  <name>Uma</name>
+  <desc>HI</desc>
+</wpt>
+<wpt lat="22.099722222" lon="-159.676666667">
+  <ele>3442.0</ele>
+  <name>Kā‘ana</name>
+  <desc>HI</desc>
+</wpt>
+<wpt lat="22.106388889" lon="-159.671666667">
+  <ele>3619.0</ele>
+  <name>Pu‘uhinahina</name>
+  <desc>HI</desc>
+</wpt>
+<wpt lat="22.080555556" lon="-159.666388889">
+  <ele>3668.0</ele>
+  <name>Pu‘ukapele</name>
+  <desc>HI</desc>
+</wpt>
+<wpt lat="22.09" lon="-159.679166667">
+  <ele>3432.0</ele>
+  <name>Pu‘ulua</name>
+  <desc>HI</desc>
+</wpt>
+<wpt lat="19.876666667" lon="-155.525555556">
+  <ele>8163.0</ele>
+  <name>Kemole</name>
+  <desc>HI</desc>
+</wpt>
+<wpt lat="19.926388889" lon="-155.561388889">
+  <ele>4616.0</ele>
+  <name>Nākoaho‘omaha</name>
+  <desc>HI</desc>
+</wpt>
+<wpt lat="19.997222222" lon="-155.598055556">
+  <ele>3202.0</ele>
+  <name>Puu Kikoni</name>
+  <desc>HI</desc>
+</wpt>
+<wpt lat="19.904722222" lon="-155.609722222">
+  <ele>4291.0</ele>
+  <name>Pu‘uamuamu</name>
+  <desc>HI</desc>
+</wpt>
+<wpt lat="19.92" lon="-155.508333333">
+  <ele>6010.0</ele>
+  <name>Pu‘uhuluhulu</name>
+  <desc>HI</desc>
+</wpt>
+<wpt lat="19.964444444" lon="-155.582222222">
+  <ele>3884.0</ele>
+  <name>Pu‘ukaliali</name>
+  <desc>HI</desc>
+</wpt>
+<wpt lat="19.983055556" lon="-155.561388889">
+  <ele>3809.0</ele>
+  <name>Pu‘ukekuakāhea</name>
+  <desc>HI</desc>
+</wpt>
+<wpt lat="19.903333333" lon="-155.506111111">
+  <ele>6604.0</ele>
+  <name>Pu‘uki‘i‘āina</name>
+  <desc>HI</desc>
+</wpt>
+<wpt lat="19.973611111" lon="-155.571388889">
+  <ele>4068.0</ele>
+  <name>Pu‘umakahalau</name>
+  <desc>HI</desc>
+</wpt>
+<wpt lat="19.943333333" lon="-155.603055556">
+  <ele>3727.0</ele>
+  <name>Pu‘upapapa</name>
+  <desc>HI</desc>
+</wpt>
+<wpt lat="19.949444444" lon="-155.516944444">
+  <ele>4754.0</ele>
+  <name>Pu‘upueo</name>
+  <desc>HI</desc>
+</wpt>
+<wpt lat="19.981666667" lon="-155.565">
+  <ele>4062.0</ele>
+  <name>Pu‘u‘io</name>
+  <desc>HI</desc>
+</wpt>
+<wpt lat="19.9675" lon="-155.562222222">
+  <ele>3970.0</ele>
+  <name>Pu‘u‘okale</name>
+  <desc>HI</desc>
+</wpt>
+<wpt lat="19.882222222" lon="-155.551944444">
+  <ele>6411.0</ele>
+  <name>Pu‘u‘okihe</name>
+  <desc>HI</desc>
+</wpt>
+<wpt lat="19.961111111" lon="-155.610555556">
+  <ele>3458.0</ele>
+  <name>Pu‘u‘ula‘ula</name>
+  <desc>HI</desc>
+</wpt>
+<wpt lat="19.975" lon="-155.516944444">
+  <ele>4334.0</ele>
+  <name>Pūnohu</name>
+  <desc>HI</desc>
+</wpt>
+<wpt lat="19.372222222" lon="-155.171666667">
+  <ele>3238.0</ele>
+  <name>Kanenuiohamo Lava Shield</name>
+  <desc>HI</desc>
+</wpt>
+<wpt lat="19.3675" lon="-155.201944444">
+  <ele>3320.0</ele>
+  <name>Mauna Ulu Lava Shield</name>
+  <desc>HI</desc>
+</wpt>
+<wpt lat="19.372222222" lon="-155.205277778">
+  <ele>3402.0</ele>
+  <name>Pu‘u Huluhulu</name>
+  <desc>HI</desc>
+</wpt>
+<wpt lat="20.639722222" lon="-156.367777778">
+  <ele>3415.0</ele>
+  <name>Kaimaloo</name>
+  <desc>HI</desc>
+</wpt>
+<wpt lat="20.65" lon="-156.362222222">
+  <ele>4380.0</ele>
+  <name>Keonehunehune</name>
+  <desc>HI</desc>
+</wpt>
+<wpt lat="20.64" lon="-156.376388889">
+  <ele>3255.0</ele>
+  <name>Kulanapahu</name>
+  <desc>HI</desc>
+</wpt>
+<wpt lat="20.642222222" lon="-156.365277778">
+  <ele>3484.0</ele>
+  <name>Maunanu</name>
+  <desc>HI</desc>
+</wpt>
+<wpt lat="20.671111111" lon="-156.334722222">
+  <ele>6434.0</ele>
+  <name>Polipoli</name>
+  <desc>HI</desc>
+</wpt>
+<wpt lat="20.660555556" lon="-156.3525">
+  <ele>5249.0</ele>
+  <name>Puu Makua</name>
+  <desc>HI</desc>
+</wpt>
+<wpt lat="20.646944444" lon="-156.345">
+  <ele>4360.0</ele>
+  <name>Puu Ouli</name>
+  <desc>HI</desc>
+</wpt>
+<wpt lat="19.820555556" lon="-155.468055556">
+  <ele>13776.0</ele>
+  <name>Mauna Kea</name>
+  <desc>HI</desc>
+</wpt>
+<wpt lat="19.87" lon="-155.484166667">
+  <ele>11447.0</ele>
+  <name>Papalekoki</name>
+  <desc>HI</desc>
+</wpt>
+<wpt lat="19.8425" lon="-155.444166667">
+  <ele>12611.0</ele>
+  <name>Pu‘uala</name>
+  <desc>HI</desc>
+</wpt>
+<wpt lat="19.756666667" lon="-155.467777778">
+  <ele>9403.0</ele>
+  <name>Pu‘uhaiwahine</name>
+  <desc>HI</desc>
+</wpt>
+<wpt lat="19.813333333" lon="-155.471666667">
+  <ele>13445.0</ele>
+  <name>Pu‘uhaukea</name>
+  <desc>HI</desc>
+</wpt>
+<wpt lat="19.826111111" lon="-155.472222222">
+  <ele>13648.0</ele>
+  <name>Pu‘uhau‘oki</name>
+  <desc>HI</desc>
+</wpt>
+<wpt lat="19.851666667" lon="-155.434722222">
+  <ele>12080.0</ele>
+  <name>Pu‘uhoaka</name>
+  <desc>HI</desc>
+</wpt>
+<wpt lat="19.861666667" lon="-155.3825">
+  <ele>9170.0</ele>
+  <name>Pu‘uholei</name>
+  <desc>HI</desc>
+</wpt>
+<wpt lat="19.808055556" lon="-155.375277778">
+  <ele>8573.0</ele>
+  <name>Pu‘ukahinahina</name>
+  <desc>HI</desc>
+</wpt>
+<wpt lat="19.753888889" lon="-155.458888889">
+  <ele>9373.0</ele>
+  <name>Pu‘ukalepeamoa</name>
+  <desc>HI</desc>
+</wpt>
+<wpt lat="19.857777778" lon="-155.389444444">
+  <ele>9649.0</ele>
+  <name>Pu‘ukanakaleonui</name>
+  <desc>HI</desc>
+</wpt>
+<wpt lat="19.793611111" lon="-155.407777778">
+  <ele>10092.0</ele>
+  <name>Pu‘ukaupakuhale</name>
+  <desc>HI</desc>
+</wpt>
+<wpt lat="19.819166667" lon="-155.385555556">
+  <ele>9098.0</ele>
+  <name>Pu‘ukawaiwai</name>
+  <desc>HI</desc>
+</wpt>
+<wpt lat="19.825" lon="-155.468888889">
+  <ele>13691.0</ele>
+  <name>Pu‘ukea</name>
+  <desc>HI</desc>
+</wpt>
+<wpt lat="19.782222222" lon="-155.458888889">
+  <ele>11529.0</ele>
+  <name>Pu‘ukeonehehe‘e</name>
+  <desc>HI</desc>
+</wpt>
+<wpt lat="19.798611111" lon="-155.475555556">
+  <ele>12487.0</ele>
+  <name>Pu‘uko‘oko‘olau</name>
+  <desc>HI</desc>
+</wpt>
+<wpt lat="19.871388889" lon="-155.421111111">
+  <ele>10374.0</ele>
+  <name>Pu‘ulehu</name>
+  <desc>HI</desc>
+</wpt>
+<wpt lat="19.81" lon="-155.459166667">
+  <ele>12976.0</ele>
+  <name>Pu‘ulilinoe</name>
+  <desc>HI</desc>
+</wpt>
+<wpt lat="19.764722222" lon="-155.382222222">
+  <ele>7812.0</ele>
+  <name>Pu‘uloa</name>
+  <desc>HI</desc>
+</wpt>
+<wpt lat="19.835833333" lon="-155.460555556">
+  <ele>13136.0</ele>
+  <name>Pu‘umāhoe</name>
+  <desc>HI</desc>
+</wpt>
+<wpt lat="19.8425" lon="-155.428055556">
+  <ele>12398.0</ele>
+  <name>Pu‘umākanaka</name>
+  <desc>HI</desc>
+</wpt>
+<wpt lat="19.761388889" lon="-155.405833333">
+  <ele>8484.0</ele>
+  <name>Pu‘upalaolelo</name>
+  <desc>HI</desc>
+</wpt>
+<wpt lat="19.834444444" lon="-155.445277778">
+  <ele>12647.0</ele>
+  <name>Pu‘upoepoe</name>
+  <desc>HI</desc>
+</wpt>
+<wpt lat="19.820833333" lon="-155.481388889">
+  <ele>13612.0</ele>
+  <name>Pu‘upoli‘ahu</name>
+  <desc>HI</desc>
+</wpt>
+<wpt lat="19.824166667" lon="-155.491944444">
+  <ele>13176.0</ele>
+  <name>Pu‘upōhaku</name>
+  <desc>HI</desc>
+</wpt>
+<wpt lat="19.808888889" lon="-155.478333333">
+  <ele>13169.0</ele>
+  <name>Pu‘uwaiau</name>
+  <desc>HI</desc>
+</wpt>
+<wpt lat="19.820555556" lon="-155.468055556">
+  <ele>13776.0</ele>
+  <name>Pu‘uwēkiu</name>
+  <desc>HI</desc>
+</wpt>
+<wpt lat="19.829722222" lon="-155.380277778">
+  <ele>8845.0</ele>
+  <name>Pu‘u‘ula‘ulua</name>
+  <desc>HI</desc>
+</wpt>
+<wpt lat="19.848611111" lon="-155.420833333">
+  <ele>11837.0</ele>
+  <name>Red Hill</name>
+  <desc>HI</desc>
+</wpt>
+<wpt lat="19.461666667" lon="-155.600555556">
+  <ele>13277.0</ele>
+  <name>1940 Cone</name>
+  <desc>HI</desc>
+</wpt>
+<wpt lat="19.455833333" lon="-155.604444444">
+  <ele>13409.0</ele>
+  <name>1949 Cone</name>
+  <desc>HI</desc>
+</wpt>
+<wpt lat="19.475555556" lon="-155.605277778">
+  <ele>13520.0</ele>
+  <name>Mauna Loa</name>
+  <desc>HI</desc>
+</wpt>
+<wpt lat="19.479166667" lon="-155.6025">
+  <ele>13648.0</ele>
+  <name>Mauna Loa Summit Cairn</name>
+  <desc>HI</desc>
+</wpt>
+<wpt lat="19.463888889" lon="-155.6">
+  <ele>13195.0</ele>
+  <name>Na Puu Waenakonu</name>
+  <desc>HI</desc>
+</wpt>
+<wpt lat="19.443888889" lon="-155.518333333">
+  <ele>10525.0</ele>
+  <name>Pu‘u Ele‘ele</name>
+  <desc>HI</desc>
+</wpt>
+<wpt lat="19.431388889" lon="-155.62">
+  <ele>12762.0</ele>
+  <name>Pōhaku Hanalei</name>
+  <desc>HI</desc>
+</wpt>
+<wpt lat="20.718611111" lon="-156.198611111">
+  <ele>7602.0</ele>
+  <name>Halāli‘i</name>
+  <desc>HI</desc>
+</wpt>
+<wpt lat="20.735" lon="-156.179444444">
+  <ele>8878.0</ele>
+  <name>Hanakauhi</name>
+  <desc>HI</desc>
+</wpt>
+<wpt lat="20.722777778" lon="-156.174444444">
+  <ele>7208.0</ele>
+  <name>Honokahua</name>
+  <desc>HI</desc>
+</wpt>
+<wpt lat="20.730833333" lon="-156.166666667">
+  <ele>7549.0</ele>
+  <name>Kalua Awa</name>
+  <desc>HI</desc>
+</wpt>
+<wpt lat="20.716944444" lon="-156.204444444">
+  <ele>7687.0</ele>
+  <name>Kamoaopele</name>
+  <desc>HI</desc>
+</wpt>
+<wpt lat="20.719166667" lon="-156.206111111">
+  <ele>7500.0</ele>
+  <name>Kaulupō</name>
+  <desc>HI</desc>
+</wpt>
+<wpt lat="20.71" lon="-156.136666667">
+  <ele>7543.0</ele>
+  <name>Kuiki</name>
+  <desc>HI</desc>
+</wpt>
+<wpt lat="20.731111111" lon="-156.148888889">
+  <ele>8251.0</ele>
+  <name>Lau‘ulu</name>
+  <desc>HI</desc>
+</wpt>
+<wpt lat="20.723055556" lon="-156.155277778">
+  <ele>6778.0</ele>
+  <name>Lā‘ie Pu‘u</name>
+  <desc>HI</desc>
+</wpt>
+<wpt lat="20.731944444" lon="-156.184444444">
+  <ele>8222.0</ele>
+  <name>Maunahina</name>
+  <desc>HI</desc>
+</wpt>
+<wpt lat="20.72" lon="-156.181944444">
+  <ele>7405.0</ele>
+  <name>Nāmanaokeakua</name>
+  <desc>HI</desc>
+</wpt>
+<wpt lat="20.713055556" lon="-156.188888889">
+  <ele>7369.0</ele>
+  <name>Pu‘ukauaua</name>
+  <desc>HI</desc>
+</wpt>
+<wpt lat="20.728055556" lon="-156.19">
+  <ele>7516.0</ele>
+  <name>Pu‘ukumu</name>
+  <desc>HI</desc>
+</wpt>
+<wpt lat="20.7125" lon="-156.178611111">
+  <ele>7503.0</ele>
+  <name>Pu‘umaile</name>
+  <desc>HI</desc>
+</wpt>
+<wpt lat="20.723055556" lon="-156.189444444">
+  <ele>7608.0</ele>
+  <name>Pu‘umāmane</name>
+  <desc>HI</desc>
+</wpt>
+<wpt lat="20.718333333" lon="-156.194722222">
+  <ele>7687.0</ele>
+  <name>Pu‘unaue</name>
+  <desc>HI</desc>
+</wpt>
+<wpt lat="20.718888889" lon="-156.188055556">
+  <ele>7480.0</ele>
+  <name>Pu‘unole</name>
+  <desc>HI</desc>
+</wpt>
+<wpt lat="20.737777778" lon="-156.143888889">
+  <ele>7651.0</ele>
+  <name>Pu‘u‘alaea</name>
+  <desc>HI</desc>
+</wpt>
+<wpt lat="20.73" lon="-156.140277778">
+  <ele>8074.0</ele>
+  <name>Pōhakupālaha</name>
+  <desc>HI</desc>
+</wpt>
+<wpt lat="20.716944444" lon="-156.158611111">
+  <ele>6870.0</ele>
+  <name>‘Ō‘ilipu‘u</name>
+  <desc>HI</desc>
+</wpt>
+<wpt lat="19.723888889" lon="-155.634444444">
+  <ele>5948.0</ele>
+  <name>Nāpu‘ukūlua</name>
+  <desc>HI</desc>
+</wpt>
+<wpt lat="19.668333333" lon="-155.726111111">
+  <ele>5154.0</ele>
+  <name>Nā‘ōhule‘elua</name>
+  <desc>HI</desc>
+</wpt>
+<wpt lat="19.976111111" lon="-155.642777778">
+  <ele>3251.0</ele>
+  <name>Holoholoku</name>
+  <desc>HI</desc>
+</wpt>
+<wpt lat="19.880555556" lon="-155.669722222">
+  <ele>4049.0</ele>
+  <name>Mahoelua</name>
+  <desc>HI</desc>
+</wpt>
+<wpt lat="19.919444444" lon="-155.683888889">
+  <ele>3245.0</ele>
+  <name>Nohonaohae</name>
+  <desc>HI</desc>
+</wpt>
+<wpt lat="19.899444444" lon="-155.630277778">
+  <ele>4327.0</ele>
+  <name>Puu Keanahuehue</name>
+  <desc>HI</desc>
+</wpt>
+<wpt lat="19.894166667" lon="-155.689166667">
+  <ele>3369.0</ele>
+  <name>Puu Papapa</name>
+  <desc>HI</desc>
+</wpt>
+<wpt lat="20.833055556" lon="-156.588611111">
+  <ele>3058.0</ele>
+  <name>‘Ula‘ula</name>
+  <desc>HI</desc>
+</wpt>
+<wpt lat="19.183055556" lon="-155.761944444">
+  <ele>5515.0</ele>
+  <name>Puu Ohohia</name>
+  <desc>HI</desc>
+</wpt>
+<wpt lat="19.166944444" lon="-155.771111111">
+  <ele>4882.0</ele>
+  <name>Pōhakuloa</name>
+  <desc>HI</desc>
+</wpt>
+<wpt lat="19.876666667" lon="-155.249444444">
+  <ele>3812.0</ele>
+  <name>Nanamauna Cone</name>
+  <desc>HI</desc>
+</wpt>
+<wpt lat="19.123055556" lon="-155.785">
+  <ele>3081.0</ele>
+  <name>Honopū</name>
+  <desc>HI</desc>
+</wpt>
+<wpt lat="19.813611111" lon="-155.333611111">
+  <ele>6640.0</ele>
+  <name>Kaloaloa</name>
+  <desc>HI</desc>
+</wpt>
+<wpt lat="19.795833333" lon="-155.335555556">
+  <ele>6601.0</ele>
+  <name>Magnetic Hill</name>
+  <desc>HI</desc>
+</wpt>
+<wpt lat="19.783611111" lon="-155.365">
+  <ele>7733.0</ele>
+  <name>‘A‘ahuwela</name>
+  <desc>HI</desc>
+</wpt>
+<wpt lat="19.175277778" lon="-155.580833333">
+  <ele>3802.0</ele>
+  <name>Kaiholena</name>
+  <desc>HI</desc>
+</wpt>
+<wpt lat="19.213611111" lon="-155.541111111">
+  <ele>3419.0</ele>
+  <name>Kaumaike‘ohu</name>
+  <desc>HI</desc>
+</wpt>
+<wpt lat="19.187222222" lon="-155.601944444">
+  <ele>4242.0</ele>
+  <name>Makaālia</name>
+  <desc>HI</desc>
+</wpt>
+<wpt lat="19.235555556" lon="-155.5825">
+  <ele>5361.0</ele>
+  <name>Pu‘u Iki</name>
+  <desc>HI</desc>
+</wpt>
+<wpt lat="19.16" lon="-155.593888889">
+  <ele>3205.0</ele>
+  <name>Pu‘uone</name>
+  <desc>HI</desc>
+</wpt>
+<wpt lat="19.762222222" lon="-155.8475">
+  <ele>3399.0</ele>
+  <name>Puu Iki</name>
+  <desc>HI</desc>
+</wpt>
+<wpt lat="19.753888889" lon="-155.823888889">
+  <ele>3779.0</ele>
+  <name>Puu Paha</name>
+  <desc>HI</desc>
+</wpt>
+<wpt lat="19.755833333" lon="-155.808055556">
+  <ele>3924.0</ele>
+  <name>Puu Papa</name>
+  <desc>HI</desc>
+</wpt>
+<wpt lat="19.769444444" lon="-155.834444444">
+  <ele>3963.0</ele>
+  <name>Puu Waawaa</name>
+  <desc>HI</desc>
+</wpt>
+<wpt lat="19.255833333" lon="-155.595833333">
+  <ele>6256.0</ele>
+  <name>Pu‘ukinikini</name>
+  <desc>HI</desc>
+</wpt>
+<wpt lat="19.747777778" lon="-155.594166667">
+  <ele>6083.0</ele>
+  <name>Pu‘uahi</name>
+  <desc>HI</desc>
+</wpt>
+<wpt lat="19.634166667" lon="-155.541111111">
+  <ele>7346.0</ele>
+  <name>Pu‘ukoli</name>
+  <desc>HI</desc>
+</wpt>
+<wpt lat="19.746388889" lon="-155.505277778">
+  <ele>7047.0</ele>
+  <name>Pu‘uko‘ohi</name>
+  <desc>HI</desc>
+</wpt>
+<wpt lat="19.547222222" lon="-155.7525">
+  <ele>5958.0</ele>
+  <name>Honey Bee</name>
+  <desc>HI</desc>
+</wpt>
+<wpt lat="19.573888889" lon="-155.799722222">
+  <ele>4961.0</ele>
+  <name>Keapuna</name>
+  <desc>HI</desc>
+</wpt>
+<wpt lat="19.561388889" lon="-155.76">
+  <ele>5600.0</ele>
+  <name>Lupea Kipuka</name>
+  <desc>HI</desc>
+</wpt>
+<wpt lat="19.615833333" lon="-155.789166667">
+  <ele>5216.0</ele>
+  <name>Puu Keanui</name>
+  <desc>HI</desc>
+</wpt>
+<wpt lat="19.562222222" lon="-155.796666667">
+  <ele>5161.0</ele>
+  <name>Pu‘ulehua</name>
+  <desc>HI</desc>
+</wpt>
+<wpt lat="19.605277778" lon="-155.803611111">
+  <ele>5128.0</ele>
+  <name>Pōhakuloa</name>
+  <desc>HI</desc>
+</wpt>
+<wpt lat="19.547777778" lon="-155.221944444">
+  <ele>3707.0</ele>
+  <name>Pu‘umaka‘ala</name>
+  <desc>HI</desc>
+</wpt>
+<wpt lat="19.162222222" lon="-155.732777778">
+  <ele>5295.0</ele>
+  <name>Ihuanu</name>
+  <desc>HI</desc>
+</wpt>
+<wpt lat="19.188888889" lon="-155.737222222">
+  <ele>6165.0</ele>
+  <name>Kapoalaala</name>
+  <desc>HI</desc>
+</wpt>
+<wpt lat="19.204722222" lon="-155.74">
+  <ele>6519.0</ele>
+  <name>Keau</name>
+  <desc>HI</desc>
+</wpt>
+<wpt lat="19.213611111" lon="-155.741944444">
+  <ele>6857.0</ele>
+  <name>Pu‘u‘oke‘oke‘o</name>
+  <desc>HI</desc>
+</wpt>
+<wpt lat="19.727222222" lon="-155.449444444">
+  <ele>7890.0</ele>
+  <name>Ho‘okomo</name>
+  <desc>HI</desc>
+</wpt>
+<wpt lat="19.710277778" lon="-155.44">
+  <ele>7336.0</ele>
+  <name>Huikau</name>
+  <desc>HI</desc>
+</wpt>
+<wpt lat="19.704166667" lon="-155.438055556">
+  <ele>7018.0</ele>
+  <name>Kalaieha</name>
+  <desc>HI</desc>
+</wpt>
+<wpt lat="19.724444444" lon="-155.428611111">
+  <ele>7648.0</ele>
+  <name>Loaloa</name>
+  <desc>HI</desc>
+</wpt>
+<wpt lat="19.711944444" lon="-155.495833333">
+  <ele>7087.0</ele>
+  <name>Omaokoili</name>
+  <desc>HI</desc>
+</wpt>
+<wpt lat="19.686388889" lon="-155.466388889">
+  <ele>6752.0</ele>
+  <name>Pu‘uhuluhulu</name>
+  <desc>HI</desc>
+</wpt>
+<wpt lat="19.690833333" lon="-155.4">
+  <ele>6050.0</ele>
+  <name>Pu‘ukahiliku</name>
+  <desc>HI</desc>
+</wpt>
+<wpt lat="19.747222222" lon="-155.419444444">
+  <ele>8816.0</ele>
+  <name>Pu‘ukole</name>
+  <desc>HI</desc>
+</wpt>
+<wpt lat="19.696388889" lon="-155.495833333">
+  <ele>6818.0</ele>
+  <name>Pu‘unēnē</name>
+  <desc>HI</desc>
+</wpt>
+<wpt lat="19.728888889" lon="-155.393611111">
+  <ele>6916.0</ele>
+  <name>Pu‘u‘ō‘ō</name>
+  <desc>HI</desc>
+</wpt>
+<wpt lat="19.347777778" lon="-155.784722222">
+  <ele>6214.0</ele>
+  <name>Pu‘upōhakuloa</name>
+  <desc>HI</desc>
+</wpt>
+<wpt lat="19.536388889" lon="-155.438888889">
+  <ele>9239.0</ele>
+  <name>Pu‘uha‘a</name>
+  <desc>HI</desc>
+</wpt>
+<wpt lat="19.550555556" lon="-155.400277778">
+  <ele>7999.0</ele>
+  <name>Pu‘uhoakolei</name>
+  <desc>HI</desc>
+</wpt>
+<wpt lat="19.546666667" lon="-155.455833333">
+  <ele>9570.0</ele>
+  <name>Pu‘ukapanaha</name>
+  <desc>HI</desc>
+</wpt>
+<wpt lat="19.535" lon="-155.429444444">
+  <ele>9009.0</ele>
+  <name>Pu‘ukulua</name>
+  <desc>HI</desc>
+</wpt>
+<wpt lat="19.571666667" lon="-155.375277778">
+  <ele>6837.0</ele>
+  <name>Pu‘ulau</name>
+  <desc>HI</desc>
+</wpt>
+<wpt lat="19.533055556" lon="-155.459444444">
+  <ele>9928.0</ele>
+  <name>Pu‘uwahi</name>
+  <desc>HI</desc>
+</wpt>
+<wpt lat="19.53" lon="-155.463888889">
+  <ele>10079.0</ele>
+  <name>Pu‘u‘ula‘ula</name>
+  <desc>HI</desc>
+</wpt>
+<wpt lat="21.414444444" lon="-158.100277778">
+  <ele>3077.0</ele>
+  <name>Palikea</name>
+  <desc>HI</desc>
+</wpt>
+<wpt lat="21.489166667" lon="-158.132222222">
+  <ele>3461.0</ele>
+  <name>Pu‘ukalena</name>
+  <desc>HI</desc>
+</wpt>
+<wpt lat="21.441388889" lon="-158.098611111">
+  <ele>3084.0</ele>
+  <name>Pu‘ukaua</name>
+  <desc>HI</desc>
+</wpt>
+<wpt lat="19.496666667" lon="-155.692777778">
+  <ele>8845.0</ele>
+  <name>Pu‘u‘ouo</name>
+  <desc>HI</desc>
+</wpt>
+<wpt lat="19.389444444" lon="-155.626111111">
+  <ele>11443.0</ele>
+  <name>Red Cone</name>
+  <desc>HI</desc>
+</wpt>
+<wpt lat="19.386944444" lon="-155.636111111">
+  <ele>11322.0</ele>
+  <name>Sulphur Cone</name>
+  <desc>HI</desc>
+</wpt>
+<wpt lat="19.931944444" lon="-155.43">
+  <ele>5850.0</ele>
+  <name>Apakuie</name>
+  <desc>HI</desc>
+</wpt>
+<wpt lat="19.950833333" lon="-155.428333333">
+  <ele>5052.0</ele>
+  <name>Holuokawai</name>
+  <desc>HI</desc>
+</wpt>
+<wpt lat="19.887777778" lon="-155.382777778">
+  <ele>8143.0</ele>
+  <name>Iolehaehae</name>
+  <desc>HI</desc>
+</wpt>
+<wpt lat="19.877777778" lon="-155.394722222">
+  <ele>9048.0</ele>
+  <name>Kaaliali</name>
+  <desc>HI</desc>
+</wpt>
+<wpt lat="19.918333333" lon="-155.493055556">
+  <ele>6647.0</ele>
+  <name>Kaikipauula</name>
+  <desc>HI</desc>
+</wpt>
+<wpt lat="19.892777778" lon="-155.408611111">
+  <ele>8543.0</ele>
+  <name>Pu‘ukea</name>
+  <desc>HI</desc>
+</wpt>
+<wpt lat="19.899444444" lon="-155.3925">
+  <ele>7805.0</ele>
+  <name>Pu‘ukihe</name>
+  <desc>HI</desc>
+</wpt>
+<wpt lat="19.8825" lon="-155.448888889">
+  <ele>9718.0</ele>
+  <name>Pu‘ukole</name>
+  <desc>HI</desc>
+</wpt>
+<wpt lat="19.908611111" lon="-155.438055556">
+  <ele>7044.0</ele>
+  <name>Pu‘umali</name>
+  <desc>HI</desc>
+</wpt>
+<wpt lat="19.909166667" lon="-155.463611111">
+  <ele>6886.0</ele>
+  <name>Pu‘umoana</name>
+  <desc>HI</desc>
+</wpt>
+<wpt lat="19.910277778" lon="-155.455555556">
+  <ele>6854.0</ele>
+  <name>Pu‘unau</name>
+  <desc>HI</desc>
+</wpt>
+<wpt lat="19.902777778" lon="-155.406666667">
+  <ele>7566.0</ele>
+  <name>Pu‘u‘ula‘ula</name>
+  <desc>HI</desc>
+</wpt>
+<wpt lat="20.651111111" lon="-156.370277778">
+  <ele>3960.0</ele>
+  <name>Keonenelu</name>
+  <desc>HI</desc>
+</wpt>
+<wpt lat="21.106944444" lon="-156.868888889">
+  <ele>4934.0</ele>
+  <name>Uapa</name>
+  <desc>HI</desc>
+</wpt>
+<wpt lat="22.051111111" lon="-159.483611111">
+  <ele>3540.0</ele>
+  <name>Kalalea</name>
+  <desc>HI</desc>
+</wpt>
+<wpt lat="22.031666667" lon="-159.530555556">
+  <ele>4252.0</ele>
+  <name>Kalaluanahelehele</name>
+  <desc>HI</desc>
+</wpt>
+<wpt lat="22.029722222" lon="-159.533333333">
+  <ele>4196.0</ele>
+  <name>Kalaluapuu</name>
+  <desc>HI</desc>
+</wpt>
+<wpt lat="22.048888889" lon="-159.480277778">
+  <ele>3363.0</ele>
+  <name>Kamanu</name>
+  <desc>HI</desc>
+</wpt>
+<wpt lat="21.993611111" lon="-159.499444444">
+  <ele>3281.0</ele>
+  <name>Kapalaoa</name>
+  <desc>HI</desc>
+</wpt>
+<wpt lat="22.076111111" lon="-159.522777778">
+  <ele>4711.0</ele>
+  <name>Kapoki</name>
+  <desc>HI</desc>
+</wpt>
+<wpt lat="22.056388889" lon="-159.496666667">
+  <ele>5226.0</ele>
+  <name>Kawaikini</name>
+  <desc>HI</desc>
+</wpt>
+<wpt lat="22.026388889" lon="-159.539722222">
+  <ele>4042.0</ele>
+  <name>Kuahua</name>
+  <desc>HI</desc>
+</wpt>
+<wpt lat="22.068333333" lon="-159.498611111">
+  <ele>5102.0</ele>
+  <name>Kuaohukini</name>
+  <desc>HI</desc>
+</wpt>
+<wpt lat="22.0375" lon="-159.525277778">
+  <ele>3973.0</ele>
+  <name>Makaopihi</name>
+  <desc>HI</desc>
+</wpt>
+<wpt lat="22.048611111" lon="-159.516388889">
+  <ele>4518.0</ele>
+  <name>Pu‘ukī</name>
+  <desc>HI</desc>
+</wpt>
+<wpt lat="22.045277778" lon="-159.5225">
+  <ele>4288.0</ele>
+  <name>Pālehua</name>
+  <desc>HI</desc>
+</wpt>
+<wpt lat="22.074722222" lon="-159.481388889">
+  <ele>4350.0</ele>
+  <name>Pōhakupele</name>
+  <desc>HI</desc>
+</wpt>
+<wpt lat="22.070833333" lon="-159.497777778">
+  <ele>5125.0</ele>
+  <name>Wai‘ale‘ale</name>
+  <desc>HI</desc>
+</wpt>
+<wpt lat="20.840555556" lon="-156.581666667">
+  <ele>3740.0</ele>
+  <name>Halepōhaku</name>
+  <desc>HI</desc>
+</wpt>
+<wpt lat="20.848888889" lon="-156.556944444">
+  <ele>4587.0</ele>
+  <name>Hana‘ula</name>
+  <desc>HI</desc>
+</wpt>
+<wpt lat="20.94" lon="-156.565833333">
+  <ele>3028.0</ele>
+  <name>Keahikauō</name>
+  <desc>HI</desc>
+</wpt>
+<wpt lat="20.910555556" lon="-156.550833333">
+  <ele>3520.0</ele>
+  <name>Keahi‘āloa</name>
+  <desc>HI</desc>
+</wpt>
+<wpt lat="20.920277778" lon="-156.546111111">
+  <ele>3084.0</ele>
+  <name>Maunaalani</name>
+  <desc>HI</desc>
+</wpt>
+<wpt lat="20.872222222" lon="-156.533611111">
+  <ele>3130.0</ele>
+  <name>Puu Lio</name>
+  <desc>HI</desc>
+</wpt>
+<wpt lat="20.894444444" lon="-156.546111111">
+  <ele>3704.0</ele>
+  <name>Pu‘ukāne</name>
+  <desc>HI</desc>
+</wpt>
+<wpt lat="22.044444444" lon="-159.595277778">
+  <ele>3428.0</ele>
+  <name>Kaanakeakua</name>
+  <desc>HI</desc>
+</wpt>
+<wpt lat="22.060833333" lon="-159.605555556">
+  <ele>3543.0</ele>
+  <name>Kalehuahakihaki</name>
+  <desc>HI</desc>
+</wpt>
+<wpt lat="22.058333333" lon="-159.5425">
+  <ele>4281.0</ele>
+  <name>Kaumahaloa</name>
+  <desc>HI</desc>
+</wpt>
+<wpt lat="22.102777778" lon="-159.656666667">
+  <ele>3438.0</ele>
+  <name>Ka‘ou</name>
+  <desc>HI</desc>
+</wpt>
+<wpt lat="22.054722222" lon="-159.542777778">
+  <ele>4206.0</ele>
+  <name>Ke‘āpua</name>
+  <desc>HI</desc>
+</wpt>
+<wpt lat="22.050277778" lon="-159.658333333">
+  <ele>3018.0</ele>
+  <name>Kukui</name>
+  <desc>HI</desc>
+</wpt>
+<wpt lat="21.999444444" lon="-159.568611111">
+  <ele>3048.0</ele>
+  <name>Pe‘ape‘a</name>
+  <desc>HI</desc>
+</wpt>
+</gpx>

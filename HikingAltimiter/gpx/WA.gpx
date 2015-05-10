@@ -1,0 +1,6503 @@
+﻿<?xml version="1.0"?>
+<gpx creator="GPS Visualizer http://www.gpsvisualizer.com/" version="1.1" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+<wpt lat="36.907222222" lon="-118.366944444">
+  <ele>12421.0</ele>
+  <name>Colosseum Mountain</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="36.891388889" lon="-118.321388889">
+  <ele>10187.0</ele>
+  <name>Lookout Point</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="36.916944444" lon="-118.320555556">
+  <ele>9337.0</ele>
+  <name>Sawmill Point</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="37.855277778" lon="-119.790277778">
+  <ele>7244.0</ele>
+  <name>Bald Mountain</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="34.666666667" lon="-118.959166667">
+  <ele>7382.0</ele>
+  <name>Alamo Mountain</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="35.741666667" lon="-118.523611111">
+  <ele>7401.0</ele>
+  <name>Black Mountain</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="35.706944444" lon="-118.560555556">
+  <ele>7087.0</ele>
+  <name>Shirley Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="40.205833333" lon="-120.515">
+  <ele>7113.0</ele>
+  <name>Clarks Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="40.592222222" lon="-120.911944444">
+  <ele>7631.0</ele>
+  <name>Antelope Mountain</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="40.567777778" lon="-120.8875">
+  <ele>7228.0</ele>
+  <name>Fox Mountain</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="41.4475" lon="-122.048888889">
+  <ele>8379.0</ele>
+  <name>Ash Creek Butte</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="38.286388889" lon="-118.975">
+  <ele>8989.0</ele>
+  <name>Beauty Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="38.251666667" lon="-118.921111111">
+  <ele>9527.0</ele>
+  <name>Brawley Peaks</name>
+  <desc>NV</desc>
+</wpt>
+<wpt lat="40.093333333" lon="-120.599444444">
+  <ele>7014.0</ele>
+  <name>Babcock Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="37.405" lon="-119.2325">
+  <ele>7132.0</ele>
+  <name>Brown Cone</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="37.376388889" lon="-119.18">
+  <ele>8943.0</ele>
+  <name>Mount Tom</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="37.768055556" lon="-118.488055556">
+  <ele>7090.0</ele>
+  <name>Diana Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="37.851388889" lon="-118.566944444">
+  <ele>7812.0</ele>
+  <name>Trafton Mountain</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="34.288333333" lon="-116.838888889">
+  <ele>8209.0</ele>
+  <name>Gold Mountain</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="34.231388889" lon="-116.961388889">
+  <ele>7372.0</ele>
+  <name>Castle Rock</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="34.213611111" lon="-116.9225">
+  <ele>7733.0</ele>
+  <name>Grand View Point</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="34.204722222" lon="-116.976666667">
+  <ele>7917.0</ele>
+  <name>Lookout Point</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="34.126944444" lon="-116.881666667">
+  <ele>10699.0</ele>
+  <name>Shields Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="34.220555556" lon="-116.8925">
+  <ele>8172.0</ele>
+  <name>Snow Summit</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="41.133055556" lon="-122.769166667">
+  <ele>7264.0</ele>
+  <name>Billys Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="41.204722222" lon="-122.8">
+  <ele>7661.0</ele>
+  <name>Eagle Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="40.204722222" lon="-123.009722222">
+  <ele>7759.0</ele>
+  <name>Black Rock Mountain</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="37.072222222" lon="-118.793333333">
+  <ele>11545.0</ele>
+  <name>Blackcap Mountain</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="39.820833333" lon="-120.597777778">
+  <ele>7195.0</ele>
+  <name>Penman Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="39.867777778" lon="-120.530555556">
+  <ele>7644.0</ele>
+  <name>Smith Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="37.465555556" lon="-118.1625">
+  <ele>11220.0</ele>
+  <name>Blanco Mountain</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="37.475" lon="-118.140833333">
+  <ele>10856.0</ele>
+  <name>Bucks Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="37.498611111" lon="-118.201111111">
+  <ele>11555.0</ele>
+  <name>Campito Mountain</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="37.395555556" lon="-118.173333333">
+  <ele>11004.0</ele>
+  <name>Clem Nelson Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="37.472222222" lon="-118.184444444">
+  <ele>11240.0</ele>
+  <name>County Line Hill</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="37.560555556" lon="-118.906944444">
+  <ele>12549.0</ele>
+  <name>Bloody Mountain</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="37.580277778" lon="-118.891111111">
+  <ele>11824.0</ele>
+  <name>Laurel Mountain</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="37.619166667" lon="-119.000555556">
+  <ele>8937.0</ele>
+  <name>Panorama Dome</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="39.774444444" lon="-120.811111111">
+  <ele>7274.0</ele>
+  <name>Blue Nose Mountain</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="39.783333333" lon="-120.868611111">
+  <ele>7451.0</ele>
+  <name>Pilot Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="39.490277778" lon="-120.043611111">
+  <ele>8117.0</ele>
+  <name>Granite Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="39.485833333" lon="-120.046111111">
+  <ele>8268.0</ele>
+  <name>Ladybug Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="39.472222222" lon="-120.039722222">
+  <ele>8419.0</ele>
+  <name>Verdi Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="38.226666667" lon="-119.07">
+  <ele>10170.0</ele>
+  <name>Bodie Mountain</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="38.1525" lon="-119.068055556">
+  <ele>8970.0</ele>
+  <name>Mount Biedeman</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="38.234722222" lon="-119.086944444">
+  <ele>10220.0</ele>
+  <name>Potato Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="38.205277778" lon="-119.006944444">
+  <ele>8678.0</ele>
+  <name>Silver Hill</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="38.187777778" lon="-119.009444444">
+  <ele>8655.0</ele>
+  <name>Sugarloaf</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="40.543333333" lon="-121.228333333">
+  <ele>7985.0</ele>
+  <name>Black Butte</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="40.592222222" lon="-121.154444444">
+  <ele>7487.0</ele>
+  <name>Bogard Buttes</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="36.019722222" lon="-118.253888889">
+  <ele>9383.0</ele>
+  <name>Bald Mountain</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="41.578888889" lon="-123.091666667">
+  <ele>8271.0</ele>
+  <name>Boulder Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="37.838333333" lon="-118.356666667">
+  <ele>13445.0</ele>
+  <name>Montgomery Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="37.783333333" lon="-118.343055556">
+  <ele>13537.0</ele>
+  <name>Mount Dubois</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="37.813333333" lon="-118.351666667">
+  <ele>13310.0</ele>
+  <name>The Jumpoff</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="35.451111111" lon="-118.584166667">
+  <ele>7510.0</ele>
+  <name>Breckenridge Mountain</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="38.343611111" lon="-119.128333333">
+  <ele>9212.0</ele>
+  <name>Masonic Mountain</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="38.3575" lon="-119.125555556">
+  <ele>8629.0</ele>
+  <name>New York Hill</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="38.144722222" lon="-119.489166667">
+  <ele>11188.0</ele>
+  <name>Center Mountain</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="38.131944444" lon="-119.458888889">
+  <ele>10558.0</ele>
+  <name>Cirque Mountain</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="38.18" lon="-119.408611111">
+  <ele>11821.0</ele>
+  <name>Eagle Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="38.196944444" lon="-119.4925">
+  <ele>11283.0</ele>
+  <name>Flatiron Butte</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="38.161944444" lon="-119.49">
+  <ele>10722.0</ele>
+  <name>Grouse Mountain</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="38.188611111" lon="-119.485833333">
+  <ele>11447.0</ele>
+  <name>Hanna Mountain</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="38.158888889" lon="-119.443333333">
+  <ele>11686.0</ele>
+  <name>Hunewill Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="38.166388889" lon="-119.386944444">
+  <ele>10741.0</ele>
+  <name>Robinson Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="38.167777778" lon="-119.423055556">
+  <ele>11683.0</ele>
+  <name>Victoria Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="38.236111111" lon="-119.472222222">
+  <ele>11532.0</ele>
+  <name>Walker Mountain</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="39.938055556" lon="-121.235833333">
+  <ele>7149.0</ele>
+  <name>Bald Eagle Mountain</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="39.963055556" lon="-121.166944444">
+  <ele>7054.0</ele>
+  <name>Mount Pleasant</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="40.375555556" lon="-120.121388889">
+  <ele>7602.0</ele>
+  <name>Hot Springs Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="39.049444444" lon="-120.380555556">
+  <ele>7546.0</ele>
+  <name>Bunker Hill</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="40.806666667" lon="-121.627777778">
+  <ele>7848.0</ele>
+  <name>Burney Mountain</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="34.256388889" lon="-117.0075">
+  <ele>8435.0</ele>
+  <name>Butler Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="34.251111111" lon="-117.029166667">
+  <ele>8353.0</ele>
+  <name>Crafts Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="34.364722222" lon="-117.030833333">
+  <ele>7070.0</ele>
+  <name>North Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="34.3425" lon="-117.014722222">
+  <ele>7730.0</ele>
+  <name>South Peak White Mountain</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="34.260555556" lon="-117.037222222">
+  <ele>7451.0</ele>
+  <name>West Point</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="34.351111111" lon="-117.014444444">
+  <ele>7726.0</ele>
+  <name>White Mountain</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="35.972222222" lon="-118.646388889">
+  <ele>7598.0</ele>
+  <name>Parker Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="41.258888889" lon="-122.781111111">
+  <ele>8058.0</ele>
+  <name>Craggy Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="36.169166667" lon="-118.513055556">
+  <ele>8419.0</ele>
+  <name>Hermit Rock</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="36.181666667" lon="-118.598055556">
+  <ele>9101.0</ele>
+  <name>Jordan Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="35.566666667" lon="-118.126666667">
+  <ele>7073.0</ele>
+  <name>Skinner Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="35.865277778" lon="-118.362777778">
+  <ele>9380.0</ele>
+  <name>Cannell Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="35.851388889" lon="-118.271388889">
+  <ele>8232.0</ele>
+  <name>Church Dome</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="40.239166667" lon="-121.0325">
+  <ele>7457.0</ele>
+  <name>Dyer Mountain</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="38.683611111" lon="-120.0225">
+  <ele>8999.0</ele>
+  <name>Black Butte</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="38.704722222" lon="-120.120277778">
+  <ele>8018.0</ele>
+  <name>Castle Point</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="38.657222222" lon="-120.047777778">
+  <ele>9573.0</ele>
+  <name>Covered Wagon Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="38.658888889" lon="-120.023333333">
+  <ele>9541.0</ele>
+  <name>Fourth of July Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="38.740277778" lon="-120.051666667">
+  <ele>9596.0</ele>
+  <name>Little Round Top</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="38.688888889" lon="-120.0925">
+  <ele>9255.0</ele>
+  <name>Martin Point</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="38.651944444" lon="-120.04">
+  <ele>9767.0</ele>
+  <name>Melissa Coray Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="38.663611111" lon="-120.001388889">
+  <ele>10367.0</ele>
+  <name>Round Top</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="38.662777778" lon="-120.008055556">
+  <ele>10052.0</ele>
+  <name>The Sisters</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="38.6625" lon="-120.060555556">
+  <ele>9803.0</ele>
+  <name>Thimble Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="38.674166667" lon="-120.090833333">
+  <ele>9399.0</ele>
+  <name>Thunder Mountain</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="38.698055556" lon="-120.088333333">
+  <ele>8688.0</ele>
+  <name>Two Sentinels</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="41.009166667" lon="-122.912777778">
+  <ele>8012.0</ele>
+  <name>Black Mountain</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="41.030555556" lon="-122.958888889">
+  <ele>8346.0</ele>
+  <name>Caribou Mountain</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="41.095555556" lon="-122.968055556">
+  <ele>7497.0</ele>
+  <name>Coyote Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="41.091388889" lon="-122.969722222">
+  <ele>7775.0</ele>
+  <name>Packers Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="41.059722222" lon="-122.915833333">
+  <ele>7037.0</ele>
+  <name>Preachers Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="41.030833333" lon="-122.8975">
+  <ele>7779.0</ele>
+  <name>Red Rock Mountain</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="41.003888889" lon="-122.900833333">
+  <ele>7267.0</ele>
+  <name>Snowslide Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="38.628333333" lon="-119.992777778">
+  <ele>9800.0</ele>
+  <name>Deadwood Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="38.678611111" lon="-119.983333333">
+  <ele>9580.0</ele>
+  <name>Elephants Back</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="38.636666667" lon="-119.896388889">
+  <ele>8852.0</ele>
+  <name>Jeff Davis Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="38.661666667" lon="-119.898055556">
+  <ele>9390.0</ele>
+  <name>Markleeville Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="38.714166667" lon="-119.9875">
+  <ele>10029.0</ele>
+  <name>Red Lake Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="38.733611111" lon="-119.982777778">
+  <ele>10013.0</ele>
+  <name>Stevens Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="38.64" lon="-119.933333333">
+  <ele>9340.0</ele>
+  <name>The Nipple</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="37.578611111" lon="-118.550277778">
+  <ele>7887.0</ele>
+  <name>Casa Diablo Mountain</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="36.176111111" lon="-118.278055556">
+  <ele>9554.0</ele>
+  <name>Blackrock Mountain</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="36.206111111" lon="-118.274444444">
+  <ele>8766.0</ele>
+  <name>Doc Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="36.208888889" lon="-118.308611111">
+  <ele>9094.0</ele>
+  <name>Manzanita Knob</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="37.518333333" lon="-119.2325">
+  <ele>7946.0</ele>
+  <name>Cattle Mountain</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="37.568888889" lon="-119.247222222">
+  <ele>8609.0</ele>
+  <name>Green Mountain</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="37.611388889" lon="-119.163888889">
+  <ele>10991.0</ele>
+  <name>Iron Mountain</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="36.773055556" lon="-118.716111111">
+  <ele>8501.0</ele>
+  <name>Lookout Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="36.87" lon="-118.734166667">
+  <ele>10630.0</ele>
+  <name>Mount Harrington</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="36.805" lon="-118.631111111">
+  <ele>8629.0</ele>
+  <name>North Mountain</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="36.758611111" lon="-118.644444444">
+  <ele>8980.0</ele>
+  <name>Sentinel Dome</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="36.821111111" lon="-118.701666667">
+  <ele>7621.0</ele>
+  <name>Stag Dome</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="38.184166667" lon="-118.843333333">
+  <ele>8432.0</ele>
+  <name>Cedar Hill</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="36.537777778" lon="-117.786388889">
+  <ele>9163.0</ele>
+  <name>Cerro Gordo Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="36.510555556" lon="-117.752222222">
+  <ele>7651.0</ele>
+  <name>Conglomerate Mesa</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="40.74" lon="-120.982222222">
+  <ele>7031.0</ele>
+  <name>Ashurst Mountain</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="38.108333333" lon="-119.936944444">
+  <ele>7697.0</ele>
+  <name>Bourland Mountain</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="41.378333333" lon="-122.575555556">
+  <ele>8402.0</ele>
+  <name>China Mountain</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="37.408611111" lon="-117.927222222">
+  <ele>7546.0</ele>
+  <name>Chocolate Mountain</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="36.476944444" lon="-118.236944444">
+  <ele>12894.0</ele>
+  <name>Cirque Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="36.427777778" lon="-118.190277778">
+  <ele>11611.0</ele>
+  <name>Trail Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="39.345555556" lon="-120.508888889">
+  <ele>7205.0</ele>
+  <name>Fordyce Summit</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="39.370555556" lon="-120.521944444">
+  <ele>7749.0</ele>
+  <name>Old Man Mountain</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="39.339166667" lon="-120.535277778">
+  <ele>7835.0</ele>
+  <name>Red Mountain</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="39.338888889" lon="-120.534722222">
+  <ele>7789.0</ele>
+  <name>Signal Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="35.4175" lon="-118.289166667">
+  <ele>7638.0</ele>
+  <name>Sorrell Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="35.525277778" lon="-115.589166667">
+  <ele>7841.0</ele>
+  <name>Clark Mountain</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="39.6625" lon="-120.552222222">
+  <ele>8048.0</ele>
+  <name>Haskell Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="39.705" lon="-120.621944444">
+  <ele>7060.0</ele>
+  <name>Millis Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="38.526111111" lon="-119.624722222">
+  <ele>8917.0</ele>
+  <name>Mineral Mountain</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="41.9375" lon="-122.979166667">
+  <ele>7100.0</ele>
+  <name>Condrey Mountain</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="39.910833333" lon="-120.100277778">
+  <ele>8182.0</ele>
+  <name>Adams Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="39.942222222" lon="-120.125">
+  <ele>7792.0</ele>
+  <name>Crystal Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="37.566666667" lon="-118.811111111">
+  <ele>10843.0</ele>
+  <name>McGee Mountain</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="37.572222222" lon="-118.853055556">
+  <ele>10669.0</ele>
+  <name>Mono Jim Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="37.545833333" lon="-118.8425">
+  <ele>11548.0</ele>
+  <name>Mount Aggie</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="37.531944444" lon="-118.850833333">
+  <ele>12592.0</ele>
+  <name>Mount Baldwin</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="37.511388889" lon="-118.779722222">
+  <ele>12999.0</ele>
+  <name>Mount Morgan</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="37.561388889" lon="-118.858333333">
+  <ele>12241.0</ele>
+  <name>Mount Morrison</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="37.5075" lon="-118.869166667">
+  <ele>13140.0</ele>
+  <name>Red Slate Mountain</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="38.201388889" lon="-119.873611111">
+  <ele>9124.0</ele>
+  <name>Burst Rock</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="38.247222222" lon="-119.837777778">
+  <ele>9373.0</ele>
+  <name>Castle Rock</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="38.240277778" lon="-119.857222222">
+  <ele>9557.0</ele>
+  <name>Cooper Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="40.775277778" lon="-121.190833333">
+  <ele>7287.0</ele>
+  <name>Blacks Mountain</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="36.202777778" lon="-117.713888889">
+  <ele>8146.0</ele>
+  <name>Coso Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="36.148055556" lon="-117.706944444">
+  <ele>7503.0</ele>
+  <name>Silver Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="37.046111111" lon="-118.923333333">
+  <ele>9406.0</ele>
+  <name>Cape Horn</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="37.104166667" lon="-118.916111111">
+  <ele>9646.0</ele>
+  <name>Corral Mountain</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="37.101111111" lon="-118.936666667">
+  <ele>9354.0</ele>
+  <name>Long Top</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="37.038611111" lon="-118.905277778">
+  <ele>9961.0</ele>
+  <name>Loper Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="37.046666667" lon="-118.960555556">
+  <ele>8461.0</ele>
+  <name>Lost Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="37.123055556" lon="-118.954444444">
+  <ele>9455.0</ele>
+  <name>Maxson Dome</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="40.943611111" lon="-122.872777778">
+  <ele>8356.0</ele>
+  <name>Gibson Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="40.910277778" lon="-122.872222222">
+  <ele>7956.0</ele>
+  <name>Granite Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="40.961944444" lon="-122.871666667">
+  <ele>7713.0</ele>
+  <name>Seven Up Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="37.978888889" lon="-118.808888889">
+  <ele>8852.0</ele>
+  <name>Cowtrack Mountain</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="37.924166667" lon="-118.771111111">
+  <ele>8924.0</ele>
+  <name>Granite Mountain</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="37.135555556" lon="-118.466944444">
+  <ele>9239.0</ele>
+  <name>Cienega Mirth</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="37.159444444" lon="-118.388055556">
+  <ele>8087.0</ele>
+  <name>Piper Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="37.207777778" lon="-118.434722222">
+  <ele>10928.0</ele>
+  <name>Round Mountain</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="37.183888889" lon="-118.436944444">
+  <ele>10896.0</ele>
+  <name>Sugarloaf</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="36.111666667" lon="-118.153333333">
+  <ele>9439.0</ele>
+  <name>Crag Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="36.020277778" lon="-118.187222222">
+  <ele>8150.0</ele>
+  <name>Pine Mountain</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="40.044722222" lon="-120.886111111">
+  <ele>7221.0</ele>
+  <name>Mount Hough</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="37.783888889" lon="-118.901111111">
+  <ele>9085.0</ele>
+  <name>Bald Mountain</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="37.804722222" lon="-118.931944444">
+  <ele>8189.0</ele>
+  <name>Indiana Summit</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="39.895555556" lon="-120.449722222">
+  <ele>7444.0</ele>
+  <name>Crocker Mountain</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="39.383611111" lon="-122.751944444">
+  <ele>7050.0</ele>
+  <name>Snow Mountain East</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="39.376944444" lon="-122.758611111">
+  <ele>7021.0</ele>
+  <name>Snow Mountain West</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="37.432777778" lon="-118.108333333">
+  <ele>8973.0</ele>
+  <name>Index Hill</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="37.488055556" lon="-118.071666667">
+  <ele>9498.0</ele>
+  <name>Iron Mountain</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="37.477777778" lon="-118.1075">
+  <ele>10111.0</ele>
+  <name>Red Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="37.476944444" lon="-118.079166667">
+  <ele>9419.0</ele>
+  <name>Sage Hen Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="37.591111111" lon="-119.013611111">
+  <ele>10305.0</ele>
+  <name>Crystal Crag</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="37.521666667" lon="-119.03">
+  <ele>9934.0</ele>
+  <name>Devils Top</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="37.510555556" lon="-119.037222222">
+  <ele>10649.0</ele>
+  <name>Double Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="37.595" lon="-119.125555556">
+  <ele>9301.0</ele>
+  <name>Granite Stairway</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="37.565277778" lon="-119.124444444">
+  <ele>8832.0</ele>
+  <name>Lion Point</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="37.551944444" lon="-119.060555556">
+  <ele>9521.0</ele>
+  <name>Pumice Butte</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="37.588611111" lon="-119.057777778">
+  <ele>8960.0</ele>
+  <name>Red Cones</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="34.358611111" lon="-117.764444444">
+  <ele>9383.0</ele>
+  <name>Mount Baden-Powell</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="34.359166667" lon="-117.781388889">
+  <ele>8989.0</ele>
+  <name>Mount Burnham</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="34.341388889" lon="-117.805">
+  <ele>8783.0</ele>
+  <name>Mount Hawkins</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="34.345" lon="-117.839722222">
+  <ele>8261.0</ele>
+  <name>Mount Islip</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="34.371944444" lon="-117.805833333">
+  <ele>8353.0</ele>
+  <name>Mount Lewis</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="34.371111111" lon="-117.857777778">
+  <ele>8199.0</ele>
+  <name>Mount Williamson</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="34.325" lon="-117.756666667">
+  <ele>7375.0</ele>
+  <name>Ross Mountain</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="34.311388889" lon="-117.810277778">
+  <ele>7772.0</ele>
+  <name>South Mount Hawkins</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="34.350555556" lon="-117.799444444">
+  <ele>9117.0</ele>
+  <name>Throop Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="34.233611111" lon="-117.5975">
+  <ele>8448.0</ele>
+  <name>Bighorn Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="34.222777778" lon="-117.585">
+  <ele>8842.0</ele>
+  <name>Cucamonga Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="34.227777778" lon="-117.623888889">
+  <ele>8661.0</ele>
+  <name>Ontario Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="34.245" lon="-117.593055556">
+  <ele>8271.0</ele>
+  <name>Timber Mountain</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="34.863888889" lon="-119.07">
+  <ele>7087.0</ele>
+  <name>Escapula Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="35.041666667" lon="-118.571666667">
+  <ele>7749.0</ele>
+  <name>Cummings Mountain</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="38.372222222" lon="-119.7775">
+  <ele>9691.0</ele>
+  <name>Bald Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="38.274444444" lon="-119.848333333">
+  <ele>9367.0</ele>
+  <name>Eagle Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="38.253333333" lon="-119.801388889">
+  <ele>9685.0</ele>
+  <name>The Three Chimneys</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="38.457777778" lon="-119.815">
+  <ele>9806.0</ele>
+  <name>Airola Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="38.473055556" lon="-119.759722222">
+  <ele>10029.0</ele>
+  <name>Arnot Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="38.404722222" lon="-119.871944444">
+  <ele>9511.0</ele>
+  <name>Dardanelles Cone</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="38.495833333" lon="-119.815555556">
+  <ele>9639.0</ele>
+  <name>Folger Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="38.478055556" lon="-119.803055556">
+  <ele>9672.0</ele>
+  <name>Hiram Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="38.450277778" lon="-119.8225">
+  <ele>9741.0</ele>
+  <name>Iceberg Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="38.448611111" lon="-119.782777778">
+  <ele>9301.0</ele>
+  <name>Lightning Mountian</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="38.497222222" lon="-119.851666667">
+  <ele>9678.0</ele>
+  <name>Peep Sight Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="38.404722222" lon="-119.863055556">
+  <ele>8875.0</ele>
+  <name>The Dardanelles</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="41.716111111" lon="-120.278611111">
+  <ele>7930.0</ele>
+  <name>Buck Mountain</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="41.641666667" lon="-120.268055556">
+  <ele>7392.0</ele>
+  <name>Little Baldy</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="41.177222222" lon="-122.935">
+  <ele>7611.0</ele>
+  <name>Deadman Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="36.296944444" lon="-118.759722222">
+  <ele>7218.0</ele>
+  <name>Dennison Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="38.508055556" lon="-119.295277778">
+  <ele>10846.0</ele>
+  <name>Middle Sister</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="37.853055556" lon="-118.841111111">
+  <ele>9111.0</ele>
+  <name>Sagehen Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="40.312777778" lon="-120.693055556">
+  <ele>7657.0</ele>
+  <name>Diamond Mountain</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="40.297222222" lon="-120.709166667">
+  <ele>7569.0</ele>
+  <name>Red Rock</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="37.103888889" lon="-119.205555556">
+  <ele>7838.0</ele>
+  <name>Bald Mountain</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="37.115277778" lon="-119.132777778">
+  <ele>7461.0</ele>
+  <name>Dinkey Dome</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="38.447777778" lon="-119.688055556">
+  <ele>9383.0</ele>
+  <name>Boulder Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="38.448888889" lon="-119.734166667">
+  <ele>10016.0</ele>
+  <name>Disaster Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="38.381944444" lon="-119.743333333">
+  <ele>10010.0</ele>
+  <name>Red Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="38.384166667" lon="-119.667222222">
+  <ele>11243.0</ele>
+  <name>Stanislaus Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="38.426111111" lon="-119.745833333">
+  <ele>8343.0</ele>
+  <name>The Iceberg</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="38.435555556" lon="-119.641666667">
+  <ele>10817.0</ele>
+  <name>Whitecliff Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="39.938888889" lon="-120.285">
+  <ele>8323.0</ele>
+  <name>Dixie Mountain</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="39.602222222" lon="-120.105833333">
+  <ele>8740.0</ele>
+  <name>Babbitt Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="39.533333333" lon="-120.049722222">
+  <ele>7493.0</ele>
+  <name>Beacon Point</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="39.557777778" lon="-120.088333333">
+  <ele>8074.0</ele>
+  <name>Crystal Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="37.181666667" lon="-119.050555556">
+  <ele>9741.0</ele>
+  <name>Black Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="37.125555556" lon="-119.056944444">
+  <ele>10318.0</ele>
+  <name>Brown Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="37.154444444" lon="-119.039444444">
+  <ele>10256.0</ele>
+  <name>Dogtooth Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="37.196388889" lon="-119.116944444">
+  <ele>9632.0</ele>
+  <name>Red Mountain</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="37.141388889" lon="-119.061111111">
+  <ele>10548.0</ele>
+  <name>Three Sisters</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="38.364166667" lon="-119.0875">
+  <ele>8090.0</ele>
+  <name>Dome Hill</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="38.255277778" lon="-119.942777778">
+  <ele>7851.0</ele>
+  <name>Bull Run Rock</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="38.338888889" lon="-119.976111111">
+  <ele>7333.0</ele>
+  <name>Dome Rock</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="38.34" lon="-119.876666667">
+  <ele>7867.0</ele>
+  <name>Double Dome Rock</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="38.260555556" lon="-119.969444444">
+  <ele>7234.0</ele>
+  <name>Pikes Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="36.908888889" lon="-117.597777778">
+  <ele>8678.0</ele>
+  <name>Dry Mountain</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="39.154444444" lon="-120.512777778">
+  <ele>7087.0</ele>
+  <name>Duncan Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="39.144444444" lon="-120.508055556">
+  <ele>7185.0</ele>
+  <name>Little Bald Mountain</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="38.038888889" lon="-119.278888889">
+  <ele>11755.0</ele>
+  <name>Black Mountain</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="38.06" lon="-119.324722222">
+  <ele>11726.0</ele>
+  <name>Camiaca Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="38.122777778" lon="-119.3375">
+  <ele>11411.0</ele>
+  <name>Crater Crest</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="38.064722222" lon="-119.274444444">
+  <ele>12382.0</ele>
+  <name>Dunderberg Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="38.059722222" lon="-119.305">
+  <ele>10951.0</ele>
+  <name>Epidote Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="38.024444444" lon="-119.305277778">
+  <ele>12438.0</ele>
+  <name>Excelsior Mountain</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="38.074166667" lon="-119.3125">
+  <ele>10958.0</ele>
+  <name>Gabbro Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="38.051944444" lon="-119.348055556">
+  <ele>11299.0</ele>
+  <name>Grey Butte</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="38.008333333" lon="-119.26">
+  <ele>11106.0</ele>
+  <name>Mount Scowden</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="38.066666667" lon="-119.311388889">
+  <ele>10879.0</ele>
+  <name>Page Peaks</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="38.008611111" lon="-119.318055556">
+  <ele>11732.0</ele>
+  <name>Shepherd Crest</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="38.0575" lon="-119.363055556">
+  <ele>11667.0</ele>
+  <name>Stanton Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="38.083055556" lon="-119.353333333">
+  <ele>12185.0</ele>
+  <name>Twin Peaks</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="38.065833333" lon="-119.358055556">
+  <ele>11991.0</ele>
+  <name>Virginia Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="36.058055556" lon="-118.3775">
+  <ele>9659.0</ele>
+  <name>Lookout Mountain</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="36.071111111" lon="-118.395277778">
+  <ele>9327.0</ele>
+  <name>Schaeffer Mountain</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="36.01" lon="-118.391666667">
+  <ele>9842.0</ele>
+  <name>Sherman Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="36.109444444" lon="-118.484444444">
+  <ele>8202.0</ele>
+  <name>The Needles</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="41.250555556" lon="-120.229722222">
+  <ele>7697.0</ele>
+  <name>Bald Mountain</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="41.276944444" lon="-120.168055556">
+  <ele>8934.0</ele>
+  <name>Cole Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="41.344722222" lon="-120.189166667">
+  <ele>9081.0</ele>
+  <name>Dusenbury Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="41.283611111" lon="-120.200833333">
+  <ele>9895.0</ele>
+  <name>Eagle Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="34.884444444" lon="-119.224722222">
+  <ele>7050.0</ele>
+  <name>Brush Mountain</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="41.306388889" lon="-122.9325">
+  <ele>7526.0</ele>
+  <name>Eaton Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="41.274722222" lon="-122.932777778">
+  <ele>7588.0</ele>
+  <name>Grizzly Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="41.282777778" lon="-122.951944444">
+  <ele>8107.0</ele>
+  <name>Russian Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="41.279722222" lon="-122.925">
+  <ele>7654.0</ele>
+  <name>Wildcat Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="38.531388889" lon="-119.845277778">
+  <ele>9055.0</ele>
+  <name>Black Dome</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="38.547777778" lon="-119.814444444">
+  <ele>9186.0</ele>
+  <name>Ebbetts Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="38.543888889" lon="-119.755833333">
+  <ele>10919.0</ele>
+  <name>Highland Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="38.510833333" lon="-119.873055556">
+  <ele>9570.0</ele>
+  <name>Lookout Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="38.603888889" lon="-119.833333333">
+  <ele>10023.0</ele>
+  <name>Raymond Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="38.579444444" lon="-119.837777778">
+  <ele>9695.0</ele>
+  <name>Reynolds Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="38.564166667" lon="-119.760277778">
+  <ele>10777.0</ele>
+  <name>Silver Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="38.521944444" lon="-119.788055556">
+  <ele>9977.0</ele>
+  <name>Tryon Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="38.867222222" lon="-120.072777778">
+  <ele>8527.0</ele>
+  <name>Angora Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="38.832222222" lon="-120.059722222">
+  <ele>8248.0</ele>
+  <name>Becker Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="38.856666667" lon="-120.073055556">
+  <ele>8888.0</ele>
+  <name>Echo Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="38.846111111" lon="-120.056666667">
+  <ele>8264.0</ele>
+  <name>Flagpole Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="38.859722222" lon="-120.106388889">
+  <ele>8638.0</ele>
+  <name>Keiths Dome</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="38.833333333" lon="-120.101666667">
+  <ele>9203.0</ele>
+  <name>Ralston Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="38.832777778" lon="-120.069166667">
+  <ele>8799.0</ele>
+  <name>Talking Mountain</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="37.734166667" lon="-119.637777778">
+  <ele>7569.0</ele>
+  <name>El Capitan</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="38.97" lon="-120.122777778">
+  <ele>9111.0</ele>
+  <name>Jakes Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="38.931666667" lon="-120.113888889">
+  <ele>8648.0</ele>
+  <name>Maggies Peaks</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="38.906111111" lon="-120.098888889">
+  <ele>9705.0</ele>
+  <name>Mount Tallac</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="38.910277778" lon="-120.035833333">
+  <ele>7241.0</ele>
+  <name>Tahoe Mountain</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="41.223888889" lon="-120.169166667">
+  <ele>8451.0</ele>
+  <name>Bearcamp Mountain</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="41.176944444" lon="-120.143055556">
+  <ele>8094.0</ele>
+  <name>Black Cone</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="41.138888889" lon="-120.184166667">
+  <ele>8612.0</ele>
+  <name>Buck Mountain</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="41.238055556" lon="-120.164722222">
+  <ele>8937.0</ele>
+  <name>Emerson Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="41.149166667" lon="-120.126666667">
+  <ele>8717.0</ele>
+  <name>Hat Mountain</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="41.2175" lon="-120.135">
+  <ele>8491.0</ele>
+  <name>Horse Mountain</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="41.133888889" lon="-120.135555556">
+  <ele>8507.0</ele>
+  <name>Red Rock Mountain</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="41.208611111" lon="-120.236944444">
+  <ele>7369.0</ele>
+  <name>Sunflower Knob</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="36.383888889" lon="-117.226111111">
+  <ele>7490.0</ele>
+  <name>Pinto Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="38.149166667" lon="-119.628055556">
+  <ele>10531.0</ele>
+  <name>Bigelow Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="38.205833333" lon="-119.709166667">
+  <ele>10295.0</ele>
+  <name>Black Hawk Mountain</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="38.215277778" lon="-119.746111111">
+  <ele>10331.0</ele>
+  <name>Granite Dome</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="38.245277778" lon="-119.654722222">
+  <ele>10620.0</ele>
+  <name>Kennedy Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="38.234444444" lon="-119.656944444">
+  <ele>10827.0</ele>
+  <name>Molo Mountain</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="38.236944444" lon="-119.696111111">
+  <ele>10699.0</ele>
+  <name>Relief Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="38.1525" lon="-119.671388889">
+  <ele>9199.0</ele>
+  <name>Sachse Monument</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="39.395" lon="-120.557777778">
+  <ele>7982.0</ele>
+  <name>Black Buttes</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="39.446388889" lon="-120.551111111">
+  <ele>8363.0</ele>
+  <name>English Mountain</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="39.483888889" lon="-120.575">
+  <ele>7418.0</ele>
+  <name>Findley Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="39.401111111" lon="-120.503055556">
+  <ele>7401.0</ele>
+  <name>Hartley Butte</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="39.418611111" lon="-120.585277778">
+  <ele>7372.0</ele>
+  <name>Haystack Mountain</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="39.436388889" lon="-120.620555556">
+  <ele>7037.0</ele>
+  <name>Red Hill</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="41.400833333" lon="-123.214444444">
+  <ele>7293.0</ele>
+  <name>English Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="41.3875" lon="-122.954166667">
+  <ele>7500.0</ele>
+  <name>Etna Mountain</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="39.640833333" lon="-120.118888889">
+  <ele>8067.0</ele>
+  <name>Burma Summit</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="39.711944444" lon="-120.095">
+  <ele>7103.0</ele>
+  <name>Haskell Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="35.923055556" lon="-118.376388889">
+  <ele>8438.0</ele>
+  <name>Cherry Hill</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="38.323055556" lon="-119.394444444">
+  <ele>8845.0</ele>
+  <name>Bush Mountain</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="38.277222222" lon="-119.476388889">
+  <ele>10535.0</ele>
+  <name>Mount Emma</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="38.263888889" lon="-119.380833333">
+  <ele>10033.0</ele>
+  <name>Rickey Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="38.306944444" lon="-119.383333333">
+  <ele>8592.0</ele>
+  <name>Volcanic Butte</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="37.950555556" lon="-119.4275">
+  <ele>10295.0</ele>
+  <name>Cold Mountain</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="37.970833333" lon="-119.402777778">
+  <ele>9275.0</ele>
+  <name>Elbow Hill</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="37.953333333" lon="-119.470277778">
+  <ele>9521.0</ele>
+  <name>Hooper Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="37.985277778" lon="-119.480277778">
+  <ele>10751.0</ele>
+  <name>Pettit Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="37.88" lon="-119.393333333">
+  <ele>8766.0</ele>
+  <name>Pothole Dome</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="37.987777778" lon="-119.488333333">
+  <ele>10571.0</ele>
+  <name>Regulation Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="37.875277778" lon="-119.484722222">
+  <ele>10856.0</ele>
+  <name>Tuolumne Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="37.980277778" lon="-119.498055556">
+  <ele>10522.0</ele>
+  <name>West Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="37.928333333" lon="-119.442777778">
+  <ele>9445.0</ele>
+  <name>Wildcat Point</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="34.283055556" lon="-116.899166667">
+  <ele>8199.0</ele>
+  <name>Bertha Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="34.290833333" lon="-116.945">
+  <ele>8376.0</ele>
+  <name>Delamar Mountain</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="34.260833333" lon="-116.970833333">
+  <ele>7920.0</ele>
+  <name>Grays Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="34.271666667" lon="-116.989444444">
+  <ele>7730.0</ele>
+  <name>Hanna Rocks</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="34.291111111" lon="-116.970277778">
+  <ele>7615.0</ele>
+  <name>Little Bear Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="40.117222222" lon="-120.318055556">
+  <ele>7169.0</ele>
+  <name>Black Mountain</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="37.33" lon="-118.950555556">
+  <ele>9846.0</ele>
+  <name>Bear Dome</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="37.251388889" lon="-118.952222222">
+  <ele>7697.0</ele>
+  <name>Florence Rock</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="37.324722222" lon="-118.941111111">
+  <ele>9947.0</ele>
+  <name>Infant Buttes</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="37.2975" lon="-118.961111111">
+  <ele>7664.0</ele>
+  <name>Jackass Dike</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="37.2925" lon="-118.894444444">
+  <ele>12172.0</ele>
+  <name>Mount Hooper</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="37.252222222" lon="-118.894444444">
+  <ele>8855.0</ele>
+  <name>North Rock</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="34.124444444" lon="-116.894444444">
+  <ele>10840.0</ele>
+  <name>Anderson Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="34.076111111" lon="-116.9475">
+  <ele>7825.0</ele>
+  <name>Birch Mountain</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="34.068055556" lon="-116.928888889">
+  <ele>8287.0</ele>
+  <name>Cedar Mountain</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="34.060277778" lon="-116.885">
+  <ele>9137.0</ele>
+  <name>Little San Gorgonio Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="34.066666667" lon="-116.922222222">
+  <ele>8350.0</ele>
+  <name>Oak Glen Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="34.122222222" lon="-116.923333333">
+  <ele>10577.0</ele>
+  <name>San Bernadino Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="34.124722222" lon="-116.910277778">
+  <ele>10617.0</ele>
+  <name>San Bernardino East Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="34.124444444" lon="-116.894444444">
+  <ele>10840.0</ele>
+  <name>San Bernardino Mountain</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="34.063888889" lon="-116.915277778">
+  <ele>8668.0</ele>
+  <name>Wilshire Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="41.862777778" lon="-120.237222222">
+  <ele>7772.0</ele>
+  <name>Fandango Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="34.955555556" lon="-115.536388889">
+  <ele>7162.0</ele>
+  <name>Edgar Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="34.775" lon="-118.968888889">
+  <ele>8012.0</ele>
+  <name>Frazier Mountain</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="34.842222222" lon="-118.981388889">
+  <ele>7152.0</ele>
+  <name>Tecuya Mountain</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="40.260555556" lon="-120.830833333">
+  <ele>7296.0</ele>
+  <name>Cairn Butte</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="40.29" lon="-120.832777778">
+  <ele>7615.0</ele>
+  <name>Coyote Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="40.316666667" lon="-120.851944444">
+  <ele>7339.0</ele>
+  <name>Hamilton Mountain</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="40.280555556" lon="-120.8075">
+  <ele>7490.0</ele>
+  <name>Indicator Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="40.688055556" lon="-120.600277778">
+  <ele>7789.0</ele>
+  <name>Fredonyer Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="38.857777778" lon="-119.900555556">
+  <ele>10846.0</ele>
+  <name>Freel Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="38.8625" lon="-119.884722222">
+  <ele>10817.0</ele>
+  <name>Jobs Sister</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="38.755833333" lon="-119.903333333">
+  <ele>9003.0</ele>
+  <name>Pickett Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="38.796944444" lon="-119.944444444">
+  <ele>9298.0</ele>
+  <name>Thompson Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="38.871666667" lon="-119.923055556">
+  <ele>9908.0</ele>
+  <name>Trimmer Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="38.776111111" lon="-119.965555556">
+  <ele>9422.0</ele>
+  <name>Waterhouse Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="40.507222222" lon="-120.705833333">
+  <ele>7123.0</ele>
+  <name>Greens Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="40.546666667" lon="-120.736388889">
+  <ele>7136.0</ele>
+  <name>Mahogany Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="41.591944444" lon="-121.809444444">
+  <ele>7201.0</ele>
+  <name>Garner Mountain</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="36.671944444" lon="-118.881388889">
+  <ele>8035.0</ele>
+  <name>Big Baldy</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="40.103333333" lon="-120.685555556">
+  <ele>7283.0</ele>
+  <name>Wheeler Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="36.614444444" lon="-118.804444444">
+  <ele>8048.0</ele>
+  <name>Little Baldy</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="37.818611111" lon="-118.633888889">
+  <ele>8852.0</ele>
+  <name>Black Mountain</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="37.775" lon="-118.708333333">
+  <ele>11138.0</ele>
+  <name>Glass Mountain</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="39.749166667" lon="-120.721111111">
+  <ele>7159.0</ele>
+  <name>Eureka Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="39.708333333" lon="-120.688333333">
+  <ele>7749.0</ele>
+  <name>Mount Elwell</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="39.725" lon="-120.713611111">
+  <ele>7336.0</ele>
+  <name>Mount Washington</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="39.2375" lon="-120.274166667">
+  <ele>8563.0</ele>
+  <name>Billys Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="39.198333333" lon="-120.286944444">
+  <ele>9019.0</ele>
+  <name>Granite Chief</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="39.206944444" lon="-120.315555556">
+  <ele>8901.0</ele>
+  <name>Lyon Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="39.146111111" lon="-120.33">
+  <ele>8369.0</ele>
+  <name>Mount Mildred</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="39.200833333" lon="-120.300833333">
+  <ele>8894.0</ele>
+  <name>Needle Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="39.180833333" lon="-120.269722222">
+  <ele>8878.0</ele>
+  <name>Squaw Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="39.245" lon="-120.284722222">
+  <ele>8901.0</ele>
+  <name>Tinker Knob</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="39.433055556" lon="-120.63">
+  <ele>7382.0</ele>
+  <name>Bowman Mountain</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="39.405" lon="-120.629166667">
+  <ele>7398.0</ele>
+  <name>Fall Creek Mountain</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="39.49" lon="-120.649444444">
+  <ele>7260.0</ele>
+  <name>Pinoli Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="36.906666667" lon="-117.133055556">
+  <ele>7903.0</ele>
+  <name>Mount Palmer</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="41.720555556" lon="-122.223055556">
+  <ele>8281.0</ele>
+  <name>Goosenest</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="37.449722222" lon="-118.988611111">
+  <ele>11443.0</ele>
+  <name>Graveyard Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="37.47" lon="-118.888888889">
+  <ele>11847.0</ele>
+  <name>Mount Izaak Walton</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="37.3975" lon="-118.888888889">
+  <ele>11138.0</ele>
+  <name>Volcanic Knob</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="36.149444444" lon="-118.124722222">
+  <ele>9396.0</ele>
+  <name>Deer Mountain</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="36.189444444" lon="-118.075">
+  <ele>9757.0</ele>
+  <name>Round Mountain</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="37.745833333" lon="-119.615">
+  <ele>7749.0</ele>
+  <name>Eagle Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="37.746111111" lon="-119.533055556">
+  <ele>8825.0</ele>
+  <name>Half Dome</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="37.728611111" lon="-119.5325">
+  <ele>7057.0</ele>
+  <name>Liberty Cap</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="37.702777778" lon="-119.517777778">
+  <ele>9078.0</ele>
+  <name>Mount Starr King</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="37.689722222" lon="-119.593611111">
+  <ele>8094.0</ele>
+  <name>Ostrander Rocks</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="37.723055556" lon="-119.584444444">
+  <ele>8133.0</ele>
+  <name>Sentinel Dome</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="37.713055556" lon="-119.604722222">
+  <ele>7500.0</ele>
+  <name>Taft Point</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="40.741111111" lon="-121.036111111">
+  <ele>7277.0</ele>
+  <name>Harvey Mountain</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="39.616944444" lon="-120.553611111">
+  <ele>7415.0</ele>
+  <name>Deadman Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="38.670833333" lon="-119.709444444">
+  <ele>7474.0</ele>
+  <name>Colorado Hill</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="38.706944444" lon="-119.627777778">
+  <ele>8487.0</ele>
+  <name>High Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="38.688888889" lon="-119.718055556">
+  <ele>7546.0</ele>
+  <name>Mogul Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="38.638333333" lon="-119.699444444">
+  <ele>7480.0</ele>
+  <name>Silver Hill</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="41.278333333" lon="-120.800833333">
+  <ele>7011.0</ele>
+  <name>Manzanita Mountain</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="37.996944444" lon="-119.700833333">
+  <ele>8356.0</ele>
+  <name>Mount Gibson</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="37.926666667" lon="-119.735277778">
+  <ele>7730.0</ele>
+  <name>Smith Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="39.375277778" lon="-120.217222222">
+  <ele>7159.0</ele>
+  <name>Prosser Hill</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="36.176944444" lon="-118.459722222">
+  <ele>7467.0</ele>
+  <name>Castle Rock</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="36.221666667" lon="-118.388611111">
+  <ele>8159.0</ele>
+  <name>Hockett Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="39.079444444" lon="-120.238888889">
+  <ele>8153.0</ele>
+  <name>Barker Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="39.068333333" lon="-120.1975">
+  <ele>8651.0</ele>
+  <name>Ellis Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="39.013611111" lon="-120.204166667">
+  <ele>8235.0</ele>
+  <name>Lost Corner Mountain</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="39.025833333" lon="-120.219166667">
+  <ele>7953.0</ele>
+  <name>Sourdough Hill</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="39.1125" lon="-120.231666667">
+  <ele>8835.0</ele>
+  <name>Twin Peaks</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="40.217777778" lon="-121.386388889">
+  <ele>7858.0</ele>
+  <name>Butt Mountain</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="40.162777778" lon="-121.410277778">
+  <ele>7050.0</ele>
+  <name>Eagle Rocks</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="40.150833333" lon="-121.430277778">
+  <ele>7044.0</ele>
+  <name>Humboldt Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="36.819444444" lon="-118.947777778">
+  <ele>7198.0</ele>
+  <name>Converse Mountain</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="37.243888889" lon="-119.138333333">
+  <ele>8195.0</ele>
+  <name>Bear Butte</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="37.218888889" lon="-119.156666667">
+  <ele>8527.0</ele>
+  <name>Chinese Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="37.216111111" lon="-119.239166667">
+  <ele>7188.0</ele>
+  <name>Sunset Point</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="37.180833333" lon="-119.221944444">
+  <ele>7894.0</ele>
+  <name>Tamarack Mountain</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="33.73" lon="-116.641388889">
+  <ele>7654.0</ele>
+  <name>Antsell Rock</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="33.718611111" lon="-116.626666667">
+  <ele>7549.0</ele>
+  <name>Apache Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="33.743611111" lon="-116.648611111">
+  <ele>7851.0</ele>
+  <name>South Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="39.382222222" lon="-120.364166667">
+  <ele>9019.0</ele>
+  <name>Basin Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="39.433055556" lon="-120.364444444">
+  <ele>9101.0</ele>
+  <name>Mount Lola</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="39.383333333" lon="-120.301388889">
+  <ele>7887.0</ele>
+  <name>Red Mountain</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="36.541388889" lon="-117.51">
+  <ele>7329.0</ele>
+  <name>Hunter Mountain</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="40.639166667" lon="-121.653888889">
+  <ele>7014.0</ele>
+  <name>Huckleberry Mountain</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="40.261388889" lon="-120.557777778">
+  <ele>7749.0</ele>
+  <name>Thompson Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="36.419722222" lon="-118.332777778">
+  <ele>11270.0</ele>
+  <name>Johnson Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="36.474444444" lon="-118.35">
+  <ele>12054.0</ele>
+  <name>Mount Anna Mills</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="35.988888889" lon="-118.603611111">
+  <ele>7211.0</ele>
+  <name>Table Mountain</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="37.853333333" lon="-119.060833333">
+  <ele>7162.0</ele>
+  <name>Aeolian Buttes</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="37.759166667" lon="-119.020555556">
+  <ele>8556.0</ele>
+  <name>Obsidian Dome</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="37.804444444" lon="-119.099722222">
+  <ele>9455.0</ele>
+  <name>Reversed Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="37.7825" lon="-119.026111111">
+  <ele>8405.0</ele>
+  <name>Wilson Butte</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="34.385" lon="-117.885277778">
+  <ele>7739.0</ele>
+  <name>Pallett Mountain</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="34.384722222" lon="-117.902777778">
+  <ele>7831.0</ele>
+  <name>Will Thrall Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="37.673055556" lon="-118.141388889">
+  <ele>7854.0</ele>
+  <name>Juniper Mountain</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="37.701944444" lon="-118.174166667">
+  <ele>8756.0</ele>
+  <name>Pinyon Mountain</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="37.3" lon="-119.184166667">
+  <ele>9865.0</ele>
+  <name>Kaiser Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="36.860833333" lon="-118.375">
+  <ele>13140.0</ele>
+  <name>Acrodectes Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="36.760833333" lon="-118.332222222">
+  <ele>11601.0</ele>
+  <name>Independence Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="36.868611111" lon="-118.339722222">
+  <ele>12168.0</ele>
+  <name>Indian Rock</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="36.789166667" lon="-118.347222222">
+  <ele>12621.0</ele>
+  <name>Kearsarge Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="36.861944444" lon="-118.365">
+  <ele>13136.0</ele>
+  <name>Mount Baxter</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="36.815833333" lon="-118.362777778">
+  <ele>12985.0</ele>
+  <name>Mount Mary Austin</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="34.195833333" lon="-117.049166667">
+  <ele>7844.0</ele>
+  <name>Keller Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="34.203888889" lon="-117.036388889">
+  <ele>7844.0</ele>
+  <name>Slide Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="36.263611111" lon="-118.443611111">
+  <ele>10157.0</ele>
+  <name>Angora Mountain</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="36.311944444" lon="-118.446111111">
+  <ele>10748.0</ele>
+  <name>Coyote Peaks</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="36.339166667" lon="-118.396944444">
+  <ele>8497.0</ele>
+  <name>Tower Rock</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="36.256666667" lon="-118.475833333">
+  <ele>8678.0</ele>
+  <name>White Mountain</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="36.268333333" lon="-118.283333333">
+  <ele>8911.0</ele>
+  <name>Indian Head</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="36.307777778" lon="-118.2875">
+  <ele>11443.0</ele>
+  <name>Kern Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="36.333888889" lon="-118.371944444">
+  <ele>10197.0</ele>
+  <name>Overlook Mountain</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="36.354722222" lon="-118.280833333">
+  <ele>9416.0</ele>
+  <name>Red Hill</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="36.313055556" lon="-118.333888889">
+  <ele>10587.0</ele>
+  <name>Three Rocks</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="40.171111111" lon="-120.724166667">
+  <ele>7503.0</ele>
+  <name>Eisenheimer Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="40.140833333" lon="-120.725833333">
+  <ele>7798.0</ele>
+  <name>Kettle Rock</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="40.1725" lon="-120.743611111">
+  <ele>7415.0</ele>
+  <name>Rattlesnake Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="40.155555556" lon="-120.737777778">
+  <ele>7208.0</ele>
+  <name>Tanners Rock</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="38.093333333" lon="-119.774444444">
+  <ele>8304.0</ele>
+  <name>Bartlett Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="38.114166667" lon="-119.793333333">
+  <ele>8291.0</ele>
+  <name>Gillett Mountain</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="38.095833333" lon="-119.8175">
+  <ele>7966.0</ele>
+  <name>Mercur Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="38.069166667" lon="-119.755277778">
+  <ele>8461.0</ele>
+  <name>Nance Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="35.726944444" lon="-115.917777778">
+  <ele>7123.0</ele>
+  <name>Kingston Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="41.181666667" lon="-120.698888889">
+  <ele>7050.0</ele>
+  <name>Knox Mountain</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="37.793888889" lon="-119.196111111">
+  <ele>12733.0</ele>
+  <name>Blacktop Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="37.775" lon="-119.230555556">
+  <ele>11978.0</ele>
+  <name>Donohue Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="37.813611111" lon="-119.201944444">
+  <ele>12972.0</ele>
+  <name>Koip Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="37.812777778" lon="-119.207777778">
+  <ele>12985.0</ele>
+  <name>Kuna Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="37.779444444" lon="-119.220277778">
+  <ele>12224.0</ele>
+  <name>Mount Andrea Lawrence</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="37.842777778" lon="-119.189722222">
+  <ele>12352.0</ele>
+  <name>Mount Lewis</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="37.809166667" lon="-119.165833333">
+  <ele>12647.0</ele>
+  <name>Mount Wood</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="37.814166667" lon="-119.184166667">
+  <ele>12857.0</ele>
+  <name>Parker Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="33.824166667" lon="-116.7575">
+  <ele>7772.0</ele>
+  <name>Black Mountain</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="35.507222222" lon="-118.398333333">
+  <ele>8008.0</ele>
+  <name>Liebel Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="35.866944444" lon="-118.043055556">
+  <ele>7871.0</ele>
+  <name>Chimney Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="35.791944444" lon="-118.043611111">
+  <ele>7392.0</ele>
+  <name>Lamont Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="40.445555556" lon="-121.559444444">
+  <ele>9219.0</ele>
+  <name>Brokeoff Mountain</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="40.449444444" lon="-121.523888889">
+  <ele>7907.0</ele>
+  <name>Diamond Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="40.476944444" lon="-121.518888889">
+  <ele>9199.0</ele>
+  <name>Eagle Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="40.487777778" lon="-121.505">
+  <ele>10328.0</ele>
+  <name>Lassen Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="40.487777778" lon="-121.543611111">
+  <ele>8615.0</ele>
+  <name>Loomis Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="40.428888889" lon="-121.501666667">
+  <ele>8117.0</ele>
+  <name>Mount Conard</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="40.464166667" lon="-121.544722222">
+  <ele>9022.0</ele>
+  <name>Mount Diller</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="40.470277778" lon="-121.502777778">
+  <ele>8845.0</ele>
+  <name>Mount Helen</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="40.468611111" lon="-121.533055556">
+  <ele>8766.0</ele>
+  <name>Pilot Pinnacle</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="40.459444444" lon="-121.601111111">
+  <ele>7543.0</ele>
+  <name>Red Rock Mountain</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="40.426388889" lon="-121.596111111">
+  <ele>7123.0</ele>
+  <name>Rocky Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="40.472777778" lon="-121.522222222">
+  <ele>8927.0</ele>
+  <name>Ski Heil Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="40.478333333" lon="-121.528333333">
+  <ele>8484.0</ele>
+  <name>Vulcans Castle</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="37.280277778" lon="-117.699444444">
+  <ele>8438.0</ele>
+  <name>Last Chance Mountain</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="37.878055556" lon="-119.007222222">
+  <ele>9140.0</ele>
+  <name>Crater Mountain</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="37.929722222" lon="-119.044722222">
+  <ele>7037.0</ele>
+  <name>Panum Crater</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="37.918888889" lon="-119.116944444">
+  <ele>8287.0</ele>
+  <name>Williams Butte</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="38.629444444" lon="-120.2775">
+  <ele>7621.0</ele>
+  <name>Leek Spring Hill</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="38.368055556" lon="-120.101111111">
+  <ele>7552.0</ele>
+  <name>Liberty Hill</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="41.155277778" lon="-120.563888889">
+  <ele>7379.0</ele>
+  <name>Likely Mountain</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="41.598611111" lon="-121.629166667">
+  <ele>7336.0</ele>
+  <name>Badger Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="41.613333333" lon="-121.631111111">
+  <ele>7027.0</ele>
+  <name>Grouse Hill</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="41.578888889" lon="-121.659722222">
+  <ele>7208.0</ele>
+  <name>Little Mount Hoffman</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="41.545277778" lon="-121.746388889">
+  <ele>7044.0</ele>
+  <name>Red Cap Mountain</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="41.067777778" lon="-120.103333333">
+  <ele>7753.0</ele>
+  <name>Little Hat Mountain</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="37.481388889" lon="-119.489444444">
+  <ele>9167.0</ele>
+  <name>Iron Mountain</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="37.394722222" lon="-119.469722222">
+  <ele>8304.0</ele>
+  <name>Little Shuteye Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="36.590555556" lon="-118.663333333">
+  <ele>11276.0</ele>
+  <name>Alta Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="36.574722222" lon="-118.746111111">
+  <ele>7388.0</ele>
+  <name>Congress Group</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="36.564166667" lon="-118.656666667">
+  <ele>7136.0</ele>
+  <name>Little Blue Dome</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="36.575" lon="-118.650833333">
+  <ele>8694.0</ele>
+  <name>Panoramic View (historical)</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="36.583333333" lon="-118.715555556">
+  <ele>9048.0</ele>
+  <name>Panther Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="36.552777778" lon="-118.648055556">
+  <ele>7657.0</ele>
+  <name>Sugarbowl Dome</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="36.063888889" lon="-118.094166667">
+  <ele>9258.0</ele>
+  <name>Ball Mountain</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="38.988888889" lon="-120.288333333">
+  <ele>7146.0</ele>
+  <name>Brown Mountain</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="38.883333333" lon="-120.288333333">
+  <ele>7251.0</ele>
+  <name>Slick Rock</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="38.96" lon="-120.254444444">
+  <ele>8855.0</ele>
+  <name>Tells Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="38.903611111" lon="-120.282777778">
+  <ele>7566.0</ele>
+  <name>Two Peaks</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="38.470555556" lon="-119.5575">
+  <ele>10128.0</ele>
+  <name>Antelope Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="38.435" lon="-119.570833333">
+  <ele>10528.0</ele>
+  <name>Fish Valley Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="38.405833333" lon="-119.548611111">
+  <ele>11007.0</ele>
+  <name>Lost Cannon Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="38.396944444" lon="-119.583888889">
+  <ele>10800.0</ele>
+  <name>Wells Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="38.38" lon="-119.614722222">
+  <ele>11388.0</ele>
+  <name>White Mountain</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="39.7025" lon="-120.143333333">
+  <ele>8051.0</ele>
+  <name>Mount Ina Coolbrith</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="38.045555556" lon="-119.195555556">
+  <ele>9449.0</ele>
+  <name>Copper Mountain</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="38.011111111" lon="-119.230277778">
+  <ele>11562.0</ele>
+  <name>Gilcrest Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="38.041111111" lon="-119.245555556">
+  <ele>11050.0</ele>
+  <name>Mount Olsen</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="37.7475" lon="-119.123888889">
+  <ele>10866.0</ele>
+  <name>Carson Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="37.698611111" lon="-119.012222222">
+  <ele>8747.0</ele>
+  <name>Deer Mountain</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="37.74" lon="-119.070277778">
+  <ele>10118.0</ele>
+  <name>June Mountain</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="37.630833333" lon="-119.0325">
+  <ele>11007.0</ele>
+  <name>Mammoth Mountain</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="37.656388889" lon="-119.060277778">
+  <ele>9265.0</ele>
+  <name>Minaret Summit</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="37.719166667" lon="-119.105833333">
+  <ele>11555.0</ele>
+  <name>San Joaquin Mountain</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="37.7125" lon="-119.1">
+  <ele>11325.0</ele>
+  <name>Two Teats</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="37.725555556" lon="-119.046388889">
+  <ele>10006.0</ele>
+  <name>White Wing Mountain</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="37.2675" lon="-119.264722222">
+  <ele>8527.0</ele>
+  <name>Jump Off Point</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="37.304166667" lon="-119.286388889">
+  <ele>7083.0</ele>
+  <name>Lookout Point</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="40.524166667" lon="-121.522222222">
+  <ele>8412.0</ele>
+  <name>Chaos Crags</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="41.5775" lon="-123.203888889">
+  <ele>7434.0</ele>
+  <name>Black Marble Mountain</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="41.598333333" lon="-123.180277778">
+  <ele>7270.0</ele>
+  <name>Box Camp Mountain</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="41.615555556" lon="-123.2225">
+  <ele>7326.0</ele>
+  <name>Kings Castle</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="36.920555556" lon="-118.546666667">
+  <ele>12205.0</ele>
+  <name>Dougherty Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="36.878055556" lon="-118.551666667">
+  <ele>11407.0</ele>
+  <name>Kid Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="36.956666667" lon="-118.522777778">
+  <ele>12572.0</ele>
+  <name>Marion Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="36.931944444" lon="-118.545555556">
+  <ele>12598.0</ele>
+  <name>State Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="36.9725" lon="-118.610555556">
+  <ele>8819.0</ele>
+  <name>Windy Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="37.594166667" lon="-119.517777778">
+  <ele>9698.0</ele>
+  <name>Buena Vista Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="37.508611111" lon="-119.5475">
+  <ele>8694.0</ele>
+  <name>Mount Raymond</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="38.738611111" lon="-119.8725">
+  <ele>10020.0</ele>
+  <name>Hawkins Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="38.649722222" lon="-119.849722222">
+  <ele>8619.0</ele>
+  <name>Thornburg Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="39.261111111" lon="-120.071388889">
+  <ele>7201.0</ele>
+  <name>Brockway Summit</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="39.320555556" lon="-120.023055556">
+  <ele>7923.0</ele>
+  <name>Burned Hill</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="39.256388889" lon="-120.088611111">
+  <ele>7766.0</ele>
+  <name>Gold Star Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="39.345555556" lon="-120.023055556">
+  <ele>7812.0</ele>
+  <name>Juniper Hill</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="39.291666667" lon="-120.032777778">
+  <ele>8714.0</ele>
+  <name>Martis Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="38.057777778" lon="-119.464722222">
+  <ele>10482.0</ele>
+  <name>Bath Mountain</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="38.110833333" lon="-119.457777778">
+  <ele>11299.0</ele>
+  <name>Crown Point</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="38.051944444" lon="-119.430555556">
+  <ele>10951.0</ele>
+  <name>Doghead Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="38.086944444" lon="-119.405833333">
+  <ele>11227.0</ele>
+  <name>Finger Peaks</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="38.123055556" lon="-119.428888889">
+  <ele>10961.0</ele>
+  <name>Kettle Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="38.093333333" lon="-119.382777778">
+  <ele>12008.0</ele>
+  <name>Matterhorn Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="38.045" lon="-119.419166667">
+  <ele>11106.0</ele>
+  <name>Quarry Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="38.093333333" lon="-119.445833333">
+  <ele>11073.0</ele>
+  <name>Slide Mountain</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="38.038055556" lon="-119.450555556">
+  <ele>10394.0</ele>
+  <name>Slide Mountain</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="38.006111111" lon="-119.488333333">
+  <ele>10472.0</ele>
+  <name>Volunteer Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="38.073888889" lon="-119.383611111">
+  <ele>11942.0</ele>
+  <name>Whorl Mountain</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="36.120555556" lon="-117.495555556">
+  <ele>8760.0</ele>
+  <name>Maturango Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="36.101666667" lon="-117.487222222">
+  <ele>8733.0</ele>
+  <name>Parkinson Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="36.083055556" lon="-117.481388889">
+  <ele>8333.0</ele>
+  <name>Parrot Point</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="36.977222222" lon="-118.121666667">
+  <ele>9393.0</ele>
+  <name>Mazourka Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="41.349166667" lon="-122.192222222">
+  <ele>8041.0</ele>
+  <name>Gray Butte</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="41.371111111" lon="-122.206111111">
+  <ele>9117.0</ele>
+  <name>Green Butte</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="41.359166667" lon="-122.181666667">
+  <ele>8304.0</ele>
+  <name>Red Butte</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="40.940833333" lon="-120.4125">
+  <ele>7867.0</ele>
+  <name>McDonald Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="40.09" lon="-120.248611111">
+  <ele>7080.0</ele>
+  <name>McKesick Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="41.601666667" lon="-121.504444444">
+  <ele>7598.0</ele>
+  <name>Glass Mountain</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="41.579166667" lon="-121.507222222">
+  <ele>7867.0</ele>
+  <name>Lyons Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="41.563888889" lon="-121.611944444">
+  <ele>7529.0</ele>
+  <name>Medicine Mountain</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="41.610833333" lon="-121.554444444">
+  <ele>7864.0</ele>
+  <name>Mount Hoffman</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="41.579722222" lon="-121.523611111">
+  <ele>7812.0</ele>
+  <name>Red Shale Butte</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="37.738888889" lon="-119.4675">
+  <ele>8172.0</ele>
+  <name>Bunnell Point</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="37.674166667" lon="-119.419444444">
+  <ele>11489.0</ele>
+  <name>Gray Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="37.635277778" lon="-119.394722222">
+  <ele>11594.0</ele>
+  <name>Merced Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="37.743055556" lon="-119.491666667">
+  <ele>7926.0</ele>
+  <name>Moraine Dome</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="37.696388889" lon="-119.428611111">
+  <ele>11522.0</ele>
+  <name>Mount Clark</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="37.642222222" lon="-119.393333333">
+  <ele>11486.0</ele>
+  <name>Ottoway Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="37.715833333" lon="-119.425277778">
+  <ele>10407.0</ele>
+  <name>Quartzite Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="37.653611111" lon="-119.409444444">
+  <ele>11657.0</ele>
+  <name>Red Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="34.383055556" lon="-117.685277778">
+  <ele>7497.0</ele>
+  <name>Table Mountain</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="36.467222222" lon="-118.577222222">
+  <ele>11542.0</ele>
+  <name>Empire Mountain</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="36.410555556" lon="-118.621666667">
+  <ele>11128.0</ele>
+  <name>Hengst Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="36.446666667" lon="-118.565">
+  <ele>11617.0</ele>
+  <name>Mineral Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="36.442777778" lon="-118.605">
+  <ele>9409.0</ele>
+  <name>Miners Nose</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="36.498333333" lon="-118.568333333">
+  <ele>12185.0</ele>
+  <name>Mount Eisen</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="36.406388889" lon="-118.550833333">
+  <ele>12431.0</ele>
+  <name>Mount Florence</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="36.454444444" lon="-118.537222222">
+  <ele>12529.0</ele>
+  <name>Needham Mountain</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="36.423611111" lon="-118.55">
+  <ele>12034.0</ele>
+  <name>Rainbow Mountain</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="36.455277778" lon="-118.555">
+  <ele>12333.0</ele>
+  <name>Sawtooth Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="36.411944444" lon="-118.563055556">
+  <ele>11611.0</ele>
+  <name>Tulare Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="36.398611111" lon="-118.580833333">
+  <ele>11929.0</ele>
+  <name>Vandever Mountain</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="36.406111111" lon="-118.598055556">
+  <ele>11125.0</ele>
+  <name>White Chief Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="38.538055556" lon="-120.094722222">
+  <ele>9308.0</ele>
+  <name>Mokelumne Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="38.507777778" lon="-120.028888889">
+  <ele>8737.0</ele>
+  <name>Mount Reba</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="36.153611111" lon="-118.225555556">
+  <ele>8881.0</ele>
+  <name>Granite Knob</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="36.137777778" lon="-118.208611111">
+  <ele>9052.0</ele>
+  <name>Jackass Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="36.205277778" lon="-118.1975">
+  <ele>9367.0</ele>
+  <name>Monache Mountain</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="36.1275" lon="-118.224722222">
+  <ele>9422.0</ele>
+  <name>Smith Mountain</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="34.126111111" lon="-116.808888889">
+  <ele>10295.0</ele>
+  <name>Grinnell Mountain</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="34.164444444" lon="-116.7625">
+  <ele>8330.0</ele>
+  <name>Heart Bar Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="34.148055556" lon="-116.855277778">
+  <ele>7844.0</ele>
+  <name>Poopout Hill</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="34.198888889" lon="-116.814444444">
+  <ele>9938.0</ele>
+  <name>Sugarloaf Mountain</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="34.21" lon="-116.850555556">
+  <ele>8789.0</ele>
+  <name>Sugarlump</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="36.318611111" lon="-118.746388889">
+  <ele>8671.0</ele>
+  <name>Dennison Mountain</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="36.278055556" lon="-118.68">
+  <ele>9252.0</ele>
+  <name>Moses Mountain</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="37.438888889" lon="-118.794166667">
+  <ele>11414.0</ele>
+  <name>Mono Rock</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="37.386388889" lon="-118.784722222">
+  <ele>13701.0</ele>
+  <name>Mount Abbot</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="37.482777778" lon="-118.824722222">
+  <ele>12273.0</ele>
+  <name>Mount Crocker</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="37.382222222" lon="-118.779166667">
+  <ele>13500.0</ele>
+  <name>Mount Dade</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="37.376666667" lon="-118.8025">
+  <ele>13674.0</ele>
+  <name>Mount Gabb</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="37.463888889" lon="-118.812777778">
+  <ele>12208.0</ele>
+  <name>Mount Hopkins</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="37.469722222" lon="-118.7775">
+  <ele>12355.0</ele>
+  <name>Mount Huntington</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="37.393888889" lon="-118.790833333">
+  <ele>13238.0</ele>
+  <name>Mount Mills</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="37.489444444" lon="-118.796388889">
+  <ele>12821.0</ele>
+  <name>Mount Stanford</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="37.429166667" lon="-118.765">
+  <ele>12815.0</ele>
+  <name>Mount Starr</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="37.382777778" lon="-118.854722222">
+  <ele>12746.0</ele>
+  <name>Recess Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="37.479722222" lon="-118.857222222">
+  <ele>12821.0</ele>
+  <name>Red and White Mountain</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="37.582222222" lon="-118.248055556">
+  <ele>13054.0</ele>
+  <name>Mount Barcroft</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="37.5375" lon="-118.2325">
+  <ele>12556.0</ele>
+  <name>Piute Mountain</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="37.527222222" lon="-118.2175">
+  <ele>12470.0</ele>
+  <name>Sheep Mountain</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="41.965833333" lon="-120.166388889">
+  <ele>8297.0</ele>
+  <name>Mount Bidwell</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="41.934444444" lon="-120.224722222">
+  <ele>8202.0</ele>
+  <name>Mount Vida</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="41.965555556" lon="-120.206666667">
+  <ele>8071.0</ele>
+  <name>Yellow Mountain</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="36.688888889" lon="-118.390555556">
+  <ele>13802.0</ele>
+  <name>Caltech Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="36.627777778" lon="-118.49">
+  <ele>13209.0</ele>
+  <name>Centennial Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="36.713333333" lon="-118.409722222">
+  <ele>13136.0</ele>
+  <name>Deerhorn Mountain</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="36.743333333" lon="-118.400277778">
+  <ele>12231.0</ele>
+  <name>East Vidette</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="36.701388889" lon="-118.395555556">
+  <ele>13855.0</ele>
+  <name>Gregorys Monument</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="36.643333333" lon="-118.483611111">
+  <ele>13658.0</ele>
+  <name>Midway Mountain</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="36.6325" lon="-118.484166667">
+  <ele>12812.0</ele>
+  <name>Milestone Mountain</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="36.708611111" lon="-118.485277778">
+  <ele>13497.0</ele>
+  <name>Mount Brewer</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="36.697222222" lon="-118.414166667">
+  <ele>13576.0</ele>
+  <name>Mount Ericsson</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="36.728611111" lon="-118.498888889">
+  <ele>12697.0</ele>
+  <name>Mount Farquhar</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="36.683333333" lon="-118.434166667">
+  <ele>13067.0</ele>
+  <name>Mount Genevra</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="36.682222222" lon="-118.449444444">
+  <ele>13271.0</ele>
+  <name>Mount Jordan</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="36.703888889" lon="-118.395555556">
+  <ele>13953.0</ele>
+  <name>Mount Stanford</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="36.716666667" lon="-118.489722222">
+  <ele>13320.0</ele>
+  <name>North Guard</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="36.693333333" lon="-118.483888889">
+  <ele>13212.0</ele>
+  <name>South Guard</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="36.660555556" lon="-118.473888889">
+  <ele>13514.0</ele>
+  <name>Table Mountain</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="36.669166667" lon="-118.475833333">
+  <ele>13523.0</ele>
+  <name>Thunder Mountain</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="36.809166667" lon="-118.378055556">
+  <ele>13271.0</ele>
+  <name>Black Mountain</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="36.7825" lon="-118.480555556">
+  <ele>10499.0</ele>
+  <name>Charlotte Dome</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="36.826388889" lon="-118.39">
+  <ele>13090.0</ele>
+  <name>Diamond Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="36.79" lon="-118.375833333">
+  <ele>12874.0</ele>
+  <name>Dragon Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="36.813333333" lon="-118.412222222">
+  <ele>11539.0</ele>
+  <name>Fin Dome</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="36.770277778" lon="-118.437777778">
+  <ele>11834.0</ele>
+  <name>Mount Bago</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="36.833333333" lon="-118.446388889">
+  <ele>12805.0</ele>
+  <name>Mount Clarence King</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="36.818888889" lon="-118.441666667">
+  <ele>12693.0</ele>
+  <name>Mount Cotter</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="36.806111111" lon="-118.459166667">
+  <ele>12903.0</ele>
+  <name>Mount Gardiner</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="36.78" lon="-118.3775">
+  <ele>12943.0</ele>
+  <name>Mount Gould</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="36.784444444" lon="-118.399166667">
+  <ele>12785.0</ele>
+  <name>Mount Rixford</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="36.793055556" lon="-118.399444444">
+  <ele>12093.0</ele>
+  <name>Painted Lady</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="37.9725" lon="-119.198611111">
+  <ele>11696.0</ele>
+  <name>Lee Vining Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="37.959722222" lon="-119.171944444">
+  <ele>10613.0</ele>
+  <name>Mono Dome</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="37.899722222" lon="-119.221388889">
+  <ele>13044.0</ele>
+  <name>Mount Dana</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="37.877222222" lon="-119.211944444">
+  <ele>12772.0</ele>
+  <name>Mount Gibbs</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="37.992222222" lon="-119.223333333">
+  <ele>11922.0</ele>
+  <name>Mount Warren</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="37.949444444" lon="-119.246944444">
+  <ele>11493.0</ele>
+  <name>Tioga Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="37.14" lon="-118.648333333">
+  <ele>12917.0</ele>
+  <name>Clyde Spires</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="37.166944444" lon="-118.672222222">
+  <ele>13792.0</ele>
+  <name>Mount Darwin</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="37.2425" lon="-118.654166667">
+  <ele>13169.0</ele>
+  <name>Mount Emerson</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="37.136666667" lon="-118.667777778">
+  <ele>13464.0</ele>
+  <name>Mount Fiske</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="37.206388889" lon="-118.702777778">
+  <ele>13241.0</ele>
+  <name>Mount Goethe</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="37.150833333" lon="-118.660833333">
+  <ele>13340.0</ele>
+  <name>Mount Haeckel</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="37.136111111" lon="-118.682777778">
+  <ele>13074.0</ele>
+  <name>Mount Huxley</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="37.195" lon="-118.671111111">
+  <ele>13356.0</ele>
+  <name>Mount Lamarck</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="37.138888889" lon="-118.738055556">
+  <ele>12920.0</ele>
+  <name>Mount McGee</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="37.175" lon="-118.682222222">
+  <ele>13701.0</ele>
+  <name>Mount Mendel</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="37.138611111" lon="-118.633888889">
+  <ele>13330.0</ele>
+  <name>Mount Powell</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="37.155277778" lon="-118.681666667">
+  <ele>12424.0</ele>
+  <name>Mount Spencer</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="37.146111111" lon="-118.656111111">
+  <ele>13149.0</ele>
+  <name>Mount Wallace</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="37.128333333" lon="-118.674444444">
+  <ele>13172.0</ele>
+  <name>Mount Warlow</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="37.217222222" lon="-118.693055556">
+  <ele>12913.0</ele>
+  <name>Muriel Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="37.145277778" lon="-118.745833333">
+  <ele>12467.0</ele>
+  <name>Peter Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="37.162777778" lon="-118.718611111">
+  <ele>12329.0</ele>
+  <name>The Hermit</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="41.32" lon="-122.479166667">
+  <ele>9025.0</ele>
+  <name>Mount Eddy</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="39.721111111" lon="-120.810277778">
+  <ele>7126.0</ele>
+  <name>Beartrap Mountain</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="39.712777778" lon="-120.778055556">
+  <ele>7251.0</ele>
+  <name>Gibraltar</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="39.745833333" lon="-120.838611111">
+  <ele>7008.0</ele>
+  <name>Mount Etna</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="39.730277778" lon="-120.8525">
+  <ele>7690.0</ele>
+  <name>Mount Fillmore</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="39.683611111" lon="-120.789722222">
+  <ele>7113.0</ele>
+  <name>Rattlesnake Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="37.337222222" lon="-119.027222222">
+  <ele>7234.0</ele>
+  <name>Devils Table</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="37.273888889" lon="-119.011388889">
+  <ele>10315.0</ele>
+  <name>Kings Castle</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="37.300833333" lon="-119.099444444">
+  <ele>9334.0</ele>
+  <name>Luck Point</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="37.279166667" lon="-119.055555556">
+  <ele>10492.0</ele>
+  <name>Mount Givens</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="37.261666667" lon="-119.020277778">
+  <ele>10623.0</ele>
+  <name>Mount Ian Campbell</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="37.329166667" lon="-119.087777778">
+  <ele>7930.0</ele>
+  <name>Tennessee Point</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="37.102222222" lon="-118.648333333">
+  <ele>13330.0</ele>
+  <name>Black Giant</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="37.028055556" lon="-118.708888889">
+  <ele>11781.0</ele>
+  <name>Blue Canyon Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="37.087777778" lon="-118.668611111">
+  <ele>12861.0</ele>
+  <name>Charybdis</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="37.03" lon="-118.730277778">
+  <ele>12401.0</ele>
+  <name>Finger Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="37.103333333" lon="-118.719444444">
+  <ele>13537.0</ele>
+  <name>Mount Goddard</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="37.073611111" lon="-118.643611111">
+  <ele>13277.0</ele>
+  <name>Mount McDuffie</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="37.079444444" lon="-118.738333333">
+  <ele>12579.0</ele>
+  <name>Mount Reinstein</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="37.106388889" lon="-118.673888889">
+  <ele>13015.0</ele>
+  <name>Mount Solomons</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="37.08" lon="-118.689444444">
+  <ele>12926.0</ele>
+  <name>Scylla</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="37.080555556" lon="-118.685">
+  <ele>12644.0</ele>
+  <name>The Three Sirens</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="37.046666667" lon="-118.629166667">
+  <ele>12739.0</ele>
+  <name>Wheel Mountain</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="40.442222222" lon="-121.266666667">
+  <ele>7690.0</ele>
+  <name>Bonte Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="40.488888889" lon="-121.354722222">
+  <ele>7257.0</ele>
+  <name>Crater Butte</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="40.431111111" lon="-121.301388889">
+  <ele>8045.0</ele>
+  <name>Mount Harkness</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="40.4975" lon="-121.287777778">
+  <ele>7812.0</ele>
+  <name>Mount Hoffman</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="40.464166667" lon="-121.374444444">
+  <ele>7165.0</ele>
+  <name>Pilot Mountain</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="40.452777778" lon="-121.346944444">
+  <ele>7625.0</ele>
+  <name>Saddle Mountain</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="37.166111111" lon="-118.762777778">
+  <ele>12378.0</ele>
+  <name>Emerald Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="37.158888889" lon="-118.856666667">
+  <ele>10584.0</ele>
+  <name>Fleming Mountain</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="37.183333333" lon="-118.827222222">
+  <ele>12182.0</ele>
+  <name>Mount Henry</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="37.125833333" lon="-118.798888889">
+  <ele>11919.0</ele>
+  <name>Mount Hutton</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="37.230555556" lon="-118.808333333">
+  <ele>11821.0</ele>
+  <name>Pavilion Dome</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="37.149722222" lon="-118.800833333">
+  <ele>11939.0</ele>
+  <name>Red Mountain</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="37.183888889" lon="-118.856666667">
+  <ele>11135.0</ele>
+  <name>Zingheim Heights</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="37.368055556" lon="-118.7675">
+  <ele>13733.0</ele>
+  <name>Bear Creek Spire</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="37.325833333" lon="-118.777777778">
+  <ele>13212.0</ele>
+  <name>Feather Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="37.296944444" lon="-118.816388889">
+  <ele>12710.0</ele>
+  <name>Gemini</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="37.308888889" lon="-118.765">
+  <ele>12962.0</ele>
+  <name>Merriam Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="37.360277778" lon="-118.827222222">
+  <ele>13382.0</ele>
+  <name>Mount Hilgard</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="37.356666667" lon="-118.781666667">
+  <ele>13195.0</ele>
+  <name>Mount Julius Caesar</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="37.277222222" lon="-118.858055556">
+  <ele>12257.0</ele>
+  <name>Mount Seneger</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="37.2775" lon="-118.858333333">
+  <ele>12267.0</ele>
+  <name>Mount Senger</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="37.273611111" lon="-118.757222222">
+  <ele>12221.0</ele>
+  <name>Pilot Knob</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="37.318055556" lon="-118.770833333">
+  <ele>13277.0</ele>
+  <name>Royce Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="37.311388889" lon="-118.833611111">
+  <ele>13002.0</ele>
+  <name>Seven Gables</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="37.263611111" lon="-118.841944444">
+  <ele>12014.0</ele>
+  <name>Turret Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="40.956666667" lon="-123.053333333">
+  <ele>8819.0</ele>
+  <name>Mount Hilton</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="40.973333333" lon="-123.002777778">
+  <ele>8717.0</ele>
+  <name>Sawtooth Mountain</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="40.9925" lon="-123.048055556">
+  <ele>8537.0</ele>
+  <name>Wedding Cake</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="39.993888889" lon="-120.6275">
+  <ele>8340.0</ele>
+  <name>Mount Ingalls</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="38.325277778" lon="-119.266944444">
+  <ele>9377.0</ele>
+  <name>Mount Jackson</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="36.596666667" lon="-118.444166667">
+  <ele>12766.0</ele>
+  <name>Kern Point</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="36.526111111" lon="-118.478333333">
+  <ele>13796.0</ele>
+  <name>Mount Kaweah</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="36.576666667" lon="-118.474166667">
+  <ele>12283.0</ele>
+  <name>Picket Guard Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="36.561666667" lon="-118.225">
+  <ele>12841.0</ele>
+  <name>Lone Pine Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="36.538888889" lon="-118.25">
+  <ele>13583.0</ele>
+  <name>Mount Corcoran</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="36.523333333" lon="-118.238888889">
+  <ele>13979.0</ele>
+  <name>Mount Langley</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="36.501111111" lon="-118.156388889">
+  <ele>11306.0</ele>
+  <name>Owens Point</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="37.705" lon="-119.260555556">
+  <ele>12398.0</ele>
+  <name>Electra Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="37.69" lon="-119.290833333">
+  <ele>12041.0</ele>
+  <name>Foerster Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="37.653333333" lon="-119.321111111">
+  <ele>10948.0</ele>
+  <name>Isberg Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="37.667222222" lon="-119.295">
+  <ele>11493.0</ele>
+  <name>Long Mountain</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="37.697777778" lon="-119.281388889">
+  <ele>11709.0</ele>
+  <name>Mount Ansel Adams</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="37.74" lon="-119.316388889">
+  <ele>12520.0</ele>
+  <name>Mount Florence</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="37.739444444" lon="-119.271666667">
+  <ele>13100.0</ele>
+  <name>Mount Lyell</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="37.743611111" lon="-119.281666667">
+  <ele>12693.0</ele>
+  <name>Mount Maclure</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="37.628055556" lon="-119.328055556">
+  <ele>11004.0</ele>
+  <name>Post Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="37.724722222" lon="-119.2575">
+  <ele>12864.0</ele>
+  <name>Rodgers Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="37.638611111" lon="-119.273055556">
+  <ele>10574.0</ele>
+  <name>Sadler Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="37.631944444" lon="-119.370555556">
+  <ele>11591.0</ele>
+  <name>Triple Divide Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="37.405555556" lon="-118.7175">
+  <ele>13067.0</ele>
+  <name>Broken Finger Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="37.405555556" lon="-118.733888889">
+  <ele>13566.0</ele>
+  <name>Mount Morgan</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="37.448888889" lon="-118.681666667">
+  <ele>11962.0</ele>
+  <name>Round Valley Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="38.436666667" lon="-119.305277778">
+  <ele>11653.0</ele>
+  <name>Mount Patterson</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="38.4825" lon="-119.300277778">
+  <ele>11293.0</ele>
+  <name>South Sister</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="38.418611111" lon="-119.288333333">
+  <ele>11630.0</ele>
+  <name>Wheeler Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="36.928333333" lon="-118.491388889">
+  <ele>12749.0</ele>
+  <name>Arrow Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="36.999444444" lon="-118.4125">
+  <ele>13356.0</ele>
+  <name>Cardinal Mountain</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="36.921944444" lon="-118.420833333">
+  <ele>12851.0</ele>
+  <name>Crater Mountain</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="36.972222222" lon="-118.388333333">
+  <ele>12398.0</ele>
+  <name>Goodale Mountain</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="36.903888889" lon="-118.3875">
+  <ele>12362.0</ele>
+  <name>Mount Cedric Wright</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="36.932777778" lon="-118.439166667">
+  <ele>12913.0</ele>
+  <name>Mount Ickes</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="36.927222222" lon="-118.381388889">
+  <ele>12546.0</ele>
+  <name>Mount Perkins</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="36.947222222" lon="-118.405277778">
+  <ele>13474.0</ele>
+  <name>Mount Pinchot</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="36.978611111" lon="-118.476388889">
+  <ele>12277.0</ele>
+  <name>Mount Ruskin</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="36.938055556" lon="-118.402777778">
+  <ele>13149.0</ele>
+  <name>Mount Wynne</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="36.906388889" lon="-118.462222222">
+  <ele>12766.0</ele>
+  <name>Pyramid Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="36.965555556" lon="-118.403888889">
+  <ele>13149.0</ele>
+  <name>Striped Mountain</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="36.998888889" lon="-118.474166667">
+  <ele>12999.0</ele>
+  <name>Vennacher Needle</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="36.89" lon="-118.458888889">
+  <ele>12106.0</ele>
+  <name>Window Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="37.696666667" lon="-119.195277778">
+  <ele>12864.0</ele>
+  <name>Banner Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="37.661944444" lon="-119.178055556">
+  <ele>11988.0</ele>
+  <name>Minarets</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="37.714722222" lon="-119.219722222">
+  <ele>12224.0</ele>
+  <name>Mount Davis</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="37.689444444" lon="-119.199166667">
+  <ele>12936.0</ele>
+  <name>Mount Ritter</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="37.637222222" lon="-119.134722222">
+  <ele>10522.0</ele>
+  <name>Red Top Mountain</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="34.303333333" lon="-117.635833333">
+  <ele>9570.0</ele>
+  <name>Dawson Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="34.370833333" lon="-117.708333333">
+  <ele>7178.0</ele>
+  <name>Inspiration Point</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="34.288333333" lon="-117.712777778">
+  <ele>7936.0</ele>
+  <name>Iron Mountain</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="34.286388889" lon="-117.633055556">
+  <ele>9537.0</ele>
+  <name>Mount Harwood</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="34.288888889" lon="-117.646666667">
+  <ele>10046.0</ele>
+  <name>Mount San Antonio</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="34.313611111" lon="-117.644444444">
+  <ele>9652.0</ele>
+  <name>Pine Mountain</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="34.333611111" lon="-117.632777778">
+  <ele>8487.0</ele>
+  <name>Wright Mountain</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="41.405555556" lon="-122.198055556">
+  <ele>13789.0</ele>
+  <name>Misery Hill</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="41.409444444" lon="-122.195">
+  <ele>14117.0</ele>
+  <name>Mount Shasta</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="41.385" lon="-122.193888889">
+  <ele>11138.0</ele>
+  <name>Shastarama Point</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="41.409166667" lon="-122.223611111">
+  <ele>12287.0</ele>
+  <name>Shastina</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="36.682777778" lon="-118.704166667">
+  <ele>9403.0</ele>
+  <name>Ball Dome</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="36.673611111" lon="-118.733055556">
+  <ele>10033.0</ele>
+  <name>Kettle Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="36.732222222" lon="-118.715">
+  <ele>10377.0</ele>
+  <name>Mitchell Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="36.7275" lon="-118.7475">
+  <ele>9616.0</ele>
+  <name>Mount Maddox</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="36.643333333" lon="-118.696388889">
+  <ele>11145.0</ele>
+  <name>Mount Silliman</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="36.730555556" lon="-118.658888889">
+  <ele>7953.0</ele>
+  <name>Sugarloaf</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="36.665277778" lon="-118.705833333">
+  <ele>10285.0</ele>
+  <name>Twin Peaks</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="37.144444444" lon="-118.549722222">
+  <ele>11516.0</ele>
+  <name>Chocolate Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="37.1425" lon="-118.530277778">
+  <ele>13455.0</ele>
+  <name>Cloudripper</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="37.126944444" lon="-118.531388889">
+  <ele>13212.0</ele>
+  <name>Gendarme Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="37.141388889" lon="-118.566111111">
+  <ele>12182.0</ele>
+  <name>Hurd Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="37.246388889" lon="-118.514444444">
+  <ele>11158.0</ele>
+  <name>Lookout Mountain</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="37.137222222" lon="-118.5975">
+  <ele>12949.0</ele>
+  <name>Mount Gilbert</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="37.128888889" lon="-118.585833333">
+  <ele>12789.0</ele>
+  <name>Mount Johnson</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="37.143055556" lon="-118.613333333">
+  <ele>13500.0</ele>
+  <name>Mount Thompson</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="37.128055556" lon="-118.538888889">
+  <ele>13258.0</ele>
+  <name>Picture Puzzle</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="37.144444444" lon="-118.505">
+  <ele>12848.0</ele>
+  <name>Sky Haven</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="37.185277778" lon="-118.581944444">
+  <ele>11689.0</ele>
+  <name>Table Mountain</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="37.180833333" lon="-118.524722222">
+  <ele>12119.0</ele>
+  <name>The Hunchback</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="37.129722222" lon="-118.522777778">
+  <ele>12979.0</ele>
+  <name>Two Eagle Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="37.297222222" lon="-118.658611111">
+  <ele>13104.0</ele>
+  <name>Basin Mountain</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="37.306111111" lon="-118.695277778">
+  <ele>12710.0</ele>
+  <name>Four Gables</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="37.270555556" lon="-118.673611111">
+  <ele>13389.0</ele>
+  <name>Mount Humphreys</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="37.338611111" lon="-118.658333333">
+  <ele>13284.0</ele>
+  <name>Mount Tom</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="36.574444444" lon="-118.290555556">
+  <ele>14199.0</ele>
+  <name>Crooks Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="36.5575" lon="-118.291111111">
+  <ele>13514.0</ele>
+  <name>Discovery Pinnacle</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="36.514722222" lon="-118.296666667">
+  <ele>13222.0</ele>
+  <name>Joe Devel Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="36.5925" lon="-118.278055556">
+  <ele>13514.0</ele>
+  <name>Mount Carillon</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="36.533611111" lon="-118.310555556">
+  <ele>13159.0</ele>
+  <name>Mount Chamberlin</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="36.508888889" lon="-118.362777778">
+  <ele>12283.0</ele>
+  <name>Mount Guyot</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="36.588055556" lon="-118.314166667">
+  <ele>13481.0</ele>
+  <name>Mount Hale</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="36.554444444" lon="-118.311666667">
+  <ele>13028.0</ele>
+  <name>Mount Hitchcock</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="36.555833333" lon="-118.263333333">
+  <ele>13770.0</ele>
+  <name>Mount Irvine</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="36.540833333" lon="-118.251944444">
+  <ele>13773.0</ele>
+  <name>Mount Le Conte</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="36.548888889" lon="-118.262777778">
+  <ele>13609.0</ele>
+  <name>Mount Mallory</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="36.554722222" lon="-118.278055556">
+  <ele>13510.0</ele>
+  <name>Mount Marsh</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="36.550555556" lon="-118.276666667">
+  <ele>13418.0</ele>
+  <name>Mount McAdie</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="36.564722222" lon="-118.291111111">
+  <ele>13983.0</ele>
+  <name>Mount Muir</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="36.54" lon="-118.293333333">
+  <ele>13418.0</ele>
+  <name>Mount Newcomb</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="36.527222222" lon="-118.290833333">
+  <ele>13468.0</ele>
+  <name>Mount Pickering</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="36.59" lon="-118.290555556">
+  <ele>14045.0</ele>
+  <name>Mount Russell</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="36.578611111" lon="-118.291944444">
+  <ele>14475.0</ele>
+  <name>Mount Whitney</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="36.581111111" lon="-118.327222222">
+  <ele>13156.0</ele>
+  <name>Mount Young</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="36.535" lon="-118.264722222">
+  <ele>12736.0</ele>
+  <name>The Miter</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="36.576666667" lon="-118.265833333">
+  <ele>12228.0</ele>
+  <name>Thor Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="36.605" lon="-118.281944444">
+  <ele>13517.0</ele>
+  <name>Tunnabora Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="36.566388889" lon="-118.279444444">
+  <ele>12716.0</ele>
+  <name>Wotans Throne</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="36.722222222" lon="-118.361944444">
+  <ele>12664.0</ele>
+  <name>Center Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="36.69" lon="-118.365555556">
+  <ele>13858.0</ele>
+  <name>Junction Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="36.628611111" lon="-118.321111111">
+  <ele>13891.0</ele>
+  <name>Mount Barnard</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="36.728611111" lon="-118.338333333">
+  <ele>13182.0</ele>
+  <name>Mount Bradley</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="36.700277778" lon="-118.343333333">
+  <ele>13940.0</ele>
+  <name>Mount Keith</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="36.655555556" lon="-118.336944444">
+  <ele>13973.0</ele>
+  <name>Mount Tyndall</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="36.647777778" lon="-118.325555556">
+  <ele>13474.0</ele>
+  <name>Mount Versteeg</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="36.656111111" lon="-118.311111111">
+  <ele>14383.0</ele>
+  <name>Mount Williamson</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="36.628611111" lon="-118.375">
+  <ele>12191.0</ele>
+  <name>Tawny Point</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="36.643055556" lon="-118.314722222">
+  <ele>13848.0</ele>
+  <name>Trojan Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="36.748055556" lon="-118.361388889">
+  <ele>13468.0</ele>
+  <name>University Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="36.7375" lon="-118.858888889">
+  <ele>8340.0</ele>
+  <name>Buck Rock</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="36.696388889" lon="-118.796111111">
+  <ele>9462.0</ele>
+  <name>Shell Mountain</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="37.238055556" lon="-119.26">
+  <ele>8087.0</ele>
+  <name>Black Point</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="37.096111111" lon="-119.094166667">
+  <ele>9452.0</ele>
+  <name>Bear Mountain</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="37.088611111" lon="-119.016388889">
+  <ele>10253.0</ele>
+  <name>Eagle Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="37.030277778" lon="-119.009722222">
+  <ele>8599.0</ele>
+  <name>Hall Mountain</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="37.109444444" lon="-119.105555556">
+  <ele>8855.0</ele>
+  <name>Marble Point</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="37.09" lon="-119.049166667">
+  <ele>10236.0</ele>
+  <name>Nelson Mountain</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="36.7075" lon="-117.962222222">
+  <ele>11096.0</ele>
+  <name>Keynot Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="36.735" lon="-117.985555556">
+  <ele>10955.0</ele>
+  <name>Mount Inyo</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="36.648055556" lon="-117.932777778">
+  <ele>10643.0</ele>
+  <name>New York Butte</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="35.823333333" lon="-117.998888889">
+  <ele>7989.0</ele>
+  <name>Sawtooth Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="39.259166667" lon="-120.296944444">
+  <ele>8681.0</ele>
+  <name>Anderson Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="39.351111111" lon="-120.366666667">
+  <ele>8215.0</ele>
+  <name>Andesite Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="39.365555556" lon="-120.349166667">
+  <ele>9098.0</ele>
+  <name>Castle Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="39.297222222" lon="-120.350277778">
+  <ele>7887.0</ele>
+  <name>Crows Nest</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="39.308888889" lon="-120.312222222">
+  <ele>7989.0</ele>
+  <name>Donner Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="39.323888889" lon="-120.319722222">
+  <ele>7339.0</ele>
+  <name>George R. Stewart Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="39.294722222" lon="-120.340833333">
+  <ele>7943.0</ele>
+  <name>Mount Disney</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="39.298611111" lon="-120.315555556">
+  <ele>8245.0</ele>
+  <name>Mount Judah</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="39.287777778" lon="-120.328055556">
+  <ele>8369.0</ele>
+  <name>Mount Lincoln</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="39.32" lon="-120.323055556">
+  <ele>7254.0</ele>
+  <name>Mount Stephens</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="37.118333333" lon="-118.530555556">
+  <ele>13231.0</ele>
+  <name>Aperture Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="37.089444444" lon="-118.541388889">
+  <ele>12661.0</ele>
+  <name>Columbine Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="37.038055556" lon="-118.612222222">
+  <ele>12411.0</ele>
+  <name>Devils Crags</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="37.0775" lon="-118.564444444">
+  <ele>12615.0</ele>
+  <name>Giraud Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="37.093888889" lon="-118.538611111">
+  <ele>12339.0</ele>
+  <name>Isosceles Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="37.100833333" lon="-118.610555556">
+  <ele>12011.0</ele>
+  <name>Langille Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="37.111666667" lon="-118.530833333">
+  <ele>13845.0</ele>
+  <name>Mount Agassiz</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="37.123055556" lon="-118.568333333">
+  <ele>13061.0</ele>
+  <name>Mount Goode</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="37.117777778" lon="-118.517222222">
+  <ele>12962.0</ele>
+  <name>Mount Robinson</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="37.036666667" lon="-118.5325">
+  <ele>12162.0</ele>
+  <name>Mount Shakspere</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="37.096111111" lon="-118.503611111">
+  <ele>14147.0</ele>
+  <name>Mount Sill</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="37.104444444" lon="-118.525833333">
+  <ele>13733.0</ele>
+  <name>Mount Winchell</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="37.025555556" lon="-118.616944444">
+  <ele>12214.0</ele>
+  <name>Mount Woodworth</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="37.094166667" lon="-118.514444444">
+  <ele>14265.0</ele>
+  <name>North Palisade</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="37.023333333" lon="-118.523611111">
+  <ele>12378.0</ele>
+  <name>Observation Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="37.093611111" lon="-118.511944444">
+  <ele>13957.0</ele>
+  <name>Polemonium Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="37.038888889" lon="-118.595555556">
+  <ele>11030.0</ele>
+  <name>Rambaud Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="37.065555556" lon="-118.611111111">
+  <ele>11739.0</ele>
+  <name>The Citadel</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="37.098055556" lon="-118.5175">
+  <ele>13934.0</ele>
+  <name>Thunderbolt Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="40.196111111" lon="-122.973611111">
+  <ele>7812.0</ele>
+  <name>North Yolla Bolly Mountains</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="40.774166667" lon="-120.170833333">
+  <ele>7930.0</ele>
+  <name>Observation Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="36.265555556" lon="-118.117222222">
+  <ele>11922.0</ele>
+  <name>Olancha Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="37.678055556" lon="-118.985833333">
+  <ele>8842.0</ele>
+  <name>Dry Creek Knoll</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="37.666388889" lon="-118.999722222">
+  <ele>9350.0</ele>
+  <name>Earthquake Dome</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="37.698888889" lon="-118.906388889">
+  <ele>8566.0</ele>
+  <name>Gilbert Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="37.728888889" lon="-118.947777778">
+  <ele>8343.0</ele>
+  <name>Lookout Mountain</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="37.658888889" lon="-118.978888889">
+  <ele>8776.0</ele>
+  <name>Mammoth Knolls</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="34.236666667" lon="-116.681388889">
+  <ele>7218.0</ele>
+  <name>Mineral Mountain</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="34.138888889" lon="-116.637222222">
+  <ele>7631.0</ele>
+  <name>Three Sisters Peaks</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="35.690277778" lon="-117.986944444">
+  <ele>7214.0</ele>
+  <name>Morris Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="35.709166667" lon="-117.9925">
+  <ele>7861.0</ele>
+  <name>Mount Jenkins</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="35.738333333" lon="-117.996944444">
+  <ele>8445.0</ele>
+  <name>Owens Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="38.516666667" lon="-119.909444444">
+  <ele>8084.0</ele>
+  <name>Pacific Grade Summit</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="34.382222222" lon="-118.034722222">
+  <ele>7103.0</ele>
+  <name>Pacifico Mountain</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="33.679444444" lon="-116.591111111">
+  <ele>7165.0</ele>
+  <name>Palm View Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="33.648611111" lon="-116.560277778">
+  <ele>7044.0</ele>
+  <name>Pine Mountain</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="33.652777778" lon="-116.5725">
+  <ele>7018.0</ele>
+  <name>Pyramid Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="33.702222222" lon="-116.622777778">
+  <ele>7372.0</ele>
+  <name>Spitler Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="36.049444444" lon="-117.055555556">
+  <ele>9042.0</ele>
+  <name>Porter Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="41.795277778" lon="-122.155555556">
+  <ele>7775.0</ele>
+  <name>Ball Mountain</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="41.816111111" lon="-122.239444444">
+  <ele>7821.0</ele>
+  <name>Willow Creek Mountain</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="36.974444444" lon="-119.056944444">
+  <ele>8133.0</ele>
+  <name>Patterson Mountain</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="41.61" lon="-120.27">
+  <ele>8261.0</ele>
+  <name>Bald Mountain</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="41.571111111" lon="-120.258611111">
+  <ele>7277.0</ele>
+  <name>Bear Mountain</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="41.587777778" lon="-120.273333333">
+  <ele>8123.0</ele>
+  <name>Cedar Mountain</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="41.541666667" lon="-120.276111111">
+  <ele>7457.0</ele>
+  <name>Payne Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="38.578055556" lon="-120.263888889">
+  <ele>7136.0</ele>
+  <name>Peddler Hill</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="40.406944444" lon="-120.9525">
+  <ele>7100.0</ele>
+  <name>Pegleg Mountain</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="40.622777778" lon="-121.041388889">
+  <ele>7205.0</ele>
+  <name>Crater Mountain</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="38.148888889" lon="-119.921666667">
+  <ele>7956.0</ele>
+  <name>Bell Mountain</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="38.224722222" lon="-119.9275">
+  <ele>8445.0</ele>
+  <name>Pinecrest Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="38.109444444" lon="-119.509444444">
+  <ele>10846.0</ele>
+  <name>Acker Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="38.098611111" lon="-119.618055556">
+  <ele>9570.0</ele>
+  <name>Chittenden Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="38.033611111" lon="-119.547777778">
+  <ele>10433.0</ele>
+  <name>Piute Mountain</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="38.064722222" lon="-119.530833333">
+  <ele>10666.0</ele>
+  <name>Price Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="38.115833333" lon="-119.571388889">
+  <ele>10905.0</ele>
+  <name>Snow Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="38.123055556" lon="-119.528611111">
+  <ele>11046.0</ele>
+  <name>Wells Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="35.484444444" lon="-118.423888889">
+  <ele>8074.0</ele>
+  <name>Brown Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="35.451111111" lon="-118.391666667">
+  <ele>8405.0</ele>
+  <name>Piute Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="37.482777778" lon="-119.309444444">
+  <ele>7224.0</ele>
+  <name>Jackass Butte</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="37.481388889" lon="-119.263888889">
+  <ele>7798.0</ele>
+  <name>Piyau Dome</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="39.726666667" lon="-122.872222222">
+  <ele>7388.0</ele>
+  <name>Black Butte</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="39.773611111" lon="-120.432222222">
+  <ele>7218.0</ele>
+  <name>Beckwourth Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="41.835277778" lon="-123.612222222">
+  <ele>7228.0</ele>
+  <name>Preston Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="40.523611111" lon="-121.2675">
+  <ele>7566.0</ele>
+  <name>Ash Butte</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="40.519722222" lon="-121.353333333">
+  <ele>7257.0</ele>
+  <name>Fairfield Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="40.573055556" lon="-121.345833333">
+  <ele>8323.0</ele>
+  <name>Prospect Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="40.556111111" lon="-121.275833333">
+  <ele>7014.0</ele>
+  <name>Sunrise Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="38.848333333" lon="-120.197777778">
+  <ele>8717.0</ele>
+  <name>Blue Mountain</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="38.869166667" lon="-120.129722222">
+  <ele>8770.0</ele>
+  <name>Cracked Crag</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="38.864166667" lon="-120.174444444">
+  <ele>9852.0</ele>
+  <name>Mount Price</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="38.845" lon="-120.157777778">
+  <ele>9957.0</ele>
+  <name>Pyramid Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="36.263888889" lon="-118.618333333">
+  <ele>9993.0</ele>
+  <name>Maggie Mountain</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="36.335" lon="-118.588055556">
+  <ele>9895.0</ele>
+  <name>Quinn Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="36.308333333" lon="-118.625">
+  <ele>10043.0</ele>
+  <name>Sheep Mountain</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="36.322222222" lon="-118.571666667">
+  <ele>8861.0</ele>
+  <name>Soda Butte</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="41.463055556" lon="-121.973333333">
+  <ele>7543.0</ele>
+  <name>Dry Creek Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="41.473611111" lon="-121.956111111">
+  <ele>7549.0</ele>
+  <name>Rainbow Mountain</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="34.2975" lon="-116.726666667">
+  <ele>7523.0</ele>
+  <name>Granite Peaks</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="34.251666667" lon="-116.691388889">
+  <ele>7598.0</ele>
+  <name>Tip Top Mountain</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="40.461388889" lon="-121.498888889">
+  <ele>8740.0</ele>
+  <name>Bumpass Mountain</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="40.470277778" lon="-121.464444444">
+  <ele>8684.0</ele>
+  <name>Reading Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="40.415555556" lon="-121.412222222">
+  <ele>7382.0</ele>
+  <name>Sifford Mountain</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="39.87" lon="-120.267222222">
+  <ele>7155.0</ele>
+  <name>Bald Rock</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="39.872777778" lon="-120.308055556">
+  <ele>7497.0</ele>
+  <name>Reconnaissance Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="40.477222222" lon="-121.186111111">
+  <ele>7785.0</ele>
+  <name>North Caribou</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="40.496111111" lon="-121.246944444">
+  <ele>8363.0</ele>
+  <name>Red Cinder</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="40.495833333" lon="-121.246944444">
+  <ele>8366.0</ele>
+  <name>Red Cinder Cone</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="40.464166667" lon="-121.180277778">
+  <ele>7753.0</ele>
+  <name>South Caribou</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="34.630833333" lon="-119.281388889">
+  <ele>7493.0</ele>
+  <name>Reyes Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="38.527777778" lon="-119.393333333">
+  <ele>8658.0</ele>
+  <name>Wild Horse Mountain</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="37.891388889" lon="-118.553611111">
+  <ele>7618.0</ele>
+  <name>Antelope Mountain</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="38.900555556" lon="-120.151111111">
+  <ele>9970.0</ele>
+  <name>Dicks Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="38.890555556" lon="-120.154166667">
+  <ele>9819.0</ele>
+  <name>Jacks Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="38.948611111" lon="-120.243055556">
+  <ele>9088.0</ele>
+  <name>McConnell Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="38.956666667" lon="-120.181388889">
+  <ele>8330.0</ele>
+  <name>Middle Mountain</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="38.954722222" lon="-120.15">
+  <ele>9212.0</ele>
+  <name>Phipps Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="38.925555556" lon="-120.221388889">
+  <ele>9295.0</ele>
+  <name>Red Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="38.988611111" lon="-120.133333333">
+  <ele>9176.0</ele>
+  <name>Rubicon Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="38.934722222" lon="-120.230555556">
+  <ele>8888.0</ele>
+  <name>Silver Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="40.470277778" lon="-120.811388889">
+  <ele>7608.0</ele>
+  <name>Roop Mountain</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="36.988055556" lon="-118.921944444">
+  <ele>9465.0</ele>
+  <name>Hoffman Mountain</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="36.909166667" lon="-118.893055556">
+  <ele>9961.0</ele>
+  <name>Spanish Mountain</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="36.953888889" lon="-118.984444444">
+  <ele>7021.0</ele>
+  <name>Sugarpine Hill</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="39.241388889" lon="-120.463888889">
+  <ele>7992.0</ele>
+  <name>Snow Mountain</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="39.170277778" lon="-120.454722222">
+  <ele>7011.0</ele>
+  <name>Sunflower Hill</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="40.831944444" lon="-122.978055556">
+  <ele>7743.0</ele>
+  <name>Monument Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="40.816111111" lon="-122.993611111">
+  <ele>7441.0</ele>
+  <name>Weaver Bally</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="34.114444444" lon="-116.853611111">
+  <ele>10797.0</ele>
+  <name>Charlton Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="34.066944444" lon="-116.866388889">
+  <ele>8858.0</ele>
+  <name>Cuchillo Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="34.098055556" lon="-116.859722222">
+  <ele>10449.0</ele>
+  <name>Dobbs Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="34.071111111" lon="-116.846111111">
+  <ele>9314.0</ele>
+  <name>Galena Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="34.102777778" lon="-116.844722222">
+  <ele>11207.0</ele>
+  <name>Jepson Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="34.114166667" lon="-116.811944444">
+  <ele>10154.0</ele>
+  <name>Lake Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="34.109444444" lon="-116.85">
+  <ele>10656.0</ele>
+  <name>Little Charlton Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="34.100555556" lon="-116.828611111">
+  <ele>11489.0</ele>
+  <name>San Gorgonio Mountain</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="34.037777778" lon="-116.814166667">
+  <ele>7923.0</ele>
+  <name>Snow Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="34.064722222" lon="-116.874722222">
+  <ele>9035.0</ele>
+  <name>Wanat Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="33.830555556" lon="-116.714722222">
+  <ele>8583.0</ele>
+  <name>Castle Rocks</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="33.813333333" lon="-116.661944444">
+  <ele>9606.0</ele>
+  <name>Cornell Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="33.808333333" lon="-116.686666667">
+  <ele>10177.0</ele>
+  <name>Drury Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="33.818333333" lon="-116.684166667">
+  <ele>10482.0</ele>
+  <name>Folly Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="33.805833333" lon="-116.677777778">
+  <ele>10505.0</ele>
+  <name>Jean Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="33.76" lon="-116.683055556">
+  <ele>7923.0</ele>
+  <name>Lily Rock</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="33.795833333" lon="-116.686666667">
+  <ele>10335.0</ele>
+  <name>Marion Mountain</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="33.815" lon="-116.6725">
+  <ele>10312.0</ele>
+  <name>Miller Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="33.808333333" lon="-116.686388889">
+  <ele>10177.0</ele>
+  <name>Newton Drury Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="33.758333333" lon="-116.651944444">
+  <ele>8809.0</ele>
+  <name>Red Tahquitz</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="33.814444444" lon="-116.679166667">
+  <ele>10787.0</ele>
+  <name>San Jacinto Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="33.770833333" lon="-116.697222222">
+  <ele>7510.0</ele>
+  <name>Suicide Rock</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="33.755833333" lon="-116.676111111">
+  <ele>8720.0</ele>
+  <name>Tahquitz Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="36.438888889" lon="-117.740555556">
+  <ele>7733.0</ele>
+  <name>Malpais Mesa</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="39.556944444" lon="-120.190833333">
+  <ele>8012.0</ele>
+  <name>Land Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="39.540277778" lon="-120.188611111">
+  <ele>8097.0</ele>
+  <name>Sardine Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="39.549444444" lon="-120.206111111">
+  <ele>7503.0</ele>
+  <name>Sardine Point</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="34.830833333" lon="-119.203333333">
+  <ele>8284.0</ele>
+  <name>Cerro Noroeste</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="34.815" lon="-119.183055556">
+  <ele>8573.0</ele>
+  <name>Grouse Mountain</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="34.811666667" lon="-119.147222222">
+  <ele>8812.0</ele>
+  <name>Mount Pinos</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="34.873333333" lon="-119.178888889">
+  <ele>7490.0</ele>
+  <name>San Emigdio Mountain</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="34.813611111" lon="-119.167222222">
+  <ele>8806.0</ele>
+  <name>Sawmill Mountain</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="41.739166667" lon="-123.076666667">
+  <ele>7011.0</ele>
+  <name>Tom Martin Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="36.066666667" lon="-118.530833333">
+  <ele>7214.0</ele>
+  <name>Dome Rock</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="36.015833333" lon="-118.614722222">
+  <ele>8061.0</ele>
+  <name>Mule Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="36.027777778" lon="-118.602777778">
+  <ele>8297.0</ele>
+  <name>Onion Meadow Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="36.083333333" lon="-118.576388889">
+  <ele>9281.0</ele>
+  <name>Slate Mountain</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="41.131111111" lon="-122.448611111">
+  <ele>7149.0</ele>
+  <name>Grey Rocks</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="37.461944444" lon="-119.043888889">
+  <ele>10525.0</ele>
+  <name>Cockscomb</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="37.472777778" lon="-119.111388889">
+  <ele>9465.0</ele>
+  <name>Pincushion Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="37.439166667" lon="-119.045">
+  <ele>11161.0</ele>
+  <name>Saddle Mountain</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="37.480555556" lon="-119.026666667">
+  <ele>11650.0</ele>
+  <name>Sharktooth Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="37.470277778" lon="-119.020833333">
+  <ele>11850.0</ele>
+  <name>Silver Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="40.821111111" lon="-120.854722222">
+  <ele>7093.0</ele>
+  <name>Slate Mountain</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="40.691666667" lon="-120.214444444">
+  <ele>7536.0</ele>
+  <name>Shinn Mountain</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="40.687777778" lon="-120.222222222">
+  <ele>7080.0</ele>
+  <name>Shinn Peaks</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="40.746111111" lon="-120.241111111">
+  <ele>7575.0</ele>
+  <name>Spanish Springs Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="37.349166667" lon="-119.428055556">
+  <ele>8320.0</ele>
+  <name>Shuteye Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="39.593611111" lon="-120.641111111">
+  <ele>7818.0</ele>
+  <name>Sierra Buttes</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="39.54" lon="-120.3575">
+  <ele>7060.0</ele>
+  <name>Treasure Mountain</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="40.933055556" lon="-122.999166667">
+  <ele>8015.0</ele>
+  <name>Little Granite Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="40.917222222" lon="-122.879444444">
+  <ele>8035.0</ele>
+  <name>Middle Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="40.989444444" lon="-122.896111111">
+  <ele>7254.0</ele>
+  <name>Mumford Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="40.911111111" lon="-122.896666667">
+  <ele>7897.0</ele>
+  <name>Red Mountain</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="40.958888889" lon="-122.880277778">
+  <ele>8100.0</ele>
+  <name>Seven Up Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="40.946388889" lon="-122.900277778">
+  <ele>7926.0</ele>
+  <name>Siligo Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="40.994444444" lon="-122.916944444">
+  <ele>7579.0</ele>
+  <name>Tri-Forest Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="36.378611111" lon="-118.690555556">
+  <ele>9180.0</ele>
+  <name>Cahoon Rock</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="36.496388889" lon="-118.702222222">
+  <ele>9081.0</ele>
+  <name>Castle Rocks</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="36.384722222" lon="-118.738888889">
+  <ele>9009.0</ele>
+  <name>Homers Nose</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="36.477222222" lon="-118.697222222">
+  <ele>9363.0</ele>
+  <name>Paradise Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="36.465833333" lon="-118.714444444">
+  <ele>7933.0</ele>
+  <name>Pine Top Mountain</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="37.568055556" lon="-119.388333333">
+  <ele>10495.0</ele>
+  <name>Gale Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="37.591388889" lon="-119.455277778">
+  <ele>9659.0</ele>
+  <name>Moraine Mountain</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="37.596388889" lon="-119.493055556">
+  <ele>9724.0</ele>
+  <name>Mount Bruce</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="37.518611111" lon="-119.448055556">
+  <ele>9045.0</ele>
+  <name>Quartz Mountain</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="37.546111111" lon="-119.403055556">
+  <ele>9970.0</ele>
+  <name>Redtop</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="37.554166667" lon="-119.3875">
+  <ele>10502.0</ele>
+  <name>Sing Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="35.923888889" lon="-118.334444444">
+  <ele>9852.0</ele>
+  <name>Sirretta Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="36.973333333" lon="-118.728888889">
+  <ele>10564.0</ele>
+  <name>Burnt Mountain</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="36.876666667" lon="-118.712222222">
+  <ele>11017.0</ele>
+  <name>Hogback Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="36.878888889" lon="-118.668333333">
+  <ele>11397.0</ele>
+  <name>Kennedy Mountain</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="36.900277778" lon="-118.691944444">
+  <ele>10912.0</ele>
+  <name>Slide Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="36.995277778" lon="-118.687777778">
+  <ele>11850.0</ele>
+  <name>Tunemah Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="39.371388889" lon="-120.428611111">
+  <ele>8094.0</ele>
+  <name>Buzzard Roost</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="39.281944444" lon="-120.44">
+  <ele>7513.0</ele>
+  <name>Devils Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="39.348333333" lon="-120.401666667">
+  <ele>7139.0</ele>
+  <name>Mount Marliave</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="37.283888889" lon="-117.993055556">
+  <ele>7815.0</ele>
+  <name>Mount Nunn</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="36.104444444" lon="-118.672777778">
+  <ele>7303.0</ele>
+  <name>Solo Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="40.001944444" lon="-122.950555556">
+  <ele>7543.0</ele>
+  <name>Hammerhorn Mountain</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="40.043611111" lon="-122.902222222">
+  <ele>7287.0</ele>
+  <name>Harvey Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="40.021388889" lon="-122.955555556">
+  <ele>7566.0</ele>
+  <name>Solomon Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="40.046111111" lon="-122.953611111">
+  <ele>7362.0</ele>
+  <name>Sugarloaf Mountain</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="38.286388889" lon="-119.651111111">
+  <ele>11525.0</ele>
+  <name>Leavitt Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="38.307222222" lon="-119.691388889">
+  <ele>10528.0</ele>
+  <name>Night Cap Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="38.353888889" lon="-119.635277778">
+  <ele>11424.0</ele>
+  <name>Sonora Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="41.328611111" lon="-122.602777778">
+  <ele>7671.0</ele>
+  <name>Cory Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="41.361111111" lon="-122.59">
+  <ele>8156.0</ele>
+  <name>South China Mountain</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="38.922777778" lon="-119.898055556">
+  <ele>10023.0</ele>
+  <name>Monument Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="40.036388889" lon="-122.837222222">
+  <ele>7165.0</ele>
+  <name>Linn Mount</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="40.037222222" lon="-122.838055556">
+  <ele>7313.0</ele>
+  <name>South Yolla Bolly</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="40.036111111" lon="-122.853888889">
+  <ele>8045.0</ele>
+  <name>South Yolla Bolly Mountains</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="40.015277778" lon="-122.8525">
+  <ele>7372.0</ele>
+  <name>Twin Peaks</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="36.691666667" lon="-118.599166667">
+  <ele>10374.0</ele>
+  <name>Barton Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="36.736388889" lon="-118.503055556">
+  <ele>12080.0</ele>
+  <name>Cross Mountain</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="36.747777778" lon="-118.569166667">
+  <ele>11253.0</ele>
+  <name>Palmer Mountain</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="38.475555556" lon="-119.891944444">
+  <ele>9491.0</ele>
+  <name>Bull Run Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="38.446944444" lon="-119.969722222">
+  <ele>7319.0</ele>
+  <name>Elephant Rock</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="38.486944444" lon="-119.880277778">
+  <ele>9327.0</ele>
+  <name>Henry Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="38.473611111" lon="-119.987777778">
+  <ele>7923.0</ele>
+  <name>Inspiration Point</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="37.062777778" lon="-118.418611111">
+  <ele>13563.0</ele>
+  <name>Birch Mountain</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="37.067777778" lon="-118.467777778">
+  <ele>13806.0</ele>
+  <name>Disappointment Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="37.100833333" lon="-118.431111111">
+  <ele>11689.0</ele>
+  <name>Kid Mountain</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="37.071111111" lon="-118.469444444">
+  <ele>13934.0</ele>
+  <name>Middle Palisade</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="37.123333333" lon="-118.4675">
+  <ele>11322.0</ele>
+  <name>Mount Alice</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="37.046388889" lon="-118.441111111">
+  <ele>13425.0</ele>
+  <name>Mount Bolton Brown</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="37.103055556" lon="-118.500277778">
+  <ele>13340.0</ele>
+  <name>Mount Gayley</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="37.088888889" lon="-118.495277778">
+  <ele>13392.0</ele>
+  <name>Mount Jepson</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="37.036666667" lon="-118.434444444">
+  <ele>13441.0</ele>
+  <name>Mount Prater</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="37.036111111" lon="-118.397222222">
+  <ele>12369.0</ele>
+  <name>Mount Tinemaha</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="37.074722222" lon="-118.474444444">
+  <ele>13875.0</ele>
+  <name>Norman Clyde Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="37.077777778" lon="-118.486666667">
+  <ele>13323.0</ele>
+  <name>Palisade Crest</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="37.020833333" lon="-118.422222222">
+  <ele>14006.0</ele>
+  <name>Split Mountain</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="37.109722222" lon="-118.4925">
+  <ele>12818.0</ele>
+  <name>Temple Crag</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="37.071388889" lon="-118.445833333">
+  <ele>13313.0</ele>
+  <name>The Thumb</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="39.951944444" lon="-120.763055556">
+  <ele>7185.0</ele>
+  <name>Argentine Rock</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="39.982222222" lon="-120.803333333">
+  <ele>7011.0</ele>
+  <name>Lower Taylor</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="39.999444444" lon="-120.818055556">
+  <ele>7287.0</ele>
+  <name>Taylor Rock</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="39.995" lon="-120.776111111">
+  <ele>7684.0</ele>
+  <name>Tower Rock</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="40.03" lon="-119.981388889">
+  <ele>7851.0</ele>
+  <name>Fort Sage Mountains</name>
+  <desc>NV</desc>
+</wpt>
+<wpt lat="37.625" lon="-118.118611111">
+  <ele>7907.0</ele>
+  <name>Red Mountain</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="37.513333333" lon="-118.106944444">
+  <ele>10203.0</ele>
+  <name>Station Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="41.803888889" lon="-120.326944444">
+  <ele>7218.0</ele>
+  <name>Sugar Hill</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="39.241111111" lon="-120.196388889">
+  <ele>7319.0</ele>
+  <name>Big Chief</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="39.183055556" lon="-120.241111111">
+  <ele>7956.0</ele>
+  <name>KT-22</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="39.245277778" lon="-120.2025">
+  <ele>7237.0</ele>
+  <name>Little Chief</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="39.241666667" lon="-120.139722222">
+  <ele>8609.0</ele>
+  <name>Mount Pluto</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="39.220277778" lon="-120.147222222">
+  <ele>8405.0</ele>
+  <name>Mount Watson</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="39.214166667" lon="-120.179444444">
+  <ele>7710.0</ele>
+  <name>Painted Rock</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="39.209722222" lon="-120.236388889">
+  <ele>7730.0</ele>
+  <name>Poulsen Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="39.158055556" lon="-120.2225">
+  <ele>8238.0</ele>
+  <name>Scott Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="39.220277778" lon="-120.246111111">
+  <ele>8379.0</ele>
+  <name>Silver Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="39.148055556" lon="-120.245555556">
+  <ele>8599.0</ele>
+  <name>Ward Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="38.459444444" lon="-120.110833333">
+  <ele>7917.0</ele>
+  <name>Flagpole Point</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="38.475" lon="-120.019444444">
+  <ele>7812.0</ele>
+  <name>Osborn Hill</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="38.414166667" lon="-120.028055556">
+  <ele>7300.0</ele>
+  <name>Sapps Hill</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="37.764166667" lon="-119.628611111">
+  <ele>8448.0</ele>
+  <name>Boundary Hill</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="40.016111111" lon="-120.800833333">
+  <ele>7628.0</ele>
+  <name>Grizzly Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="35.012777778" lon="-118.474444444">
+  <ele>7746.0</ele>
+  <name>Covington Mountain</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="35.033333333" lon="-118.486666667">
+  <ele>7972.0</ele>
+  <name>Double Mountain</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="35.046666667" lon="-118.484722222">
+  <ele>7933.0</ele>
+  <name>Tehachapi Mountain</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="36.987222222" lon="-118.863055556">
+  <ele>10659.0</ele>
+  <name>Castle Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="36.918611111" lon="-118.780833333">
+  <ele>7684.0</ele>
+  <name>Tehipite Dome</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="36.976388889" lon="-118.836111111">
+  <ele>8947.0</ele>
+  <name>Volcanic Cone</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="34.261388889" lon="-117.598055556">
+  <ele>8901.0</ele>
+  <name>Telegraph Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="34.265277778" lon="-117.606111111">
+  <ele>8573.0</ele>
+  <name>Thunder Mountain</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="36.207222222" lon="-117.091944444">
+  <ele>9931.0</ele>
+  <name>Bennett Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="36.218055556" lon="-117.085">
+  <ele>9990.0</ele>
+  <name>Rogers Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="36.17" lon="-117.089166667">
+  <ele>11053.0</ele>
+  <name>Telescope Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="36.259166667" lon="-118.18">
+  <ele>9967.0</ele>
+  <name>Brown Mountain</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="36.313888889" lon="-118.207222222">
+  <ele>9944.0</ele>
+  <name>Templeton Mountain</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="37.911111111" lon="-119.539444444">
+  <ele>9639.0</ele>
+  <name>Colby Mountain</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="37.9" lon="-119.572222222">
+  <ele>9705.0</ele>
+  <name>Double Rock</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="37.911666667" lon="-119.518888889">
+  <ele>9439.0</ele>
+  <name>Grand Mountain</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="37.959166667" lon="-119.608055556">
+  <ele>8963.0</ele>
+  <name>Rancheria Mountain</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="37.847777778" lon="-119.405555556">
+  <ele>10853.0</ele>
+  <name>Cathedral Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="37.767777778" lon="-119.489444444">
+  <ele>9934.0</ele>
+  <name>Clouds Rest</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="37.819722222" lon="-119.423055556">
+  <ele>10243.0</ele>
+  <name>Columbia Finger</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="37.8325" lon="-119.403055556">
+  <ele>10745.0</ele>
+  <name>Echo Peaks</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="37.871388889" lon="-119.403888889">
+  <ele>9705.0</ele>
+  <name>Fairview Dome</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="37.856388889" lon="-119.426111111">
+  <ele>9665.0</ele>
+  <name>Medlicott Dome</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="37.809444444" lon="-119.483888889">
+  <ele>8359.0</ele>
+  <name>Olmstead Point</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="37.854444444" lon="-119.449722222">
+  <ele>9790.0</ele>
+  <name>Polly Dome</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="37.846111111" lon="-119.442777778">
+  <ele>8819.0</ele>
+  <name>Pywiack Dome</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="37.793611111" lon="-119.450277778">
+  <ele>9928.0</ele>
+  <name>Sunrise Mountain</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="37.828611111" lon="-119.443333333">
+  <ele>10266.0</ele>
+  <name>Tenaya Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="37.762222222" lon="-119.494444444">
+  <ele>9465.0</ele>
+  <name>The Pinnacles</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="37.829722222" lon="-119.422222222">
+  <ele>10600.0</ele>
+  <name>Tresidder Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="37.845555556" lon="-119.382222222">
+  <ele>10781.0</ele>
+  <name>Unicorn Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="41.53" lon="-121.964166667">
+  <ele>7985.0</ele>
+  <name>Haight Mountain</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="36.765833333" lon="-118.581944444">
+  <ele>10029.0</ele>
+  <name>Avalanche Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="36.803888889" lon="-118.5575">
+  <ele>8789.0</ele>
+  <name>Buck Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="36.798611111" lon="-118.505555556">
+  <ele>11060.0</ele>
+  <name>Glacier Monument</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="36.87" lon="-118.574166667">
+  <ele>12093.0</ele>
+  <name>Goat Mountain</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="36.832777778" lon="-118.600833333">
+  <ele>10777.0</ele>
+  <name>Mount Hutchings</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="36.874444444" lon="-118.580555556">
+  <ele>11968.0</ele>
+  <name>Munger Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="41.528333333" lon="-122.140555556">
+  <ele>8533.0</ele>
+  <name>The Whaleback</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="41.004166667" lon="-123.036944444">
+  <ele>8907.0</ele>
+  <name>Caesar Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="41.000555556" lon="-123.048333333">
+  <ele>8940.0</ele>
+  <name>Thompson Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="40.698055556" lon="-121.621388889">
+  <ele>8399.0</ele>
+  <name>Crater Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="40.738888889" lon="-121.57">
+  <ele>7385.0</ele>
+  <name>Freaner Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="40.686111111" lon="-121.599166667">
+  <ele>7913.0</ele>
+  <name>Fredonyer Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="40.695277778" lon="-121.559722222">
+  <ele>7146.0</ele>
+  <name>Hall Butte</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="40.6825" lon="-121.532222222">
+  <ele>7247.0</ele>
+  <name>Logan Mountain</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="40.689444444" lon="-121.621111111">
+  <ele>8409.0</ele>
+  <name>Magee Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="40.948055556" lon="-123.234166667">
+  <ele>7379.0</ele>
+  <name>Pony Mountain</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="40.912222222" lon="-123.215277778">
+  <ele>7155.0</ele>
+  <name>Thurston Peaks</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="38.039166667" lon="-119.679722222">
+  <ele>8537.0</ele>
+  <name>Andrews Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="38.105833333" lon="-119.685">
+  <ele>9987.0</ele>
+  <name>Haystack Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="38.124444444" lon="-119.638611111">
+  <ele>10305.0</ele>
+  <name>Kendrick Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="38.0525" lon="-119.687222222">
+  <ele>8973.0</ele>
+  <name>Mahan Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="38.123888889" lon="-119.657222222">
+  <ele>10272.0</ele>
+  <name>Michie Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="38.083888889" lon="-119.692777778">
+  <ele>9849.0</ele>
+  <name>Richardson Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="38.094166667" lon="-119.676111111">
+  <ele>9924.0</ele>
+  <name>Schofield Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="38.028055556" lon="-119.666111111">
+  <ele>8966.0</ele>
+  <name>Tiltill Mountain</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="38.100277778" lon="-119.731944444">
+  <ele>8973.0</ele>
+  <name>Wheeler Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="37.5375" lon="-119.375277778">
+  <ele>10384.0</ele>
+  <name>Madera Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="37.588611111" lon="-119.300555556">
+  <ele>9911.0</ele>
+  <name>Timber Knob</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="36.887222222" lon="-117.456388889">
+  <ele>8927.0</ele>
+  <name>Tin Mountain</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="37.918888889" lon="-119.265833333">
+  <ele>10994.0</ele>
+  <name>Gaylor Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="37.881944444" lon="-119.346944444">
+  <ele>9419.0</ele>
+  <name>Lembert Dome</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="37.966944444" lon="-119.321388889">
+  <ele>12549.0</ele>
+  <name>Mount Conness</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="37.982222222" lon="-119.314722222">
+  <ele>12231.0</ele>
+  <name>North Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="37.875277778" lon="-119.345555556">
+  <ele>8763.0</ele>
+  <name>Puppy Dome</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="37.933055556" lon="-119.353333333">
+  <ele>10866.0</ele>
+  <name>Ragged Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="37.9825" lon="-119.340833333">
+  <ele>11814.0</ele>
+  <name>Sheep Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="37.946944444" lon="-119.309722222">
+  <ele>12054.0</ele>
+  <name>White Mountain</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="35.859722222" lon="-118.521944444">
+  <ele>7848.0</ele>
+  <name>Baker Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="35.8525" lon="-118.502777778">
+  <ele>7743.0</ele>
+  <name>Baker Point</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="35.831944444" lon="-118.576388889">
+  <ele>8018.0</ele>
+  <name>Bull Run Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="35.790833333" lon="-118.585">
+  <ele>7759.0</ele>
+  <name>Portuguese Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="35.7825" lon="-118.586111111">
+  <ele>8205.0</ele>
+  <name>Sunday Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="35.85" lon="-118.5725">
+  <ele>8277.0</ele>
+  <name>Tobias Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="37.522777778" lon="-118.734722222">
+  <ele>11466.0</ele>
+  <name>Red Mountain</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="37.616111111" lon="-118.6425">
+  <ele>7631.0</ele>
+  <name>Round Mountain</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="38.693888889" lon="-119.587777778">
+  <ele>8327.0</ele>
+  <name>Dome Two</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="38.683333333" lon="-119.611944444">
+  <ele>8966.0</ele>
+  <name>Leviathan Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="33.537777778" lon="-116.461388889">
+  <ele>8035.0</ele>
+  <name>Santa Rosa Mountain</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="33.523333333" lon="-116.425555556">
+  <ele>8694.0</ele>
+  <name>Toro Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="38.129444444" lon="-119.559444444">
+  <ele>11030.0</ele>
+  <name>Craig Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="38.1375" lon="-119.515555556">
+  <ele>11233.0</ele>
+  <name>Ehrnbeck Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="38.157777778" lon="-119.580277778">
+  <ele>10823.0</ele>
+  <name>Forsyth Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="38.192222222" lon="-119.621111111">
+  <ele>10210.0</ele>
+  <name>Grizzly Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="38.1525" lon="-119.508333333">
+  <ele>11106.0</ele>
+  <name>Hawksbeak Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="38.139722222" lon="-119.591388889">
+  <ele>10587.0</ele>
+  <name>Keyes Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="38.144444444" lon="-119.547777778">
+  <ele>11716.0</ele>
+  <name>Tower Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="38.63" lon="-120.238888889">
+  <ele>7739.0</ele>
+  <name>Alder Hill</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="36.545277778" lon="-118.515555556">
+  <ele>13583.0</ele>
+  <name>Black Kaweah</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="36.545555556" lon="-118.561388889">
+  <ele>11965.0</ele>
+  <name>Eagle Scout Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="36.554722222" lon="-118.508333333">
+  <ele>13366.0</ele>
+  <name>Kaweah Queen</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="36.56" lon="-118.514166667">
+  <ele>13120.0</ele>
+  <name>Lawson Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="36.521388889" lon="-118.562777778">
+  <ele>12241.0</ele>
+  <name>Lippincott Mountain</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="36.569722222" lon="-118.554444444">
+  <ele>12165.0</ele>
+  <name>Mount Stewart</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="36.539722222" lon="-118.505555556">
+  <ele>13619.0</ele>
+  <name>Red Kaweah</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="36.592777778" lon="-118.530555556">
+  <ele>12595.0</ele>
+  <name>Triple Divide Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="39.2625" lon="-120.146388889">
+  <ele>8090.0</ele>
+  <name>Lookout Mountain</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="41.139444444" lon="-120.4525">
+  <ele>7034.0</ele>
+  <name>Tule Mountain</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="37.306388889" lon="-118.59">
+  <ele>7995.0</ele>
+  <name>Grouse Mountain</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="36.196944444" lon="-117.786388889">
+  <ele>7664.0</ele>
+  <name>Pinon Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="36.241388889" lon="-117.838611111">
+  <ele>7447.0</ele>
+  <name>Silver Mountain</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="37.785833333" lon="-119.288333333">
+  <ele>11968.0</ele>
+  <name>Amelia Earhart Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="37.791944444" lon="-119.335555556">
+  <ele>11407.0</ele>
+  <name>Fletcher Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="37.835555556" lon="-119.348888889">
+  <ele>11053.0</ele>
+  <name>Johnson Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="37.855277778" lon="-119.263611111">
+  <ele>12090.0</ele>
+  <name>Mammoth Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="37.776944444" lon="-119.307777778">
+  <ele>12136.0</ele>
+  <name>Parsons Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="37.811111111" lon="-119.280277778">
+  <ele>10672.0</ele>
+  <name>Potter Point</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="37.815" lon="-119.355833333">
+  <ele>11096.0</ele>
+  <name>Rafferty Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="37.760555556" lon="-119.294444444">
+  <ele>12431.0</ele>
+  <name>Simmons Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="37.777222222" lon="-119.349444444">
+  <ele>11443.0</ele>
+  <name>Vogelsang Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="37.2125" lon="-118.919166667">
+  <ele>10945.0</ele>
+  <name>Mount Shinn</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="37.221111111" lon="-118.894444444">
+  <ele>10830.0</ele>
+  <name>Ward Mountain</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="41.418888889" lon="-120.219166667">
+  <ele>8606.0</ele>
+  <name>Squaw Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="41.378611111" lon="-120.22">
+  <ele>9678.0</ele>
+  <name>Warren Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="34.315833333" lon="-117.926666667">
+  <ele>7759.0</ele>
+  <name>Twin Peaks</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="34.336111111" lon="-117.936388889">
+  <ele>7982.0</ele>
+  <name>Waterman Mountain</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="34.358333333" lon="-117.935277778">
+  <ele>7470.0</ele>
+  <name>Winston Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="36.977777778" lon="-117.989166667">
+  <ele>8658.0</ele>
+  <name>Mount Inyo</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="37.077222222" lon="-118.083055556">
+  <ele>9432.0</ele>
+  <name>Andrews Mountain</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="37.022222222" lon="-118.007222222">
+  <ele>11079.0</ele>
+  <name>Waucoba Mountain</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="37.053055556" lon="-118.017222222">
+  <ele>10341.0</ele>
+  <name>Wünüpü Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="39.415277778" lon="-120.481944444">
+  <ele>7815.0</ele>
+  <name>Meadow Lake Hill</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="39.480277778" lon="-120.445555556">
+  <ele>8090.0</ele>
+  <name>Webber Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="39.028888889" lon="-120.291388889">
+  <ele>7533.0</ele>
+  <name>Devils Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="39.037777778" lon="-120.312777778">
+  <ele>7641.0</ele>
+  <name>Guide Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="39.031388889" lon="-120.331666667">
+  <ele>7503.0</ele>
+  <name>Jerrett Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="39.052222222" lon="-120.346666667">
+  <ele>7923.0</ele>
+  <name>McKinstry Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="39.111111111" lon="-120.352777778">
+  <ele>7336.0</ele>
+  <name>Steamboat Mountain</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="39.059166667" lon="-120.363055556">
+  <ele>7566.0</ele>
+  <name>The Pinnacles</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="41.540555556" lon="-122.003055556">
+  <ele>7976.0</ele>
+  <name>West Haight Mountain</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="40.571944444" lon="-121.438888889">
+  <ele>7129.0</ele>
+  <name>Badger Mountain</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="40.506666667" lon="-121.415">
+  <ele>7693.0</ele>
+  <name>Hat Mountain</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="40.533055556" lon="-121.469722222">
+  <ele>7490.0</ele>
+  <name>Raker Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="40.593888889" lon="-121.378333333">
+  <ele>8067.0</ele>
+  <name>West Prospect Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="37.266666667" lon="-118.225555556">
+  <ele>9052.0</ele>
+  <name>Black Mountain</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="37.454444444" lon="-119.536666667">
+  <ele>7457.0</ele>
+  <name>Fresno Dome</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="37.404722222" lon="-119.524166667">
+  <ele>7080.0</ele>
+  <name>Greys Mountain</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="37.453333333" lon="-119.579722222">
+  <ele>7155.0</ele>
+  <name>Speckerman Mountain</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="37.488888889" lon="-119.535">
+  <ele>8651.0</ele>
+  <name>White Chief Mountain</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="35.853611111" lon="-118.248888889">
+  <ele>7864.0</ele>
+  <name>Black Mountain</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="35.865" lon="-118.215">
+  <ele>7484.0</ele>
+  <name>White Dome</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="37.687777778" lon="-118.286388889">
+  <ele>12657.0</ele>
+  <name>Headley Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="37.691388889" lon="-118.313333333">
+  <ele>11296.0</ele>
+  <name>Indian Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="37.732222222" lon="-118.304444444">
+  <ele>12743.0</ele>
+  <name>Mount Hogue</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="37.634444444" lon="-118.255555556">
+  <ele>14232.0</ele>
+  <name>White Mountain Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="36.780833333" lon="-117.413611111">
+  <ele>7493.0</ele>
+  <name>White Top Mountain</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="40.962222222" lon="-120.653611111">
+  <ele>7031.0</ele>
+  <name>Whitinger Mountain</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="36.301666667" lon="-117.091666667">
+  <ele>7766.0</ele>
+  <name>Bald Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="36.275833333" lon="-117.078888889">
+  <ele>9062.0</ele>
+  <name>Wildrose Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="38.510277778" lon="-119.635277778">
+  <ele>7608.0</ele>
+  <name>Soda Cone</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="38.779444444" lon="-119.848333333">
+  <ele>8697.0</ele>
+  <name>Cary Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="38.858055556" lon="-119.861666667">
+  <ele>10617.0</ele>
+  <name>Jobs Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="35.512222222" lon="-118.3575">
+  <ele>7825.0</ele>
+  <name>Inspiration Point</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="36.838611111" lon="-118.793888889">
+  <ele>9354.0</ele>
+  <name>Wren Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="40.0775" lon="-123.003333333">
+  <ele>7005.0</ele>
+  <name>Windy Mountain</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="41.072777778" lon="-122.871666667">
+  <ele>7631.0</ele>
+  <name>Battle Mountain</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="41.058333333" lon="-122.842222222">
+  <ele>7671.0</ele>
+  <name>Sugar Pine Butte</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="41.028888889" lon="-122.794722222">
+  <ele>7523.0</ele>
+  <name>Ycatapom Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="41.388611111" lon="-123.058333333">
+  <ele>7047.0</ele>
+  <name>Yellow Dog Peak</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="37.763611111" lon="-119.550833333">
+  <ele>7595.0</ele>
+  <name>Basket Dome</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="37.7825" lon="-119.551388889">
+  <ele>8504.0</ele>
+  <name>Indian Rock</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="37.846666667" lon="-119.510277778">
+  <ele>10771.0</ele>
+  <name>Mount Hoffmann</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="37.782777778" lon="-119.517777778">
+  <ele>8497.0</ele>
+  <name>Mount Watkins</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="37.756944444" lon="-119.56">
+  <ele>7533.0</ele>
+  <name>North Dome</name>
+  <desc>CA</desc>
+</wpt>
+<wpt lat="37.760555556" lon="-119.5075">
+  <ele>8274.0</ele>
+  <name>Quarter Domes</name>
+  <desc>CA</desc>
+</wpt>
+</gpx>

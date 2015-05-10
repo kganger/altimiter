@@ -1,0 +1,6143 @@
+<?xml version="1.0"?>
+<gpx creator="GPS Visualizer http://www.gpsvisualizer.com/" version="1.1" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+<wpt lat="44.975277778" lon="-110.032222222">
+  <ele>10928.0</ele>
+  <name>Abiathar Peak</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="44.9725" lon="-110.006944444">
+  <ele>10239.0</ele>
+  <name>Amphitheater Mountain</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="44.975277778" lon="-110.088611111">
+  <ele>10354.0</ele>
+  <name>Barronette Peak</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="44.903333333" lon="-110.056666667">
+  <ele>10495.0</ele>
+  <name>The Thunderer</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="42.675277778" lon="-110.912777778">
+  <ele>7398.0</ele>
+  <name>Wickiup Knoll</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="41.140555556" lon="-106.138888889">
+  <ele>9737.0</ele>
+  <name>Lake Mountain</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="41.1725" lon="-106.169444444">
+  <ele>9728.0</ele>
+  <name>Muddy Mountain</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="41.203055556" lon="-106.2175">
+  <ele>9977.0</ele>
+  <name>Spruce Mountain</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="44.276388889" lon="-110.374722222">
+  <ele>8750.0</ele>
+  <name>Channel Mountain</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="44.194722222" lon="-109.418888889">
+  <ele>12093.0</ele>
+  <name>Carter Mountain</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="44.371388889" lon="-107.433055556">
+  <ele>8924.0</ele>
+  <name>Bear Mountain</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="44.271111111" lon="-107.376944444">
+  <ele>8209.0</ele>
+  <name>The Island</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="43.0375" lon="-109.376111111">
+  <ele>11578.0</ele>
+  <name>Windy Peak</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="44.828611111" lon="-110.254166667">
+  <ele>9609.0</ele>
+  <name>Amethyst Mountain</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="43.8225" lon="-110.146111111">
+  <ele>10489.0</ele>
+  <name>Angle Mountain</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="43.871666667" lon="-110.150277778">
+  <ele>10111.0</ele>
+  <name>Terrace Mountain</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="41.375" lon="-109.956944444">
+  <ele>7054.0</ele>
+  <name>Antelope Knoll</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="41.529166667" lon="-106.151111111">
+  <ele>8937.0</ele>
+  <name>Deer Mountain</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="41.556111111" lon="-106.228333333">
+  <ele>9708.0</ele>
+  <name>Rock Mountain</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="41.95" lon="-105.730555556">
+  <ele>7195.0</ele>
+  <name>Red Hill</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="43.511388889" lon="-109.391388889">
+  <ele>7867.0</ele>
+  <name>Lower Table</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="43.575555556" lon="-109.394722222">
+  <ele>8143.0</ele>
+  <name>Upper Table</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="44.790277778" lon="-107.831666667">
+  <ele>10020.0</ele>
+  <name>Bald Mountain</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="44.772222222" lon="-107.778333333">
+  <ele>9911.0</ele>
+  <name>Little Bald Mountain</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="44.819166667" lon="-107.804722222">
+  <ele>9403.0</ele>
+  <name>Rooster Hill</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="44.818888889" lon="-109.321944444">
+  <ele>8596.0</ele>
+  <name>Bald Peak</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="44.757222222" lon="-109.374444444">
+  <ele>8645.0</ele>
+  <name>Dead Indian Hill</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="41.545277778" lon="-105.491111111">
+  <ele>8599.0</ele>
+  <name>Baldy Mountain</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="41.573333333" lon="-105.455833333">
+  <ele>8222.0</ele>
+  <name>The Buttes</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="42.693333333" lon="-106.053611111">
+  <ele>7283.0</ele>
+  <name>Banner Mountain</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="42.665277778" lon="-106.109444444">
+  <ele>7644.0</ele>
+  <name>Negro Hill</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="41.216111111" lon="-106.586944444">
+  <ele>8012.0</ele>
+  <name>Barcus Peak</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="41.204444444" lon="-106.598611111">
+  <ele>8031.0</ele>
+  <name>Beaver Creek Hills</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="41.127777778" lon="-106.573888889">
+  <ele>8228.0</ele>
+  <name>Coyote Hill</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="41.209722222" lon="-106.511111111">
+  <ele>7815.0</ele>
+  <name>Jenkins Peak</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="42.742777778" lon="-107.355833333">
+  <ele>7401.0</ele>
+  <name>Bald Mountain</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="42.737777778" lon="-107.330833333">
+  <ele>7969.0</ele>
+  <name>Goat Mountain</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="42.396944444" lon="-108.3375">
+  <ele>7444.0</ele>
+  <name>North Bear Mountain</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="43.565277778" lon="-107.607222222">
+  <ele>7077.0</ele>
+  <name>Battle Mountain</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="42.436111111" lon="-106.541666667">
+  <ele>7529.0</ele>
+  <name>Bear Mountain</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="44.955" lon="-109.611111111">
+  <ele>10482.0</ele>
+  <name>Beartooth Butte</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="44.919444444" lon="-109.564722222">
+  <ele>9931.0</ele>
+  <name>Bird Mountain</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="44.900277778" lon="-109.596944444">
+  <ele>8596.0</ele>
+  <name>Table Mountain</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="41.522222222" lon="-110.817222222">
+  <ele>7972.0</ele>
+  <name>Bell Butte</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="41.721944444" lon="-110.823333333">
+  <ele>8235.0</ele>
+  <name>Elk Mountain</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="41.507777778" lon="-106.0475">
+  <ele>7890.0</ele>
+  <name>Bengough Hill</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="42.305833333" lon="-110.759722222">
+  <ele>9121.0</ele>
+  <name>Green Knoll</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="42.596944444" lon="-110.192222222">
+  <ele>7195.0</ele>
+  <name>D B Budd Butte</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="42.593888889" lon="-110.201944444">
+  <ele>7221.0</ele>
+  <name>Sixty-Seven Butte</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="41.203055556" lon="-109.299722222">
+  <ele>8012.0</ele>
+  <name>Hogback</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="41.126111111" lon="-109.278333333">
+  <ele>8632.0</ele>
+  <name>Little Mountain</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="41.232222222" lon="-109.269722222">
+  <ele>7608.0</ele>
+  <name>Parea Butte</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="41.176111111" lon="-109.256388889">
+  <ele>7910.0</ele>
+  <name>Ramsey Peak</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="43.253888889" lon="-109.8975">
+  <ele>11552.0</ele>
+  <name>Battleship Mountain</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="43.275277778" lon="-109.878333333">
+  <ele>11591.0</ele>
+  <name>Big Sheep Mountain</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="43.271666667" lon="-109.906111111">
+  <ele>11486.0</ele>
+  <name>Gypsum Mountain</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="43.319722222" lon="-109.931111111">
+  <ele>10213.0</ele>
+  <name>Little Sheep Mountain</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="43.264166667" lon="-109.995">
+  <ele>8924.0</ele>
+  <name>Red Hill</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="43.454166667" lon="-108.098055556">
+  <ele>7461.0</ele>
+  <name>Birdseye Mountain</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="44.5275" lon="-107.661944444">
+  <ele>7087.0</ele>
+  <name>Black Mountain</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="44.556944444" lon="-107.652222222">
+  <ele>7254.0</ele>
+  <name>Horse Mountain</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="44.619444444" lon="-107.701944444">
+  <ele>7976.0</ele>
+  <name>Sunlight Mesa</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="41.875" lon="-108.793611111">
+  <ele>7175.0</ele>
+  <name>Black Rock</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="41.033333333" lon="-106.683888889">
+  <ele>10915.0</ele>
+  <name>Blackhall Mountain</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="41.1175" lon="-106.719722222">
+  <ele>9688.0</ele>
+  <name>Wood Mountain</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="44.888055556" lon="-110.502777778">
+  <ele>9527.0</ele>
+  <name>Prospect Peak</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="42.776111111" lon="-108.025277778">
+  <ele>7126.0</ele>
+  <name>Rock Creek Mountain</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="43.401111111" lon="-109.453333333">
+  <ele>7382.0</ele>
+  <name>Table Mountain</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="43.543888889" lon="-110.524444444">
+  <ele>11214.0</ele>
+  <name>Sheep Mountain</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="43.503333333" lon="-110.588888889">
+  <ele>9924.0</ele>
+  <name>Table Mountain</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="42.528055556" lon="-105.628888889">
+  <ele>7064.0</ele>
+  <name>Baldy Point</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="42.543055556" lon="-105.734444444">
+  <ele>7277.0</ele>
+  <name>Caffee Point</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="42.521666667" lon="-105.719444444">
+  <ele>7615.0</ele>
+  <name>Point of Rocks</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="43.215" lon="-109.380277778">
+  <ele>10659.0</ele>
+  <name>Bold Mountain</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="44.061666667" lon="-110.399722222">
+  <ele>9695.0</ele>
+  <name>Pinyon Peak</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="43.160555556" lon="-110.380277778">
+  <ele>7142.0</ele>
+  <name>Clark Butte</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="42.220833333" lon="-105.948055556">
+  <ele>7395.0</ele>
+  <name>Boot Heel</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="42.726111111" lon="-109.638611111">
+  <ele>7369.0</ele>
+  <name>Chalk Butte</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="42.007222222" lon="-111.035833333">
+  <ele>7693.0</ele>
+  <name>Red Mountain</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="43.458611111" lon="-108.193055556">
+  <ele>7418.0</ele>
+  <name>Boysen Peak</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="43.456388889" lon="-108.208611111">
+  <ele>7336.0</ele>
+  <name>Stagner Mountain</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="43.463611111" lon="-108.145833333">
+  <ele>7178.0</ele>
+  <name>Stone Mountain</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="42.238611111" lon="-107.094166667">
+  <ele>7497.0</ele>
+  <name>Bear Mountain</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="42.167222222" lon="-107.056944444">
+  <ele>8898.0</ele>
+  <name>Bradley Peak</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="42.206666667" lon="-107.073055556">
+  <ele>7677.0</ele>
+  <name>Junk Hill</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="43.074722222" lon="-109.715555556">
+  <ele>10623.0</ele>
+  <name>Duran Peak</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="43.112777778" lon="-109.703611111">
+  <ele>11939.0</ele>
+  <name>Elbow Peak</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="43.083055556" lon="-109.709444444">
+  <ele>11338.0</ele>
+  <name>Guiterrez Peak</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="43.025277778" lon="-109.695277778">
+  <ele>10092.0</ele>
+  <name>Photographers Point</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="41.525" lon="-107.393888889">
+  <ele>8291.0</ele>
+  <name>Miller Hill</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="41.186111111" lon="-107.031666667">
+  <ele>10961.0</ele>
+  <name>Bridger Peak</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="41.195" lon="-107.084444444">
+  <ele>10266.0</ele>
+  <name>McCormick Peak</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="41.244166667" lon="-107.038333333">
+  <ele>10285.0</ele>
+  <name>Mowry Peak</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="41.152222222" lon="-107.062777778">
+  <ele>9839.0</ele>
+  <name>Quartzite Peak</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="41.208055556" lon="-107.007777778">
+  <ele>10768.0</ele>
+  <name>Vulcan Mountain</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="44.154166667" lon="-107.361388889">
+  <ele>7031.0</ele>
+  <name>Buttes</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="41.1875" lon="-107.443611111">
+  <ele>7743.0</ele>
+  <name>Browns Hill</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="41.232222222" lon="-107.485555556">
+  <ele>7697.0</ele>
+  <name>Five Buttes</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="41.003611111" lon="-110.450555556">
+  <ele>9531.0</ele>
+  <name>Thunderbolt Mountain</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="42.541111111" lon="-105.899444444">
+  <ele>8999.0</ele>
+  <name>Buck Peak</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="42.511388889" lon="-105.906111111">
+  <ele>9140.0</ele>
+  <name>Cherry Mountain</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="42.615" lon="-105.959444444">
+  <ele>8389.0</ele>
+  <name>Davis Peak</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="42.623055556" lon="-105.979444444">
+  <ele>7969.0</ele>
+  <name>Lookout Peak</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="42.576944444" lon="-105.895833333">
+  <ele>7716.0</ele>
+  <name>Pole Mountain</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="42.5325" lon="-105.887777778">
+  <ele>7907.0</ele>
+  <name>Twin Peak</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="44.535555556" lon="-110.881944444">
+  <ele>7920.0</ele>
+  <name>Twin Buttes</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="42.525" lon="-105.766666667">
+  <ele>7510.0</ele>
+  <name>Bear Rock</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="42.509722222" lon="-105.853333333">
+  <ele>9331.0</ele>
+  <name>Buffalo Peak</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="42.564166667" lon="-105.852777778">
+  <ele>8218.0</ele>
+  <name>Peterson Mountain</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="42.549722222" lon="-105.801111111">
+  <ele>7296.0</ele>
+  <name>Standing Rock</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="42.597777778" lon="-105.8275">
+  <ele>7733.0</ele>
+  <name>Sullivan Mountain</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="41.915" lon="-105.498888889">
+  <ele>7559.0</ele>
+  <name>Bull Camp Peak</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="41.991944444" lon="-105.490277778">
+  <ele>7943.0</ele>
+  <name>Douthitt Mountain</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="41.946388889" lon="-105.418611111">
+  <ele>7182.0</ele>
+  <name>Elmers Rock</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="41.9675" lon="-105.394166667">
+  <ele>7743.0</ele>
+  <name>Sugar Loaf</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="43.256111111" lon="-110.614444444">
+  <ele>9737.0</ele>
+  <name>Beaver Mountain</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="43.305277778" lon="-110.607222222">
+  <ele>9623.0</ele>
+  <name>Cream Puff Peak</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="44.973888889" lon="-107.685">
+  <ele>7162.0</ele>
+  <name>Fisher Mountain</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="44.906111111" lon="-107.734166667">
+  <ele>8094.0</ele>
+  <name>Leaky Mountain</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="43.5675" lon="-107.735833333">
+  <ele>7162.0</ele>
+  <name>Klondike Peak</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="44.807777778" lon="-107.520833333">
+  <ele>8025.0</ele>
+  <name>Twin Buttes</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="43.525555556" lon="-110.131388889">
+  <ele>9895.0</ele>
+  <name>Burnt Mountain</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="43.615" lon="-110.191111111">
+  <ele>9600.0</ele>
+  <name>Deer Creek Mountain</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="41.089166667" lon="-110.040277778">
+  <ele>8527.0</ele>
+  <name>Cedar Mountain</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="44.478055556" lon="-107.609166667">
+  <ele>7139.0</ele>
+  <name>Bush Butte</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="43.4625" lon="-110.626388889">
+  <ele>10715.0</ele>
+  <name>Jackson Peak</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="43.460277778" lon="-110.646388889">
+  <ele>9869.0</ele>
+  <name>Nowlin Peak</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="41.215" lon="-105.776111111">
+  <ele>7257.0</ele>
+  <name>Twelvemile Hill</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="41.807222222" lon="-105.751388889">
+  <ele>7165.0</ele>
+  <name>Chalk Bluff</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="44.656944444" lon="-110.473611111">
+  <ele>7867.0</ele>
+  <name>Crater Hills</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="44.649166667" lon="-110.473055556">
+  <ele>7933.0</ele>
+  <name>Sulphur Mountain</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="42.7525" lon="-106.314444444">
+  <ele>7848.0</ele>
+  <name>Casper Mountain</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="43.75" lon="-109.483055556">
+  <ele>10981.0</ele>
+  <name>Mount Kent</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="44.441666667" lon="-109.330277778">
+  <ele>7401.0</ele>
+  <name>Sheep Mountain</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="44.570555556" lon="-110.110833333">
+  <ele>10548.0</ele>
+  <name>Cathedral Peak</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="44.500833333" lon="-110.029166667">
+  <ele>10138.0</ele>
+  <name>Cody Peak</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="44.535" lon="-110.003611111">
+  <ele>10052.0</ele>
+  <name>Giant Castle Mountain</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="44.604444444" lon="-110.066111111">
+  <ele>10430.0</ele>
+  <name>Pyramid Peak</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="44.524166667" lon="-110.103611111">
+  <ele>10613.0</ele>
+  <name>Silvertip Peak</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="44.155" lon="-110.884166667">
+  <ele>7296.0</ele>
+  <name>Birch Hills</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="44.13" lon="-110.8925">
+  <ele>7277.0</ele>
+  <name>Calf Creek Hill</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="41.331111111" lon="-106.151666667">
+  <ele>9478.0</ele>
+  <name>Corner Mountain</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="43.565" lon="-107.2275">
+  <ele>8497.0</ele>
+  <name>Cherry Creek Hill</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="42.437222222" lon="-110.141944444">
+  <ele>7057.0</ele>
+  <name>Bailey Cone</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="42.442777778" lon="-110.207777778">
+  <ele>7208.0</ele>
+  <name>Chimney Butte</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="42.55" lon="-108.880277778">
+  <ele>10400.0</ele>
+  <name>Granite Peak</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="42.536111111" lon="-108.880277778">
+  <ele>10249.0</ele>
+  <name>Pabst Peak</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="42.525833333" lon="-108.885277778">
+  <ele>10052.0</ele>
+  <name>Rennecker Peak</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="43.522777778" lon="-109.008333333">
+  <ele>7431.0</ele>
+  <name>Maverick Spring Dome</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="43.572777778" lon="-109.125277778">
+  <ele>8081.0</ele>
+  <name>Red Peak</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="43.621388889" lon="-109.066111111">
+  <ele>9691.0</ele>
+  <name>Spring Mountain</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="43.158333333" lon="-110.580833333">
+  <ele>10607.0</ele>
+  <name>Clause Peak</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="43.228333333" lon="-110.570277778">
+  <ele>10305.0</ele>
+  <name>Ramshorn Peak</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="44.408888889" lon="-109.729166667">
+  <ele>9970.0</ele>
+  <name>Clayton Mountain</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="44.382777778" lon="-109.747222222">
+  <ele>10850.0</ele>
+  <name>Double Mountain</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="44.413611111" lon="-109.733333333">
+  <ele>9052.0</ele>
+  <name>Post Point</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="44.402777778" lon="-107.175555556">
+  <ele>12244.0</ele>
+  <name>Black Tooth Mountain</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="44.382222222" lon="-107.173888889">
+  <ele>13179.0</ele>
+  <name>Cloud Peak</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="44.401111111" lon="-107.176666667">
+  <ele>12933.0</ele>
+  <name>Mount Woolsey</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="44.415" lon="-107.144444444">
+  <ele>12405.0</ele>
+  <name>Penrose Peak</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="44.2475" lon="-109.733611111">
+  <ele>11604.0</ele>
+  <name>Clouds Home Peak</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="44.158333333" lon="-109.738055556">
+  <ele>10361.0</ele>
+  <name>Gobblers Knob</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="44.198888889" lon="-109.6875">
+  <ele>10882.0</ele>
+  <name>Horses Head</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="44.201111111" lon="-109.641666667">
+  <ele>10485.0</ele>
+  <name>Ishawooa Mesa</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="44.131111111" lon="-109.749166667">
+  <ele>11014.0</ele>
+  <name>Kingfisher Peak</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="41.566944444" lon="-106.582777778">
+  <ele>9298.0</ele>
+  <name>Coad Mountain</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="41.633333333" lon="-106.526388889">
+  <ele>11122.0</ele>
+  <name>Elk Mountain</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="41.556388889" lon="-106.565277778">
+  <ele>7913.0</ele>
+  <name>Indian Hill</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="41.597222222" lon="-106.530833333">
+  <ele>8428.0</ele>
+  <name>Jack Hill</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="41.563055556" lon="-106.519444444">
+  <ele>7913.0</ele>
+  <name>Paulson Hill</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="41.526111111" lon="-106.583611111">
+  <ele>9928.0</ele>
+  <name>Pennock Mountain</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="41.663611111" lon="-106.628611111">
+  <ele>8596.0</ele>
+  <name>Sheephead Mountain</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="43.999166667" lon="-110.651666667">
+  <ele>7854.0</ele>
+  <name>Mount Reid</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="41.947777778" lon="-106.383333333">
+  <ele>7021.0</ele>
+  <name>Sevenmile Hill</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="42.268055556" lon="-108.718611111">
+  <ele>8428.0</ele>
+  <name>Continental Peak</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="42.645833333" lon="-108.928888889">
+  <ele>11099.0</ele>
+  <name>Cony Mountain</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="42.743333333" lon="-108.884722222">
+  <ele>9275.0</ele>
+  <name>Fairfield Hill</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="44.842777778" lon="-110.575277778">
+  <ele>9754.0</ele>
+  <name>Cook Peak</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="44.872777778" lon="-110.5475">
+  <ele>9334.0</ele>
+  <name>Folsom Peak</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="44.771944444" lon="-110.548055556">
+  <ele>9390.0</ele>
+  <name>Observation Peak</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="45.000555556" lon="-109.955555556">
+  <ele>9987.0</ele>
+  <name>Republic Mountain</name>
+  <desc>MT</desc>
+</wpt>
+<wpt lat="45.004166667" lon="-109.950833333">
+  <ele>9134.0</ele>
+  <name>Republic Mountain</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="42.163055556" lon="-105.6375">
+  <ele>7431.0</ele>
+  <name>Indian Head Rock</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="43.443611111" lon="-107.609444444">
+  <ele>7198.0</ele>
+  <name>Lysite Mountain</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="43.820833333" lon="-109.063055556">
+  <ele>10768.0</ele>
+  <name>Cottonwood Peak</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="41.004166667" lon="-107.168333333">
+  <ele>7536.0</ele>
+  <name>Mule Mountain</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="41.009166667" lon="-107.184722222">
+  <ele>8291.0</ele>
+  <name>Sheep Mountain</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="41.290833333" lon="-106.721111111">
+  <ele>7687.0</ele>
+  <name>Baggot Rocks</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="41.285833333" lon="-106.733611111">
+  <ele>7759.0</ele>
+  <name>Needle Peak</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="42.229166667" lon="-105.536111111">
+  <ele>8090.0</ele>
+  <name>Blue Jay Mountain</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="42.215555556" lon="-105.564444444">
+  <ele>8592.0</ele>
+  <name>Cow Creek Mountain</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="42.239444444" lon="-105.532777778">
+  <ele>8855.0</ele>
+  <name>Eagle Mountain</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="42.179166667" lon="-105.580277778">
+  <ele>8018.0</ele>
+  <name>Indian Peak</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="42.239444444" lon="-105.532777778">
+  <ele>8855.0</ele>
+  <name>Jack Squirrel Peak</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="42.233055556" lon="-105.51">
+  <ele>7854.0</ele>
+  <name>Round Mountain</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="42.203611111" lon="-105.61">
+  <ele>8435.0</ele>
+  <name>Sugarloaf Mountain</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="41.210277778" lon="-108.466666667">
+  <ele>7047.0</ele>
+  <name>Five Monument Butte</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="44.448888889" lon="-110.723611111">
+  <ele>8615.0</ele>
+  <name>Corkscrew Hill</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="43.901111111" lon="-110.058611111">
+  <ele>10649.0</ele>
+  <name>Smokehouse Mountain</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="43.943055556" lon="-110.101111111">
+  <ele>10774.0</ele>
+  <name>Soda Mountain</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="40.994722222" lon="-105.935">
+  <ele>9094.0</ele>
+  <name>Red Mountain</name>
+  <desc>CO</desc>
+</wpt>
+<wpt lat="41.730277778" lon="-107.6625">
+  <ele>7021.0</ele>
+  <name>Cherokee Hill</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="41.651944444" lon="-107.664166667">
+  <ele>7155.0</ele>
+  <name>Cow Butte</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="41.652222222" lon="-107.663333333">
+  <ele>7146.0</ele>
+  <name>Horse Butte</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="42.424166667" lon="-110.330833333">
+  <ele>8583.0</ele>
+  <name>Cretaceous Mountain</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="42.394166667" lon="-107.918888889">
+  <ele>8310.0</ele>
+  <name>Crooks Mountain</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="42.265" lon="-107.836111111">
+  <ele>7516.0</ele>
+  <name>Bare Ring Butte</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="42.371388889" lon="-107.866944444">
+  <ele>7671.0</ele>
+  <name>Crooks Peak</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="42.3725" lon="-107.813611111">
+  <ele>7887.0</ele>
+  <name>Sheep Mountain</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="43.567222222" lon="-109.272777778">
+  <ele>9367.0</ele>
+  <name>Crow Mountain</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="43.394444444" lon="-110.409722222">
+  <ele>11414.0</ele>
+  <name>Antoinette Peak</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="43.376666667" lon="-110.377777778">
+  <ele>11171.0</ele>
+  <name>Corner Peak</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="43.476388889" lon="-110.388055556">
+  <ele>10964.0</ele>
+  <name>Crystal Peak</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="43.455555556" lon="-110.466944444">
+  <ele>11096.0</ele>
+  <name>Pyramid Peak</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="41.087777778" lon="-105.443055556">
+  <ele>8005.0</ele>
+  <name>Natural Fort</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="42.825555556" lon="-110.038611111">
+  <ele>7569.0</ele>
+  <name>Daniel Grindstone Butte</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="42.919166667" lon="-110.010555556">
+  <ele>7743.0</ele>
+  <name>Cora Butte</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="43.413888889" lon="-110.360833333">
+  <ele>11614.0</ele>
+  <name>Black Peak</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="43.388888889" lon="-110.308055556">
+  <ele>11604.0</ele>
+  <name>Darwin Peak</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="43.378333333" lon="-110.3525">
+  <ele>10866.0</ele>
+  <name>Steamboat Peak</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="42.101666667" lon="-105.376111111">
+  <ele>8159.0</ele>
+  <name>Britania Mountain</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="42.022777778" lon="-105.396111111">
+  <ele>8077.0</ele>
+  <name>Pine Mountain</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="42.016666667" lon="-105.396111111">
+  <ele>8261.0</ele>
+  <name>Split Rock</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="43.861666667" lon="-110.444166667">
+  <ele>7884.0</ele>
+  <name>Davis Hill</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="43.813888889" lon="-110.483055556">
+  <ele>7313.0</ele>
+  <name>Uhl Hill</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="44.768611111" lon="-107.309722222">
+  <ele>8005.0</ele>
+  <name>Elephant Foot</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="44.802222222" lon="-107.339722222">
+  <ele>7021.0</ele>
+  <name>Fallen City</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="44.786111111" lon="-107.322222222">
+  <ele>7923.0</ele>
+  <name>Horseshoe Mountain</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="44.7675" lon="-107.289444444">
+  <ele>7946.0</ele>
+  <name>Tongue Butte</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="43.413611111" lon="-107.818888889">
+  <ele>7418.0</ele>
+  <name>Fuller Peak</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="43.42" lon="-107.828055556">
+  <ele>7621.0</ele>
+  <name>Greer Peak</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="44.607222222" lon="-109.610833333">
+  <ele>12149.0</ele>
+  <name>Dead Indian Peak</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="44.601388889" lon="-109.525277778">
+  <ele>12218.0</ele>
+  <name>Trout Peak</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="44.985555556" lon="-109.48">
+  <ele>10029.0</ele>
+  <name>Quintuple Peaks</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="44.905" lon="-109.457222222">
+  <ele>10216.0</ele>
+  <name>Sawtooth Mountain</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="44.941388889" lon="-109.444444444">
+  <ele>10656.0</ele>
+  <name>Tibbs Butte</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="44.935277778" lon="-109.385">
+  <ele>10403.0</ele>
+  <name>Tolman Mountain</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="41.818333333" lon="-109.003611111">
+  <ele>7946.0</ele>
+  <name>Cabin Butte</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="41.833333333" lon="-109.042222222">
+  <ele>7874.0</ele>
+  <name>Deer Butte</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="42.562222222" lon="-110.295555556">
+  <ele>7720.0</ele>
+  <name>Deer Hill</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="42.504722222" lon="-110.303055556">
+  <ele>7411.0</ele>
+  <name>Rands Butte</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="42.548333333" lon="-110.303055556">
+  <ele>7474.0</ele>
+  <name>Sand Hill</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="42.5275" lon="-110.2625">
+  <ele>7434.0</ele>
+  <name>Webster Hill</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="41.179166667" lon="-109.705833333">
+  <ele>7802.0</ele>
+  <name>Black Mountain</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="44.303888889" lon="-109.158055556">
+  <ele>8491.0</ele>
+  <name>Devils Tooth</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="43.895833333" lon="-109.243611111">
+  <ele>11801.0</ele>
+  <name>Dundee Mountain</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="42.837222222" lon="-109.038333333">
+  <ele>10459.0</ele>
+  <name>Black Mountain</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="42.807777778" lon="-109.075555556">
+  <ele>10312.0</ele>
+  <name>Dishpan Butte</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="42.865277778" lon="-109.124166667">
+  <ele>11558.0</ele>
+  <name>Hobbs Peak</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="42.751388889" lon="-109.050833333">
+  <ele>11358.0</ele>
+  <name>Mount Chevo</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="42.045833333" lon="-106.424444444">
+  <ele>7267.0</ele>
+  <name>Beer Mug Mountain</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="44.822222222" lon="-109.484722222">
+  <ele>8760.0</ele>
+  <name>Sugarloaf Mountain</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="44.761666667" lon="-109.498055556">
+  <ele>8612.0</ele>
+  <name>White Mountain</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="42.646388889" lon="-108.245">
+  <ele>7198.0</ele>
+  <name>Prodigy Hill</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="41.251944444" lon="-107.182777778">
+  <ele>9052.0</ele>
+  <name>Dexter Peak</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="41.296944444" lon="-107.1725">
+  <ele>9075.0</ele>
+  <name>Divide Peak</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="41.116666667" lon="-107.537222222">
+  <ele>7913.0</ele>
+  <name>Muddy Mountain</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="43.131944444" lon="-110.031666667">
+  <ele>8599.0</ele>
+  <name>Black Butte</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="43.210555556" lon="-110.064166667">
+  <ele>9124.0</ele>
+  <name>Dodge Butte</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="43.141944444" lon="-110.006388889">
+  <ele>8412.0</ele>
+  <name>Middle Butte</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="43.242222222" lon="-110.107777778">
+  <ele>9547.0</ele>
+  <name>Rock Creek Buttes</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="44.528333333" lon="-107.285833333">
+  <ele>10456.0</ele>
+  <name>Black Rib</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="44.546388889" lon="-107.3325">
+  <ele>10997.0</ele>
+  <name>Elk Peak</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="44.556388889" lon="-107.331666667">
+  <ele>10554.0</ele>
+  <name>Saddle Mountain</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="41.480833333" lon="-107.669722222">
+  <ele>7106.0</ele>
+  <name>China Butte</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="41.450555556" lon="-107.644722222">
+  <ele>7605.0</ele>
+  <name>Doty Mountain</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="43.348611111" lon="-110.286944444">
+  <ele>11512.0</ele>
+  <name>Doubletop Peak</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="43.310555556" lon="-110.258055556">
+  <ele>10407.0</ele>
+  <name>Eagle Peak</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="43.318333333" lon="-110.261666667">
+  <ele>10623.0</ele>
+  <name>Hodges Peak</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="43.359722222" lon="-110.326944444">
+  <ele>11256.0</ele>
+  <name>Palmer Peak</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="43.362777778" lon="-110.280833333">
+  <ele>11358.0</ele>
+  <name>Triangle Peak</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="41.073333333" lon="-105.833055556">
+  <ele>7621.0</ele>
+  <name>Steamboat Rock</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="43.266944444" lon="-109.636666667">
+  <ele>11493.0</ele>
+  <name>Bears Tooth</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="43.31" lon="-109.6725">
+  <ele>13330.0</ele>
+  <name>Downs Mountain</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="43.323333333" lon="-109.705277778">
+  <ele>12536.0</ele>
+  <name>Hunters Hump</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="43.312222222" lon="-109.684166667">
+  <ele>13071.0</ele>
+  <name>Northwest Peak</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="43.374722222" lon="-109.707777778">
+  <ele>12369.0</ele>
+  <name>Shale Mountain</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="43.324444444" lon="-109.651388889">
+  <ele>12175.0</ele>
+  <name>Spider Peak</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="43.349722222" lon="-109.649722222">
+  <ele>11174.0</ele>
+  <name>The Guardian</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="43.265555556" lon="-109.690277778">
+  <ele>12743.0</ele>
+  <name>Yukon Peak</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="41.217222222" lon="-107.918055556">
+  <ele>7428.0</ele>
+  <name>West Flat Top Mountain</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="43.519166667" lon="-109.744722222">
+  <ele>9806.0</ele>
+  <name>Bald Mountain</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="43.791388889" lon="-109.886111111">
+  <ele>10974.0</ele>
+  <name>Du Noir Butte</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="43.869166667" lon="-109.282222222">
+  <ele>10430.0</ele>
+  <name>Bald Mountain</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="43.772777778" lon="-109.253611111">
+  <ele>12034.0</ele>
+  <name>County Peak</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="43.865555556" lon="-109.373333333">
+  <ele>11867.0</ele>
+  <name>Dollar Mountain</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="43.8575" lon="-109.367777778">
+  <ele>11965.0</ele>
+  <name>Dunrud Peak</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="43.867777778" lon="-109.255277778">
+  <ele>11417.0</ele>
+  <name>Mineral Mountain</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="43.864444444" lon="-109.302222222">
+  <ele>10620.0</ele>
+  <name>Mount Sniffel</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="43.858055556" lon="-109.2825">
+  <ele>11936.0</ele>
+  <name>Spar Mountain</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="43.764166667" lon="-109.370277778">
+  <ele>11079.0</ele>
+  <name>Steamboat Rock</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="44.301666667" lon="-110.11">
+  <ele>10640.0</ele>
+  <name>Colter Peak</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="44.320833333" lon="-110.027777778">
+  <ele>11352.0</ele>
+  <name>Eagle Peak</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="44.335555556" lon="-110.063333333">
+  <ele>10853.0</ele>
+  <name>Mount Humphreys</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="44.3425" lon="-110.071944444">
+  <ele>11007.0</ele>
+  <name>Mount Schurz</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="44.296111111" lon="-110.055555556">
+  <ele>11040.0</ele>
+  <name>Table Mountain</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="44.272777778" lon="-110.060555556">
+  <ele>10840.0</ele>
+  <name>Turret Mountain</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="44.666666667" lon="-109.125833333">
+  <ele>7831.0</ele>
+  <name>Heart Mountain</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="41.372222222" lon="-109.223333333">
+  <ele>7349.0</ele>
+  <name>Earnest Butte</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="42.538888889" lon="-111.041944444">
+  <ele>8333.0</ele>
+  <name>The Pinnacle</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="44.655" lon="-109.543333333">
+  <ele>10531.0</ele>
+  <name>Elkhorn Peak</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="41.100833333" lon="-106.429444444">
+  <ele>8294.0</ele>
+  <name>Deerhorn Point</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="41.021944444" lon="-106.398333333">
+  <ele>8451.0</ele>
+  <name>Parkview Hill</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="41.12" lon="-106.436388889">
+  <ele>8241.0</ele>
+  <name>Prospect Mountain</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="43.878055556" lon="-109.575833333">
+  <ele>11512.0</ele>
+  <name>Devils Graveyard</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="43.990277778" lon="-109.617222222">
+  <ele>11581.0</ele>
+  <name>Lost Ranger Top</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="43.966388889" lon="-109.613055556">
+  <ele>12195.0</ele>
+  <name>Red Tops</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="42.769444444" lon="-107.438611111">
+  <ele>8045.0</ele>
+  <name>Black Mountain</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="42.055" lon="-109.115277778">
+  <ele>8008.0</ele>
+  <name>Essex Mountain</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="41.254722222" lon="-110.981944444">
+  <ele>7024.0</ele>
+  <name>Burnt Hill</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="41.352222222" lon="-110.908055556">
+  <ele>8599.0</ele>
+  <name>Medicine Butte</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="42.968055556" lon="-109.748055556">
+  <ele>9327.0</ele>
+  <name>Fortification Mountain</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="42.905555556" lon="-109.743888889">
+  <ele>8701.0</ele>
+  <name>Half Moon Mountain</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="43.885" lon="-109.951944444">
+  <ele>10597.0</ele>
+  <name>Pendergraft Peak</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="43.170833333" lon="-110.913333333">
+  <ele>9285.0</ele>
+  <name>Bradley Mountain</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="43.2325" lon="-110.956666667">
+  <ele>9737.0</ele>
+  <name>Deadhorse Peak</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="43.237222222" lon="-110.927777778">
+  <ele>9754.0</ele>
+  <name>Red Peak</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="42.059722222" lon="-109.288055556">
+  <ele>7109.0</ele>
+  <name>Buffalo Hump</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="41.438333333" lon="-106.722777778">
+  <ele>7070.0</ele>
+  <name>Fourmile Hill</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="41.253611111" lon="-109.306666667">
+  <ele>7785.0</ele>
+  <name>Sheep Mountain</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="43.549166667" lon="-109.964166667">
+  <ele>10056.0</ele>
+  <name>Fish Lake Mountain</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="43.764722222" lon="-109.632777778">
+  <ele>10476.0</ele>
+  <name>Boedeker Butte</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="43.8" lon="-109.667222222">
+  <ele>11151.0</ele>
+  <name>Cathedral Peak</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="43.836666667" lon="-109.706666667">
+  <ele>11827.0</ele>
+  <name>Raggedtop Mountain</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="43.767222222" lon="-109.744166667">
+  <ele>11893.0</ele>
+  <name>The Ramshorn</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="44.467777778" lon="-109.532222222">
+  <ele>7008.0</ele>
+  <name>Signal Peak</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="44.019444444" lon="-110.720833333">
+  <ele>7313.0</ele>
+  <name>Harem Hill</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="44.050833333" lon="-110.707222222">
+  <ele>7844.0</ele>
+  <name>Steamboat Mountain</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="41.184722222" lon="-107.8">
+  <ele>7579.0</ele>
+  <name>East Flat Top</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="41.192222222" lon="-107.841666667">
+  <ele>7470.0</ele>
+  <name>Flat Top Mountain</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="41.22" lon="-107.835555556">
+  <ele>7821.0</ele>
+  <name>North Flat Top</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="41.071111111" lon="-107.092777778">
+  <ele>8638.0</ele>
+  <name>Fletcher Peak</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="41.290555556" lon="-110.470277778">
+  <ele>7474.0</ele>
+  <name>Bridger Butte</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="42.1675" lon="-110.45">
+  <ele>8796.0</ele>
+  <name>Fort Hill</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="42.231111111" lon="-110.463333333">
+  <ele>9019.0</ele>
+  <name>Miller Mountain</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="42.453055556" lon="-107.119722222">
+  <ele>7244.0</ele>
+  <name>Fort Ridge</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="41.837777778" lon="-106.9975">
+  <ele>7546.0</ele>
+  <name>Mount Steele</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="41.846111111" lon="-110.743888889">
+  <ele>7592.0</ele>
+  <name>Fossil Butte</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="42.641944444" lon="-108.830277778">
+  <ele>9216.0</ele>
+  <name>Bayer Mountain</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="42.714444444" lon="-108.848055556">
+  <ele>9088.0</ele>
+  <name>Fossil Hill</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="42.678888889" lon="-108.856388889">
+  <ele>9449.0</ele>
+  <name>Meyer Lookout</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="41.034166667" lon="-108.988611111">
+  <ele>9390.0</ele>
+  <name>Pine Mountain</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="41.053055556" lon="-106.241388889">
+  <ele>9252.0</ele>
+  <name>Douglas Point</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="41.073888889" lon="-106.19">
+  <ele>9386.0</ele>
+  <name>Somber Hill</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="43.783611111" lon="-106.887222222">
+  <ele>7529.0</ele>
+  <name>Eagles Trap</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="43.775277778" lon="-106.941944444">
+  <ele>7034.0</ele>
+  <name>Fraker Mountain</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="43.792222222" lon="-106.890555556">
+  <ele>7438.0</ele>
+  <name>Gardner Mountain</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="43.834722222" lon="-106.993333333">
+  <ele>8169.0</ele>
+  <name>Gobblers Knob</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="43.871944444" lon="-106.9875">
+  <ele>8182.0</ele>
+  <name>Red Hill</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="43.894166667" lon="-109.314722222">
+  <ele>12149.0</ele>
+  <name>Brown Mountain</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="43.915" lon="-109.284166667">
+  <ele>11978.0</ele>
+  <name>Chief Mountain</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="43.961388889" lon="-109.330833333">
+  <ele>12470.0</ele>
+  <name>Francs Peak</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="43.962777778" lon="-109.278611111">
+  <ele>12552.0</ele>
+  <name>Jojo Mountain</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="43.876944444" lon="-109.333888889">
+  <ele>12438.0</ele>
+  <name>Mount Crosby</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="42.735277778" lon="-109.612777778">
+  <ele>7851.0</ele>
+  <name>Fremont Butte</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="43.063888889" lon="-109.871666667">
+  <ele>9317.0</ele>
+  <name>Big Flattop Mountain</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="43.075833333" lon="-109.798055556">
+  <ele>10338.0</ele>
+  <name>Pine Mountain</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="43.1775" lon="-109.624722222">
+  <ele>12785.0</ele>
+  <name>East Sentinel</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="43.223055556" lon="-109.585277778">
+  <ele>11840.0</ele>
+  <name>Fourts Horn</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="43.174166667" lon="-109.621388889">
+  <ele>12851.0</ele>
+  <name>Heap Steep Peak</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="43.176111111" lon="-109.601666667">
+  <ele>13451.0</ele>
+  <name>Mount Febbas</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="43.136666667" lon="-109.625">
+  <ele>13514.0</ele>
+  <name>Mount Sacagawea</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="43.170555556" lon="-109.617777778">
+  <ele>13425.0</ele>
+  <name>Sunbeam Peak</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="43.164722222" lon="-109.618888889">
+  <ele>13605.0</ele>
+  <name>Turret Peak</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="43.021388889" lon="-109.554722222">
+  <ele>12359.0</ele>
+  <name>Angel Peak</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="43.065" lon="-109.523055556">
+  <ele>12182.0</ele>
+  <name>Douglas Peak</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="43.088611111" lon="-109.610277778">
+  <ele>12172.0</ele>
+  <name>Elephant Head</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="43.124722222" lon="-109.618055556">
+  <ele>13704.0</ele>
+  <name>Fremont Peak</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="43.094166667" lon="-109.595277778">
+  <ele>12910.0</ele>
+  <name>Harrower Peak</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="43.119444444" lon="-109.603333333">
+  <ele>13497.0</ele>
+  <name>Jackson Peak</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="43.099722222" lon="-109.576944444">
+  <ele>12766.0</ele>
+  <name>Knife Point Mountain</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="43.065833333" lon="-109.623333333">
+  <ele>12251.0</ele>
+  <name>Mount Lester</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="43.05" lon="-109.513333333">
+  <ele>11867.0</ele>
+  <name>Mount Quintet</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="43.080555556" lon="-109.534166667">
+  <ele>11893.0</ele>
+  <name>The Fortress</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="43.147222222" lon="-109.665833333">
+  <ele>13130.0</ele>
+  <name>American Legion Peak</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="43.206111111" lon="-109.665">
+  <ele>13461.0</ele>
+  <name>Bastion Peak</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="43.161944444" lon="-109.643611111">
+  <ele>13002.0</ele>
+  <name>Bobs Towers</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="43.144166667" lon="-109.683888889">
+  <ele>12982.0</ele>
+  <name>Bow Mountain</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="43.148055556" lon="-109.69">
+  <ele>12723.0</ele>
+  <name>Brimstone Mountain</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="43.201666667" lon="-109.679444444">
+  <ele>13123.0</ele>
+  <name>Desolation Peak</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="43.163611111" lon="-109.631944444">
+  <ele>13500.0</ele>
+  <name>Dinwoody Peak</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="43.163333333" lon="-109.629722222">
+  <ele>13592.0</ele>
+  <name>Doublet Peak</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="43.215277778" lon="-109.675833333">
+  <ele>13382.0</ele>
+  <name>Flagstone Peak</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="43.184444444" lon="-109.654166667">
+  <ele>13802.0</ele>
+  <name>Gannett Peak</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="43.1375" lon="-109.661111111">
+  <ele>13048.0</ele>
+  <name>Henderson Peak</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="43.236388889" lon="-109.688055556">
+  <ele>13048.0</ele>
+  <name>Klondike Peak</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="43.175277778" lon="-109.702222222">
+  <ele>12946.0</ele>
+  <name>Ladd Peak</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="43.163055556" lon="-109.641111111">
+  <ele>13104.0</ele>
+  <name>Miriam Peak</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="43.144444444" lon="-109.677222222">
+  <ele>12894.0</ele>
+  <name>Mount Arrowhead</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="43.151111111" lon="-109.631111111">
+  <ele>13543.0</ele>
+  <name>Mount Helen</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="43.195" lon="-109.6575">
+  <ele>13041.0</ele>
+  <name>Mount Koven</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="43.145277778" lon="-109.719722222">
+  <ele>12224.0</ele>
+  <name>Mount Oeneis</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="43.205" lon="-109.695555556">
+  <ele>12572.0</ele>
+  <name>Mount Solitude</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="43.163611111" lon="-109.628055556">
+  <ele>13428.0</ele>
+  <name>Mount Warren</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="43.168611111" lon="-109.692222222">
+  <ele>12966.0</ele>
+  <name>Mount Whitecap</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="43.166944444" lon="-109.651666667">
+  <ele>13432.0</ele>
+  <name>Mount Woodrow Wilson</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="43.221388889" lon="-109.674722222">
+  <ele>13333.0</ele>
+  <name>Pedestal Peak</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="43.226111111" lon="-109.639444444">
+  <ele>12602.0</ele>
+  <name>Philsmith Peak</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="43.2025" lon="-109.666388889">
+  <ele>13300.0</ele>
+  <name>Rampart Peak</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="43.135555556" lon="-109.715555556">
+  <ele>12119.0</ele>
+  <name>Sky Pilot Peak</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="43.163055556" lon="-109.646388889">
+  <ele>12851.0</ele>
+  <name>Skyline Peak</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="43.164166667" lon="-109.6725">
+  <ele>13087.0</ele>
+  <name>Split Mountain</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="43.148333333" lon="-109.700833333">
+  <ele>12165.0</ele>
+  <name>Stroud Peak</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="43.15" lon="-109.689166667">
+  <ele>12808.0</ele>
+  <name>Sulphur Peak</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="43.165555556" lon="-109.648055556">
+  <ele>13202.0</ele>
+  <name>The Sphinx</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="43.16" lon="-109.658611111">
+  <ele>13008.0</ele>
+  <name>Twin Peaks</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="43.189722222" lon="-109.635833333">
+  <ele>12562.0</ele>
+  <name>West Sentinel</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="43.151111111" lon="-109.661944444">
+  <ele>12749.0</ele>
+  <name>Winifred Peak</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="41.363333333" lon="-107.505555556">
+  <ele>7867.0</ele>
+  <name>Cow Creek Butte</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="42.7825" lon="-107.264722222">
+  <ele>8238.0</ele>
+  <name>Garfield Peak</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="42.076944444" lon="-105.511944444">
+  <ele>7710.0</ele>
+  <name>Brandel Mountain</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="42.046666667" lon="-105.604166667">
+  <ele>7953.0</ele>
+  <name>Pinto Rocks</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="42.108888889" lon="-105.578888889">
+  <ele>7421.0</ele>
+  <name>Sellers Mountain</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="44.696388889" lon="-109.7125">
+  <ele>11158.0</ele>
+  <name>Geers Point</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="42.254444444" lon="-111.003611111">
+  <ele>9291.0</ele>
+  <name>Sublette Mountain</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="41.506944444" lon="-105.328611111">
+  <ele>7237.0</ele>
+  <name>Dummy Hill</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="41.5775" lon="-105.354722222">
+  <ele>7280.0</ele>
+  <name>Goat Mountain</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="41.6" lon="-105.328055556">
+  <ele>7408.0</ele>
+  <name>Iron Mountain</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="41.590555556" lon="-105.316111111">
+  <ele>7362.0</ele>
+  <name>Limestone Rim</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="42.519166667" lon="-109.721666667">
+  <ele>7349.0</ele>
+  <name>Gobblers Knob</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="42.554722222" lon="-109.745833333">
+  <ele>7346.0</ele>
+  <name>Iron Mountain</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="42.509722222" lon="-109.675">
+  <ele>7303.0</ele>
+  <name>The Rocks</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="42.406666667" lon="-110.659166667">
+  <ele>9167.0</ele>
+  <name>Bull Mountain</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="42.387777778" lon="-110.652777778">
+  <ele>9459.0</ele>
+  <name>Electric Peak</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="42.403888889" lon="-110.643611111">
+  <ele>10052.0</ele>
+  <name>Fontennelle Mountain</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="42.45" lon="-110.669722222">
+  <ele>10065.0</ele>
+  <name>Graham Peak</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="42.393333333" lon="-110.733611111">
+  <ele>9114.0</ele>
+  <name>Lake Mountain</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="42.443055556" lon="-110.704166667">
+  <ele>10148.0</ele>
+  <name>Mount Isabel</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="43.670833333" lon="-110.813888889">
+  <ele>10492.0</ele>
+  <name>Albright Peak</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="43.723333333" lon="-110.869166667">
+  <ele>10489.0</ele>
+  <name>Battleship Mountain</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="43.689444444" lon="-110.819444444">
+  <ele>11899.0</ele>
+  <name>Buck Mountain</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="43.718888889" lon="-110.807777778">
+  <ele>12024.0</ele>
+  <name>Cloudveil Dome</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="43.733611111" lon="-110.793055556">
+  <ele>11578.0</ele>
+  <name>Disappointment Peak</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="43.746111111" lon="-110.791944444">
+  <ele>12004.0</ele>
+  <name>East Prong</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="43.741111111" lon="-110.8025">
+  <ele>13779.0</ele>
+  <name>Grand Teton</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="43.73" lon="-110.811388889">
+  <ele>12808.0</ele>
+  <name>Middle Teton</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="43.631111111" lon="-110.861388889">
+  <ele>10745.0</ele>
+  <name>Mount Hunt</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="43.746944444" lon="-110.7975">
+  <ele>12907.0</ele>
+  <name>Mount Owen</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="43.701944444" lon="-110.816944444">
+  <ele>11460.0</ele>
+  <name>Mount Wister</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="43.719444444" lon="-110.7975">
+  <ele>11850.0</ele>
+  <name>Nez Perce</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="43.649444444" lon="-110.849444444">
+  <ele>11210.0</ele>
+  <name>Prospectors Mountain</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="43.715" lon="-110.793333333">
+  <ele>10735.0</ele>
+  <name>Shadow Peak</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="43.718611111" lon="-110.818611111">
+  <ele>12470.0</ele>
+  <name>South Teton</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="43.682777778" lon="-110.816111111">
+  <ele>11210.0</ele>
+  <name>Static Peak</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="43.746666667" lon="-110.851944444">
+  <ele>11063.0</ele>
+  <name>Table Mountain</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="43.747222222" lon="-110.780277778">
+  <ele>12247.0</ele>
+  <name>Teewinot Mountain</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="43.700833333" lon="-110.826111111">
+  <ele>11306.0</ele>
+  <name>Veiled Peak</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="41.076111111" lon="-105.205">
+  <ele>7923.0</ele>
+  <name>Saddleback Mountain</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="43.823888889" lon="-110.936388889">
+  <ele>9462.0</ele>
+  <name>Beard Mountain</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="43.869722222" lon="-110.899166667">
+  <ele>9721.0</ele>
+  <name>Crows Nest</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="43.791111111" lon="-110.935833333">
+  <ele>9744.0</ele>
+  <name>Freds Mountain</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="43.837222222" lon="-110.906666667">
+  <ele>9609.0</ele>
+  <name>Green Mountain</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="43.2625" lon="-110.490555556">
+  <ele>7926.0</ele>
+  <name>Game Hill</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="44.631388889" lon="-107.573333333">
+  <ele>9813.0</ele>
+  <name>Cedar Mountain</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="43.925277778" lon="-110.364444444">
+  <ele>9580.0</ele>
+  <name>Gravel Mountain</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="43.879722222" lon="-110.345555556">
+  <ele>9114.0</ele>
+  <name>Mount Randolph</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="44.03" lon="-110.331944444">
+  <ele>9691.0</ele>
+  <name>Gravel Peak</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="42.528888889" lon="-108.501944444">
+  <ele>7251.0</ele>
+  <name>Dilabaugh Buttes</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="42.1225" lon="-105.886388889">
+  <ele>7306.0</ele>
+  <name>Buck Point</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="43.703333333" lon="-110.369444444">
+  <ele>10138.0</ele>
+  <name>East Leidy</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="43.674444444" lon="-110.315555556">
+  <ele>9695.0</ele>
+  <name>Green Mountain</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="43.721944444" lon="-110.2575">
+  <ele>10328.0</ele>
+  <name>Grouse Mountain</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="43.291944444" lon="-109.779722222">
+  <ele>11817.0</ele>
+  <name>Flat Top Mountain</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="43.261111111" lon="-109.760833333">
+  <ele>11834.0</ele>
+  <name>Lost Eagle Peak</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="43.324166667" lon="-109.787777778">
+  <ele>11811.0</ele>
+  <name>Osborn Mountain</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="41.3725" lon="-105.346666667">
+  <ele>8015.0</ele>
+  <name>Bare Knob</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="41.349722222" lon="-105.331111111">
+  <ele>7867.0</ele>
+  <name>Green Top Mountain</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="41.264444444" lon="-105.306111111">
+  <ele>7739.0</ele>
+  <name>Pitcher Hill</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="41.031388889" lon="-107.281944444">
+  <ele>9098.0</ele>
+  <name>Battle Mountain</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="41.039166667" lon="-107.344166667">
+  <ele>7995.0</ele>
+  <name>Horse Mountain</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="41.032777778" lon="-107.336111111">
+  <ele>7907.0</ele>
+  <name>Little Horse Mountain</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="41.016666667" lon="-107.320833333">
+  <ele>7228.0</ele>
+  <name>Sugarloaf Mountain</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="43.445555556" lon="-107.926388889">
+  <ele>8143.0</ele>
+  <name>Copper Mountain</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="43.491111111" lon="-107.904166667">
+  <ele>7972.0</ele>
+  <name>Guffy Peak</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="41.2325" lon="-106.630555556">
+  <ele>7910.0</ele>
+  <name>Beaver Creek Hills</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="42.224166667" lon="-107.644444444">
+  <ele>7313.0</ele>
+  <name>Twin Buttes</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="41.141666667" lon="-110.6125">
+  <ele>8409.0</ele>
+  <name>Chapman Butte</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="41.238611111" lon="-110.507222222">
+  <ele>7428.0</ele>
+  <name>Haystack Butte</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="41.815833333" lon="-106.263055556">
+  <ele>7021.0</ele>
+  <name>Halfway Hill</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="42.970277778" lon="-109.453888889">
+  <ele>12234.0</ele>
+  <name>Europe Peak</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="42.9025" lon="-109.456666667">
+  <ele>10462.0</ele>
+  <name>Halls Butte</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="42.955277778" lon="-109.410555556">
+  <ele>12460.0</ele>
+  <name>Halls Mountain</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="42.930555556" lon="-109.453055556">
+  <ele>11522.0</ele>
+  <name>Medina Mountain</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="42.961388889" lon="-109.479166667">
+  <ele>12244.0</ele>
+  <name>Mount Victor</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="42.946111111" lon="-109.398888889">
+  <ele>12175.0</ele>
+  <name>Pipe Organ</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="43.998888889" lon="-109.658055556">
+  <ele>11138.0</ele>
+  <name>Ash Mountain</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="43.980833333" lon="-109.657222222">
+  <ele>11742.0</ele>
+  <name>Hardluck Mountain</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="42.268888889" lon="-105.328333333">
+  <ele>7625.0</ele>
+  <name>Albany Peak</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="41.111388889" lon="-109.313333333">
+  <ele>8153.0</ele>
+  <name>Hawks Nest</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="41.0825" lon="-109.2925">
+  <ele>9058.0</ele>
+  <name>Little Mountain</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="41.014722222" lon="-109.298611111">
+  <ele>8448.0</ele>
+  <name>Richards Mountain</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="41.014722222" lon="-109.298611111">
+  <ele>8448.0</ele>
+  <name>Richards Mountains</name>
+  <desc>UT</desc>
+</wpt>
+<wpt lat="43.285833333" lon="-109.5">
+  <ele>11607.0</ele>
+  <name>Dinwoody Peak</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="41.474444444" lon="-108.156111111">
+  <ele>7054.0</ele>
+  <name>Man and Boy Buttes</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="44.082777778" lon="-106.9075">
+  <ele>8166.0</ele>
+  <name>Bald Hill</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="44.090555556" lon="-107.021388889">
+  <ele>10253.0</ele>
+  <name>Hazelton Peak</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="44.099166667" lon="-107.045555556">
+  <ele>10531.0</ele>
+  <name>Hazelton Pyramid</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="44.349722222" lon="-110.430833333">
+  <ele>9170.0</ele>
+  <name>Flat Mountain</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="44.250277778" lon="-110.381666667">
+  <ele>9367.0</ele>
+  <name>Overlook Mountain</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="41.238333333" lon="-105.194444444">
+  <ele>7552.0</ele>
+  <name>Table Mountain</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="44.656944444" lon="-107.7425">
+  <ele>8012.0</ele>
+  <name>Horse Creek Mesa</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="41.559722222" lon="-107.785555556">
+  <ele>7024.0</ele>
+  <name>Sugar Loaf</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="43.084444444" lon="-110.569444444">
+  <ele>10827.0</ele>
+  <name>Hoback Peak</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="44.038055556" lon="-110.905">
+  <ele>8346.0</ele>
+  <name>Hominy Peak</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="41.079444444" lon="-106.291666667">
+  <ele>8550.0</ele>
+  <name>Castle Rock</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="41.035277778" lon="-106.2775">
+  <ele>8756.0</ele>
+  <name>Horatio Rock</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="43.703611111" lon="-107.178888889">
+  <ele>7451.0</ele>
+  <name>Horse Butte</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="41.453055556" lon="-105.237777778">
+  <ele>7342.0</ele>
+  <name>Horse Creek Hogback</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="42.714722222" lon="-107.013333333">
+  <ele>7411.0</ele>
+  <name>Horse Heaven</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="42.401666667" lon="-106.489166667">
+  <ele>7543.0</ele>
+  <name>Horse Peak</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="41.129166667" lon="-109.943333333">
+  <ele>8307.0</ele>
+  <name>Cedar Mountain</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="41.156944444" lon="-109.925833333">
+  <ele>8192.0</ele>
+  <name>Mass Mountain</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="42.999444444" lon="-109.589722222">
+  <ele>11739.0</ele>
+  <name>Mount Baldy</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="42.955" lon="-109.510555556">
+  <ele>11161.0</ele>
+  <name>North Fork Peak</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="42.995833333" lon="-109.524444444">
+  <ele>11991.0</ele>
+  <name>Round Top Mountain</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="41.416944444" lon="-105.542222222">
+  <ele>7296.0</ele>
+  <name>Red Hill</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="41.387777778" lon="-105.518611111">
+  <ele>7687.0</ele>
+  <name>The Spur</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="44.088333333" lon="-110.600277778">
+  <ele>9606.0</ele>
+  <name>Huckleberry Mountain</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="44.045833333" lon="-110.5675">
+  <ele>9685.0</ele>
+  <name>Wildcat Peak</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="42.272777778" lon="-110.945277778">
+  <ele>8343.0</ele>
+  <name>Pine Knoll</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="44.333611111" lon="-106.943333333">
+  <ele>7959.0</ele>
+  <name>Hunter Mesa</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="44.866666667" lon="-109.671388889">
+  <ele>8996.0</ele>
+  <name>Hunter Peak</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="44.846944444" lon="-109.804166667">
+  <ele>10469.0</ele>
+  <name>Hurricane Mesa</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="44.7775" lon="-109.853611111">
+  <ele>10922.0</ele>
+  <name>Indian Peak</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="42.517777778" lon="-106.181111111">
+  <ele>7707.0</ele>
+  <name>Ice Cave Mountain</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="40.918333333" lon="-106.445555556">
+  <ele>9800.0</ele>
+  <name>Independence Mountain</name>
+  <desc>CO</desc>
+</wpt>
+<wpt lat="41.628888889" lon="-105.302777778">
+  <ele>7434.0</ele>
+  <name>Indian Guide</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="43.638333333" lon="-109.516388889">
+  <ele>8254.0</ele>
+  <name>Black Mountain</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="41.289444444" lon="-106.938888889">
+  <ele>7976.0</ele>
+  <name>Indian Rocks</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="43.373333333" lon="-109.557777778">
+  <ele>11552.0</ele>
+  <name>Arrow Mountain</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="43.352777778" lon="-109.625277778">
+  <ele>12073.0</ele>
+  <name>Torrey Peak</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="44.049166667" lon="-109.38">
+  <ele>10741.0</ele>
+  <name>Irish Rock</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="41.268611111" lon="-105.211388889">
+  <ele>7605.0</ele>
+  <name>Mesa Mountain</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="43.484722222" lon="-110.779722222">
+  <ele>7411.0</ele>
+  <name>East Gros Ventre Butte</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="43.462222222" lon="-110.763888889">
+  <ele>7802.0</ele>
+  <name>Snow King Mountain</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="44.616666667" lon="-109.677777778">
+  <ele>11165.0</ele>
+  <name>Jaggar Peak</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="44.598888889" lon="-109.720833333">
+  <ele>11151.0</ele>
+  <name>Mount Pleasant</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="44.576111111" lon="-109.748333333">
+  <ele>9938.0</ele>
+  <name>Nipple Mesa</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="41.456666667" lon="-105.968333333">
+  <ele>7520.0</ele>
+  <name>Sevenmile Hill</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="41.448055556" lon="-105.920833333">
+  <ele>7415.0</ele>
+  <name>Signal Hill</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="41.812222222" lon="-107.699166667">
+  <ele>7132.0</ele>
+  <name>Windy Hill</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="41.097222222" lon="-105.976666667">
+  <ele>9659.0</ele>
+  <name>Jelm Mountain</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="41.0075" lon="-105.933888889">
+  <ele>9052.0</ele>
+  <name>Red Mountain</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="41.054166667" lon="-105.970833333">
+  <ele>8786.0</ele>
+  <name>Ring Mountain</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="43.474444444" lon="-108.521111111">
+  <ele>7326.0</ele>
+  <name>Jenkins Mountain</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="42.571944444" lon="-109.152777778">
+  <ele>9009.0</ele>
+  <name>Block and Tackle Hill</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="44.528888889" lon="-109.474722222">
+  <ele>10417.0</ele>
+  <name>Jim Mountain</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="44.9325" lon="-109.818888889">
+  <ele>10230.0</ele>
+  <name>Jim Smith Peak</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="44.902222222" lon="-109.797222222">
+  <ele>10010.0</ele>
+  <name>Squaw Peak</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="43.539444444" lon="-109.216388889">
+  <ele>10170.0</ele>
+  <name>Black Mountain</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="44.944722222" lon="-110.880277778">
+  <ele>10298.0</ele>
+  <name>Gray Peak</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="44.958611111" lon="-110.884722222">
+  <ele>10420.0</ele>
+  <name>Joseph Peak</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="43.950277778" lon="-110.175">
+  <ele>10023.0</ele>
+  <name>Joy Peak</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="41.578055556" lon="-109.32">
+  <ele>7615.0</ele>
+  <name>White Mountain</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="41.383611111" lon="-109.195555556">
+  <ele>7693.0</ele>
+  <name>Antelope Butte</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="41.838611111" lon="-110.504166667">
+  <ele>8012.0</ele>
+  <name>Quealy Peak</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="43.235555556" lon="-109.990277778">
+  <ele>8445.0</ele>
+  <name>Gypsum Hill</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="43.185" lon="-109.908611111">
+  <ele>11023.0</ele>
+  <name>Kendall Mountain</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="43.235" lon="-109.916388889">
+  <ele>10994.0</ele>
+  <name>Saltlick Mountain</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="41.4525" lon="-106.5175">
+  <ele>10794.0</ele>
+  <name>Kennaday Peak</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="41.413611111" lon="-106.535555556">
+  <ele>8632.0</ele>
+  <name>Red Hill</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="41.288333333" lon="-107.420277778">
+  <ele>7510.0</ele>
+  <name>Ketchum Buttes</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="41.260555556" lon="-107.493888889">
+  <ele>7684.0</ele>
+  <name>Lone Butte</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="41.356944444" lon="-107.405555556">
+  <ele>8225.0</ele>
+  <name>Rendle Butte</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="41.458611111" lon="-105.417777778">
+  <ele>8254.0</ele>
+  <name>Big Hill</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="41.416388889" lon="-105.403055556">
+  <ele>8343.0</ele>
+  <name>Dirty Mountain</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="41.472222222" lon="-105.456111111">
+  <ele>8563.0</ele>
+  <name>King Mountain</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="41.431666667" lon="-105.375833333">
+  <ele>8130.0</ele>
+  <name>Lake Hill</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="41.385555556" lon="-105.403611111">
+  <ele>8474.0</ele>
+  <name>Sherman Hill</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="43.167777778" lon="-109.308611111">
+  <ele>10331.0</ele>
+  <name>Crow Mountain</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="43.748611111" lon="-109.957777778">
+  <ele>11496.0</ele>
+  <name>Pinnacle Buttes</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="43.099444444" lon="-110.257777778">
+  <ele>8415.0</ele>
+  <name>Kismet Peak</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="43.042777778" lon="-110.353055556">
+  <ele>8287.0</ele>
+  <name>Tripod Hill</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="43.319444444" lon="-110.066944444">
+  <ele>9239.0</ele>
+  <name>Klondike Hill</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="44.203888889" lon="-106.831111111">
+  <ele>7100.0</ele>
+  <name>Crazy Woman Mountain</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="44.236111111" lon="-106.825277778">
+  <ele>7648.0</ele>
+  <name>Sisters Hill</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="42.344444444" lon="-110.194166667">
+  <ele>7283.0</ele>
+  <name>Bird Nipple</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="42.374444444" lon="-110.226388889">
+  <ele>7654.0</ele>
+  <name>Little Mesa</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="42.320555556" lon="-110.131111111">
+  <ele>7024.0</ele>
+  <name>The Frog</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="42.255277778" lon="-110.173055556">
+  <ele>7152.0</ele>
+  <name>The Spur</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="44.554166667" lon="-110.467222222">
+  <ele>8592.0</ele>
+  <name>Elephant Back Mountain</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="44.373333333" lon="-107.054166667">
+  <ele>10971.0</ele>
+  <name>Ant Hill</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="44.254444444" lon="-107.107222222">
+  <ele>12319.0</ele>
+  <name>Bighorn Peak</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="44.276111111" lon="-107.109166667">
+  <ele>12254.0</ele>
+  <name>Darton Peak</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="44.5125" lon="-110.262777778">
+  <ele>8730.0</ele>
+  <name>Lake Butte</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="44.620277778" lon="-110.318333333">
+  <ele>9022.0</ele>
+  <name>Stonetop Mountain</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="44.5975" lon="-110.318888889">
+  <ele>8382.0</ele>
+  <name>Sulphur Hills</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="44.36" lon="-107.173888889">
+  <ele>12451.0</ele>
+  <name>Bomber Mountain</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="44.324166667" lon="-107.146666667">
+  <ele>12411.0</ele>
+  <name>Mather Peaks</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="41.653333333" lon="-105.7175">
+  <ele>7169.0</ele>
+  <name>The Divide</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="42.346666667" lon="-110.453333333">
+  <ele>9419.0</ele>
+  <name>Lake Mountain</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="42.268611111" lon="-110.464444444">
+  <ele>9134.0</ele>
+  <name>Miller Mountain</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="41.141944444" lon="-106.094444444">
+  <ele>9212.0</ele>
+  <name>Iron Mountain</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="44.258333333" lon="-107.295277778">
+  <ele>9550.0</ele>
+  <name>Buck Mountain</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="44.351944444" lon="-107.364722222">
+  <ele>8966.0</ele>
+  <name>Cement Mountain</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="44.336944444" lon="-107.260277778">
+  <ele>11276.0</ele>
+  <name>Elk Mountain</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="42.757222222" lon="-108.736111111">
+  <ele>7313.0</ele>
+  <name>Table Mountain</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="42.528055556" lon="-107.589444444">
+  <ele>7415.0</ele>
+  <name>Bills Peak</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="42.531666667" lon="-107.560555556">
+  <ele>7690.0</ele>
+  <name>Lankin Dome</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="42.519722222" lon="-107.521944444">
+  <ele>7959.0</ele>
+  <name>McIntosh Peak</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="42.531388889" lon="-107.518055556">
+  <ele>7529.0</ele>
+  <name>Moonstone</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="42.311388889" lon="-105.376388889">
+  <ele>7959.0</ele>
+  <name>Black Mountain</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="42.281111111" lon="-105.392777778">
+  <ele>7552.0</ele>
+  <name>Haystack Peaks</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="42.267777778" lon="-105.441944444">
+  <ele>10036.0</ele>
+  <name>Laramie Peak</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="42.361666667" lon="-105.375555556">
+  <ele>7195.0</ele>
+  <name>Rock Mountain</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="42.346111111" lon="-105.419722222">
+  <ele>7060.0</ele>
+  <name>Squaw Peaks</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="43.676944444" lon="-110.029166667">
+  <ele>10420.0</ele>
+  <name>Lava Mountain</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="43.714166667" lon="-110.047222222">
+  <ele>9675.0</ele>
+  <name>Pilot Knob</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="43.749722222" lon="-110.038611111">
+  <ele>10407.0</ele>
+  <name>Sublette Peak</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="43.741111111" lon="-110.086388889">
+  <ele>10610.0</ele>
+  <name>Two Ocean Mountain</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="41.166388889" lon="-110.311111111">
+  <ele>7690.0</ele>
+  <name>Leavitt Bench</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="44.716666667" lon="-107.758333333">
+  <ele>10016.0</ele>
+  <name>Hunt Mountain</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="42.506111111" lon="-109.364722222">
+  <ele>7533.0</ele>
+  <name>Flat Top</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="42.547222222" lon="-109.2625">
+  <ele>8848.0</ele>
+  <name>Little Prospect Mountain</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="42.414722222" lon="-109.315833333">
+  <ele>7808.0</ele>
+  <name>Elk Mountain</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="42.296666667" lon="-106.771388889">
+  <ele>7090.0</ele>
+  <name>Dome Rock</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="42.311666667" lon="-106.8525">
+  <ele>8094.0</ele>
+  <name>Heaths Peak</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="42.342222222" lon="-106.8725">
+  <ele>8192.0</ele>
+  <name>Pyramid Peak</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="42.309444444" lon="-106.835833333">
+  <ele>8140.0</ele>
+  <name>The Chimneys</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="41.257777778" lon="-110.503611111">
+  <ele>7575.0</ele>
+  <name>Sugarloaf Butte</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="41.438055556" lon="-109.043611111">
+  <ele>7638.0</ele>
+  <name>Chimney Rock</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="41.451111111" lon="-109.095833333">
+  <ele>8510.0</ele>
+  <name>Quaking Asp Mountain</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="41.468055556" lon="-109.064166667">
+  <ele>7684.0</ele>
+  <name>Table</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="44.556666667" lon="-107.092777778">
+  <ele>9317.0</ele>
+  <name>Little Goose Peak</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="44.701944444" lon="-110.019166667">
+  <ele>10213.0</ele>
+  <name>Little Saddle Mountain</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="42.805555556" lon="-109.243333333">
+  <ele>12293.0</ele>
+  <name>Bair Peak</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="42.838888889" lon="-109.1325">
+  <ele>11758.0</ele>
+  <name>Bears Ears Mountain</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="42.751111111" lon="-109.179166667">
+  <ele>12369.0</ele>
+  <name>Big Sandy Mountain</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="42.793055556" lon="-109.209722222">
+  <ele>12438.0</ele>
+  <name>Camels Hump</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="42.825277778" lon="-109.178611111">
+  <ele>12333.0</ele>
+  <name>Cathedral Peak</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="42.783333333" lon="-109.231666667">
+  <ele>12021.0</ele>
+  <name>Cirque of the Towers</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="42.762222222" lon="-109.186944444">
+  <ele>12467.0</ele>
+  <name>Dog Tooth Peak</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="42.776944444" lon="-109.247777778">
+  <ele>11844.0</ele>
+  <name>Elizabeth Peak</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="42.79" lon="-109.196944444">
+  <ele>12464.0</ele>
+  <name>Lizard Head Peak</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="42.768333333" lon="-109.198333333">
+  <ele>12454.0</ele>
+  <name>Mitchell Peak</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="42.840833333" lon="-109.158333333">
+  <ele>12211.0</ele>
+  <name>Mount Chauvenet</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="42.825833333" lon="-109.218333333">
+  <ele>11673.0</ele>
+  <name>Payson Peak</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="42.779166667" lon="-109.225277778">
+  <ele>11834.0</ele>
+  <name>Pingora Peak</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="42.768611111" lon="-109.235833333">
+  <ele>12280.0</ele>
+  <name>Pylon Peak</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="42.862222222" lon="-109.201944444">
+  <ele>11089.0</ele>
+  <name>Valentine Mountain</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="42.857222222" lon="-109.196944444">
+  <ele>11361.0</ele>
+  <name>Valentine Peak</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="42.761111111" lon="-109.215">
+  <ele>12191.0</ele>
+  <name>War Bonnet Peak</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="42.7625" lon="-109.222777778">
+  <ele>12283.0</ele>
+  <name>Warrior Peaks</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="42.780555556" lon="-109.232777778">
+  <ele>12175.0</ele>
+  <name>Wolfs Head</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="44.578333333" lon="-109.370833333">
+  <ele>7625.0</ele>
+  <name>Chalk Mountain</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="44.541388889" lon="-109.330555556">
+  <ele>7579.0</ele>
+  <name>Logan Mountain</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="44.585833333" lon="-109.314444444">
+  <ele>8540.0</ele>
+  <name>Rattlesnake Mountain</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="42.522222222" lon="-107.470277778">
+  <ele>7313.0</ele>
+  <name>Countryman Peak</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="42.574722222" lon="-107.484166667">
+  <ele>7835.0</ele>
+  <name>Lone Mountain</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="41.082777778" lon="-110.233055556">
+  <ele>8812.0</ele>
+  <name>Hickey Mountain</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="41.046944444" lon="-110.219722222">
+  <ele>8113.0</ele>
+  <name>The Butte</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="42.965555556" lon="-110.522777778">
+  <ele>10131.0</ele>
+  <name>Horse Mountain</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="42.975" lon="-110.54">
+  <ele>10295.0</ele>
+  <name>Lookout Mountain</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="44.569444444" lon="-110.806944444">
+  <ele>7372.0</ele>
+  <name>Porcupine Hills</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="42.094444444" lon="-108.480555556">
+  <ele>7021.0</ele>
+  <name>Buffalo Hump</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="44.636944444" lon="-110.871666667">
+  <ele>7546.0</ele>
+  <name>National Park Mountain</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="44.667222222" lon="-110.862222222">
+  <ele>8392.0</ele>
+  <name>Purple Mountain</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="44.931666667" lon="-110.706944444">
+  <ele>8527.0</ele>
+  <name>Bunsen Peak</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="44.938055556" lon="-110.709444444">
+  <ele>7588.0</ele>
+  <name>Cathedral Rock</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="44.964444444" lon="-110.735">
+  <ele>8041.0</ele>
+  <name>Clagett Butte</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="44.975" lon="-110.661388889">
+  <ele>7831.0</ele>
+  <name>Mount Everts</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="44.955555556" lon="-110.735555556">
+  <ele>8002.0</ele>
+  <name>Terrace Mountain</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="42.925555556" lon="-110.860277778">
+  <ele>9862.0</ele>
+  <name>Haystack Peak</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="42.967777778" lon="-110.816388889">
+  <ele>9544.0</ele>
+  <name>Man Peak</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="42.911111111" lon="-110.773888889">
+  <ele>9295.0</ele>
+  <name>Sherman Peak</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="42.935" lon="-110.781388889">
+  <ele>9048.0</ele>
+  <name>Virginia Peak</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="42.940833333" lon="-110.811388889">
+  <ele>10020.0</ele>
+  <name>Visser Peak</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="42.2525" lon="-105.81">
+  <ele>7664.0</ele>
+  <name>Crystal Hill</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="42.286388889" lon="-105.756944444">
+  <ele>8422.0</ele>
+  <name>Mule Creek Mountain</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="44.619722222" lon="-110.644444444">
+  <ele>8573.0</ele>
+  <name>Mary Mountain</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="43.551111111" lon="-109.541388889">
+  <ele>8120.0</ele>
+  <name>Table Mountain</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="41.184722222" lon="-109.176944444">
+  <ele>8268.0</ele>
+  <name>Mellor Mountain</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="42.630833333" lon="-107.549166667">
+  <ele>7041.0</ele>
+  <name>West Sage Hen Rocks</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="42.669444444" lon="-110.257777778">
+  <ele>7556.0</ele>
+  <name>Dead Indian Dome</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="41.449166667" lon="-110.701666667">
+  <ele>7080.0</ele>
+  <name>Round Mountain</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="41.981111111" lon="-106.180277778">
+  <ele>7064.0</ele>
+  <name>Flattop Mountain</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="41.978611111" lon="-106.226388889">
+  <ele>7146.0</ele>
+  <name>Pine Butte</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="41.374166667" lon="-106.284166667">
+  <ele>11703.0</ele>
+  <name>Browns Peak</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="41.360555556" lon="-106.318055556">
+  <ele>11939.0</ele>
+  <name>Medicine Bow Peak</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="41.356111111" lon="-106.305">
+  <ele>11391.0</ele>
+  <name>Sugarloaf Mountain</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="44.860555556" lon="-107.884722222">
+  <ele>9442.0</ele>
+  <name>Cone Mountain</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="44.816944444" lon="-107.900833333">
+  <ele>9934.0</ele>
+  <name>Medicine Mountain</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="42.938055556" lon="-110.363611111">
+  <ele>8169.0</ele>
+  <name>Merna Butte</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="42.689166667" lon="-109.920833333">
+  <ele>7356.0</ele>
+  <name>The Mesa</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="44.881111111" lon="-107.986111111">
+  <ele>8218.0</ele>
+  <name>Mexican Hill</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="44.94" lon="-107.881666667">
+  <ele>9780.0</ele>
+  <name>Sheep Mountain</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="41.431666667" lon="-107.2175">
+  <ele>8015.0</ele>
+  <name>Middlewood Hill</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="43.779722222" lon="-108.990277778">
+  <ele>9324.0</ele>
+  <name>Squaw Teat Butte</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="43.786111111" lon="-108.995555556">
+  <ele>9639.0</ele>
+  <name>Sugar Loaf Mountain</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="41.285555556" lon="-105.974722222">
+  <ele>7880.0</ele>
+  <name>Table Mountain</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="41.251666667" lon="-105.865277778">
+  <ele>7457.0</ele>
+  <name>Twin Buttes</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="42.468055556" lon="-110.044166667">
+  <ele>7152.0</ele>
+  <name>Castle Rock</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="42.467777778" lon="-110.043888889">
+  <ele>7149.0</ele>
+  <name>Red Hill</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="42.576111111" lon="-108.725555556">
+  <ele>8701.0</ele>
+  <name>Limestone Mountain</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="42.538055556" lon="-108.712777778">
+  <ele>8737.0</ele>
+  <name>Roundtop Mountain</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="41.0475" lon="-109.431388889">
+  <ele>7274.0</ele>
+  <name>Iron Mountain</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="41.114722222" lon="-109.435833333">
+  <ele>7047.0</ele>
+  <name>Sand Knoll</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="42.880555556" lon="-109.100833333">
+  <ele>10791.0</ele>
+  <name>Mount Cross</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="42.916111111" lon="-109.101111111">
+  <ele>9819.0</ele>
+  <name>Mount Popo Agie</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="42.210833333" lon="-109.93">
+  <ele>7182.0</ele>
+  <name>Monument Butte</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="43.974166667" lon="-107.129166667">
+  <ele>8077.0</ele>
+  <name>Monument Hill</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="43.631111111" lon="-109.150833333">
+  <ele>10020.0</ele>
+  <name>Bald Mountain</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="43.67" lon="-109.198333333">
+  <ele>11647.0</ele>
+  <name>Muddy Monument Peak</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="41.946388889" lon="-105.309722222">
+  <ele>7244.0</ele>
+  <name>Government Peak</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="41.963333333" lon="-105.311944444">
+  <ele>7113.0</ele>
+  <name>Moonshine Peak</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="43.635277778" lon="-110.693055556">
+  <ele>7680.0</ele>
+  <name>Blacktail Butte</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="43.866944444" lon="-110.525">
+  <ele>7648.0</ele>
+  <name>Lozier Hill</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="43.848888889" lon="-110.567222222">
+  <ele>7723.0</ele>
+  <name>Signal Mountain</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="41.490833333" lon="-106.138333333">
+  <ele>9163.0</ele>
+  <name>Cooper Hill</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="41.405" lon="-106.239166667">
+  <ele>11125.0</ele>
+  <name>Rock Creek Knoll</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="41.411111111" lon="-106.158888889">
+  <ele>10607.0</ele>
+  <name>Rock Creek Point</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="41.093611111" lon="-110.736388889">
+  <ele>8294.0</ele>
+  <name>Twenty Knoll</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="42.844722222" lon="-109.923888889">
+  <ele>7654.0</ele>
+  <name>Mount Airy</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="42.850555556" lon="-108.924722222">
+  <ele>8064.0</ele>
+  <name>Bragg Mountain</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="42.752222222" lon="-108.894444444">
+  <ele>9370.0</ele>
+  <name>Fairfield Hill</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="42.767222222" lon="-108.985555556">
+  <ele>11046.0</ele>
+  <name>Mount Arter</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="42.843888889" lon="-108.855833333">
+  <ele>7172.0</ele>
+  <name>Red Butte</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="42.750555556" lon="-108.752222222">
+  <ele>7352.0</ele>
+  <name>Table Mountain</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="42.763611111" lon="-108.854722222">
+  <ele>8573.0</ele>
+  <name>Timber Top</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="42.778055556" lon="-108.826944444">
+  <ele>7024.0</ele>
+  <name>Wood Hill</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="43.344722222" lon="-111.003888889">
+  <ele>9862.0</ele>
+  <name>Powder Peak</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="43.653611111" lon="-110.918888889">
+  <ele>10915.0</ele>
+  <name>Fossil Mountain</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="43.671666667" lon="-110.907777778">
+  <ele>10814.0</ele>
+  <name>Mount Bannon</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="43.682222222" lon="-110.891944444">
+  <ele>10604.0</ele>
+  <name>Mount Jedediah Smith</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="43.685833333" lon="-110.882222222">
+  <ele>10607.0</ele>
+  <name>Mount Meek</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="43.636944444" lon="-110.911111111">
+  <ele>10046.0</ele>
+  <name>Spearhead Peak</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="43.701944444" lon="-110.902222222">
+  <ele>10357.0</ele>
+  <name>The Wedge</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="43.729444444" lon="-110.941111111">
+  <ele>9783.0</ele>
+  <name>Treasure Mountain</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="42.825" lon="-109.261666667">
+  <ele>12142.0</ele>
+  <name>Bernard Peak</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="42.835" lon="-109.273888889">
+  <ele>12451.0</ele>
+  <name>Dike Mountain</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="42.871944444" lon="-109.339444444">
+  <ele>12237.0</ele>
+  <name>Mount Bonneville</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="42.829166667" lon="-109.329722222">
+  <ele>12064.0</ele>
+  <name>Mount Geikie</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="42.8525" lon="-109.304166667">
+  <ele>12454.0</ele>
+  <name>Mount Hooker</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="42.863888889" lon="-109.266111111">
+  <ele>10797.0</ele>
+  <name>Pilot Knob</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="42.840833333" lon="-109.293888889">
+  <ele>11978.0</ele>
+  <name>Pyramid Peak</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="42.860277778" lon="-109.342777778">
+  <ele>12362.0</ele>
+  <name>Raid Peak</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="42.857777778" lon="-109.316666667">
+  <ele>12185.0</ele>
+  <name>Tower Peak</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="42.781666667" lon="-109.35">
+  <ele>10981.0</ele>
+  <name>Twin Buttes</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="42.813611111" lon="-109.256388889">
+  <ele>12503.0</ele>
+  <name>Washakie Peak</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="43.9275" lon="-109.440833333">
+  <ele>12254.0</ele>
+  <name>Mount Burwell</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="43.936944444" lon="-109.380833333">
+  <ele>11726.0</ele>
+  <name>Pyramid Peak</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="44.546666667" lon="-110.171111111">
+  <ele>10088.0</ele>
+  <name>Mount Chittenden</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="44.182777778" lon="-110.377222222">
+  <ele>9609.0</ele>
+  <name>Barlow Peak</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="44.155277778" lon="-110.4175">
+  <ele>10223.0</ele>
+  <name>Mount Hancock</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="44.868611111" lon="-110.836388889">
+  <ele>10000.0</ele>
+  <name>Antler Peak</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="44.839444444" lon="-110.840833333">
+  <ele>9826.0</ele>
+  <name>Dome Mountain</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="44.818888889" lon="-110.855833333">
+  <ele>10331.0</ele>
+  <name>Mount Holmes</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="44.814444444" lon="-110.873611111">
+  <ele>9472.0</ele>
+  <name>White Peaks</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="44.9425" lon="-110.226944444">
+  <ele>8924.0</ele>
+  <name>Bison Peak</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="44.904444444" lon="-110.179166667">
+  <ele>9577.0</ele>
+  <name>Druid Peak</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="44.93" lon="-110.193888889">
+  <ele>9573.0</ele>
+  <name>Frederick Peak</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="44.945" lon="-110.146111111">
+  <ele>10003.0</ele>
+  <name>Mount Hornaday</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="44.632777778" lon="-110.946111111">
+  <ele>8218.0</ele>
+  <name>Mount Haynes</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="44.6525" lon="-110.929444444">
+  <ele>8241.0</ele>
+  <name>Mount Jackson</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="43.725555556" lon="-110.406111111">
+  <ele>10246.0</ele>
+  <name>Mount Leidy</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="43.868888889" lon="-110.784166667">
+  <ele>10814.0</ele>
+  <name>Bivouac Peak</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="43.835277778" lon="-110.847222222">
+  <ele>11063.0</ele>
+  <name>Cleaver Peak</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="43.874722222" lon="-110.871944444">
+  <ele>10308.0</ele>
+  <name>Dry Ridge Mountain</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="43.834444444" lon="-110.766388889">
+  <ele>11250.0</ele>
+  <name>East Horn</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="43.863611111" lon="-110.875277778">
+  <ele>10144.0</ele>
+  <name>Green Lakes Mountain</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="43.806111111" lon="-110.870277778">
+  <ele>10689.0</ele>
+  <name>Littles Peak</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="43.825" lon="-110.851388889">
+  <ele>11122.0</ele>
+  <name>Maidenform Peak</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="43.835277778" lon="-110.776388889">
+  <ele>12588.0</ele>
+  <name>Mount Moran</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="43.781944444" lon="-110.773333333">
+  <ele>11381.0</ele>
+  <name>Mount Saint John</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="43.803055556" lon="-110.793888889">
+  <ele>11529.0</ele>
+  <name>Mount Woodring</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="43.870833333" lon="-110.825555556">
+  <ele>10886.0</ele>
+  <name>Raynolds Peak</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="43.788333333" lon="-110.767777778">
+  <ele>11092.0</ele>
+  <name>Rockchuck Peak</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="43.778333333" lon="-110.787222222">
+  <ele>11335.0</ele>
+  <name>The Jaw</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="43.768333333" lon="-110.845555556">
+  <ele>10817.0</ele>
+  <name>The Wigwams</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="43.830833333" lon="-110.795">
+  <ele>12004.0</ele>
+  <name>Thor Peak</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="43.868055556" lon="-110.794722222">
+  <ele>11056.0</ele>
+  <name>Traverse Peak</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="43.831666667" lon="-110.77">
+  <ele>11243.0</ele>
+  <name>West Horn</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="43.856388889" lon="-110.853888889">
+  <ele>10492.0</ele>
+  <name>Window Peak</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="42.728333333" lon="-110.558333333">
+  <ele>10548.0</ele>
+  <name>Bare Mountain</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="42.6975" lon="-110.551666667">
+  <ele>10187.0</ele>
+  <name>Coal Mine Mountain</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="42.66" lon="-110.540555556">
+  <ele>10282.0</ele>
+  <name>Mount Schidler</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="44.295" lon="-110.533611111">
+  <ele>9527.0</ele>
+  <name>Factory Hill</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="44.266111111" lon="-110.529444444">
+  <ele>10298.0</ele>
+  <name>Mount Sheridan</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="42.493888889" lon="-110.591388889">
+  <ele>9669.0</ele>
+  <name>Mount Thompson</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="42.588333333" lon="-110.805555556">
+  <ele>10449.0</ele>
+  <name>Mount Wagner</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="44.782777778" lon="-110.469444444">
+  <ele>9869.0</ele>
+  <name>Dunraven Peak</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="44.7775" lon="-110.479722222">
+  <ele>9669.0</ele>
+  <name>Hedges Peak</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="44.797777778" lon="-110.434444444">
+  <ele>10223.0</ele>
+  <name>Mount Washburn</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="44.944722222" lon="-109.627777778">
+  <ele>9764.0</ele>
+  <name>Clay Butte</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="42.274444444" lon="-107.493055556">
+  <ele>7031.0</ele>
+  <name>Bunker Hill</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="43.344166667" lon="-110.773611111">
+  <ele>8294.0</ele>
+  <name>Munger Mountain</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="43.275555556" lon="-110.875277778">
+  <ele>9459.0</ele>
+  <name>Wolf Mountain</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="44.009166667" lon="-109.613055556">
+  <ele>11768.0</ele>
+  <name>Crater Mountain</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="44.065" lon="-109.616944444">
+  <ele>12093.0</ele>
+  <name>Needle Mountain</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="43.074722222" lon="-109.93">
+  <ele>8474.0</ele>
+  <name>Little Flattop Mountain</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="44.701111111" lon="-110.703333333">
+  <ele>8573.0</ele>
+  <name>Gibbon Hill</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="44.688611111" lon="-110.734722222">
+  <ele>8051.0</ele>
+  <name>Paintpot Hill</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="44.315555556" lon="-106.853055556">
+  <ele>7287.0</ele>
+  <name>Grouse Mountain</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="41.918611111" lon="-109.020277778">
+  <ele>7933.0</ele>
+  <name>North Table Mountain</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="41.905555556" lon="-109.008888889">
+  <ele>8281.0</ele>
+  <name>South Table Mountain</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="43.269166667" lon="-110.919166667">
+  <ele>9691.0</ele>
+  <name>Indian Peak</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="43.284166667" lon="-110.95">
+  <ele>9970.0</ele>
+  <name>Observation Peak</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="44.837222222" lon="-110.680555556">
+  <ele>8274.0</ele>
+  <name>Horseshoe Hill</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="44.777222222" lon="-110.7275">
+  <ele>8153.0</ele>
+  <name>Roaring Mountain</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="44.808333333" lon="-110.704722222">
+  <ele>8284.0</ele>
+  <name>The Landmark</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="44.463888889" lon="-110.8275">
+  <ele>7379.0</ele>
+  <name>Geyser Hill</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="42.681111111" lon="-106.249166667">
+  <ele>8271.0</ele>
+  <name>Muddy Mountain</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="43.492777778" lon="-110.195555556">
+  <ele>8973.0</ele>
+  <name>Sunday Peak</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="41.531388889" lon="-106.858888889">
+  <ele>7178.0</ele>
+  <name>Sheep Rock</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="41.5325" lon="-106.803333333">
+  <ele>7041.0</ele>
+  <name>Sixmile Hill</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="41.176666667" lon="-106.4775">
+  <ele>8130.0</ele>
+  <name>Overlook Hill</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="41.130277778" lon="-106.416944444">
+  <ele>8176.0</ele>
+  <name>Stovepipe Hill</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="42.326388889" lon="-108.916944444">
+  <ele>7844.0</ele>
+  <name>Pacific Butte</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="43.8875" lon="-106.971111111">
+  <ele>8179.0</ele>
+  <name>Red Spring Hill</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="44.518611111" lon="-109.940277778">
+  <ele>8848.0</ele>
+  <name>Crow Peak</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="43.438333333" lon="-111.016944444">
+  <ele>9495.0</ele>
+  <name>Mud Peak</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="43.433333333" lon="-111.027222222">
+  <ele>9642.0</ele>
+  <name>Starvation Peak</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="43.027777778" lon="-109.2575">
+  <ele>11309.0</ele>
+  <name>Entigo Peak</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="43.014722222" lon="-109.365555556">
+  <ele>11981.0</ele>
+  <name>Horse Mountain</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="43.043333333" lon="-109.280555556">
+  <ele>11532.0</ele>
+  <name>Lookout Mountain</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="43.075555556" lon="-109.268055556">
+  <ele>11243.0</ele>
+  <name>Mount Windy</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="43.067777778" lon="-109.268333333">
+  <ele>11083.0</ele>
+  <name>Tybo Peak</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="43.081111111" lon="-109.375277778">
+  <ele>9504.0</ele>
+  <name>Wittombona Peak</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="44.6225" lon="-107.166388889">
+  <ele>7667.0</ele>
+  <name>Swamp Creek Hill</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="42.360555556" lon="-109.245277778">
+  <ele>7211.0</ele>
+  <name>Squaw Teat</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="43.218055556" lon="-110.193611111">
+  <ele>9885.0</ele>
+  <name>Pass Peak</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="44.656944444" lon="-109.331666667">
+  <ele>9377.0</ele>
+  <name>Pat O'Hara Mountain</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="44.660277778" lon="-109.374722222">
+  <ele>9928.0</ele>
+  <name>Pat O'Hara Peak</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="44.648611111" lon="-110.193333333">
+  <ele>9613.0</ele>
+  <name>Pelican Cone</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="41.3525" lon="-106.378055556">
+  <ele>10128.0</ele>
+  <name>Gold Hill</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="44.053055556" lon="-109.310833333">
+  <ele>10748.0</ele>
+  <name>Phelps Mountain</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="42.360833333" lon="-108.443888889">
+  <ele>7454.0</ele>
+  <name>Saint Marys Peak</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="43.005" lon="-110.665277778">
+  <ele>10289.0</ele>
+  <name>Deadman Mountain</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="41.643333333" lon="-109.351944444">
+  <ele>7926.0</ele>
+  <name>Pilot Butte</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="41.315833333" lon="-105.4025">
+  <ele>8340.0</ele>
+  <name>Peggy Rock</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="41.310555556" lon="-105.452777778">
+  <ele>8829.0</ele>
+  <name>Pilot Hill</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="41.319166667" lon="-105.391944444">
+  <ele>8376.0</ele>
+  <name>Pinnacle Peaks</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="44.894444444" lon="-109.976388889">
+  <ele>9593.0</ele>
+  <name>Cache Mountain</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="44.986111111" lon="-109.884444444">
+  <ele>10709.0</ele>
+  <name>Index Peak</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="44.976666667" lon="-109.882222222">
+  <ele>11522.0</ele>
+  <name>Pilot Peak</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="44.950833333" lon="-109.949722222">
+  <ele>10410.0</ele>
+  <name>Republic Peak</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="41.307222222" lon="-108.677222222">
+  <ele>8743.0</ele>
+  <name>Pine Butte</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="41.344166667" lon="-108.67">
+  <ele>8441.0</ele>
+  <name>Sand Butte</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="43.167222222" lon="-110.825277778">
+  <ele>8497.0</ele>
+  <name>Elk Mountain</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="42.399722222" lon="-110.484444444">
+  <ele>10292.0</ele>
+  <name>Bald Knoll</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="42.170833333" lon="-106.401666667">
+  <ele>8008.0</ele>
+  <name>Pine Hill</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="41.0475" lon="-110.772777778">
+  <ele>8435.0</ele>
+  <name>Pine Knoll</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="41.761111111" lon="-106.186666667">
+  <ele>7119.0</ele>
+  <name>Bible Rock</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="41.791666667" lon="-106.17">
+  <ele>7231.0</ele>
+  <name>Indian Hill</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="42.793888889" lon="-109.842777778">
+  <ele>7339.0</ele>
+  <name>Ruby Hill</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="42.751111111" lon="-109.800833333">
+  <ele>7280.0</ele>
+  <name>Two Buttes</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="44.280833333" lon="-109.917222222">
+  <ele>11335.0</ele>
+  <name>Chaos Mountain</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="44.350555556" lon="-109.951111111">
+  <ele>10748.0</ele>
+  <name>Eagle Nest</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="44.371944444" lon="-109.9225">
+  <ele>10964.0</ele>
+  <name>Howell Mountain</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="44.323333333" lon="-109.962777778">
+  <ele>11381.0</ele>
+  <name>Pinnacle Mountain</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="44.424722222" lon="-110.039166667">
+  <ele>10364.0</ele>
+  <name>Arthur Peak</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="44.375833333" lon="-110.068888889">
+  <ele>10928.0</ele>
+  <name>Atkins Peak</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="44.406944444" lon="-110.110277778">
+  <ele>10623.0</ele>
+  <name>Mount Langford</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="44.390277778" lon="-110.07">
+  <ele>10925.0</ele>
+  <name>Plenty Coups Peak</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="44.431666667" lon="-110.026944444">
+  <ele>10617.0</ele>
+  <name>Reservation Peak</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="42.72" lon="-109.444444444">
+  <ele>9452.0</ele>
+  <name>Aspen Butte</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="42.7375" lon="-109.471111111">
+  <ele>9340.0</ele>
+  <name>Chimney Butte</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="41.816666667" lon="-105.335277778">
+  <ele>7024.0</ele>
+  <name>Poe Mountain</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="41.555" lon="-108.801944444">
+  <ele>7972.0</ele>
+  <name>Black Buttes</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="42.615277778" lon="-110.627222222">
+  <ele>11230.0</ele>
+  <name>Mount Coffin</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="44.656944444" lon="-109.955277778">
+  <ele>10804.0</ele>
+  <name>Castor Peak</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="44.630277778" lon="-109.947222222">
+  <ele>10850.0</ele>
+  <name>Grant Peak</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="44.705833333" lon="-110.000555556">
+  <ele>10292.0</ele>
+  <name>Hague Mountain</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="44.630833333" lon="-109.936111111">
+  <ele>10932.0</ele>
+  <name>Notch Mountain</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="44.723333333" lon="-109.894166667">
+  <ele>10095.0</ele>
+  <name>Parker Peak</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="44.666666667" lon="-109.929166667">
+  <ele>10984.0</ele>
+  <name>Pollux Peak</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="44.710833333" lon="-109.983611111">
+  <ele>10394.0</ele>
+  <name>Saddle Mountain</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="41.205833333" lon="-108.946111111">
+  <ele>7933.0</ele>
+  <name>Elk Butte</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="41.148888889" lon="-108.965833333">
+  <ele>8350.0</ele>
+  <name>Potter Mountain</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="41.037222222" lon="-108.130555556">
+  <ele>7165.0</ele>
+  <name>Anthill Knob</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="41.040277778" lon="-108.231111111">
+  <ele>7690.0</ele>
+  <name>Powder Mountain</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="44.13" lon="-107.042777778">
+  <ele>10367.0</ele>
+  <name>Hesse Mountain</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="44.213333333" lon="-107.071388889">
+  <ele>11667.0</ele>
+  <name>Loaf Mountain</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="44.191111111" lon="-107.005">
+  <ele>9600.0</ele>
+  <name>Sheep Mountain</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="42.898333333" lon="-110.390277778">
+  <ele>8012.0</ele>
+  <name>Jewett Pinnacle</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="42.908333333" lon="-110.495833333">
+  <ele>9623.0</ele>
+  <name>Prospect Peak</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="42.634722222" lon="-105.996666667">
+  <ele>7359.0</ele>
+  <name>Protsmans Knob</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="44.335833333" lon="-109.568055556">
+  <ele>11867.0</ele>
+  <name>Citadel Mountain</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="44.356944444" lon="-109.600833333">
+  <ele>12024.0</ele>
+  <name>Ptarmigan Mountain</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="44.891666667" lon="-110.8725">
+  <ele>10292.0</ele>
+  <name>Bannock Peak</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="44.953055556" lon="-110.859722222">
+  <ele>9915.0</ele>
+  <name>Little Quadrant Mountain</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="44.903888889" lon="-110.832222222">
+  <ele>9954.0</ele>
+  <name>Quadrant Mountain</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="44.990277778" lon="-110.766944444">
+  <ele>9642.0</ele>
+  <name>Sepulcher Mountain</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="41.306944444" lon="-110.651666667">
+  <ele>7234.0</ele>
+  <name>Bald Knoll</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="41.385277778" lon="-105.305">
+  <ele>7779.0</ele>
+  <name>Horse Mountain</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="41.420277778" lon="-105.334722222">
+  <ele>8087.0</ele>
+  <name>Powell Mountain</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="41.439166667" lon="-105.345277778">
+  <ele>8097.0</ele>
+  <name>Ragged Top Mountain</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="42.813055556" lon="-109.389166667">
+  <ele>10627.0</ele>
+  <name>Mitchells Nipple</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="43.951388889" lon="-110.881944444">
+  <ele>9701.0</ele>
+  <name>Mount Nord</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="43.903055556" lon="-110.901666667">
+  <ele>10121.0</ele>
+  <name>Rammell Mountain</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="43.631388889" lon="-109.692222222">
+  <ele>8337.0</ele>
+  <name>Battrum Mountain</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="43.629166667" lon="-109.643055556">
+  <ele>8494.0</ele>
+  <name>E A Mountain</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="43.722222222" lon="-109.7275">
+  <ele>11512.0</ele>
+  <name>Ramshorn Peak</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="43.911388889" lon="-110.779166667">
+  <ele>11319.0</ele>
+  <name>Doane Peak</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="43.898611111" lon="-110.758888889">
+  <ele>11178.0</ele>
+  <name>Eagle Rest Peak</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="43.9" lon="-110.759166667">
+  <ele>10932.0</ele>
+  <name>Eagles Rest Peak</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="43.977222222" lon="-110.802222222">
+  <ele>10722.0</ele>
+  <name>Elk Mountain</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="43.9375" lon="-110.856388889">
+  <ele>10006.0</ele>
+  <name>Moose Mountain</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="43.977777778" lon="-110.794722222">
+  <ele>10594.0</ele>
+  <name>Owl Peak</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="43.928611111" lon="-110.763611111">
+  <ele>11332.0</ele>
+  <name>Ranger Peak</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="43.978333333" lon="-110.871666667">
+  <ele>10180.0</ele>
+  <name>Red Mountain</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="43.890555556" lon="-110.810555556">
+  <ele>10873.0</ele>
+  <name>Rolling Thunder Mountain</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="43.168611111" lon="-110.345277778">
+  <ele>7211.0</ele>
+  <name>Dry Island</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="43.181666667" lon="-110.33">
+  <ele>7451.0</ele>
+  <name>Fortress Hill</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="43.155" lon="-110.336944444">
+  <ele>7175.0</ele>
+  <name>Robinson Butte</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="41.815" lon="-107.326111111">
+  <ele>7756.0</ele>
+  <name>Cherokee Peak</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="41.803888889" lon="-107.268888889">
+  <ele>7736.0</ele>
+  <name>Rawlins Peak</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="41.855" lon="-107.3825">
+  <ele>7037.0</ele>
+  <name>Big Rocks</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="41.185277778" lon="-105.516944444">
+  <ele>7743.0</ele>
+  <name>Red Buttes</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="42.677777778" lon="-110.476388889">
+  <ele>9541.0</ele>
+  <name>Bald Mountain</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="42.700555556" lon="-110.460555556">
+  <ele>9016.0</ele>
+  <name>Round Hill</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="42.625277778" lon="-110.492222222">
+  <ele>9485.0</ele>
+  <name>Star Hill</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="41.143611111" lon="-106.971666667">
+  <ele>10243.0</ele>
+  <name>Doane Peak</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="41.125277778" lon="-106.915833333">
+  <ele>10266.0</ele>
+  <name>Green Mountain</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="41.138333333" lon="-106.985555556">
+  <ele>10499.0</ele>
+  <name>Red Mountain</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="42.726111111" lon="-110.776666667">
+  <ele>10400.0</ele>
+  <name>Mount Fitzpatrick</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="42.655555556" lon="-110.846666667">
+  <ele>10387.0</ele>
+  <name>Red Top Mountain</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="41.134444444" lon="-110.133888889">
+  <ele>8458.0</ele>
+  <name>Sage Creek Mountain</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="42.039166667" lon="-105.329444444">
+  <ele>7779.0</ele>
+  <name>Collins Peak</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="42.086944444" lon="-105.326111111">
+  <ele>7710.0</ele>
+  <name>Green Mountain</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="42.017777778" lon="-105.366111111">
+  <ele>8127.0</ele>
+  <name>Resse Mountain</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="42.110277778" lon="-105.341111111">
+  <ele>7218.0</ele>
+  <name>Three Sisters</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="43.624444444" lon="-110.9475">
+  <ele>10420.0</ele>
+  <name>Housetop Mountain</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="43.506944444" lon="-110.95">
+  <ele>10056.0</ele>
+  <name>Mount Glory</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="43.567222222" lon="-110.905">
+  <ele>10948.0</ele>
+  <name>Rendezvous Mountain</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="43.567222222" lon="-110.905">
+  <ele>10948.0</ele>
+  <name>Rendezvous Peak</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="43.531111111" lon="-110.980833333">
+  <ele>10341.0</ele>
+  <name>Taylor Mountain</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="41.906388889" lon="-107.303055556">
+  <ele>7277.0</ele>
+  <name>Ninemile Hill</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="41.972777778" lon="-107.308888889">
+  <ele>7625.0</ele>
+  <name>Rendle Hill</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="41.9775" lon="-107.338055556">
+  <ele>7401.0</ele>
+  <name>Rendle Point</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="41.968888889" lon="-107.348055556">
+  <ele>7136.0</ele>
+  <name>Willow Hill</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="42.617222222" lon="-106.111111111">
+  <ele>7218.0</ele>
+  <name>Pine Mountain</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="42.578888889" lon="-106.060555556">
+  <ele>8665.0</ele>
+  <name>Reno Hill</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="42.586111111" lon="-106.101666667">
+  <ele>8031.0</ele>
+  <name>Six Horse Hill</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="41.339722222" lon="-106.103611111">
+  <ele>9586.0</ele>
+  <name>Bald Mountain</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="42.114166667" lon="-107.190277778">
+  <ele>7467.0</ele>
+  <name>Table Mountain</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="42.896666667" lon="-109.334444444">
+  <ele>12077.0</ele>
+  <name>Baily Peak</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="42.894444444" lon="-109.363888889">
+  <ele>12208.0</ele>
+  <name>Dragon Head Peak</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="42.919166667" lon="-109.345833333">
+  <ele>12103.0</ele>
+  <name>Kagevah Peak</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="42.883888889" lon="-109.321944444">
+  <ele>12618.0</ele>
+  <name>Mount Lander</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="42.876388889" lon="-109.300555556">
+  <ele>11863.0</ele>
+  <name>Musembeah Peak</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="42.888888889" lon="-109.338333333">
+  <ele>12388.0</ele>
+  <name>Nylon Peak</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="42.936388889" lon="-109.361944444">
+  <ele>12008.0</ele>
+  <name>Odyssey Peak</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="42.909444444" lon="-109.324444444">
+  <ele>11863.0</ele>
+  <name>Petroleum Peak</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="42.885277778" lon="-109.354166667">
+  <ele>12211.0</ele>
+  <name>Pronghorn Peak</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="42.915555556" lon="-109.295555556">
+  <ele>12759.0</ele>
+  <name>Roberts Mountain</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="42.98" lon="-109.345">
+  <ele>12526.0</ele>
+  <name>Saddle Mountain</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="42.898333333" lon="-109.339166667">
+  <ele>12116.0</ele>
+  <name>Walt Bailey Peak</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="42.981944444" lon="-109.357222222">
+  <ele>12621.0</ele>
+  <name>Wolverine Peak</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="42.943611111" lon="-109.287222222">
+  <ele>12031.0</ele>
+  <name>Wykee Peak</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="41.143333333" lon="-110.499444444">
+  <ele>8104.0</ele>
+  <name>Dans Nipple</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="42.865" lon="-110.782777778">
+  <ele>10187.0</ele>
+  <name>Cabin Creek Peak</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="42.784722222" lon="-110.802222222">
+  <ele>10705.0</ele>
+  <name>Rock Lake Peak</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="42.636111111" lon="-105.840833333">
+  <ele>7546.0</ele>
+  <name>Lacy Mountain</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="43.788055556" lon="-110.321388889">
+  <ele>8524.0</ele>
+  <name>Baldy Mountain</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="43.838333333" lon="-110.3675">
+  <ele>7247.0</ele>
+  <name>Burro Hill</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="42.570555556" lon="-109.908611111">
+  <ele>7480.0</ele>
+  <name>Ross Butte</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="41.884722222" lon="-110.398611111">
+  <ele>7667.0</ele>
+  <name>Round Mountain</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="41.849722222" lon="-107.789166667">
+  <ele>7109.0</ele>
+  <name>Ruby Knolls</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="41.263055556" lon="-106.601666667">
+  <ele>8300.0</ele>
+  <name>Bennett Peak</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="42.721944444" lon="-107.168055556">
+  <ele>7585.0</ele>
+  <name>Saddle Rock</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="42.73" lon="-107.158888889">
+  <ele>7697.0</ele>
+  <name>Sagehen Hill</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="42.4425" lon="-105.529722222">
+  <ele>7405.0</ele>
+  <name>Baldy Peak</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="42.406111111" lon="-105.536944444">
+  <ele>7451.0</ele>
+  <name>Burnt Mountain</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="42.385555556" lon="-105.583333333">
+  <ele>8441.0</ele>
+  <name>Middle Sawtooth Mountain</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="42.398888889" lon="-105.576666667">
+  <ele>8097.0</ele>
+  <name>North Sawtooth Mountain</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="42.467777778" lon="-105.590277778">
+  <ele>7451.0</ele>
+  <name>Saddleback Mountain</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="42.382222222" lon="-105.586944444">
+  <ele>8596.0</ele>
+  <name>South Sawtooth Mountain</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="42.312222222" lon="-107.645">
+  <ele>8189.0</ele>
+  <name>Whiskey Peak</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="43.07" lon="-109.218333333">
+  <ele>10541.0</ele>
+  <name>Bear Peak</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="43.061388889" lon="-109.193055556">
+  <ele>9829.0</ele>
+  <name>Little Horse Peak</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="41.493888889" lon="-106.253333333">
+  <ele>10249.0</ele>
+  <name>Lookout Mountain</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="41.415833333" lon="-106.347777778">
+  <ele>10531.0</ele>
+  <name>Pine Butte</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="41.442222222" lon="-106.311111111">
+  <ele>10564.0</ele>
+  <name>Windy Hill</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="42.489166667" lon="-107.278611111">
+  <ele>7638.0</ele>
+  <name>Savage Peak</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="41.542222222" lon="-110.882222222">
+  <ele>8061.0</ele>
+  <name>North Sheep Mountain</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="41.608055556" lon="-110.962222222">
+  <ele>7930.0</ele>
+  <name>Sawtooth Mountain</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="41.53" lon="-110.888611111">
+  <ele>8189.0</ele>
+  <name>South Sheep Mountain</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="41.509722222" lon="-110.938611111">
+  <ele>7027.0</ele>
+  <name>The Hogback</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="41.568888889" lon="-110.929444444">
+  <ele>8163.0</ele>
+  <name>The Pinnacle</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="42.757777778" lon="-109.578055556">
+  <ele>7388.0</ele>
+  <name>Lovatt Butte</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="42.5525" lon="-108.408611111">
+  <ele>7123.0</ele>
+  <name>Schoettlin Mountain</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="42.603333333" lon="-108.462222222">
+  <ele>7421.0</ele>
+  <name>Sheep Mountain</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="42.469444444" lon="-105.723611111">
+  <ele>8130.0</ele>
+  <name>School Section Mountain</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="41.075277778" lon="-108.854166667">
+  <ele>7890.0</ele>
+  <name>Scrivner Butte</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="41.637777778" lon="-107.396388889">
+  <ele>8432.0</ele>
+  <name>Separation Peak</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="43.711388889" lon="-110.585">
+  <ele>8245.0</ele>
+  <name>Shadow Mountain</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="41.281388889" lon="-107.013888889">
+  <ele>9419.0</ele>
+  <name>Sharp Hill</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="44.290833333" lon="-109.826666667">
+  <ele>11781.0</ele>
+  <name>Battlement Mountain</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="44.371666667" lon="-109.7525">
+  <ele>11099.0</ele>
+  <name>Coxcomb Mountain</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="44.336944444" lon="-109.798055556">
+  <ele>12057.0</ele>
+  <name>Fortress Mountain</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="44.257777778" lon="-109.875555556">
+  <ele>11644.0</ele>
+  <name>Overlook Mountain</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="44.351944444" lon="-109.816666667">
+  <ele>11197.0</ele>
+  <name>Sheep Mesa</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="41.741388889" lon="-105.450833333">
+  <ele>7093.0</ele>
+  <name>Sheep Rock</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="44.537222222" lon="-107.515555556">
+  <ele>9212.0</ele>
+  <name>Snowshoe Mountain</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="44.585" lon="-107.494444444">
+  <ele>9931.0</ele>
+  <name>Antelope Butte</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="44.613611111" lon="-107.439444444">
+  <ele>10328.0</ele>
+  <name>Bruce Mountain</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="44.509166667" lon="-107.4625">
+  <ele>9616.0</ele>
+  <name>Crooked Creek Hill</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="44.595555556" lon="-107.382777778">
+  <ele>10807.0</ele>
+  <name>Dome Peak</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="43.573611111" lon="-110.073888889">
+  <ele>9619.0</ele>
+  <name>Buckskin Point</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="43.609444444" lon="-110.081388889">
+  <ele>9570.0</ele>
+  <name>Saint John Overlook</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="43.609444444" lon="-110.080833333">
+  <ele>9521.0</ele>
+  <name>Saint John Overlook Peak</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="41.180833333" lon="-105.355833333">
+  <ele>8478.0</ele>
+  <name>Egbert Hill</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="41.190555556" lon="-105.374722222">
+  <ele>8455.0</ele>
+  <name>Green Mountain</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="41.174166667" lon="-105.355">
+  <ele>8074.0</ele>
+  <name>Reynolds Hill</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="41.166111111" lon="-105.375555556">
+  <ele>8543.0</ele>
+  <name>Turtle Rock</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="41.192777778" lon="-105.360833333">
+  <ele>8635.0</ele>
+  <name>Twin Mountain</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="41.245833333" lon="-105.376944444">
+  <ele>8386.0</ele>
+  <name>Bisbee Hill</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="41.239166667" lon="-105.376388889">
+  <ele>8323.0</ele>
+  <name>Markley Hill</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="41.210555556" lon="-105.395555556">
+  <ele>8770.0</ele>
+  <name>Point Crawford</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="41.166944444" lon="-105.398611111">
+  <ele>8392.0</ele>
+  <name>Poland Hill</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="41.231944444" lon="-105.390277778">
+  <ele>9025.0</ele>
+  <name>Pole Mountain</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="44.6225" lon="-109.248055556">
+  <ele>7470.0</ele>
+  <name>Monument Hill</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="44.313333333" lon="-110.8475">
+  <ele>8507.0</ele>
+  <name>Douglas Knob</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="43.794444444" lon="-109.872222222">
+  <ele>11302.0</ele>
+  <name>Coffin Butte</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="43.832222222" lon="-109.855833333">
+  <ele>11253.0</ele>
+  <name>Crescent Mountain</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="43.093333333" lon="-110.211944444">
+  <ele>8409.0</ele>
+  <name>Signal Hill</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="43.376666667" lon="-109.631111111">
+  <ele>11870.0</ele>
+  <name>Middle Mountain</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="43.454444444" lon="-109.632222222">
+  <ele>10361.0</ele>
+  <name>Noon Rocks</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="43.383333333" lon="-109.743888889">
+  <ele>11581.0</ele>
+  <name>Square Top Mountain</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="43.4925" lon="-109.696111111">
+  <ele>9895.0</ele>
+  <name>Windy Mountain</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="41.192777778" lon="-107.149444444">
+  <ele>9521.0</ele>
+  <name>Singer Peak</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="44.860555556" lon="-107.441944444">
+  <ele>8277.0</ele>
+  <name>Freeze Out Point</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="41.170277778" lon="-107.613611111">
+  <ele>7027.0</ele>
+  <name>Little Wild Horse Buttes</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="41.188611111" lon="-107.612222222">
+  <ele>7270.0</ele>
+  <name>Wild Horse Butte</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="41.679722222" lon="-107.237222222">
+  <ele>8107.0</ele>
+  <name>Chokecherry Knob</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="41.636944444" lon="-107.248888889">
+  <ele>7949.0</ele>
+  <name>Sheep Mountain</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="43.866388889" lon="-109.597222222">
+  <ele>10768.0</ele>
+  <name>Coffman Butte</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="43.870277778" lon="-109.54">
+  <ele>11617.0</ele>
+  <name>Crescent Top</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="43.936388889" lon="-108.916388889">
+  <ele>7680.0</ele>
+  <name>Leon Baird Peak</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="43.950277778" lon="-108.943055556">
+  <ele>7858.0</ele>
+  <name>Soapy Dale Peak</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="41.199722222" lon="-105.998611111">
+  <ele>9609.0</ele>
+  <name>Sheep Mountain</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="42.068055556" lon="-110.61">
+  <ele>8629.0</ele>
+  <name>Granny Peak</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="42.076388889" lon="-110.569444444">
+  <ele>9268.0</ele>
+  <name>South Fork Mountain</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="41.970277778" lon="-111.055833333">
+  <ele>7388.0</ele>
+  <name>Red Knoll</name>
+  <desc>UT</desc>
+</wpt>
+<wpt lat="42.220555556" lon="-105.441666667">
+  <ele>8136.0</ele>
+  <name>Bear Head Mountain</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="42.161388889" lon="-105.451666667">
+  <ele>7421.0</ele>
+  <name>Menter Knob</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="42.242222222" lon="-105.476666667">
+  <ele>8740.0</ele>
+  <name>South Mountain</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="41.816944444" lon="-108.966388889">
+  <ele>7844.0</ele>
+  <name>Emmons Cone</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="41.814166667" lon="-108.962777778">
+  <ele>7667.0</ele>
+  <name>Emmons Mesa</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="41.832222222" lon="-108.965555556">
+  <ele>7664.0</ele>
+  <name>Hatcher Mesa</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="41.851944444" lon="-108.877222222">
+  <ele>7438.0</ele>
+  <name>Spring Butte</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="41.793888889" lon="-108.921666667">
+  <ele>7543.0</ele>
+  <name>Zirkel Mesa</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="44.389444444" lon="-107.456388889">
+  <ele>9219.0</ele>
+  <name>Black Butte</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="44.433333333" lon="-107.405">
+  <ele>10088.0</ele>
+  <name>Iron Mountain</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="45.003055556" lon="-110.445">
+  <ele>8235.0</ele>
+  <name>Hellroaring Mountain</name>
+  <desc>MT</desc>
+</wpt>
+<wpt lat="42.385555556" lon="-107.578888889">
+  <ele>7008.0</ele>
+  <name>Henry Peak</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="42.481111111" lon="-107.529444444">
+  <ele>7274.0</ele>
+  <name>Split Rock</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="42.529444444" lon="-110.500833333">
+  <ele>9573.0</ele>
+  <name>North Mountain</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="42.560555556" lon="-109.5425">
+  <ele>7405.0</ele>
+  <name>Square Top</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="43.160277778" lon="-109.861944444">
+  <ele>11227.0</ele>
+  <name>Dome Peak</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="43.130833333" lon="-109.830555556">
+  <ele>10741.0</ele>
+  <name>Doubletop Mountain</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="43.158888889" lon="-109.764722222">
+  <ele>12001.0</ele>
+  <name>Glover Peak</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="43.224166667" lon="-109.790277778">
+  <ele>11703.0</ele>
+  <name>Squaretop Mountain</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="41.888888889" lon="-108.991388889">
+  <ele>7287.0</ele>
+  <name>Endlich Hill</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="41.878611111" lon="-108.994722222">
+  <ele>7595.0</ele>
+  <name>Hague Hill</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="41.966944444" lon="-108.966666667">
+  <ele>8684.0</ele>
+  <name>Steamboat Mountain</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="43.007777778" lon="-110.914166667">
+  <ele>9961.0</ele>
+  <name>Prater Mountain</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="43.0725" lon="-110.924444444">
+  <ele>10010.0</ele>
+  <name>Stewart Peak</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="44.696111111" lon="-109.756666667">
+  <ele>10856.0</ele>
+  <name>Black Mountain</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="44.681944444" lon="-109.8075">
+  <ele>10010.0</ele>
+  <name>Dike Mountain</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="44.734444444" lon="-109.860277778">
+  <ele>10115.0</ele>
+  <name>Hoodoo Peak</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="44.680555556" lon="-109.848888889">
+  <ele>10026.0</ele>
+  <name>Lamar Mountain</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="44.640833333" lon="-109.831666667">
+  <ele>10318.0</ele>
+  <name>Land Mountain</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="44.6325" lon="-109.756944444">
+  <ele>10259.0</ele>
+  <name>Stinkingwater Peak</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="44.429444444" lon="-106.920277778">
+  <ele>7398.0</ele>
+  <name>Stone Mountain</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="41.394166667" lon="-106.0825">
+  <ele>8766.0</ele>
+  <name>Bunker Hill</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="41.469722222" lon="-106.12">
+  <ele>9173.0</ele>
+  <name>Coyote Hill</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="41.483333333" lon="-106.050833333">
+  <ele>8048.0</ele>
+  <name>Strouss Hill</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="42.473611111" lon="-109.679166667">
+  <ele>7310.0</ele>
+  <name>Stud Horse Butte</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="42.063333333" lon="-110.796111111">
+  <ele>8898.0</ele>
+  <name>Coke Mountain</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="42.340555556" lon="-109.813611111">
+  <ele>7155.0</ele>
+  <name>Sugar Loaf</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="41.179166667" lon="-110.776944444">
+  <ele>8094.0</ele>
+  <name>Aspen Mountain</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="44.523333333" lon="-109.755277778">
+  <ele>10013.0</ele>
+  <name>Monument Mountain</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="44.624444444" lon="-109.8375">
+  <ele>9823.0</ele>
+  <name>Moose Mountain</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="44.524166667" lon="-109.8425">
+  <ele>11181.0</ele>
+  <name>Sleeping Giant Mountain</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="44.609166667" lon="-109.768055556">
+  <ele>10781.0</ele>
+  <name>Sunlight Peak</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="44.5725" lon="-109.867222222">
+  <ele>9721.0</ele>
+  <name>Whirlwind Peak</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="44.124166667" lon="-109.055">
+  <ele>7041.0</ele>
+  <name>Schaub Butte</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="44.046666667" lon="-109.119722222">
+  <ele>7388.0</ele>
+  <name>Sheep Point</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="44.008888889" lon="-110.829444444">
+  <ele>9714.0</ele>
+  <name>Forellen Peak</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="44.057777778" lon="-110.796666667">
+  <ele>8986.0</ele>
+  <name>Mount Berry</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="44.040277778" lon="-110.850277778">
+  <ele>9265.0</ele>
+  <name>Survey Peak</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="42.638888889" lon="-109.094166667">
+  <ele>12273.0</ele>
+  <name>Mount Nystrom</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="42.6425" lon="-109.022777778">
+  <ele>11689.0</ele>
+  <name>Roaring Fork Mountain</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="42.616388889" lon="-109.001111111">
+  <ele>12493.0</ele>
+  <name>Atlantic Peak</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="42.587777778" lon="-109.038888889">
+  <ele>10295.0</ele>
+  <name>Sweetwater Needles</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="42.621666667" lon="-109.015555556">
+  <ele>12096.0</ele>
+  <name>West Atlantic Peak</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="42.555277778" lon="-109.013055556">
+  <ele>9603.0</ele>
+  <name>Wildcat Butte</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="41.705" lon="-105.594722222">
+  <ele>7487.0</ele>
+  <name>Flat Top</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="41.696388889" lon="-105.611666667">
+  <ele>7359.0</ele>
+  <name>Round Top</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="44.489722222" lon="-110.141111111">
+  <ele>10440.0</ele>
+  <name>Avalanche Peak</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="44.468611111" lon="-110.176111111">
+  <ele>9915.0</ele>
+  <name>Grizzly Peak</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="44.477222222" lon="-110.128611111">
+  <ele>10344.0</ele>
+  <name>Hoyt Peak</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="44.413611111" lon="-110.148055556">
+  <ele>10551.0</ele>
+  <name>Mount Doane</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="44.401666667" lon="-110.159444444">
+  <ele>10230.0</ele>
+  <name>Mount Stevenson</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="44.452222222" lon="-110.144444444">
+  <ele>10062.0</ele>
+  <name>Top Notch Peak</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="42.108055556" lon="-106.216666667">
+  <ele>7851.0</ele>
+  <name>Battle Mountain</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="42.122222222" lon="-106.522777778">
+  <ele>8858.0</ele>
+  <name>Bald Mountain</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="41.708888889" lon="-106.296666667">
+  <ele>7178.0</ele>
+  <name>Chimney Rocks</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="41.629722222" lon="-106.258611111">
+  <ele>7949.0</ele>
+  <name>Sheepherder Hill</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="42.494722222" lon="-109.385833333">
+  <ele>7254.0</ele>
+  <name>Pencil Point</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="42.434166667" lon="-109.375555556">
+  <ele>7461.0</ele>
+  <name>Tabernacle Butte</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="41.028055556" lon="-110.346111111">
+  <ele>9327.0</ele>
+  <name>Cottonwood Mountain</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="41.029722222" lon="-110.294166667">
+  <ele>9209.0</ele>
+  <name>Table Mountain</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="41.547777778" lon="-108.4825">
+  <ele>7447.0</ele>
+  <name>Table Rock</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="43.851666667" lon="-107.0775">
+  <ele>8504.0</ele>
+  <name>Tabletop</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="43.820277778" lon="-107.064166667">
+  <ele>8100.0</ele>
+  <name>The Castle Rock</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="42.360555556" lon="-109.649444444">
+  <ele>7024.0</ele>
+  <name>Teakettle Butte</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="42.75" lon="-109.236666667">
+  <ele>11857.0</ele>
+  <name>Bunion Mountain</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="42.650277778" lon="-109.220833333">
+  <ele>9892.0</ele>
+  <name>Crows Nest</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="42.710555556" lon="-109.156388889">
+  <ele>12539.0</ele>
+  <name>East Temple Peak</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="42.731666667" lon="-109.166111111">
+  <ele>11962.0</ele>
+  <name>Haystack Mountain</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="42.653888889" lon="-109.184722222">
+  <ele>11601.0</ele>
+  <name>Independent Mountain</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="42.738055556" lon="-109.242222222">
+  <ele>11329.0</ele>
+  <name>Laturio Mountain</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="42.725555556" lon="-109.200833333">
+  <ele>11591.0</ele>
+  <name>Schiestler Peak</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="42.698611111" lon="-109.170833333">
+  <ele>12985.0</ele>
+  <name>Temple Peak</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="42.708611111" lon="-109.128055556">
+  <ele>13120.0</ele>
+  <name>Wind River Peak</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="43.396666667" lon="-110.981111111">
+  <ele>8150.0</ele>
+  <name>Green Knoll</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="43.416388889" lon="-110.996111111">
+  <ele>9459.0</ele>
+  <name>Smoky Hollow Peak</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="43.391944444" lon="-110.887777778">
+  <ele>8022.0</ele>
+  <name>Taylor Mountain</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="43.609166667" lon="-110.831666667">
+  <ele>8402.0</ele>
+  <name>Apres Vous Peak</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="42.358888889" lon="-110.2725">
+  <ele>8002.0</ele>
+  <name>Big Mesa</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="42.296388889" lon="-110.294166667">
+  <ele>7457.0</ele>
+  <name>Jory Hill</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="43.9125" lon="-106.827777778">
+  <ele>7720.0</ele>
+  <name>Specimen Hill</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="44.225" lon="-109.814166667">
+  <ele>11732.0</ele>
+  <name>Ishawooa Cone</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="44.142222222" lon="-109.786666667">
+  <ele>10840.0</ele>
+  <name>Thorofare Buttes</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="44.033888889" lon="-109.948333333">
+  <ele>11598.0</ele>
+  <name>Thunder Mountain</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="44.84" lon="-110.883055556">
+  <ele>9570.0</ele>
+  <name>Echo Peak</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="44.837777778" lon="-110.960277778">
+  <ele>9108.0</ele>
+  <name>The Crags</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="44.850277778" lon="-110.883333333">
+  <ele>9764.0</ele>
+  <name>Three Rivers Peak</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="42.670833333" lon="-107.988611111">
+  <ele>7385.0</ele>
+  <name>Long Creek Mountain</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="42.653055556" lon="-107.903333333">
+  <ele>7493.0</ele>
+  <name>Tin Cup Mountain</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="43.788055556" lon="-110.072222222">
+  <ele>10856.0</ele>
+  <name>Breccia Peak</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="43.836388889" lon="-110.073055556">
+  <ele>9672.0</ele>
+  <name>Simpson Peaks</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="42.374722222" lon="-105.640555556">
+  <ele>8445.0</ele>
+  <name>Blacktail Peak</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="42.368888889" lon="-105.736111111">
+  <ele>8422.0</ele>
+  <name>Brumley Mountain</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="42.319722222" lon="-105.683888889">
+  <ele>8241.0</ele>
+  <name>Buck Point</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="42.333611111" lon="-105.648611111">
+  <ele>8543.0</ele>
+  <name>Flattop Mountain</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="42.328055556" lon="-105.735555556">
+  <ele>8733.0</ele>
+  <name>Fortymile Peak</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="42.264166667" lon="-105.739166667">
+  <ele>8245.0</ele>
+  <name>Smith Mountain</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="43.430277778" lon="-109.622777778">
+  <ele>11135.0</ele>
+  <name>Whiskey Mountain</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="43.281666667" lon="-110.23">
+  <ele>11348.0</ele>
+  <name>Tosi Peak</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="44.937777778" lon="-110.470277778">
+  <ele>7851.0</ele>
+  <name>Crescent Hill</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="44.951111111" lon="-110.435833333">
+  <ele>7024.0</ele>
+  <name>Garnet Hill</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="44.339444444" lon="-110.206111111">
+  <ele>8789.0</ele>
+  <name>Langford Cairn</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="41.075" lon="-106.619722222">
+  <ele>9964.0</ele>
+  <name>Bear Mountain</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="42.785" lon="-110.546388889">
+  <ele>10440.0</ele>
+  <name>Lander Peak</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="42.865277778" lon="-110.591388889">
+  <ele>10686.0</ele>
+  <name>Mount McDougal</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="42.792777778" lon="-110.579722222">
+  <ele>11115.0</ele>
+  <name>Triple Peak</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="43.695555556" lon="-110.145555556">
+  <ele>9921.0</ele>
+  <name>Tripod Peak</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="44.339444444" lon="-110.8775">
+  <ele>8573.0</ele>
+  <name>Trischman Knob</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="42.130833333" lon="-109.210555556">
+  <ele>7296.0</ele>
+  <name>Tule Butte</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="43.423888889" lon="-110.610555556">
+  <ele>10312.0</ele>
+  <name>Cache Peak</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="43.387222222" lon="-110.528611111">
+  <ele>10738.0</ele>
+  <name>Pinnacle Peak</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="42.144444444" lon="-109.725277778">
+  <ele>7037.0</ele>
+  <name>Twelvemile Knoll</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="43.758055556" lon="-109.208888889">
+  <ele>12438.0</ele>
+  <name>Dome Mountain</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="43.825277778" lon="-109.244722222">
+  <ele>11873.0</ele>
+  <name>Standard Peak</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="43.780555556" lon="-109.182777778">
+  <ele>11817.0</ele>
+  <name>Twin Peaks</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="43.906111111" lon="-110.555833333">
+  <ele>7490.0</ele>
+  <name>Grand View Point</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="43.940555556" lon="-110.578333333">
+  <ele>8258.0</ele>
+  <name>Pilgrim Mountain</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="43.455555556" lon="-109.787777778">
+  <ele>11486.0</ele>
+  <name>Union Peak</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="44.196111111" lon="-109.505555556">
+  <ele>9616.0</ele>
+  <name>Slide Mountain</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="43.621666667" lon="-111.008888889">
+  <ele>8996.0</ele>
+  <name>Baldy Knoll</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="44.874444444" lon="-110.094722222">
+  <ele>9842.0</ele>
+  <name>Mount Norris</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="44.865555556" lon="-110.003611111">
+  <ele>9862.0</ele>
+  <name>The Needle</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="41.795" lon="-106.840555556">
+  <ele>7444.0</ele>
+  <name>Saint Marys Hill</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="44.729166667" lon="-107.299722222">
+  <ele>8248.0</ele>
+  <name>Big Mountain</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="44.7175" lon="-107.291111111">
+  <ele>8090.0</ele>
+  <name>Little Mountain</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="44.688888889" lon="-107.253333333">
+  <ele>8445.0</ele>
+  <name>She-Bear Mountain</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="44.705277778" lon="-107.276111111">
+  <ele>8609.0</ele>
+  <name>Walker Mountain</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="44.423055556" lon="-109.449444444">
+  <ele>8487.0</ele>
+  <name>Table Mountain</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="42.395833333" lon="-105.754722222">
+  <ele>8464.0</ele>
+  <name>Camelback Mountain</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="42.493333333" lon="-105.844444444">
+  <ele>9295.0</ele>
+  <name>Squaw Mountain</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="42.475833333" lon="-105.865555556">
+  <ele>9232.0</ele>
+  <name>Twin Peaks</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="42.434722222" lon="-105.794166667">
+  <ele>9386.0</ele>
+  <name>Warbonnet Peak</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="41.734444444" lon="-110.634722222">
+  <ele>7707.0</ele>
+  <name>Cavanaugh Peak</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="43.600277778" lon="-109.82">
+  <ele>8356.0</ele>
+  <name>Hat Butte</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="43.593333333" lon="-109.863888889">
+  <ele>8478.0</ele>
+  <name>Sand Butte</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="43.557222222" lon="-109.791388889">
+  <ele>9495.0</ele>
+  <name>Warm Spring Mountain</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="42.930555556" lon="-109.232222222">
+  <ele>12077.0</ele>
+  <name>Mount Baldy</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="42.950555556" lon="-109.211388889">
+  <ele>11568.0</ele>
+  <name>Mount Shoshone</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="42.909444444" lon="-110.215277778">
+  <ele>7684.0</ele>
+  <name>Shannon Point</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="43.9875" lon="-110.4375">
+  <ele>9564.0</ele>
+  <name>Whetstone Mountain</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="42.255555556" lon="-107.548888889">
+  <ele>7159.0</ele>
+  <name>Camp Creek Hill</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="42.3125" lon="-107.573055556">
+  <ele>9212.0</ele>
+  <name>Green Mountain</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="41.5625" lon="-106.269166667">
+  <ele>9032.0</ele>
+  <name>Conical Peak</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="41.924722222" lon="-109.352222222">
+  <ele>7073.0</ele>
+  <name>Sand Knolls</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="43.820555556" lon="-109.419166667">
+  <ele>12182.0</ele>
+  <name>Wiggins Peak</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="42.027222222" lon="-107.095833333">
+  <ele>7310.0</ele>
+  <name>Wild Horse Mountain</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="42.344722222" lon="-106.473888889">
+  <ele>7985.0</ele>
+  <name>Chalk Mountain</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="41.381666667" lon="-109.370555556">
+  <ele>7257.0</ele>
+  <name>Flattop Mountain</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="41.495833333" lon="-109.347222222">
+  <ele>7526.0</ele>
+  <name>Wilkins Peak</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="42.0275" lon="-110.693888889">
+  <ele>7762.0</ele>
+  <name>Pink Hill</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="43.748888889" lon="-109.042222222">
+  <ele>9659.0</ele>
+  <name>Castle Rocks</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="42.095833333" lon="-106.295833333">
+  <ele>8310.0</ele>
+  <name>Windy Hill</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="44.819166667" lon="-109.526388889">
+  <ele>9153.0</ele>
+  <name>Russell Peak</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="44.791388889" lon="-109.593888889">
+  <ele>10239.0</ele>
+  <name>Windy Mountain</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="42.285277778" lon="-105.621666667">
+  <ele>8632.0</ele>
+  <name>Bar M Mountain</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="42.284166667" lon="-105.561388889">
+  <ele>8678.0</ele>
+  <name>Beaver Mountain</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="42.324444444" lon="-105.593611111">
+  <ele>7966.0</ele>
+  <name>Bell Butte</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="42.319722222" lon="-105.610833333">
+  <ele>7841.0</ele>
+  <name>Bell Hill</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="42.331944444" lon="-105.614166667">
+  <ele>8287.0</ele>
+  <name>Bell Mountain</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="42.311388889" lon="-105.525833333">
+  <ele>7795.0</ele>
+  <name>Buzzard Peak</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="42.265" lon="-105.518055556">
+  <ele>9134.0</ele>
+  <name>Eagle Mountain</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="42.265" lon="-105.518055556">
+  <ele>9134.0</ele>
+  <name>Eagle Peak</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="42.256111111" lon="-105.566388889">
+  <ele>7602.0</ele>
+  <name>Graveyard Hill</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="42.264444444" lon="-105.545277778">
+  <ele>8153.0</ele>
+  <name>Jaybird Peak</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="42.251666667" lon="-105.570277778">
+  <ele>7854.0</ele>
+  <name>Poor Mans Peak</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="42.275277778" lon="-105.610833333">
+  <ele>8678.0</ele>
+  <name>Slick Mountain</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="42.346666667" lon="-105.5675">
+  <ele>8369.0</ele>
+  <name>The Needles</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="42.346944444" lon="-105.567777778">
+  <ele>8356.0</ele>
+  <name>Trethway Mountain</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="42.2975" lon="-105.573055556">
+  <ele>8973.0</ele>
+  <name>Windy Peak</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="41.65" lon="-110.941666667">
+  <ele>8205.0</ele>
+  <name>Bridger Hill</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="41.715555556" lon="-110.959722222">
+  <ele>7244.0</ele>
+  <name>High Top</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="41.726944444" lon="-110.916388889">
+  <ele>7231.0</ele>
+  <name>Sand Knoll</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="42.634722222" lon="-108.749444444">
+  <ele>8760.0</ele>
+  <name>Young Mountain</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="44.742777778" lon="-107.381944444">
+  <ele>9485.0</ele>
+  <name>Black Mountain</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="44.66" lon="-107.38">
+  <ele>10134.0</ele>
+  <name>Lookout Mountain</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="41.104722222" lon="-106.012222222">
+  <ele>7782.0</ele>
+  <name>Sugarloaf</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="42.576111111" lon="-110.566388889">
+  <ele>10590.0</ele>
+  <name>Fish Creek Mountain</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="42.5225" lon="-110.566388889">
+  <ele>10607.0</ele>
+  <name>Mount Darby</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="42.604444444" lon="-110.624444444">
+  <ele>11293.0</ele>
+  <name>Wyoming Peak</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="44.027777778" lon="-109.791111111">
+  <ele>11352.0</ele>
+  <name>Yellow Mountain</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="44.106388889" lon="-110.082222222">
+  <ele>9777.0</ele>
+  <name>Hawks Rest</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="43.981388889" lon="-109.839444444">
+  <ele>12018.0</ele>
+  <name>Thorofare Mountain</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="43.919444444" lon="-109.803055556">
+  <ele>11476.0</ele>
+  <name>Wall Mountain</name>
+  <desc>WY</desc>
+</wpt>
+<wpt lat="43.982222222" lon="-109.866666667">
+  <ele>12109.0</ele>
+  <name>Younts Peak</name>
+  <desc>WY</desc>
+</wpt>
+</gpx>

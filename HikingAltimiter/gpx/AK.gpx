@@ -1,0 +1,723 @@
+<?xml version="1.0"?>
+<gpx creator="GPS Visualizer http://www.gpsvisualizer.com/" version="1.1" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+<wpt lat="61.242222222" lon="-148.193333333">
+  <ele>9629.0</ele>
+  <name>Mount Gannett</name>
+  <desc>AK</desc>
+</wpt>
+<wpt lat="61.1725" lon="-148.268333333">
+  <ele>9101.0</ele>
+  <name>Mount Gilbert</name>
+  <desc>AK</desc>
+</wpt>
+<wpt lat="61.293888889" lon="-147.255">
+  <ele>9564.0</ele>
+  <name>Aspero Peak</name>
+  <desc>AK</desc>
+</wpt>
+<wpt lat="61.386944444" lon="-147.061944444">
+  <ele>10052.0</ele>
+  <name>Blackcliff Mountain</name>
+  <desc>AK</desc>
+</wpt>
+<wpt lat="61.357222222" lon="-147.211111111">
+  <ele>10807.0</ele>
+  <name>Mount Cardozo</name>
+  <desc>AK</desc>
+</wpt>
+<wpt lat="61.406388889" lon="-147.190833333">
+  <ele>11437.0</ele>
+  <name>Mount Edison</name>
+  <desc>AK</desc>
+</wpt>
+<wpt lat="61.357222222" lon="-147.096388889">
+  <ele>11401.0</ele>
+  <name>Mount Einstein</name>
+  <desc>AK</desc>
+</wpt>
+<wpt lat="61.428055556" lon="-147.126666667">
+  <ele>11293.0</ele>
+  <name>Mount Elusive</name>
+  <desc>AK</desc>
+</wpt>
+<wpt lat="61.443055556" lon="-147.036111111">
+  <ele>10351.0</ele>
+  <name>Mount Fafnir</name>
+  <desc>AK</desc>
+</wpt>
+<wpt lat="61.451111111" lon="-147.153888889">
+  <ele>11962.0</ele>
+  <name>Mount Gilbert Lewis</name>
+  <desc>AK</desc>
+</wpt>
+<wpt lat="61.486111111" lon="-147.147222222">
+  <ele>12132.0</ele>
+  <name>Mount Thor</name>
+  <desc>AK</desc>
+</wpt>
+<wpt lat="61.46" lon="-147.079166667">
+  <ele>11850.0</ele>
+  <name>Mount Valhalla</name>
+  <desc>AK</desc>
+</wpt>
+<wpt lat="61.395277778" lon="-147.201388889">
+  <ele>11745.0</ele>
+  <name>Mount Witherspoon</name>
+  <desc>AK</desc>
+</wpt>
+<wpt lat="61.359444444" lon="-147.376111111">
+  <ele>9655.0</ele>
+  <name>Mount Glenn</name>
+  <desc>AK</desc>
+</wpt>
+<wpt lat="61.326388889" lon="-147.985277778">
+  <ele>10384.0</ele>
+  <name>Mount Goode</name>
+  <desc>AK</desc>
+</wpt>
+<wpt lat="61.437222222" lon="-147.751944444">
+  <ele>13094.0</ele>
+  <name>Mount Marcus Baker</name>
+  <desc>AK</desc>
+</wpt>
+<wpt lat="61.580555556" lon="-147.383333333">
+  <ele>9048.0</ele>
+  <name>Finland Peak</name>
+  <desc>AK</desc>
+</wpt>
+<wpt lat="61.576388889" lon="-147.848611111">
+  <ele>10141.0</ele>
+  <name>Mount Sergeant Robinson</name>
+  <desc>AK</desc>
+</wpt>
+<wpt lat="60.325" lon="-141.150555556">
+  <ele>10407.0</ele>
+  <name>Mount Huxley</name>
+  <desc>AK</desc>
+</wpt>
+<wpt lat="60.315833333" lon="-141.08">
+  <ele>11906.0</ele>
+  <name>The Hump</name>
+  <desc>AK</desc>
+</wpt>
+<wpt lat="60.286666667" lon="-142.1025">
+  <ele>9304.0</ele>
+  <name>Mount Leeper</name>
+  <desc>AK</desc>
+</wpt>
+<wpt lat="60.518611111" lon="-143.099722222">
+  <ele>10082.0</ele>
+  <name>Mount Steller</name>
+  <desc>AK</desc>
+</wpt>
+<wpt lat="60.6775" lon="-143.494166667">
+  <ele>9872.0</ele>
+  <name>Mount Hawkins</name>
+  <desc>AK</desc>
+</wpt>
+<wpt lat="60.6525" lon="-143.695555556">
+  <ele>11155.0</ele>
+  <name>Mount Tom White</name>
+  <desc>AK</desc>
+</wpt>
+<wpt lat="54.756111111" lon="-163.9675">
+  <ele>9130.0</ele>
+  <name>Shishaldin Volcano</name>
+  <desc>AK</desc>
+</wpt>
+<wpt lat="62.213888889" lon="-144.128888889">
+  <ele>16135.0</ele>
+  <name>Mount Sanford</name>
+  <desc>AK</desc>
+</wpt>
+<wpt lat="62.006944444" lon="-144.015833333">
+  <ele>13868.0</ele>
+  <name>Mount Wrangell</name>
+  <desc>AK</desc>
+</wpt>
+<wpt lat="62.038888889" lon="-144.110277778">
+  <ele>12995.0</ele>
+  <name>Mount Zanetti</name>
+  <desc>AK</desc>
+</wpt>
+<wpt lat="62.116111111" lon="-144.637777778">
+  <ele>11539.0</ele>
+  <name>Mount Drum</name>
+  <desc>AK</desc>
+</wpt>
+<wpt lat="63.638888889" lon="-147.146666667">
+  <ele>11627.0</ele>
+  <name>Hess Mountain</name>
+  <desc>AK</desc>
+</wpt>
+<wpt lat="63.6375" lon="-147.237222222">
+  <ele>11378.0</ele>
+  <name>Mount Deborah</name>
+  <desc>AK</desc>
+</wpt>
+<wpt lat="60.485277778" lon="-152.743055556">
+  <ele>10164.0</ele>
+  <name>Redoubt Volcano</name>
+  <desc>AK</desc>
+</wpt>
+<wpt lat="60.0325" lon="-153.088055556">
+  <ele>9649.0</ele>
+  <name>Iliamna Volcano</name>
+  <desc>AK</desc>
+</wpt>
+<wpt lat="61.686666667" lon="-154.198611111">
+  <ele>9058.0</ele>
+  <name>The Angel</name>
+  <desc>AK</desc>
+</wpt>
+<wpt lat="61.804444444" lon="-154.1425">
+  <ele>9085.0</ele>
+  <name>Mount Hesperus</name>
+  <desc>AK</desc>
+</wpt>
+<wpt lat="61.163055556" lon="-141.061111111">
+  <ele>10912.0</ele>
+  <name>Mount Anderson</name>
+  <desc>AK</desc>
+</wpt>
+<wpt lat="61.051388889" lon="-141.015">
+  <ele>10128.0</ele>
+  <name>Mount George</name>
+  <desc>AK</desc>
+</wpt>
+<wpt lat="61.116388889" lon="-141.248333333">
+  <ele>11532.0</ele>
+  <name>Mount Tittmann</name>
+  <desc>AK</desc>
+</wpt>
+<wpt lat="61.283888889" lon="-141.142222222">
+  <ele>14846.0</ele>
+  <name>Mount Bear</name>
+  <desc>AK</desc>
+</wpt>
+<wpt lat="61.385555556" lon="-141.748611111">
+  <ele>16414.0</ele>
+  <name>Mount Bona</name>
+  <desc>AK</desc>
+</wpt>
+<wpt lat="61.419444444" lon="-141.714722222">
+  <ele>15548.0</ele>
+  <name>Mount Churchill</name>
+  <desc>AK</desc>
+</wpt>
+<wpt lat="61.365277778" lon="-141.898611111">
+  <ele>14311.0</ele>
+  <name>Aello Peak</name>
+  <desc>AK</desc>
+</wpt>
+<wpt lat="61.338888889" lon="-141.969444444">
+  <ele>13143.0</ele>
+  <name>Celeno Peak</name>
+  <desc>AK</desc>
+</wpt>
+<wpt lat="61.341666667" lon="-141.941666667">
+  <ele>13297.0</ele>
+  <name>Ocypete Peak</name>
+  <desc>AK</desc>
+</wpt>
+<wpt lat="61.341666667" lon="-141.941666667">
+  <ele>13297.0</ele>
+  <name>The Twaharpies</name>
+  <desc>AK</desc>
+</wpt>
+<wpt lat="61.3275" lon="-141.783333333">
+  <ele>14173.0</ele>
+  <name>University Peak</name>
+  <desc>AK</desc>
+</wpt>
+<wpt lat="61.521944444" lon="-141.101111111">
+  <ele>13392.0</ele>
+  <name>Mount Natazhat</name>
+  <desc>AK</desc>
+</wpt>
+<wpt lat="61.510833333" lon="-141.033055556">
+  <ele>11555.0</ele>
+  <name>Mount Riggs</name>
+  <desc>AK</desc>
+</wpt>
+<wpt lat="61.625833333" lon="-141.611944444">
+  <ele>10551.0</ele>
+  <name>Mount Sulzer</name>
+  <desc>AK</desc>
+</wpt>
+<wpt lat="61.744166667" lon="-142.865277778">
+  <ele>13320.0</ele>
+  <name>Regal Mountain</name>
+  <desc>AK</desc>
+</wpt>
+<wpt lat="61.749444444" lon="-143.239722222">
+  <ele>13445.0</ele>
+  <name>Atna Peaks</name>
+  <desc>AK</desc>
+</wpt>
+<wpt lat="61.747222222" lon="-143.169722222">
+  <ele>12720.0</ele>
+  <name>Parka Peak</name>
+  <desc>AK</desc>
+</wpt>
+<wpt lat="61.597777778" lon="-143.443611111">
+  <ele>9970.0</ele>
+  <name>Castle Peak</name>
+  <desc>AK</desc>
+</wpt>
+<wpt lat="61.731666667" lon="-143.433055556">
+  <ele>15964.0</ele>
+  <name>Mount Blackburn</name>
+  <desc>AK</desc>
+</wpt>
+<wpt lat="61.7475" lon="-143.303611111">
+  <ele>12310.0</ele>
+  <name>Rime Peak</name>
+  <desc>AK</desc>
+</wpt>
+<wpt lat="61.772222222" lon="-142.228611111">
+  <ele>10170.0</ele>
+  <name>Frederika Mountain</name>
+  <desc>AK</desc>
+</wpt>
+<wpt lat="58.686666667" lon="-137.025277778">
+  <ele>9426.0</ele>
+  <name>Mount Bertha</name>
+  <desc>AK</desc>
+</wpt>
+<wpt lat="58.663055556" lon="-137.172777778">
+  <ele>12064.0</ele>
+  <name>Mount Crillon</name>
+  <desc>AK</desc>
+</wpt>
+<wpt lat="58.596944444" lon="-137.173888889">
+  <ele>9406.0</ele>
+  <name>Mount Dagelet</name>
+  <desc>AK</desc>
+</wpt>
+<wpt lat="58.563333333" lon="-137.080277778">
+  <ele>10443.0</ele>
+  <name>Mount La Perouse</name>
+  <desc>AK</desc>
+</wpt>
+<wpt lat="58.736666667" lon="-137.271944444">
+  <ele>9957.0</ele>
+  <name>Mount Orville</name>
+  <desc>AK</desc>
+</wpt>
+<wpt lat="58.740277778" lon="-137.316666667">
+  <ele>10295.0</ele>
+  <name>Mount Wilbur</name>
+  <desc>AK</desc>
+</wpt>
+<wpt lat="58.805833333" lon="-137.436111111">
+  <ele>11716.0</ele>
+  <name>Lituya Mountain</name>
+  <desc>AK</desc>
+</wpt>
+<wpt lat="58.906944444" lon="-137.526944444">
+  <ele>15157.0</ele>
+  <name>Mount Fairweather</name>
+  <desc>AK</desc>
+</wpt>
+<wpt lat="58.908333333" lon="-137.473333333">
+  <ele>12661.0</ele>
+  <name>Mount Quincy Adams</name>
+  <desc>AK</desc>
+</wpt>
+<wpt lat="58.986944444" lon="-137.495833333">
+  <ele>11890.0</ele>
+  <name>Mount Root</name>
+  <desc>AK</desc>
+</wpt>
+<wpt lat="58.851111111" lon="-137.370277778">
+  <ele>11844.0</ele>
+  <name>Mount Salisbury</name>
+  <desc>AK</desc>
+</wpt>
+<wpt lat="63.184722222" lon="-144.387777778">
+  <ele>9137.0</ele>
+  <name>Blitz Hill</name>
+  <desc>AK</desc>
+</wpt>
+<wpt lat="63.238888889" lon="-144.641666667">
+  <ele>10236.0</ele>
+  <name>Mount Kimball</name>
+  <desc>AK</desc>
+</wpt>
+<wpt lat="63.453333333" lon="-145.422222222">
+  <ele>9514.0</ele>
+  <name>Black Cap</name>
+  <desc>AK</desc>
+</wpt>
+<wpt lat="63.321944444" lon="-145.1775">
+  <ele>9383.0</ele>
+  <name>Mount Gakona</name>
+  <desc>AK</desc>
+</wpt>
+<wpt lat="63.479444444" lon="-145.397222222">
+  <ele>9583.0</ele>
+  <name>Old Snowy</name>
+  <desc>AK</desc>
+</wpt>
+<wpt lat="63.289166667" lon="-145.041666667">
+  <ele>9035.0</ele>
+  <name>The Thorn</name>
+  <desc>AK</desc>
+</wpt>
+<wpt lat="63.413888889" lon="-145.280555556">
+  <ele>9101.0</ele>
+  <name>Tusac</name>
+  <desc>AK</desc>
+</wpt>
+<wpt lat="63.420555556" lon="-145.420277778">
+  <ele>9875.0</ele>
+  <name>White Princess</name>
+  <desc>AK</desc>
+</wpt>
+<wpt lat="63.489444444" lon="-145.609166667">
+  <ele>9199.0</ele>
+  <name>Mount Silvertip</name>
+  <desc>AK</desc>
+</wpt>
+<wpt lat="63.540833333" lon="-145.208888889">
+  <ele>9354.0</ele>
+  <name>Mount Hajdukovich</name>
+  <desc>AK</desc>
+</wpt>
+<wpt lat="63.544722222" lon="-146.300833333">
+  <ele>11539.0</ele>
+  <name>McGinnis Peak</name>
+  <desc>AK</desc>
+</wpt>
+<wpt lat="63.568611111" lon="-146.396388889">
+  <ele>12867.0</ele>
+  <name>Mount Moffit</name>
+  <desc>AK</desc>
+</wpt>
+<wpt lat="63.543888889" lon="-146.4475">
+  <ele>12487.0</ele>
+  <name>Mount Shand</name>
+  <desc>AK</desc>
+</wpt>
+<wpt lat="63.521944444" lon="-146.542777778">
+  <ele>9954.0</ele>
+  <name>Aurora Peak</name>
+  <desc>AK</desc>
+</wpt>
+<wpt lat="63.623611111" lon="-146.840555556">
+  <ele>9688.0</ele>
+  <name>Mount Balchen</name>
+  <desc>AK</desc>
+</wpt>
+<wpt lat="63.641666667" lon="-146.873055556">
+  <ele>10318.0</ele>
+  <name>Mount Geist</name>
+  <desc>AK</desc>
+</wpt>
+<wpt lat="63.666944444" lon="-146.915555556">
+  <ele>10197.0</ele>
+  <name>Mount Giddings</name>
+  <desc>AK</desc>
+</wpt>
+<wpt lat="63.62" lon="-146.716111111">
+  <ele>13628.0</ele>
+  <name>Mount Hayes</name>
+  <desc>AK</desc>
+</wpt>
+<wpt lat="63.671944444" lon="-146.842222222">
+  <ele>10190.0</ele>
+  <name>Mount Skarland</name>
+  <desc>AK</desc>
+</wpt>
+<wpt lat="63.134722222" lon="-150.346666667">
+  <ele>10223.0</ele>
+  <name>Mount Eldridge</name>
+  <desc>AK</desc>
+</wpt>
+<wpt lat="63.194722222" lon="-150.435555556">
+  <ele>11995.0</ele>
+  <name>Mount Mather</name>
+  <desc>AK</desc>
+</wpt>
+<wpt lat="63.102777778" lon="-150.927777778">
+  <ele>14124.0</ele>
+  <name>Browne Tower</name>
+  <desc>AK</desc>
+</wpt>
+<wpt lat="63.160277778" lon="-150.677777778">
+  <ele>11207.0</ele>
+  <name>Central Pyramid Peak</name>
+  <desc>AK</desc>
+</wpt>
+<wpt lat="63.058611111" lon="-150.891666667">
+  <ele>14518.0</ele>
+  <name>East Buttress</name>
+  <desc>AK</desc>
+</wpt>
+<wpt lat="63.166944444" lon="-150.662777778">
+  <ele>11132.0</ele>
+  <name>East Pyramid Peak</name>
+  <desc>AK</desc>
+</wpt>
+<wpt lat="63.187777778" lon="-150.647222222">
+  <ele>11804.0</ele>
+  <name>Mount Brooks</name>
+  <desc>AK</desc>
+</wpt>
+<wpt lat="63.152222222" lon="-150.860833333">
+  <ele>12500.0</ele>
+  <name>Mount Carpe</name>
+  <desc>AK</desc>
+</wpt>
+<wpt lat="63.020277778" lon="-150.786944444">
+  <ele>10075.0</ele>
+  <name>Mount Dan Beard</name>
+  <desc>AK</desc>
+</wpt>
+<wpt lat="63.158333333" lon="-150.530833333">
+  <ele>11607.0</ele>
+  <name>Mount Deception</name>
+  <desc>AK</desc>
+</wpt>
+<wpt lat="63.133611111" lon="-150.895555556">
+  <ele>12109.0</ele>
+  <name>Mount Koven</name>
+  <desc>AK</desc>
+</wpt>
+<wpt lat="63.116111111" lon="-150.674444444">
+  <ele>13104.0</ele>
+  <name>Mount Silverthrone</name>
+  <desc>AK</desc>
+</wpt>
+<wpt lat="63.180277778" lon="-150.807777778">
+  <ele>10981.0</ele>
+  <name>Mount Tatum</name>
+  <desc>AK</desc>
+</wpt>
+<wpt lat="63.158333333" lon="-150.691666667">
+  <ele>10577.0</ele>
+  <name>Mount Tripyramid</name>
+  <desc>AK</desc>
+</wpt>
+<wpt lat="63.203055556" lon="-150.509444444">
+  <ele>9990.0</ele>
+  <name>Wedge Peak</name>
+  <desc>AK</desc>
+</wpt>
+<wpt lat="63.145833333" lon="-150.710277778">
+  <ele>11637.0</ele>
+  <name>West Pyramid Peak</name>
+  <desc>AK</desc>
+</wpt>
+<wpt lat="63.073888889" lon="-151.019722222">
+  <ele>19409.0</ele>
+  <name>Archdeacons Tower</name>
+  <desc>AK</desc>
+</wpt>
+<wpt lat="63.069444444" lon="-151.006111111">
+  <ele>20206.0</ele>
+  <name>Churchill Peaks</name>
+  <desc>AK</desc>
+</wpt>
+<wpt lat="63.055" lon="-151.236388889">
+  <ele>12418.0</ele>
+  <name>Kahiltna Dome</name>
+  <desc>AK</desc>
+</wpt>
+<wpt lat="63.028611111" lon="-151.083333333">
+  <ele>13074.0</ele>
+  <name>Kahiltna Peaks</name>
+  <desc>AK</desc>
+</wpt>
+<wpt lat="63.079722222" lon="-151.185277778">
+  <ele>10440.0</ele>
+  <name>Mount Capps</name>
+  <desc>AK</desc>
+</wpt>
+<wpt lat="63.008333333" lon="-151.2725">
+  <ele>12418.0</ele>
+  <name>Mount Crosson</name>
+  <desc>AK</desc>
+</wpt>
+<wpt lat="63.069444444" lon="-151.006111111">
+  <ele>20206.0</ele>
+  <name>Mount McKinley</name>
+  <desc>AK</desc>
+</wpt>
+<wpt lat="63.097222222" lon="-151.005">
+  <ele>19363.0</ele>
+  <name>North Peak</name>
+  <desc>AK</desc>
+</wpt>
+<wpt lat="63.136944444" lon="-151.2025">
+  <ele>10541.0</ele>
+  <name>Peters Dome</name>
+  <desc>AK</desc>
+</wpt>
+<wpt lat="63.069444444" lon="-151.006111111">
+  <ele>20206.0</ele>
+  <name>South Peak</name>
+  <desc>AK</desc>
+</wpt>
+<wpt lat="60.191666667" lon="-139.433333333">
+  <ele>10712.0</ele>
+  <name>Mount Foresta</name>
+  <desc>AK</desc>
+</wpt>
+<wpt lat="60.088611111" lon="-139.198333333">
+  <ele>10072.0</ele>
+  <name>Mount Seattle</name>
+  <desc>AK</desc>
+</wpt>
+<wpt lat="60.181111111" lon="-139.981111111">
+  <ele>13694.0</ele>
+  <name>Mount Cook</name>
+  <desc>AK</desc>
+</wpt>
+<wpt lat="60.351666667" lon="-139.075277778">
+  <ele>14239.0</ele>
+  <name>Mount Alverstone</name>
+  <desc>AK</desc>
+</wpt>
+<wpt lat="60.318611111" lon="-139.072222222">
+  <ele>14901.0</ele>
+  <name>Mount Hubbard</name>
+  <desc>AK</desc>
+</wpt>
+<wpt lat="60.335" lon="-139.6925">
+  <ele>15535.0</ele>
+  <name>Mount Vancouver</name>
+  <desc>AK</desc>
+</wpt>
+<wpt lat="60.305833333" lon="-140.46">
+  <ele>13783.0</ele>
+  <name>Mount Augusta</name>
+  <desc>AK</desc>
+</wpt>
+<wpt lat="60.260555556" lon="-140.774722222">
+  <ele>9800.0</ele>
+  <name>Boundary Peak 185</name>
+  <desc>AK</desc>
+</wpt>
+<wpt lat="60.3075" lon="-140.996944444">
+  <ele>13133.0</ele>
+  <name>Boundary Peak 187</name>
+  <desc>AK</desc>
+</wpt>
+<wpt lat="60.26" lon="-140.987222222">
+  <ele>11827.0</ele>
+  <name>Haydon Peak</name>
+  <desc>AK</desc>
+</wpt>
+<wpt lat="60.293888889" lon="-140.928888889">
+  <ele>17949.0</ele>
+  <name>Mount Saint Elias</name>
+  <desc>AK</desc>
+</wpt>
+<wpt lat="62.244166667" lon="-142.231388889">
+  <ele>9203.0</ele>
+  <name>Mount Allen</name>
+  <desc>AK</desc>
+</wpt>
+<wpt lat="62.023333333" lon="-143.616388889">
+  <ele>13343.0</ele>
+  <name>Mount Jarvis</name>
+  <desc>AK</desc>
+</wpt>
+<wpt lat="59.108611111" lon="-137.543333333">
+  <ele>10108.0</ele>
+  <name>Mount Lodge</name>
+  <desc>AK</desc>
+</wpt>
+<wpt lat="59.008611111" lon="-137.554166667">
+  <ele>12267.0</ele>
+  <name>Mount Watson</name>
+  <desc>AK</desc>
+</wpt>
+<wpt lat="57.045" lon="-132.044444444">
+  <ele>9787.0</ele>
+  <name>Kates Needle</name>
+  <desc>AK</desc>
+</wpt>
+<wpt lat="57.1725" lon="-132.300833333">
+  <ele>9462.0</ele>
+  <name>Mount Burkett</name>
+  <desc>AK</desc>
+</wpt>
+<wpt lat="62.969722222" lon="-150.611111111">
+  <ele>10138.0</ele>
+  <name>Mooses Tooth</name>
+  <desc>AK</desc>
+</wpt>
+<wpt lat="62.946666667" lon="-150.718611111">
+  <ele>9019.0</ele>
+  <name>Mount Dickey</name>
+  <desc>AK</desc>
+</wpt>
+<wpt lat="62.967777778" lon="-150.896388889">
+  <ele>11699.0</ele>
+  <name>Mount Huntington</name>
+  <desc>AK</desc>
+</wpt>
+<wpt lat="62.973055556" lon="-150.834444444">
+  <ele>9678.0</ele>
+  <name>The Rooster Comb</name>
+  <desc>AK</desc>
+</wpt>
+<wpt lat="62.960833333" lon="-151.398055556">
+  <ele>17346.0</ele>
+  <name>Mount Foraker</name>
+  <desc>AK</desc>
+</wpt>
+<wpt lat="62.950833333" lon="-151.089444444">
+  <ele>14134.0</ele>
+  <name>Mount Hunter</name>
+  <desc>AK</desc>
+</wpt>
+<wpt lat="62.920555556" lon="-151.066388889">
+  <ele>13871.0</ele>
+  <name>Mount Stevens</name>
+  <desc>AK</desc>
+</wpt>
+<wpt lat="62.798888889" lon="-151.881944444">
+  <ele>11279.0</ele>
+  <name>Mount Russell</name>
+  <desc>AK</desc>
+</wpt>
+<wpt lat="61.313611111" lon="-152.194722222">
+  <ele>9216.0</ele>
+  <name>The Rowel</name>
+  <desc>AK</desc>
+</wpt>
+<wpt lat="61.3325" lon="-152.273055556">
+  <ele>10768.0</ele>
+  <name>Mount Chichantna</name>
+  <desc>AK</desc>
+</wpt>
+<wpt lat="61.383888889" lon="-152.384722222">
+  <ele>10951.0</ele>
+  <name>Mount Nagishlamina</name>
+  <desc>AK</desc>
+</wpt>
+<wpt lat="61.299722222" lon="-152.251388889">
+  <ele>10646.0</ele>
+  <name>Mount Spurr</name>
+  <desc>AK</desc>
+</wpt>
+<wpt lat="61.408611111" lon="-152.413055556">
+  <ele>11394.0</ele>
+  <name>Mount Torbert</name>
+  <desc>AK</desc>
+</wpt>
+<wpt lat="61.578055556" lon="-152.440277778">
+  <ele>10925.0</ele>
+  <name>Mount Gerdine</name>
+  <desc>AK</desc>
+</wpt>
+<wpt lat="59.924444444" lon="-138.798611111">
+  <ele>9055.0</ele>
+  <name>Mount Aylesworth</name>
+  <desc>AK</desc>
+</wpt>
+</gpx>

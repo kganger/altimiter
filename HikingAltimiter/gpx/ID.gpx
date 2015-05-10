@@ -1,0 +1,4833 @@
+<?xml version="1.0"?>
+<gpx creator="GPS Visualizer http://www.gpsvisualizer.com/" version="1.1" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+<wpt lat="45.179444444" lon="-115.075">
+  <ele>7710.0</ele>
+  <name>Acorn Butte</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="45.153888889" lon="-114.637777778">
+  <ele>9833.0</ele>
+  <name>Aggipah Mountain</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="45.226944444" lon="-114.733055556">
+  <ele>7411.0</ele>
+  <name>Stoddard Creek Point</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="45.595" lon="-114.055277778">
+  <ele>9137.0</ele>
+  <name>Allan Mountain</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="45.581388889" lon="-114.023611111">
+  <ele>8694.0</ele>
+  <name>Rocky Mountain</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="42.123611111" lon="-113.716666667">
+  <ele>8829.0</ele>
+  <name>Graham Peak</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="42.059444444" lon="-113.680277778">
+  <ele>7562.0</ele>
+  <name>Smoky Mountain</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="43.158333333" lon="-111.103611111">
+  <ele>7182.0</ele>
+  <name>Bitters Peak</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="44.961944444" lon="-114.656111111">
+  <ele>8980.0</ele>
+  <name>Middle Fork Peak</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="43.735277778" lon="-113.439722222">
+  <ele>7966.0</ele>
+  <name>Appendicitis Hill</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="43.666666667" lon="-113.299722222">
+  <ele>7543.0</ele>
+  <name>Arco Peak</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="43.745277778" lon="-115.751666667">
+  <ele>7477.0</ele>
+  <name>Bald Mountain</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="44.674444444" lon="-115.215555556">
+  <ele>9295.0</ele>
+  <name>Artillery Dome</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="43.872222222" lon="-115.079444444">
+  <ele>9360.0</ele>
+  <name>Blizzard Mountain</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="43.838888889" lon="-115.086111111">
+  <ele>9134.0</ele>
+  <name>Grey Lock Peak</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="43.844166667" lon="-115.096666667">
+  <ele>9167.0</ele>
+  <name>Greylock Mountain</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="43.756944444" lon="-115.246666667">
+  <ele>7808.0</ele>
+  <name>James Creek Summit</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="43.67" lon="-114.679722222">
+  <ele>10164.0</ele>
+  <name>Baker Peak</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="43.669166667" lon="-114.728333333">
+  <ele>9997.0</ele>
+  <name>Big Peak</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="44.367222222" lon="-114.343888889">
+  <ele>10298.0</ele>
+  <name>Bald Mountain</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="42.656111111" lon="-111.957777778">
+  <ele>7933.0</ele>
+  <name>Petticoat Peak</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="44.324722222" lon="-115.19">
+  <ele>8888.0</ele>
+  <name>Copper Mountain</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="44.777777778" lon="-113.340555556">
+  <ele>8986.0</ele>
+  <name>Grizzly Hill</name>
+  <desc>MT</desc>
+</wpt>
+<wpt lat="44.795277778" lon="-113.354722222">
+  <ele>9285.0</ele>
+  <name>Grizzly Hill</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="42.603611111" lon="-112.707222222">
+  <ele>8258.0</ele>
+  <name>Bannock Peak</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="42.595" lon="-112.665277778">
+  <ele>7224.0</ele>
+  <name>Moonshine Peak</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="42.603055556" lon="-112.723888889">
+  <ele>7730.0</ele>
+  <name>White Quartz Mountain</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="44.338333333" lon="-114.977777778">
+  <ele>8848.0</ele>
+  <name>Basin Butte</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="44.309166667" lon="-114.925833333">
+  <ele>8169.0</ele>
+  <name>Potato Mountain</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="43.531666667" lon="-114.225">
+  <ele>8317.0</ele>
+  <name>Patterson Peak</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="44.461388889" lon="-114.273055556">
+  <ele>8274.0</ele>
+  <name>Blue Mountain</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="44.431944444" lon="-114.344722222">
+  <ele>9504.0</ele>
+  <name>Keystone Mountain</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="44.425277778" lon="-114.357222222">
+  <ele>9898.0</ele>
+  <name>Ramshorn Mountain</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="44.471944444" lon="-114.489166667">
+  <ele>8793.0</ele>
+  <name>Mill Creek Summit</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="44.893055556" lon="-114.805277778">
+  <ele>8606.0</ele>
+  <name>Bear Creek Point</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="46.431388889" lon="-114.925277778">
+  <ele>7126.0</ele>
+  <name>Bear Mountain</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="44.456944444" lon="-115.382222222">
+  <ele>8241.0</ele>
+  <name>Bear Valley Mountain</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="45.743055556" lon="-114.691111111">
+  <ele>7057.0</ele>
+  <name>Beaver Jack Mountain</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="45.645833333" lon="-114.628333333">
+  <ele>8110.0</ele>
+  <name>Hells Half Acre Mountain</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="44.236666667" lon="-113.195277778">
+  <ele>11256.0</ele>
+  <name>Bell Mountain</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="44.196666667" lon="-113.184444444">
+  <ele>9081.0</ele>
+  <name>Foss Mountain</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="43.249444444" lon="-115.434722222">
+  <ele>7395.0</ele>
+  <name>Bennett Mountain</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="44.443055556" lon="-115.519444444">
+  <ele>8186.0</ele>
+  <name>Bernard Mountain</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="44.471388889" lon="-115.560555556">
+  <ele>8192.0</ele>
+  <name>Pilgrim Mountain</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="44.841666667" lon="-115.150277778">
+  <ele>9199.0</ele>
+  <name>Battleaxe Mountain</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="44.782777778" lon="-115.218888889">
+  <ele>9682.0</ele>
+  <name>Big Baldy</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="44.861388889" lon="-115.189166667">
+  <ele>9449.0</ele>
+  <name>Red Peak</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="43.822777778" lon="-113.979722222">
+  <ele>11325.0</ele>
+  <name>Big Black Dome</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="43.796388889" lon="-113.991388889">
+  <ele>11614.0</ele>
+  <name>Pyramid Peak</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="43.780555556" lon="-113.586111111">
+  <ele>9590.0</ele>
+  <name>Sheep Mountain</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="44.868611111" lon="-115.277777778">
+  <ele>8346.0</ele>
+  <name>Mule Hill</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="44.471666667" lon="-113.543888889">
+  <ele>11283.0</ele>
+  <name>Big Creek Peak</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="44.461111111" lon="-113.526111111">
+  <ele>11004.0</ele>
+  <name>Flatiron Mountain</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="43.236111111" lon="-111.275">
+  <ele>9452.0</ele>
+  <name>Big Elk Mountain</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="43.214444444" lon="-111.321944444">
+  <ele>8766.0</ele>
+  <name>Little Elk Mountain</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="44.350833333" lon="-111.187222222">
+  <ele>7625.0</ele>
+  <name>Black Mountain</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="45.520555556" lon="-113.834166667">
+  <ele>8294.0</ele>
+  <name>Morgan Mountain</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="46.207777778" lon="-115.0375">
+  <ele>7057.0</ele>
+  <name>Big Rock Mountain</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="46.208611111" lon="-115.090555556">
+  <ele>7008.0</ele>
+  <name>Blacktail Butte</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="44.569444444" lon="-115.26">
+  <ele>8973.0</ele>
+  <name>Big Soldier Mountain</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="44.564722222" lon="-115.359444444">
+  <ele>8396.0</ele>
+  <name>Morehead Mountain</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="43.396111111" lon="-113.023333333">
+  <ele>7533.0</ele>
+  <name>Big Butte</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="43.401388889" lon="-113.023888889">
+  <ele>7457.0</ele>
+  <name>Big Southern Butte</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="44.5375" lon="-112.03">
+  <ele>8681.0</ele>
+  <name>Big Table Mountain</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="44.523888889" lon="-112.108611111">
+  <ele>8615.0</ele>
+  <name>Little Table Mountain</name>
+  <desc>MT</desc>
+</wpt>
+<wpt lat="44.342222222" lon="-113.274722222">
+  <ele>10390.0</ele>
+  <name>Big Windy Peak</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="44.355" lon="-113.275555556">
+  <ele>10174.0</ele>
+  <name>Spring Mountain</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="44.336388889" lon="-113.251944444">
+  <ele>10453.0</ele>
+  <name>Trail Peak</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="45.270555556" lon="-114.445833333">
+  <ele>7142.0</ele>
+  <name>Sagebrush Mountain</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="44.333333333" lon="-111.553333333">
+  <ele>7815.0</ele>
+  <name>Bishop Mountain</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="44.268055556" lon="-111.555277778">
+  <ele>7274.0</ele>
+  <name>High Point</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="45.215" lon="-115.141944444">
+  <ele>8117.0</ele>
+  <name>Bismark Mountain</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="45.1525" lon="-115.190833333">
+  <ele>8205.0</ele>
+  <name>Diamond Point</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="44.840833333" lon="-114.344166667">
+  <ele>9495.0</ele>
+  <name>Black Mountain</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="44.841666667" lon="-114.266388889">
+  <ele>7595.0</ele>
+  <name>Morgan Creek Summit</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="44.779722222" lon="-114.325277778">
+  <ele>9616.0</ele>
+  <name>Van Horn Peak</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="44.801944444" lon="-114.315277778">
+  <ele>9721.0</ele>
+  <name>Woods Peak</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="42.082222222" lon="-113.06">
+  <ele>7979.0</ele>
+  <name>Black Pine Cone</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="42.120277778" lon="-113.120833333">
+  <ele>9334.0</ele>
+  <name>Black Pine Peak</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="42.108888889" lon="-113.103333333">
+  <ele>8661.0</ele>
+  <name>War Eagle Peak</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="45.155" lon="-116.076388889">
+  <ele>8071.0</ele>
+  <name>Black Tip</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="45.176388889" lon="-116.12">
+  <ele>8678.0</ele>
+  <name>Bruin Mountain</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="45.118055556" lon="-114.415555556">
+  <ele>9045.0</ele>
+  <name>Blackbird Mountain</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="45.06" lon="-114.446944444">
+  <ele>8720.0</ele>
+  <name>Quartzite Mountain</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="45.000277778" lon="-114.429444444">
+  <ele>8136.0</ele>
+  <name>Red Rock Peak</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="44.820555556" lon="-115.789444444">
+  <ele>8661.0</ele>
+  <name>Blackmare</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="44.868611111" lon="-115.773611111">
+  <ele>7802.0</ele>
+  <name>Miners Peak</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="44.758611111" lon="-115.797777778">
+  <ele>8638.0</ele>
+  <name>Square Top</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="43.500833333" lon="-113.681111111">
+  <ele>9206.0</ele>
+  <name>Blizzard Mountain</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="46.28" lon="-114.470555556">
+  <ele>7375.0</ele>
+  <name>Blodgett Mountain</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="46.348055556" lon="-114.458055556">
+  <ele>7411.0</ele>
+  <name>Frog Peak</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="46.371388889" lon="-114.468888889">
+  <ele>7303.0</ele>
+  <name>Hidden Peak</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="46.297777778" lon="-114.473611111">
+  <ele>7651.0</ele>
+  <name>Rupe Peak</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="46.292222222" lon="-114.4675">
+  <ele>7431.0</ele>
+  <name>Shattuck Mountain</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="44.638333333" lon="-114.331944444">
+  <ele>8711.0</ele>
+  <name>Red Butte</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="44.478333333" lon="-115.275">
+  <ele>8730.0</ele>
+  <name>Blue Bunch Mountain</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="45.5625" lon="-114.572777778">
+  <ele>8576.0</ele>
+  <name>Blue Joint</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="45.525833333" lon="-114.603333333">
+  <ele>8615.0</ele>
+  <name>Squaw Peak</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="45.228888889" lon="-113.648055556">
+  <ele>10213.0</ele>
+  <name>Center Mountain</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="42.763055556" lon="-112.140555556">
+  <ele>9226.0</ele>
+  <name>Bonneville Peak</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="42.751388889" lon="-112.136944444">
+  <ele>9111.0</ele>
+  <name>Snow Peak</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="44.137222222" lon="-113.781111111">
+  <ele>12647.0</ele>
+  <name>Borah Peak</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="45.645555556" lon="-115.189166667">
+  <ele>7657.0</ele>
+  <name>Boston Mountain</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="44.052222222" lon="-114.581111111">
+  <ele>10909.0</ele>
+  <name>Merriam Peak</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="44.050555556" lon="-114.361111111">
+  <ele>10856.0</ele>
+  <name>Bowery Peak</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="44.064444444" lon="-114.360277778">
+  <ele>10909.0</ele>
+  <name>Sheep Mountain</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="45.027777778" lon="-115.965555556">
+  <ele>8579.0</ele>
+  <name>Beaverdam Peak</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="45.100277778" lon="-115.881111111">
+  <ele>9272.0</ele>
+  <name>South Loon Mountain</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="43.675555556" lon="-114.589444444">
+  <ele>9485.0</ele>
+  <name>Bear Peak</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="43.678333333" lon="-114.521666667">
+  <ele>8927.0</ele>
+  <name>Boyle Mountain</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="43.725277778" lon="-114.514444444">
+  <ele>9127.0</ele>
+  <name>Fox Peak</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="44.398888889" lon="-114.24">
+  <ele>7638.0</ele>
+  <name>Germer Park</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="42.556944444" lon="-112.453611111">
+  <ele>7254.0</ele>
+  <name>Bradley Mountain</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="42.055833333" lon="-114.857777778">
+  <ele>7539.0</ele>
+  <name>China Mountain</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="42.003888889" lon="-114.837222222">
+  <ele>7034.0</ele>
+  <name>Steamboat</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="45.021388889" lon="-116.128055556">
+  <ele>7798.0</ele>
+  <name>Brundage Mountain</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="45.093611111" lon="-116.207222222">
+  <ele>8471.0</ele>
+  <name>Granite Mountain</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="45.0925" lon="-116.141111111">
+  <ele>8189.0</ele>
+  <name>Slab Butte</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="45.620555556" lon="-115.700833333">
+  <ele>8330.0</ele>
+  <name>Buffalo Hump</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="45.578333333" lon="-115.7">
+  <ele>8271.0</ele>
+  <name>Concord Hill</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="45.589444444" lon="-115.665833333">
+  <ele>8366.0</ele>
+  <name>Mineral Hill</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="45.521666667" lon="-115.669166667">
+  <ele>8415.0</ele>
+  <name>Oregon Butte</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="45.515" lon="-115.743333333">
+  <ele>8238.0</ele>
+  <name>Quartzite Butte</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="45.555833333" lon="-115.731666667">
+  <ele>8268.0</ele>
+  <name>Shining Butte</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="44.275555556" lon="-111.120555556">
+  <ele>7585.0</ele>
+  <name>Snow Creek Butte</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="44.4425" lon="-115.87">
+  <ele>7753.0</ele>
+  <name>East Mountain</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="44.363888889" lon="-115.268611111">
+  <ele>7303.0</ele>
+  <name>Cape Horn Summit</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="45.276111111" lon="-115.98">
+  <ele>8655.0</ele>
+  <name>Bear Pete Mountain</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="45.316944444" lon="-115.594722222">
+  <ele>8107.0</ele>
+  <name>Burgdorf Summit</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="45.831666667" lon="-114.653611111">
+  <ele>7497.0</ele>
+  <name>Burnt Strip Mountain</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="45.826944444" lon="-114.683055556">
+  <ele>7329.0</ele>
+  <name>Green Mountain</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="43.515555556" lon="-114.576944444">
+  <ele>8993.0</ele>
+  <name>Buttercup Mountain</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="45.361944444" lon="-114.7375">
+  <ele>7792.0</ele>
+  <name>Butts Creek Point</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="45.271944444" lon="-114.750555556">
+  <ele>9245.0</ele>
+  <name>Twin Peak</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="44.251111111" lon="-115.405555556">
+  <ele>8707.0</ele>
+  <name>Red Mountain</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="42.185555556" lon="-113.661111111">
+  <ele>10289.0</ele>
+  <name>Cache Peak</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="42.189722222" lon="-113.669166667">
+  <ele>9731.0</ele>
+  <name>Independence Mountain</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="42.1975" lon="-113.675">
+  <ele>9875.0</ele>
+  <name>Mount Independence</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="43.46" lon="-114.7125">
+  <ele>8323.0</ele>
+  <name>Cannonball Mountain</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="43.4775" lon="-114.686111111">
+  <ele>8218.0</ele>
+  <name>Liberal Mountain</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="44.401944444" lon="-115.241111111">
+  <ele>9422.0</ele>
+  <name>Cape Horn Mountain</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="44.481944444" lon="-115.155555556">
+  <ele>9367.0</ele>
+  <name>Ruffneck Peak</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="45.401944444" lon="-115.904722222">
+  <ele>7677.0</ele>
+  <name>Carey Dome</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="43.093333333" lon="-111.311388889">
+  <ele>9780.0</ele>
+  <name>Caribou Mountain</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="44.192777778" lon="-114.758611111">
+  <ele>9895.0</ele>
+  <name>Lookout Mountain</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="44.887222222" lon="-115.606111111">
+  <ele>7034.0</ele>
+  <name>Sawpit Hill</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="44.984166667" lon="-115.506666667">
+  <ele>8012.0</ele>
+  <name>Van Meter Hill</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="43.745555556" lon="-115.228333333">
+  <ele>9308.0</ele>
+  <name>Bald Mountain</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="43.7025" lon="-115.199722222">
+  <ele>8930.0</ele>
+  <name>Cayuse Point</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="45.101111111" lon="-115.223888889">
+  <ele>9301.0</ele>
+  <name>Center Mountain</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="45.086944444" lon="-115.243055556">
+  <ele>9058.0</ele>
+  <name>Snowslide Peak</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="44.603333333" lon="-114.548888889">
+  <ele>9111.0</ele>
+  <name>Parker Mountain</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="43.517777778" lon="-113.623888889">
+  <ele>7526.0</ele>
+  <name>Black Cap</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="43.613611111" lon="-113.542777778">
+  <ele>8327.0</ele>
+  <name>Timbered Dome</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="45.293055556" lon="-115.396944444">
+  <ele>8665.0</ele>
+  <name>Chicken Peak</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="45.3475" lon="-115.460555556">
+  <ele>7526.0</ele>
+  <name>Horse Heaven</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="44.770277778" lon="-115.422222222">
+  <ele>8989.0</ele>
+  <name>Chilcoot Peak</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="44.789166667" lon="-115.390833333">
+  <ele>9068.0</ele>
+  <name>Pistol Rock</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="44.776111111" lon="-115.389722222">
+  <ele>8970.0</ele>
+  <name>Trapper Mountain</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="44.048333333" lon="-113.981388889">
+  <ele>7165.0</ele>
+  <name>Swensen Butte</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="46.191388889" lon="-115.259444444">
+  <ele>7628.0</ele>
+  <name>Chimney Peak</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="46.15" lon="-115.259444444">
+  <ele>7375.0</ele>
+  <name>Gedney Mountain</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="42.808333333" lon="-111.603333333">
+  <ele>7126.0</ele>
+  <name>China Hat</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="42.7525" lon="-111.519166667">
+  <ele>7818.0</ele>
+  <name>Woodall Mountain</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="44.7325" lon="-115.3525">
+  <ele>9062.0</ele>
+  <name>Chinook Mountain</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="44.657777778" lon="-115.353055556">
+  <ele>9065.0</ele>
+  <name>Walkers Peak</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="42.9475" lon="-116.730277778">
+  <ele>7454.0</ele>
+  <name>China Butte</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="42.974166667" lon="-116.657222222">
+  <ele>8248.0</ele>
+  <name>Cinnabar Mountain</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="42.980833333" lon="-116.658611111">
+  <ele>8386.0</ele>
+  <name>Hayden Peak</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="42.947777778" lon="-116.633055556">
+  <ele>8028.0</ele>
+  <name>Quicksilver Mountain</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="42.991111111" lon="-116.740555556">
+  <ele>7707.0</ele>
+  <name>Sawpit Peak</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="42.987777778" lon="-116.676666667">
+  <ele>8097.0</ele>
+  <name>Turntable Mountain</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="44.278611111" lon="-114.496666667">
+  <ele>8940.0</ele>
+  <name>Saturday Mountain</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="42.7375" lon="-116.9175">
+  <ele>7746.0</ele>
+  <name>South Mountain</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="42.193888889" lon="-112.058611111">
+  <ele>7457.0</ele>
+  <name>Buck Peak</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="42.149166667" lon="-112.076666667">
+  <ele>8363.0</ele>
+  <name>Old Baldy Peak</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="42.163333333" lon="-112.073611111">
+  <ele>8100.0</ele>
+  <name>Weston Peak</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="45.014444444" lon="-114.192777778">
+  <ele>8376.0</ele>
+  <name>Swan Peak</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="45.333333333" lon="-114.937222222">
+  <ele>7090.0</ele>
+  <name>Dismal Mountain</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="45.343611111" lon="-114.904444444">
+  <ele>7428.0</ele>
+  <name>Runaway Point</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="44.599444444" lon="-116.249166667">
+  <ele>7247.0</ele>
+  <name>Indian Mountain</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="44.52" lon="-116.162777778">
+  <ele>7572.0</ele>
+  <name>Lookout Peak</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="44.605555556" lon="-116.199722222">
+  <ele>7136.0</ele>
+  <name>Poison Timber Point</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="43.282222222" lon="-111.483055556">
+  <ele>7697.0</ele>
+  <name>Flag Knoll</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="43.334444444" lon="-111.423888889">
+  <ele>7274.0</ele>
+  <name>Three Knolls</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="48.992222222" lon="-116.986944444">
+  <ele>7375.0</ele>
+  <name>Snowy Top</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="43.855" lon="-113.772777778">
+  <ele>11168.0</ele>
+  <name>Cabin Mountain</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="43.755833333" lon="-113.848888889">
+  <ele>10731.0</ele>
+  <name>Copper Basin Knob</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="44.223611111" lon="-112.7975">
+  <ele>9062.0</ele>
+  <name>Bluebird Mountain</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="44.173888889" lon="-112.831388889">
+  <ele>10269.0</ele>
+  <name>Copper Mountain</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="44.167222222" lon="-112.789444444">
+  <ele>9813.0</ele>
+  <name>Gallagher Peak</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="45.3825" lon="-115.746666667">
+  <ele>7661.0</ele>
+  <name>Cottontail Point</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="45.390833333" lon="-115.723888889">
+  <ele>7251.0</ele>
+  <name>Jim Thrash Knob</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="45.288611111" lon="-114.793333333">
+  <ele>9324.0</ele>
+  <name>Cottonwood Butte</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="45.263611111" lon="-114.830555556">
+  <ele>8934.0</ele>
+  <name>Farrow Mountain</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="45.356388889" lon="-114.863333333">
+  <ele>7457.0</ele>
+  <name>Hungry Creek Point</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="42.410277778" lon="-111.966111111">
+  <ele>7894.0</ele>
+  <name>Cottonwood Peak</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="44.710833333" lon="-116.269166667">
+  <ele>8120.0</ele>
+  <name>Council Mountain</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="44.784444444" lon="-116.791666667">
+  <ele>7684.0</ele>
+  <name>Cuddy Mountain</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="44.400833333" lon="-114.704722222">
+  <ele>8927.0</ele>
+  <name>Bald Mountain</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="44.445833333" lon="-114.711666667">
+  <ele>9514.0</ele>
+  <name>Estes Mountain</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="44.464722222" lon="-114.734444444">
+  <ele>8648.0</ele>
+  <name>Loon Creek Summit</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="44.42" lon="-114.697222222">
+  <ele>9846.0</ele>
+  <name>Mount Greylock</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="44.378611111" lon="-114.728888889">
+  <ele>7300.0</ele>
+  <name>Rookie Point</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="45.044444444" lon="-114.829444444">
+  <ele>9235.0</ele>
+  <name>Dave Lewis Peak</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="43.016666667" lon="-116.755833333">
+  <ele>7667.0</ele>
+  <name>Florida Mountain</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="43.087222222" lon="-116.851388889">
+  <ele>7027.0</ele>
+  <name>Twin Peaks</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="44.759722222" lon="-113.1375">
+  <ele>10167.0</ele>
+  <name>Elk Mountain</name>
+  <desc>MT</desc>
+</wpt>
+<wpt lat="44.76" lon="-113.138055556">
+  <ele>10134.0</ele>
+  <name>Horse Prairie Mountain</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="42.471111111" lon="-112.656111111">
+  <ele>8740.0</ele>
+  <name>Deep Creek Peak</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="43.495" lon="-115.1">
+  <ele>7926.0</ele>
+  <name>Deer Mountain</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="44.951666667" lon="-114.081111111">
+  <ele>8711.0</ele>
+  <name>Degan Mountain</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="44.8825" lon="-114.091388889">
+  <ele>8117.0</ele>
+  <name>Sheephorn Mountain</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="45.566944444" lon="-114.919722222">
+  <ele>7697.0</ele>
+  <name>Dennis Mountain</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="45.537222222" lon="-114.930277778">
+  <ele>8176.0</ele>
+  <name>Harrington Mountain</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="42.795" lon="-111.185277778">
+  <ele>8658.0</ele>
+  <name>Diamond Peak</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="44.142222222" lon="-113.083888889">
+  <ele>11922.0</ele>
+  <name>Diamond Peak</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="46.661111111" lon="-114.332777778">
+  <ele>7812.0</ele>
+  <name>Rocky Point</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="44.229444444" lon="-113.883333333">
+  <ele>11122.0</ele>
+  <name>Dickey Peak</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="44.231111111" lon="-113.975277778">
+  <ele>7169.0</ele>
+  <name>Willow Creek Summit</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="42.149444444" lon="-111.252222222">
+  <ele>7379.0</ele>
+  <name>Merkley Mountain</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="43.609166667" lon="-114.681666667">
+  <ele>9249.0</ele>
+  <name>Dollarhide Mountain</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="43.593888889" lon="-114.683333333">
+  <ele>8704.0</ele>
+  <name>Dollarhide Summit</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="43.616111111" lon="-114.661388889">
+  <ele>9606.0</ele>
+  <name>Shaw Mountain</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="44.911388889" lon="-114.497222222">
+  <ele>8986.0</ele>
+  <name>Duck Creek Point</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="44.914722222" lon="-114.485">
+  <ele>8980.0</ele>
+  <name>Duck Peak</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="43.832777778" lon="-114.518055556">
+  <ele>10938.0</ele>
+  <name>Boulder Peak</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="43.851666667" lon="-114.581666667">
+  <ele>11073.0</ele>
+  <name>Easley Peak</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="43.845555556" lon="-114.537777778">
+  <ele>10945.0</ele>
+  <name>Silver Peak</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="44.040833333" lon="-115.149166667">
+  <ele>9173.0</ele>
+  <name>Bugle Mountain</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="44.003055556" lon="-115.1475">
+  <ele>9583.0</ele>
+  <name>Edaho Mountain</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="44.09" lon="-115.188611111">
+  <ele>8130.0</ele>
+  <name>Picket Mountain</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="44.443888889" lon="-112.559722222">
+  <ele>8747.0</ele>
+  <name>Horse Mountain</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="44.481944444" lon="-112.584444444">
+  <ele>9682.0</ele>
+  <name>Knob Mountain</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="44.408888889" lon="-112.52">
+  <ele>7933.0</ele>
+  <name>Middle Creek Butte</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="44.486388889" lon="-112.598611111">
+  <ele>10056.0</ele>
+  <name>Red Conglomerate Peaks</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="44.485" lon="-112.55">
+  <ele>9642.0</ele>
+  <name>The Thumb</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="45.052777778" lon="-115.290555556">
+  <ele>9098.0</ele>
+  <name>Cougar Peak</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="45.053333333" lon="-115.349722222">
+  <ele>9058.0</ele>
+  <name>Goat Mountain</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="45.095277778" lon="-115.373055556">
+  <ele>9003.0</ele>
+  <name>Logan Mountain</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="45.098888889" lon="-115.291666667">
+  <ele>9114.0</ele>
+  <name>Marble Mountain</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="45.030555556" lon="-115.345833333">
+  <ele>9167.0</ele>
+  <name>The Pinnacles</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="44.447777778" lon="-112.995555556">
+  <ele>10981.0</ele>
+  <name>Eighteenmile Peak</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="44.091388889" lon="-112.975555556">
+  <ele>9009.0</ele>
+  <name>Bald Mountain</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="44.002222222" lon="-112.919166667">
+  <ele>7005.0</ele>
+  <name>Mahogany Butte</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="44.1675" lon="-115.353888889">
+  <ele>7861.0</ele>
+  <name>Eightmile Mountain</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="42.171666667" lon="-113.613611111">
+  <ele>7415.0</ele>
+  <name>Thunder Mountain</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="44.270277778" lon="-115.076666667">
+  <ele>7936.0</ele>
+  <name>Elk Mountain</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="42.508888889" lon="-111.075">
+  <ele>8441.0</ele>
+  <name>Clover Knoll</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="42.36" lon="-112.318333333">
+  <ele>7979.0</ele>
+  <name>Elkhorn Mountain</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="42.336666667" lon="-112.328055556">
+  <ele>8868.0</ele>
+  <name>Elkhorn Peak</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="42.318611111" lon="-112.313611111">
+  <ele>8428.0</ele>
+  <name>Kents Peak</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="45.112777778" lon="-115.8725">
+  <ele>9262.0</ele>
+  <name>North Loon Mountain</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="44.749166667" lon="-114.763055556">
+  <ele>9399.0</ele>
+  <name>Falconberry Peak</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="44.6275" lon="-114.843055556">
+  <ele>9462.0</ele>
+  <name>Grouse Creek Peak</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="43.519166667" lon="-115.345833333">
+  <ele>7687.0</ele>
+  <name>Dog Mountain</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="46.128888889" lon="-115.180277778">
+  <ele>7136.0</ele>
+  <name>Big Fog Mountain</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="46.215555556" lon="-115.165555556">
+  <ele>7844.0</ele>
+  <name>East Peak</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="46.177222222" lon="-115.204444444">
+  <ele>7992.0</ele>
+  <name>Fenn Mountain</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="46.228888889" lon="-115.140277778">
+  <ele>7093.0</ele>
+  <name>Lizard Peak</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="46.247777778" lon="-115.21">
+  <ele>7346.0</ele>
+  <name>Stanley Butte</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="46.178055556" lon="-115.191944444">
+  <ele>7359.0</ele>
+  <name>The Crags</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="43.413888889" lon="-113.7925">
+  <ele>7323.0</ele>
+  <name>Pine Mountain</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="46.337777778" lon="-115.117222222">
+  <ele>7395.0</ele>
+  <name>Eagle Mountain</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="46.308611111" lon="-115.111666667">
+  <ele>7251.0</ele>
+  <name>End Butte</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="46.343611111" lon="-115.117777778">
+  <ele>7329.0</ele>
+  <name>Sponge Mountain</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="44.978611111" lon="-115.866388889">
+  <ele>8399.0</ele>
+  <name>Fitsum Peak</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="44.934722222" lon="-115.868055556">
+  <ele>8901.0</ele>
+  <name>Nick Peak</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="44.881388889" lon="-115.938333333">
+  <ele>8366.0</ele>
+  <name>Boulder Mountain</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="44.881388889" lon="-115.925277778">
+  <ele>7972.0</ele>
+  <name>Boulder Summit</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="44.948055556" lon="-115.878055556">
+  <ele>8376.0</ele>
+  <name>Fitsum Summit</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="44.996388889" lon="-115.926666667">
+  <ele>8678.0</ele>
+  <name>Sawtooth Peak</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="44.976944444" lon="-115.933333333">
+  <ele>8300.0</ele>
+  <name>Snowslide Peak</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="44.979722222" lon="-115.927222222">
+  <ele>8058.0</ele>
+  <name>Snowslide Summit</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="45.393888889" lon="-115.399444444">
+  <ele>8172.0</ele>
+  <name>Little Sheepeater Point</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="43.524166667" lon="-111.172222222">
+  <ele>7401.0</ele>
+  <name>Fourth of July Peak</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="43.583888889" lon="-111.210833333">
+  <ele>7290.0</ele>
+  <name>Rocky Peak</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="43.6125" lon="-111.233611111">
+  <ele>7769.0</ele>
+  <name>Squirrel Mountain</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="46.1475" lon="-114.784444444">
+  <ele>7283.0</ele>
+  <name>Freeman Peak</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="44.380833333" lon="-112.747222222">
+  <ele>9711.0</ele>
+  <name>Fritz Peak</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="43.830555556" lon="-114.719166667">
+  <ele>10148.0</ele>
+  <name>Bromaghin Peak</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="43.870833333" lon="-114.713888889">
+  <ele>8707.0</ele>
+  <name>Galena Summit</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="43.761944444" lon="-114.653055556">
+  <ele>10298.0</ele>
+  <name>Norton Peak</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="43.889722222" lon="-114.603611111">
+  <ele>11112.0</ele>
+  <name>Galena Peak</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="45.234166667" lon="-114.3725">
+  <ele>8258.0</ele>
+  <name>Gant Mountain</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="45.212222222" lon="-114.393888889">
+  <ele>8448.0</ele>
+  <name>Indian Point</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="43.663333333" lon="-111.332777778">
+  <ele>9012.0</ele>
+  <name>Garns Mountain</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="43.653611111" lon="-111.255277778">
+  <ele>8294.0</ele>
+  <name>Henderson Peak</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="43.6825" lon="-111.268888889">
+  <ele>7651.0</ele>
+  <name>Monument Peak</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="43.702777778" lon="-111.286666667">
+  <ele>7697.0</ele>
+  <name>Mount Manning</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="43.63" lon="-111.358611111">
+  <ele>9012.0</ele>
+  <name>Piney Peak</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="43.655555556" lon="-111.375555556">
+  <ele>8028.0</ele>
+  <name>Prospect Peak</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="43.660555556" lon="-111.340277778">
+  <ele>8333.0</ele>
+  <name>Red Butte</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="43.629722222" lon="-111.2725">
+  <ele>8697.0</ele>
+  <name>Red Mountain</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="43.706944444" lon="-111.344722222">
+  <ele>8852.0</ele>
+  <name>Ryan Peak</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="43.651111111" lon="-111.338888889">
+  <ele>7887.0</ele>
+  <name>Temple Peak</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="43.648888889" lon="-111.302777778">
+  <ele>8648.0</ele>
+  <name>Thunder Mountain</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="46.436111111" lon="-114.368055556">
+  <ele>8812.0</ele>
+  <name>Sky Pilot</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="42.410555556" lon="-111.251666667">
+  <ele>9058.0</ele>
+  <name>Bald Mountain</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="42.468333333" lon="-111.2825">
+  <ele>8701.0</ele>
+  <name>Threemile Peak</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="45.614722222" lon="-113.910277778">
+  <ele>7999.0</ele>
+  <name>Anderson Mountain</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="44.483611111" lon="-113.361111111">
+  <ele>10417.0</ele>
+  <name>Negro Peak</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="44.455277778" lon="-113.33">
+  <ele>10761.0</ele>
+  <name>Portland Mountain</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="44.390555556" lon="-113.287222222">
+  <ele>10863.0</ele>
+  <name>Sheep Mountain</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="44.429722222" lon="-113.230277778">
+  <ele>7169.0</ele>
+  <name>Gilmore Summit</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="42.493055556" lon="-111.0725">
+  <ele>8566.0</ele>
+  <name>Table Mountain</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="44.829166667" lon="-113.429444444">
+  <ele>9875.0</ele>
+  <name>East and West Peak</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="44.823333333" lon="-113.439444444">
+  <ele>9865.0</ele>
+  <name>Goat Mountain</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="44.734722222" lon="-115.827777778">
+  <ele>8051.0</ele>
+  <name>Needles</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="44.966944444" lon="-113.979444444">
+  <ele>7077.0</ele>
+  <name>Twin Peaks</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="45.119166667" lon="-113.576944444">
+  <ele>9872.0</ele>
+  <name>Goldstone Mountain</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="44.744444444" lon="-114.210833333">
+  <ele>8412.0</ele>
+  <name>Table Mountain</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="43.858055556" lon="-115.423888889">
+  <ele>7257.0</ele>
+  <name>Grand Mountain</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="43.873333333" lon="-115.416111111">
+  <ele>7087.0</ele>
+  <name>Granite Mountain</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="42.255277778" lon="-114.299722222">
+  <ele>7208.0</ele>
+  <name>Grand View Peak</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="46.715833333" lon="-114.713055556">
+  <ele>7477.0</ele>
+  <name>Granite Peak</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="46.726666667" lon="-114.646944444">
+  <ele>7228.0</ele>
+  <name>Pilot Knob</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="46.395277778" lon="-114.730277778">
+  <ele>8179.0</ele>
+  <name>Grave Peak</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="43.668888889" lon="-114.095277778">
+  <ele>10384.0</ele>
+  <name>Grays Peak</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="43.740833333" lon="-114.116944444">
+  <ele>11644.0</ele>
+  <name>Old Hyndman Peak</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="45.859166667" lon="-115.091388889">
+  <ele>7100.0</ele>
+  <name>Granite Peak</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="45.771111111" lon="-115.076666667">
+  <ele>7211.0</ele>
+  <name>Green Mountain</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="44.597222222" lon="-115.120555556">
+  <ele>8911.0</ele>
+  <name>Greyhound Mountain</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="43.655" lon="-114.409166667">
+  <ele>9117.0</ele>
+  <name>Bald Mountain</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="43.73" lon="-114.419722222">
+  <ele>8366.0</ele>
+  <name>Griffin Butte</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="44.009722222" lon="-115.776111111">
+  <ele>7329.0</ele>
+  <name>Jackson Peak</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="43.554166667" lon="-115.1525">
+  <ele>7664.0</ele>
+  <name>Grouse Butte</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="44.366111111" lon="-113.908888889">
+  <ele>10955.0</ele>
+  <name>Grouse Creek Mountain</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="44.565" lon="-114.094722222">
+  <ele>8432.0</ele>
+  <name>Grouse Peak</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="45.620555556" lon="-115.941944444">
+  <ele>8156.0</ele>
+  <name>Gospel Peak</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="45.548333333" lon="-115.943055556">
+  <ele>7923.0</ele>
+  <name>Hanover Mountain</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="45.615" lon="-115.983888889">
+  <ele>7454.0</ele>
+  <name>Little Round Top</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="45.554722222" lon="-115.973333333">
+  <ele>7464.0</ele>
+  <name>Marten Hill</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="45.605277778" lon="-115.984444444">
+  <ele>7808.0</ele>
+  <name>Round Top</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="45.586388889" lon="-115.953888889">
+  <ele>7798.0</ele>
+  <name>Umbrella Butte</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="42.582777778" lon="-111.338888889">
+  <ele>8533.0</ele>
+  <name>Harrington Peak</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="42.528888889" lon="-111.279722222">
+  <ele>9052.0</ele>
+  <name>Hawks Peak</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="43.9925" lon="-116.030833333">
+  <ele>7287.0</ele>
+  <name>Hawley Mountain</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="42.408055556" lon="-112.95">
+  <ele>7444.0</ele>
+  <name>Hartley Peak</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="44.845" lon="-114.121111111">
+  <ele>7775.0</ele>
+  <name>Iron Mountain</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="44.831388889" lon="-114.049722222">
+  <ele>7913.0</ele>
+  <name>King Mountain</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="42.623888889" lon="-112.320277778">
+  <ele>8655.0</ele>
+  <name>Old Tom Mountain</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="44.105277778" lon="-113.340277778">
+  <ele>9698.0</ele>
+  <name>Hawley Mountain</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="42.714722222" lon="-112.115277778">
+  <ele>9016.0</ele>
+  <name>Haystack Mountain</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="45.2575" lon="-116.576111111">
+  <ele>8140.0</ele>
+  <name>Carbonate Hill</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="45.309722222" lon="-116.555277778">
+  <ele>9045.0</ele>
+  <name>Devils Throne</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="45.344166667" lon="-116.539722222">
+  <ele>7595.0</ele>
+  <name>Devils Tooth</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="45.274166667" lon="-116.608333333">
+  <ele>7979.0</ele>
+  <name>Granite Mountain</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="45.323888889" lon="-116.549444444">
+  <ele>9311.0</ele>
+  <name>He Devil</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="45.313055556" lon="-116.547777778">
+  <ele>8822.0</ele>
+  <name>Mount Belial</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="45.308888889" lon="-116.579444444">
+  <ele>8136.0</ele>
+  <name>Potato Hill</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="45.2875" lon="-116.571944444">
+  <ele>8648.0</ele>
+  <name>Pyramid Mountain</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="45.324722222" lon="-116.541111111">
+  <ele>9242.0</ele>
+  <name>She Devil</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="45.318888889" lon="-116.525">
+  <ele>8875.0</ele>
+  <name>The Goblin</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="45.319444444" lon="-116.533055556">
+  <ele>9222.0</ele>
+  <name>The Ogre</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="45.330555556" lon="-116.528888889">
+  <ele>9117.0</ele>
+  <name>Tower of Babel</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="45.302222222" lon="-116.561666667">
+  <ele>8520.0</ele>
+  <name>Twin Imps</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="44.289166667" lon="-112.670833333">
+  <ele>8842.0</ele>
+  <name>Black Mountain</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="44.32" lon="-112.75">
+  <ele>10413.0</ele>
+  <name>Heart Mountain</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="45.267222222" lon="-116.484722222">
+  <ele>8337.0</ele>
+  <name>Bryan Mountain</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="45.331388889" lon="-116.468611111">
+  <ele>7178.0</ele>
+  <name>Cannon Ball Mountain</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="45.368888889" lon="-116.494722222">
+  <ele>8379.0</ele>
+  <name>Heavens Gate</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="45.541944444" lon="-114.184444444">
+  <ele>7529.0</ele>
+  <name>Irishmans Rock</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="42.963333333" lon="-111.550833333">
+  <ele>7441.0</ele>
+  <name>Camp Peak</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="42.984722222" lon="-111.615555556">
+  <ele>7018.0</ele>
+  <name>Crater Mountain</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="43.986388889" lon="-114.226111111">
+  <ele>9862.0</ele>
+  <name>Herd Peak</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="45.3125" lon="-116.123333333">
+  <ele>8218.0</ele>
+  <name>Hershey Point</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="45.286111111" lon="-116.123611111">
+  <ele>8327.0</ele>
+  <name>Lava Butte</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="45.298611111" lon="-116.125277778">
+  <ele>8228.0</ele>
+  <name>Sams Throne</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="43.211944444" lon="-111.591111111">
+  <ele>7093.0</ele>
+  <name>Sugarloaf Mountain</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="45.331111111" lon="-113.738611111">
+  <ele>9934.0</ele>
+  <name>Ajax Peak</name>
+  <desc>MT</desc>
+</wpt>
+<wpt lat="45.303888889" lon="-113.728888889">
+  <ele>10056.0</ele>
+  <name>Copperhead Peak</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="45.274444444" lon="-113.700833333">
+  <ele>10275.0</ele>
+  <name>Freeman Peak</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="45.264166667" lon="-113.6925">
+  <ele>10282.0</ele>
+  <name>Monument Peak</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="45.250555556" lon="-113.679722222">
+  <ele>10348.0</ele>
+  <name>Sacajawea Peaks</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="45.028888889" lon="-114.544444444">
+  <ele>8934.0</ele>
+  <name>McEleny Mountain</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="45.108888889" lon="-114.620277778">
+  <ele>9173.0</ele>
+  <name>Puddin Mountain</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="45.069444444" lon="-114.566666667">
+  <ele>9032.0</ele>
+  <name>Sugar Loaf</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="45.088055556" lon="-114.625">
+  <ele>9560.0</ele>
+  <name>Wilson Mountain</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="44.197777778" lon="-114.024444444">
+  <ele>9324.0</ele>
+  <name>Anderson Peak</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="45.456111111" lon="-114.568333333">
+  <ele>7552.0</ele>
+  <name>Cayuse Point</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="45.429722222" lon="-114.504166667">
+  <ele>8330.0</ele>
+  <name>Horse Creek Butte</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="45.538611111" lon="-114.445555556">
+  <ele>7700.0</ele>
+  <name>Cathedral Rock</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="43.997777778" lon="-114.637777778">
+  <ele>9888.0</ele>
+  <name>Bible Back Mountain</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="43.998055556" lon="-114.651666667">
+  <ele>10170.0</ele>
+  <name>Croesus Peak</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="43.965833333" lon="-114.748333333">
+  <ele>9888.0</ele>
+  <name>Horton Peak</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="43.433333333" lon="-115.4875">
+  <ele>7667.0</ele>
+  <name>House Mountain</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="43.754722222" lon="-113.107222222">
+  <ele>9042.0</ele>
+  <name>Jumpoff Peak</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="43.713333333" lon="-113.100277778">
+  <ele>8697.0</ele>
+  <name>Howe Peak</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="46.255833333" lon="-114.873055556">
+  <ele>7395.0</ele>
+  <name>Bailey Mountain</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="46.295277778" lon="-114.790555556">
+  <ele>7264.0</ele>
+  <name>Fox Peak</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="46.033888889" lon="-114.543333333">
+  <ele>8396.0</ele>
+  <name>Hunter Peak</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="46.082777778" lon="-114.558055556">
+  <ele>8107.0</ele>
+  <name>Moe Peak</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="46.124444444" lon="-114.580833333">
+  <ele>7113.0</ele>
+  <name>Rock Point</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="43.731111111" lon="-114.126388889">
+  <ele>11522.0</ele>
+  <name>Cobb Peak</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="43.749166667" lon="-114.130833333">
+  <ele>11939.0</ele>
+  <name>Hyndman Peak</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="43.717222222" lon="-114.232777778">
+  <ele>9878.0</ele>
+  <name>Johnstone Peak</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="42.101388889" lon="-114.081111111">
+  <ele>7214.0</ele>
+  <name>Ibex Peak</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="42.101388889" lon="-114.081111111">
+  <ele>7214.0</ele>
+  <name>Lbex Peak</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="47.024444444" lon="-115.093055556">
+  <ele>7329.0</ele>
+  <name>Gold Crown Peak</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="47.013611111" lon="-115.073055556">
+  <ele>7342.0</ele>
+  <name>Graves Peak</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="47.026388889" lon="-115.071944444">
+  <ele>7674.0</ele>
+  <name>Illinois Peak</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="42.0225" lon="-115.9125">
+  <ele>7021.0</ele>
+  <name>Sugarloaf</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="46.610277778" lon="-114.980833333">
+  <ele>7060.0</ele>
+  <name>Rock Garden</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="44.496388889" lon="-113.406388889">
+  <ele>10544.0</ele>
+  <name>Timber Creek Peak</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="44.044722222" lon="-115.473888889">
+  <ele>7661.0</ele>
+  <name>Archie Mountain</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="44.078055556" lon="-115.413888889">
+  <ele>8107.0</ele>
+  <name>Jackson Peak</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="44.01" lon="-115.388055556">
+  <ele>8855.0</ele>
+  <name>Wolf Mountain</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="44.060277778" lon="-114.1075">
+  <ele>9905.0</ele>
+  <name>Jerry Peak</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="45.578888889" lon="-116.146944444">
+  <ele>7362.0</ele>
+  <name>Dead Point</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="45.529722222" lon="-116.236388889">
+  <ele>7421.0</ele>
+  <name>John Day Mountain</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="45.598611111" lon="-116.133611111">
+  <ele>7283.0</ele>
+  <name>Slate Point</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="45.5075" lon="-116.201944444">
+  <ele>7743.0</ele>
+  <name>Southwest Butte</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="42.642222222" lon="-111.428333333">
+  <ele>8179.0</ele>
+  <name>Sulphur Peak</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="42.676666667" lon="-111.381944444">
+  <ele>7467.0</ele>
+  <name>Wolf Mountain</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="43.538333333" lon="-115.045277778">
+  <ele>9652.0</ele>
+  <name>Iron Mountain</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="43.618055556" lon="-115.033055556">
+  <ele>8179.0</ele>
+  <name>Jumbo Mountain</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="43.273611111" lon="-111.688333333">
+  <ele>7257.0</ele>
+  <name>Pine Mountain</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="45.203888889" lon="-114.243333333">
+  <ele>8343.0</ele>
+  <name>Jureano Mountain</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="45.400555556" lon="-116.480277778">
+  <ele>7992.0</ele>
+  <name>Bald Mountain</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="44.407777778" lon="-114.897777778">
+  <ele>9931.0</ele>
+  <name>Cabin Creek Peak</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="44.450555556" lon="-114.902222222">
+  <ele>9921.0</ele>
+  <name>Mount Loening</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="45.020555556" lon="-114.084722222">
+  <ele>9242.0</ele>
+  <name>Lake Mountain</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="44.687777778" lon="-115.566111111">
+  <ele>7756.0</ele>
+  <name>Buck Mountain</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="44.645" lon="-115.585277778">
+  <ele>7296.0</ele>
+  <name>Warm Lake Summit</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="44.490277778" lon="-115.121666667">
+  <ele>9242.0</ele>
+  <name>Langer Peak</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="44.4825" lon="-115.088333333">
+  <ele>7785.0</ele>
+  <name>Vanity Summit</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="44.064722222" lon="-113.698055556">
+  <ele>11463.0</ele>
+  <name>Donaldson Peak</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="44.082222222" lon="-113.732777778">
+  <ele>12191.0</ele>
+  <name>Leatherman Peak</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="44.066666667" lon="-113.673055556">
+  <ele>11516.0</ele>
+  <name>Mount Breitenbach</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="45.144444444" lon="-114.008611111">
+  <ele>9121.0</ele>
+  <name>Baldy</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="45.136666667" lon="-114.071944444">
+  <ele>8904.0</ele>
+  <name>Phelan Mountain</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="43.905833333" lon="-113.795">
+  <ele>8733.0</ele>
+  <name>Corral Creek Summit</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="43.963055556" lon="-113.836111111">
+  <ele>7027.0</ele>
+  <name>Lehman Butte</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="44.780555556" lon="-113.866388889">
+  <ele>10978.0</ele>
+  <name>Lem Peak</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="44.873055556" lon="-113.581388889">
+  <ele>8176.0</ele>
+  <name>Ramsey Mountain</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="44.220833333" lon="-115.798611111">
+  <ele>7628.0</ele>
+  <name>Lightning Creek Rocks</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="44.181666667" lon="-115.788888889">
+  <ele>8156.0</ele>
+  <name>Scott Mountain</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="44.469166667" lon="-114.070833333">
+  <ele>7329.0</ele>
+  <name>Red Hill</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="44.449722222" lon="-114.008888889">
+  <ele>9094.0</ele>
+  <name>Table Mountain</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="44.709444444" lon="-115.090833333">
+  <ele>8812.0</ele>
+  <name>Little Soldier Mountain</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="44.697777778" lon="-115.004444444">
+  <ele>7618.0</ele>
+  <name>Scarface Mountain</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="43.697777778" lon="-115.499444444">
+  <ele>8110.0</ele>
+  <name>Sheep Mountain</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="43.011111111" lon="-111.605555556">
+  <ele>7470.0</ele>
+  <name>Limerock Mountain</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="43.431111111" lon="-114.111111111">
+  <ele>7976.0</ele>
+  <name>Bell Mountain</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="45.303611111" lon="-115.180833333">
+  <ele>7287.0</ele>
+  <name>One Man Butte</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="44.821388889" lon="-115.604444444">
+  <ele>9157.0</ele>
+  <name>Log Mountain</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="44.816111111" lon="-115.580833333">
+  <ele>8563.0</ele>
+  <name>Shell Rock Peak</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="44.345277778" lon="-114.169722222">
+  <ele>9590.0</ele>
+  <name>Lone Pine Peak</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="44.656111111" lon="-116.171666667">
+  <ele>7736.0</ele>
+  <name>Lone Tree</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="45.262777778" lon="-114.546111111">
+  <ele>8054.0</ele>
+  <name>Horse Heaven</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="45.348055556" lon="-114.577777778">
+  <ele>8251.0</ele>
+  <name>Long Tom Mountain</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="43.142777778" lon="-111.631944444">
+  <ele>7080.0</ele>
+  <name>Mollies Nipple</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="43.198611111" lon="-111.679444444">
+  <ele>7401.0</ele>
+  <name>Sheep Mountain</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="44.491944444" lon="-112.049444444">
+  <ele>8097.0</ele>
+  <name>Castle Peak</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="44.4375" lon="-112.047777778">
+  <ele>8668.0</ele>
+  <name>Lookout Point</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="44.389444444" lon="-112.086944444">
+  <ele>7211.0</ele>
+  <name>Opal Mountain</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="44.439444444" lon="-112.1125">
+  <ele>8537.0</ele>
+  <name>Signal Peak</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="45.225555556" lon="-115.852777778">
+  <ele>7438.0</ele>
+  <name>Ruby Mountain</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="43.966666667" lon="-113.514722222">
+  <ele>11253.0</ele>
+  <name>Invisible Mountain</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="43.992222222" lon="-113.598055556">
+  <ele>11453.0</ele>
+  <name>Mount McCaleb</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="43.944722222" lon="-113.727777778">
+  <ele>7326.0</ele>
+  <name>Dugout Hill</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="43.889444444" lon="-113.700833333">
+  <ele>10230.0</ele>
+  <name>Mackay Peak</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="43.876944444" lon="-113.719444444">
+  <ele>10531.0</ele>
+  <name>White Knob</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="43.911111111" lon="-113.689166667">
+  <ele>7989.0</ele>
+  <name>Windy Devil</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="45.674166667" lon="-114.838611111">
+  <ele>7815.0</ele>
+  <name>Deadtop Mountain</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="45.706944444" lon="-114.823055556">
+  <ele>7405.0</ele>
+  <name>Magruder Mountain</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="42.090833333" lon="-114.161666667">
+  <ele>7579.0</ele>
+  <name>Dads Hump</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="42.076666667" lon="-114.126111111">
+  <ele>7690.0</ele>
+  <name>Joes Mountain</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="42.043055556" lon="-114.1475">
+  <ele>7214.0</ele>
+  <name>Mahogany Butte</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="42.038611111" lon="-114.209166667">
+  <ele>7096.0</ele>
+  <name>Pine Tit</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="42.079722222" lon="-114.162777778">
+  <ele>7497.0</ele>
+  <name>South Tit</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="42.067222222" lon="-114.158888889">
+  <ele>7579.0</ele>
+  <name>Swanty Peak</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="42.083611111" lon="-114.147222222">
+  <ele>7841.0</ele>
+  <name>Trout Creek Mountain</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="42.068055556" lon="-114.135555556">
+  <ele>7608.0</ele>
+  <name>Willow Creek Peak</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="44.417777778" lon="-113.861944444">
+  <ele>8353.0</ele>
+  <name>Mahogany Hill</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="43.596944444" lon="-114.454166667">
+  <ele>7723.0</ele>
+  <name>Mahoney Butte</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="46.878888889" lon="-115.552222222">
+  <ele>7057.0</ele>
+  <name>Black Mountain</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="46.887222222" lon="-115.528611111">
+  <ele>7070.0</ele>
+  <name>East Sister</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="42.040555556" lon="-111.646944444">
+  <ele>9452.0</ele>
+  <name>Andrew Nyman Mountain</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="42.040555556" lon="-111.646944444">
+  <ele>9452.0</ele>
+  <name>Wilderness Peak</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="45.534166667" lon="-115.868055556">
+  <ele>7779.0</ele>
+  <name>Ace Butte</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="45.540833333" lon="-115.849166667">
+  <ele>8054.0</ele>
+  <name>Marble Butte</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="45.518888889" lon="-115.855833333">
+  <ele>7146.0</ele>
+  <name>North Butte</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="45.578055556" lon="-115.855277778">
+  <ele>7808.0</ele>
+  <name>Sheep Mountain</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="45.598611111" lon="-115.863333333">
+  <ele>7982.0</ele>
+  <name>Square Mountain</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="44.031388889" lon="-113.591111111">
+  <ele>10945.0</ele>
+  <name>Castle Peak</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="44.060277778" lon="-113.546944444">
+  <ele>10905.0</ele>
+  <name>Massacre Mountain</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="44.725833333" lon="-113.829722222">
+  <ele>10528.0</ele>
+  <name>Long Mountain</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="44.686666667" lon="-113.833055556">
+  <ele>10856.0</ele>
+  <name>May Mountain</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="46.358611111" lon="-114.915833333">
+  <ele>7411.0</ele>
+  <name>McConnell Mountain</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="47.266388889" lon="-115.383055556">
+  <ele>7277.0</ele>
+  <name>Ward Peak</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="42.496944444" lon="-111.248888889">
+  <ele>9882.0</ele>
+  <name>Meade Peak</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="42.475" lon="-111.126666667">
+  <ele>8563.0</ele>
+  <name>Red Mountain</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="42.404166667" lon="-111.168888889">
+  <ele>7736.0</ele>
+  <name>Shale Point</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="43.032777778" lon="-111.657777778">
+  <ele>7434.0</ele>
+  <name>Meadow Creek Mountain</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="44.452777778" lon="-113.966111111">
+  <ele>9006.0</ele>
+  <name>Meadow Peak</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="43.956111111" lon="-114.356944444">
+  <ele>9419.0</ele>
+  <name>Hunter Creek Summit</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="43.945833333" lon="-114.319444444">
+  <ele>10285.0</ele>
+  <name>Meridian Peak</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="42.270277778" lon="-111.5725">
+  <ele>9347.0</ele>
+  <name>Midnight Mountain</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="44.233611111" lon="-115.493333333">
+  <ele>7090.0</ele>
+  <name>Clear Creek Summit</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="44.157222222" lon="-115.4925">
+  <ele>8104.0</ele>
+  <name>Miller Mountain</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="43.720555556" lon="-113.731388889">
+  <ele>7907.0</ele>
+  <name>Bear Creek Summit</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="43.716388889" lon="-113.690833333">
+  <ele>8546.0</ele>
+  <name>Miller Peak</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="43.705833333" lon="-113.6725">
+  <ele>8287.0</ele>
+  <name>Reserve Mountain</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="46.039166667" lon="-115.051388889">
+  <ele>7060.0</ele>
+  <name>Mink Peak</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="44.3575" lon="-113.4525">
+  <ele>10718.0</ele>
+  <name>Bear Mountain</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="44.684166667" lon="-113.6575">
+  <ele>10731.0</ele>
+  <name>Mill Mountain</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="44.668055556" lon="-113.705">
+  <ele>10394.0</ele>
+  <name>Mogg Mountain</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="44.5375" lon="-112.341666667">
+  <ele>7461.0</ele>
+  <name>Knoll</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="45.088055556" lon="-115.059166667">
+  <ele>8163.0</ele>
+  <name>Buck Point</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="45.033055556" lon="-115.072222222">
+  <ele>8648.0</ele>
+  <name>Lookout Mountain</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="45.682777778" lon="-115.485555556">
+  <ele>7113.0</ele>
+  <name>Moose Butte</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="45.015555556" lon="-114.880833333">
+  <ele>9524.0</ele>
+  <name>Mormon Mountain</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="45.097777778" lon="-114.934444444">
+  <ele>7214.0</ele>
+  <name>Rush Creek Point</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="45.041944444" lon="-114.952222222">
+  <ele>8258.0</ele>
+  <name>Sheep Horn Mountain</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="44.599722222" lon="-113.088333333">
+  <ele>10761.0</ele>
+  <name>Baldy Mountain</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="45.250277778" lon="-115.251666667">
+  <ele>8563.0</ele>
+  <name>Dead Mule Peak</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="45.281666667" lon="-115.365555556">
+  <ele>8760.0</ele>
+  <name>Mosquito Peak</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="43.357777778" lon="-111.1">
+  <ele>9491.0</ele>
+  <name>Elkhorn Peak</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="43.362777778" lon="-111.094722222">
+  <ele>10003.0</ele>
+  <name>Mount Baird</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="43.323611111" lon="-111.063611111">
+  <ele>8438.0</ele>
+  <name>Needle Peak</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="44.093611111" lon="-114.996666667">
+  <ele>10338.0</ele>
+  <name>Braxon Peak</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="44.043055556" lon="-114.9675">
+  <ele>10633.0</ele>
+  <name>Decker Peak</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="44.08" lon="-114.959722222">
+  <ele>9705.0</ele>
+  <name>Grand Mogul</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="44.101111111" lon="-114.976111111">
+  <ele>10111.0</ele>
+  <name>Heyburn Mountain</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="44.011111111" lon="-114.9825">
+  <ele>10669.0</ele>
+  <name>Mount Cramer</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="44.024722222" lon="-114.973055556">
+  <ele>10446.0</ele>
+  <name>Sevy Peak</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="44.021388889" lon="-114.975">
+  <ele>10226.0</ele>
+  <name>The Arrowhead</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="44.011944444" lon="-114.9925">
+  <ele>9796.0</ele>
+  <name>The Temple</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="43.975" lon="-115.113611111">
+  <ele>9780.0</ele>
+  <name>Blacknose Mountain</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="43.95" lon="-115.011388889">
+  <ele>10056.0</ele>
+  <name>Glens Peak</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="43.892222222" lon="-115.003888889">
+  <ele>9915.0</ele>
+  <name>Mattingly Peak</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="43.958333333" lon="-115.092222222">
+  <ele>9839.0</ele>
+  <name>Mount Everly</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="43.995555556" lon="-115.105555556">
+  <ele>9928.0</ele>
+  <name>North Raker</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="43.946111111" lon="-115.076388889">
+  <ele>9970.0</ele>
+  <name>Plummer Peak</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="43.987777778" lon="-115.101944444">
+  <ele>9524.0</ele>
+  <name>South Raker</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="43.994444444" lon="-115.105">
+  <ele>9675.0</ele>
+  <name>The Rakers</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="45.916111111" lon="-114.626388889">
+  <ele>7720.0</ele>
+  <name>Mount George</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="42.314722222" lon="-113.658888889">
+  <ele>9006.0</ele>
+  <name>Mount Harrison</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="44.561944444" lon="-111.505">
+  <ele>10210.0</ele>
+  <name>Mount Jefferson</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="44.535833333" lon="-111.513055556">
+  <ele>9350.0</ele>
+  <name>Reas Peak</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="44.576666667" lon="-111.506944444">
+  <ele>9495.0</ele>
+  <name>Red Rock Mountain</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="44.47" lon="-114.78">
+  <ele>9980.0</ele>
+  <name>Mount Jordan</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="44.405277778" lon="-114.864166667">
+  <ele>9285.0</ele>
+  <name>Red Mountain</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="45.221111111" lon="-114.550833333">
+  <ele>9586.0</ele>
+  <name>Beehive</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="45.135833333" lon="-114.546944444">
+  <ele>9403.0</ele>
+  <name>Cathedral Rock</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="45.233888889" lon="-114.522222222">
+  <ele>9298.0</ele>
+  <name>Dome Mountain</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="45.213333333" lon="-114.613611111">
+  <ele>9613.0</ele>
+  <name>Goat Mountain</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="45.174166667" lon="-114.601944444">
+  <ele>10085.0</ele>
+  <name>Mount McGuire</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="45.95" lon="-114.574722222">
+  <ele>8195.0</ele>
+  <name>Cuneo Point</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="45.958888889" lon="-114.606944444">
+  <ele>8346.0</ele>
+  <name>Mount Paloma</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="45.994722222" lon="-114.569722222">
+  <ele>8455.0</ele>
+  <name>Nipple Knob</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="43.553888889" lon="-113.993333333">
+  <ele>8090.0</ele>
+  <name>Elk Mountain</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="43.606388889" lon="-113.979722222">
+  <ele>8586.0</ele>
+  <name>Garfield Mountain</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="43.985277778" lon="-115.214166667">
+  <ele>8779.0</ele>
+  <name>Big Buck Mountain</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="43.934444444" lon="-115.133888889">
+  <ele>9682.0</ele>
+  <name>Browns Peak</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="43.878333333" lon="-115.215277778">
+  <ele>8737.0</ele>
+  <name>East Warrior Peak</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="43.917777778" lon="-115.134722222">
+  <ele>9639.0</ele>
+  <name>Flat Top Mountain</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="43.893333333" lon="-115.133055556">
+  <ele>9485.0</ele>
+  <name>Nahneke Mountain</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="43.988333333" lon="-115.165833333">
+  <ele>9295.0</ele>
+  <name>Smoky Peak</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="43.9525" lon="-115.171111111">
+  <ele>9268.0</ele>
+  <name>Tackobe Mountain</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="45.345277778" lon="-114.004444444">
+  <ele>7408.0</ele>
+  <name>Napoleon Hill</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="43.706111111" lon="-114.951111111">
+  <ele>9495.0</ele>
+  <name>Newman Peak</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="43.737222222" lon="-114.976666667">
+  <ele>10043.0</ele>
+  <name>Two Point Mountain</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="45.632777778" lon="-114.615">
+  <ele>8228.0</ele>
+  <name>Devils Point</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="45.731666667" lon="-114.585555556">
+  <ele>7543.0</ele>
+  <name>Nez Perce Peak</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="45.659444444" lon="-114.5075">
+  <ele>7979.0</ele>
+  <name>Steep Hill</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="44.765555556" lon="-116.2">
+  <ele>7329.0</ele>
+  <name>No Business Mountain</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="42.465277778" lon="-111.549166667">
+  <ele>9691.0</ele>
+  <name>Sherman Peak</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="45.459166667" lon="-113.880277778">
+  <ele>8533.0</ele>
+  <name>Stein Mountain</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="42.447222222" lon="-113.055555556">
+  <ele>7418.0</ele>
+  <name>Cedar Creek Peak</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="45.6475" lon="-115.683888889">
+  <ele>8802.0</ele>
+  <name>North Pole</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="45.694166667" lon="-115.7125">
+  <ele>7247.0</ele>
+  <name>Tenmile Hill</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="45.711944444" lon="-115.7475">
+  <ele>7257.0</ele>
+  <name>Twentymile Butte</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="44.852777778" lon="-114.932222222">
+  <ele>8192.0</ele>
+  <name>Norton Ridge Peak</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="42.394166667" lon="-111.389166667">
+  <ele>7146.0</ele>
+  <name>South Hill</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="44.556666667" lon="-115.841666667">
+  <ele>7753.0</ele>
+  <name>Oro Mountain</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="45.715277778" lon="-115.608055556">
+  <ele>7087.0</ele>
+  <name>Nipple Mountain</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="45.639722222" lon="-115.614166667">
+  <ele>7257.0</ele>
+  <name>Orogrande Summit</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="42.269722222" lon="-112.098055556">
+  <ele>9262.0</ele>
+  <name>Oxford Peak</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="44.867777778" lon="-115.901666667">
+  <ele>8458.0</ele>
+  <name>Buckhorn Mountain</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="44.859722222" lon="-115.899444444">
+  <ele>7848.0</ele>
+  <name>Buckhorn Summit</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="44.825555556" lon="-115.8875">
+  <ele>8018.0</ele>
+  <name>Green Mountain</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="44.835277778" lon="-115.957222222">
+  <ele>8038.0</ele>
+  <name>Jughandle Mountain</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="44.8425" lon="-115.8975">
+  <ele>7913.0</ele>
+  <name>Kennally Creek Summit</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="44.8575" lon="-115.901666667">
+  <ele>8258.0</ele>
+  <name>Rapid Peak</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="44.857222222" lon="-115.948333333">
+  <ele>7848.0</ele>
+  <name>Twin Peaks</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="43.368888889" lon="-111.128333333">
+  <ele>9901.0</ele>
+  <name>Sheep Creek Peak</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="43.438333333" lon="-111.084722222">
+  <ele>9308.0</ele>
+  <name>Little Palisades Peak</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="43.441666667" lon="-111.088611111">
+  <ele>9675.0</ele>
+  <name>Palisades Peak</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="45.141388889" lon="-114.77">
+  <ele>8084.0</ele>
+  <name>Big Hill</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="45.181388889" lon="-114.850555556">
+  <ele>8691.0</ele>
+  <name>Black Butte</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="45.211388889" lon="-114.815277778">
+  <ele>8950.0</ele>
+  <name>Papoose Peak</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="43.738611111" lon="-114.849166667">
+  <ele>9705.0</ele>
+  <name>Paradise Peak</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="43.6875" lon="-114.815833333">
+  <ele>8878.0</ele>
+  <name>Skillern Peak</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="42.170277778" lon="-111.589722222">
+  <ele>9281.0</ele>
+  <name>Bloomington Peak</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="42.203055556" lon="-111.549444444">
+  <ele>9541.0</ele>
+  <name>Paris Peak</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="45.034444444" lon="-115.519444444">
+  <ele>8802.0</ele>
+  <name>Parks Peak</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="45.081666667" lon="-115.569444444">
+  <ele>7838.0</ele>
+  <name>Savage Point</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="45.260555556" lon="-116.209722222">
+  <ele>8648.0</ele>
+  <name>Hard Butte</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="45.317777778" lon="-116.208055556">
+  <ele>8838.0</ele>
+  <name>Patrick Butte</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="43.759166667" lon="-114.159166667">
+  <ele>10800.0</ele>
+  <name>Handwerk Peak</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="43.814722222" lon="-114.206111111">
+  <ele>10495.0</ele>
+  <name>Phi Kappa Mountain</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="43.798888889" lon="-114.152222222">
+  <ele>11847.0</ele>
+  <name>The Devils Bedstead</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="43.479166667" lon="-114.758333333">
+  <ele>7634.0</ele>
+  <name>Wells Summit</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="42.216111111" lon="-114.276111111">
+  <ele>7139.0</ele>
+  <name>Elk Butte</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="42.231666667" lon="-114.308888889">
+  <ele>7362.0</ele>
+  <name>Mountain View Peak</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="42.19" lon="-114.272777778">
+  <ele>7697.0</ele>
+  <name>Pike Mountain</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="45.905555556" lon="-115.708055556">
+  <ele>7123.0</ele>
+  <name>Pilot Knob</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="45.235277778" lon="-115.610555556">
+  <ele>7949.0</ele>
+  <name>China Mountain</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="45.173888889" lon="-115.527222222">
+  <ele>8045.0</ele>
+  <name>Pilot Peak</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="45.314166667" lon="-114.277222222">
+  <ele>7080.0</ele>
+  <name>Copper Mountain</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="45.285277778" lon="-114.153611111">
+  <ele>8783.0</ele>
+  <name>Haystack Mountain</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="45.325" lon="-114.180555556">
+  <ele>8268.0</ele>
+  <name>Point of Rock</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="45.350833333" lon="-114.211944444">
+  <ele>7979.0</ele>
+  <name>Stormy Peak</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="44.001944444" lon="-115.747777778">
+  <ele>7011.0</ele>
+  <name>Coulter Summit</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="44.57" lon="-114.916944444">
+  <ele>9846.0</ele>
+  <name>Pinyon Peak</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="44.731944444" lon="-115.407222222">
+  <ele>8911.0</ele>
+  <name>Lake Mountain</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="44.689444444" lon="-115.4325">
+  <ele>8583.0</ele>
+  <name>Little Baldy</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="44.661388889" lon="-115.449166667">
+  <ele>8127.0</ele>
+  <name>Snowshoe Summit</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="42.807777778" lon="-112.488055556">
+  <ele>7126.0</ele>
+  <name>Kinport Peak</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="42.773611111" lon="-112.494444444">
+  <ele>7234.0</ele>
+  <name>Rock Knoll</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="42.798888889" lon="-112.470277778">
+  <ele>7162.0</ele>
+  <name>Wild Mountain</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="43.439166667" lon="-111.574444444">
+  <ele>7369.0</ele>
+  <name>Mount Baldy</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="43.397777778" lon="-111.511666667">
+  <ele>7451.0</ele>
+  <name>Point Lookout</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="44.891388889" lon="-113.870555556">
+  <ele>9321.0</ele>
+  <name>Poison Peak</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="44.888611111" lon="-113.839722222">
+  <ele>8661.0</ele>
+  <name>Watson Peak</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="43.243055556" lon="-111.193333333">
+  <ele>8415.0</ele>
+  <name>Poker Peak</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="45.345555556" lon="-116.280555556">
+  <ele>7395.0</ele>
+  <name>Sheep Mountain</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="45.1375" lon="-116.450277778">
+  <ele>7054.0</ele>
+  <name>Ant Butte</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="45.155277778" lon="-116.464722222">
+  <ele>7401.0</ele>
+  <name>North Star Butte</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="45.189444444" lon="-116.413055556">
+  <ele>7949.0</ele>
+  <name>Pollock Mountain</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="43.916111111" lon="-113.991388889">
+  <ele>8727.0</ele>
+  <name>Castle Rock</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="43.9525" lon="-113.956666667">
+  <ele>9380.0</ele>
+  <name>Flat Top</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="43.930833333" lon="-113.954722222">
+  <ele>9977.0</ele>
+  <name>Porphyry Peak</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="41.997777778" lon="-112.1625">
+  <ele>7044.0</ele>
+  <name>Sheep Dip Mountain</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="46.735555556" lon="-115.408055556">
+  <ele>7050.0</ele>
+  <name>Pot Mountain</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="44.220555556" lon="-114.396666667">
+  <ele>9367.0</ele>
+  <name>Potaman Peak</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="43.583333333" lon="-115.553888889">
+  <ele>7858.0</ele>
+  <name>Lava Mountain</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="43.623333333" lon="-115.580555556">
+  <ele>8127.0</ele>
+  <name>Rattlesnake Mountain</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="45.062777778" lon="-115.456111111">
+  <ele>8888.0</ele>
+  <name>Big Creek Point</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="45.048888889" lon="-115.393055556">
+  <ele>8966.0</ele>
+  <name>Coin Mountain</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="45.049444444" lon="-115.43">
+  <ele>8796.0</ele>
+  <name>Crater Peak</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="45.122777778" lon="-115.4275">
+  <ele>9062.0</ele>
+  <name>Dixie Mountain</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="45.1025" lon="-115.453888889">
+  <ele>9226.0</ele>
+  <name>Greeley Mountain</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="45.088611111" lon="-115.418333333">
+  <ele>8914.0</ele>
+  <name>Moore Point</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="45.067222222" lon="-115.468055556">
+  <ele>8917.0</ele>
+  <name>Profile Peak</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="45.053333333" lon="-115.446666667">
+  <ele>8920.0</ele>
+  <name>Willson Peak</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="44.83" lon="-115.066111111">
+  <ele>8770.0</ele>
+  <name>Grays Peak</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="44.785277778" lon="-115.035555556">
+  <ele>8281.0</ele>
+  <name>Pungo Mountain</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="45.235" lon="-116.5625">
+  <ele>7913.0</ele>
+  <name>Black Imp</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="45.225277778" lon="-116.599166667">
+  <ele>8651.0</ele>
+  <name>Casey Mountain</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="45.2025" lon="-116.504722222">
+  <ele>7812.0</ele>
+  <name>Curren Mountain</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="45.160555556" lon="-116.533888889">
+  <ele>8271.0</ele>
+  <name>Echols Mountain</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="45.198611111" lon="-116.618611111">
+  <ele>8310.0</ele>
+  <name>Emmett Mountain</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="45.248888889" lon="-116.521111111">
+  <ele>8730.0</ele>
+  <name>Jackley Mountain</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="45.235277778" lon="-116.533333333">
+  <ele>8451.0</ele>
+  <name>Middle Mountain</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="45.226944444" lon="-116.558055556">
+  <ele>8888.0</ele>
+  <name>Monument Peak</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="45.153888889" lon="-116.617222222">
+  <ele>7779.0</ele>
+  <name>Pepperbox Hill</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="45.181388889" lon="-116.565277778">
+  <ele>8359.0</ele>
+  <name>Pyramid Peak</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="45.134444444" lon="-116.579166667">
+  <ele>8022.0</ele>
+  <name>Smith Mountain</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="45.183611111" lon="-116.591111111">
+  <ele>8494.0</ele>
+  <name>White Mountain</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="48.866666667" lon="-116.537222222">
+  <ele>7585.0</ele>
+  <name>Fisher Peak</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="48.834722222" lon="-116.615833333">
+  <ele>7211.0</ele>
+  <name>Long Mountain</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="48.873888889" lon="-116.587777778">
+  <ele>7651.0</ele>
+  <name>Parker Peak</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="48.811944444" lon="-116.621666667">
+  <ele>7319.0</ele>
+  <name>Pyramid Peak</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="44.958611111" lon="-115.143333333">
+  <ele>7838.0</ele>
+  <name>Dewey Hill</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="44.946944444" lon="-115.128055556">
+  <ele>8504.0</ele>
+  <name>Lightning Peak</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="44.890833333" lon="-115.249444444">
+  <ele>9222.0</ele>
+  <name>Murphy Peak</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="44.931944444" lon="-115.241388889">
+  <ele>8980.0</ele>
+  <name>Pyramid Point</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="44.962777778" lon="-115.228055556">
+  <ele>9281.0</ele>
+  <name>Rainbow Peak</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="44.950277778" lon="-115.133333333">
+  <ele>8569.0</ele>
+  <name>Thunder Mountain</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="44.830833333" lon="-114.867222222">
+  <ele>8110.0</ele>
+  <name>Ramey Hill</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="42.250555556" lon="-114.188333333">
+  <ele>7267.0</ele>
+  <name>Coal Pit Butte</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="43.778333333" lon="-113.273888889">
+  <ele>10610.0</ele>
+  <name>King Mountain</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="46.505" lon="-114.383611111">
+  <ele>8169.0</ele>
+  <name>Old Stormy</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="46.502222222" lon="-114.399722222">
+  <ele>8822.0</ele>
+  <name>Ranger Peak</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="44.1875" lon="-113.478333333">
+  <ele>8648.0</ele>
+  <name>Taylor Mountain</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="43.342777778" lon="-111.258888889">
+  <ele>7480.0</ele>
+  <name>Congress Knob</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="43.336944444" lon="-111.313888889">
+  <ele>8711.0</ele>
+  <name>Red Peak</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="42.907777778" lon="-111.677222222">
+  <ele>7109.0</ele>
+  <name>Reservoir Mountain</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="46.639444444" lon="-114.851111111">
+  <ele>7326.0</ele>
+  <name>Blacklead Mountain</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="46.675" lon="-114.783611111">
+  <ele>7903.0</ele>
+  <name>Rhodes Peak</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="46.713888889" lon="-114.788333333">
+  <ele>7572.0</ele>
+  <name>Shale Mountain</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="46.656111111" lon="-114.799444444">
+  <ele>7628.0</ele>
+  <name>Williams Peak</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="44.598055556" lon="-115.720277778">
+  <ele>7070.0</ele>
+  <name>Cougar Rock</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="44.506111111" lon="-115.6275">
+  <ele>8602.0</ele>
+  <name>Rice Peak</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="43.4925" lon="-114.467222222">
+  <ele>8776.0</ele>
+  <name>Kelly Mountain</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="44.205555556" lon="-114.741111111">
+  <ele>9826.0</ele>
+  <name>Robinson Bar Peak</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="44.130833333" lon="-114.685555556">
+  <ele>10420.0</ele>
+  <name>Watson Peak</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="43.825555556" lon="-114.261388889">
+  <ele>7880.0</ele>
+  <name>Trail Creek Summit</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="43.746944444" lon="-115.3175">
+  <ele>9728.0</ele>
+  <name>Steel Mountain</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="48.628055556" lon="-116.594444444">
+  <ele>7221.0</ele>
+  <name>Roman Nose</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="43.697777778" lon="-115.071388889">
+  <ele>9491.0</ele>
+  <name>Gunsight Peak</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="43.725" lon="-115.015555556">
+  <ele>9744.0</ele>
+  <name>Ross Peak</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="42.755833333" lon="-116.371111111">
+  <ele>7047.0</ele>
+  <name>Rough Mountain</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="42.251111111" lon="-112.866666667">
+  <ele>7221.0</ele>
+  <name>Quaking Asp Mountain</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="45.941944444" lon="-115.046388889">
+  <ele>7503.0</ele>
+  <name>Bilk Mountain</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="45.912777778" lon="-115.061944444">
+  <ele>7798.0</ele>
+  <name>Elk Mountain</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="45.962777778" lon="-115.074722222">
+  <ele>7178.0</ele>
+  <name>Grave Meadow Peak</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="45.950277778" lon="-115.101111111">
+  <ele>7677.0</ele>
+  <name>Indian Peak</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="45.9375" lon="-115.105555556">
+  <ele>7585.0</ele>
+  <name>Rocky Peak</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="45.978888889" lon="-115.009166667">
+  <ele>7290.0</ele>
+  <name>Square Rock</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="44.715277778" lon="-116.723888889">
+  <ele>7595.0</ele>
+  <name>Rush Peak</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="43.912222222" lon="-114.481388889">
+  <ele>11555.0</ele>
+  <name>Glassford Peak</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="43.895833333" lon="-114.405">
+  <ele>10528.0</ele>
+  <name>Kent Peak</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="43.902222222" lon="-114.409444444">
+  <ele>11683.0</ele>
+  <name>Ryan Peak</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="45.7025" lon="-114.991666667">
+  <ele>8159.0</ele>
+  <name>Burnt Knob</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="45.696111111" lon="-114.901388889">
+  <ele>7237.0</ele>
+  <name>Lodgepole Hump</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="45.6575" lon="-114.935833333">
+  <ele>8225.0</ele>
+  <name>Sabe Mountain</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="45.716666667" lon="-114.955">
+  <ele>7736.0</ele>
+  <name>White Top Mountain</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="46.178333333" lon="-114.576666667">
+  <ele>7677.0</ele>
+  <name>Big Creek Point</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="46.131944444" lon="-114.565277778">
+  <ele>7526.0</ele>
+  <name>Cove Peak</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="46.186111111" lon="-114.542222222">
+  <ele>8195.0</ele>
+  <name>Saddle Mountain</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="42.664444444" lon="-111.073611111">
+  <ele>7585.0</ele>
+  <name>Buck Mountain</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="45.005833333" lon="-113.757777778">
+  <ele>7995.0</ele>
+  <name>K Mountain</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="45.014722222" lon="-113.843333333">
+  <ele>9564.0</ele>
+  <name>Sal Mountain</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="44.527222222" lon="-111.464444444">
+  <ele>8711.0</ele>
+  <name>Arange Peak</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="44.561666667" lon="-111.444444444">
+  <ele>9865.0</ele>
+  <name>Sawtell Peak</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="45.63" lon="-115.956388889">
+  <ele>8117.0</ele>
+  <name>Gospel Hill</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="45.633333333" lon="-115.932777778">
+  <ele>8369.0</ele>
+  <name>Pyramid Point</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="46.811388889" lon="-114.861388889">
+  <ele>7254.0</ele>
+  <name>Admiral Peak</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="44.360277778" lon="-112.855555556">
+  <ele>10968.0</ele>
+  <name>Italian Peak</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="44.353611111" lon="-112.821666667">
+  <ele>11378.0</ele>
+  <name>Scott Peak</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="44.344722222" lon="-112.817222222">
+  <ele>11184.0</ele>
+  <name>Webber Peak</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="42.745833333" lon="-112.346388889">
+  <ele>7290.0</ele>
+  <name>Indian Mountain</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="42.678055556" lon="-112.345555556">
+  <ele>8684.0</ele>
+  <name>Scout Mountain</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="43.446666667" lon="-114.215833333">
+  <ele>7510.0</ele>
+  <name>Lookout Mountain</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="42.545833333" lon="-111.945833333">
+  <ele>8330.0</ele>
+  <name>Baldy Mountain</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="42.515555556" lon="-111.923888889">
+  <ele>9153.0</ele>
+  <name>Sedgwick Peak</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="42.569166667" lon="-111.958055556">
+  <ele>7687.0</ele>
+  <name>Twin Knobs</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="43.755" lon="-116.098888889">
+  <ele>7054.0</ele>
+  <name>Deer Point</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="43.755" lon="-116.095833333">
+  <ele>7057.0</ele>
+  <name>Doe Point</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="43.791388889" lon="-116.090555556">
+  <ele>7221.0</ele>
+  <name>Mores Mountain</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="43.771666667" lon="-116.088888889">
+  <ele>7572.0</ele>
+  <name>Shafer Butte</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="45.584444444" lon="-115.045">
+  <ele>8235.0</ele>
+  <name>Center Mountain</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="45.588055556" lon="-115.088611111">
+  <ele>8353.0</ele>
+  <name>Sheep Hill</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="45.468333333" lon="-115.282777778">
+  <ele>7303.0</ele>
+  <name>Burnt Knob</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="45.39" lon="-115.346944444">
+  <ele>8481.0</ele>
+  <name>Sheepeater Mountain</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="44.588333333" lon="-113.381666667">
+  <ele>8294.0</ele>
+  <name>Leadore Hill</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="44.5425" lon="-113.480555556">
+  <ele>10394.0</ele>
+  <name>Rocky Peak</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="44.510277778" lon="-113.406666667">
+  <ele>10400.0</ele>
+  <name>Sheephorn Peak</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="44.681388889" lon="-114.57">
+  <ele>8937.0</ele>
+  <name>Fly Creek Point</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="44.699722222" lon="-114.562222222">
+  <ele>9222.0</ele>
+  <name>Sheldon Peak</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="44.991666667" lon="-114.905555556">
+  <ele>8930.0</ele>
+  <name>Brush Creek</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="44.956666667" lon="-114.936944444">
+  <ele>9367.0</ele>
+  <name>Shellrock Peak</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="44.988333333" lon="-114.9025">
+  <ele>9367.0</ele>
+  <name>Two Point Peak</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="43.781944444" lon="-113.642222222">
+  <ele>9367.0</ele>
+  <name>Big Flat Top</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="43.846666667" lon="-113.748055556">
+  <ele>11092.0</ele>
+  <name>Lime Mountain</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="43.797222222" lon="-113.75">
+  <ele>9511.0</ele>
+  <name>Lupine Mountain</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="43.756666667" lon="-113.733333333">
+  <ele>8648.0</ele>
+  <name>Middle Mountain</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="43.836666667" lon="-113.733611111">
+  <ele>11145.0</ele>
+  <name>Redbird Mountain</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="43.788055556" lon="-113.720277778">
+  <ele>8943.0</ele>
+  <name>Round Mountain</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="43.826666667" lon="-113.726944444">
+  <ele>11204.0</ele>
+  <name>Shelly Mountain</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="43.826388889" lon="-113.638611111">
+  <ele>7310.0</ele>
+  <name>Table Mountain</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="47.102222222" lon="-115.16">
+  <ele>7254.0</ele>
+  <name>Binocular Peak</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="44.527777778" lon="-114.739444444">
+  <ele>9751.0</ele>
+  <name>Mayfield Peak</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="44.532222222" lon="-114.640555556">
+  <ele>9626.0</ele>
+  <name>Sherman Peak</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="45.491944444" lon="-113.794444444">
+  <ele>8576.0</ele>
+  <name>Bitterroot Mountain</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="45.496666667" lon="-113.846388889">
+  <ele>8235.0</ele>
+  <name>Eagle Mountain</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="45.442777778" lon="-113.864444444">
+  <ele>8770.0</ele>
+  <name>N Mountain</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="45.455277778" lon="-113.785277778">
+  <ele>9541.0</ele>
+  <name>Pyramid Peak</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="45.480277778" lon="-113.760277778">
+  <ele>9875.0</ele>
+  <name>Sheep Mountain</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="44.177777778" lon="-113.610833333">
+  <ele>8960.0</ele>
+  <name>Squawtit</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="45.472777778" lon="-114.358611111">
+  <ele>8655.0</ele>
+  <name>Blue Nose</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="45.388333333" lon="-114.358888889">
+  <ele>7808.0</ele>
+  <name>Sheepeater Point</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="43.072777778" lon="-116.736388889">
+  <ele>7277.0</ele>
+  <name>Slacks Mountain</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="43.005277778" lon="-116.695555556">
+  <ele>7431.0</ele>
+  <name>Stormy Hill</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="43.006944444" lon="-116.704444444">
+  <ele>8041.0</ele>
+  <name>War Eagle Mountain</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="45.576111111" lon="-115.511111111">
+  <ele>7024.0</ele>
+  <name>Big Creek Point</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="44.380277778" lon="-115.929166667">
+  <ele>7123.0</ele>
+  <name>Skunk Creek Summit</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="44.835277778" lon="-114.683611111">
+  <ele>9249.0</ele>
+  <name>Martin Mountain</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="44.7675" lon="-114.691388889">
+  <ele>9793.0</ele>
+  <name>Sleeping Deer Mountain</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="44.802777778" lon="-114.6875">
+  <ele>8855.0</ele>
+  <name>Woodtick Summit</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="44.568055556" lon="-111.870833333">
+  <ele>9869.0</ele>
+  <name>Baldy Mountain</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="44.549444444" lon="-111.8575">
+  <ele>9816.0</ele>
+  <name>Slide Mountain</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="43.699722222" lon="-113.810555556">
+  <ele>11427.0</ele>
+  <name>Smiley Mountain</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="48.834166667" lon="-116.670555556">
+  <ele>7628.0</ele>
+  <name>Smith Peak</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="48.786388889" lon="-116.716388889">
+  <ele>7283.0</ele>
+  <name>The Lions Head</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="43.493611111" lon="-114.936388889">
+  <ele>10046.0</ele>
+  <name>Smoky Dome</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="42.598055556" lon="-111.240833333">
+  <ele>8730.0</ele>
+  <name>Green Mountain</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="43.941111111" lon="-114.933888889">
+  <ele>9862.0</ele>
+  <name>El Capitan</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="43.946388889" lon="-114.906388889">
+  <ele>10056.0</ele>
+  <name>McDonald Peak</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="43.967222222" lon="-114.932777778">
+  <ele>10111.0</ele>
+  <name>Parks Peak</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="43.992222222" lon="-114.9875">
+  <ele>10174.0</ele>
+  <name>Payette Peak</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="43.938333333" lon="-114.971388889">
+  <ele>10659.0</ele>
+  <name>Snowyside Peak</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="42.527222222" lon="-111.625277778">
+  <ele>8884.0</ele>
+  <name>Soda Peak</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="44.520277778" lon="-115.160833333">
+  <ele>9104.0</ele>
+  <name>Mount Mills</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="45.691944444" lon="-115.764722222">
+  <ele>7579.0</ele>
+  <name>Baking Powder Mountain</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="42.953055556" lon="-112.165">
+  <ele>8809.0</ele>
+  <name>Mount Putnam</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="42.913611111" lon="-112.130277778">
+  <ele>8937.0</ele>
+  <name>South Putnam Mountain</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="45.773888889" lon="-114.840277778">
+  <ele>7736.0</ele>
+  <name>Pyramid Mountain</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="45.787222222" lon="-114.855">
+  <ele>8005.0</ele>
+  <name>Spot Mountain</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="45.643055556" lon="-115.024166667">
+  <ele>8159.0</ele>
+  <name>Spread Creek Point</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="44.270833333" lon="-113.745">
+  <ele>9094.0</ele>
+  <name>Spring Hill</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="43.491944444" lon="-115.170277778">
+  <ele>7057.0</ele>
+  <name>Sprout Mountain</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="45.471388889" lon="-114.664444444">
+  <ele>8494.0</ele>
+  <name>Parker Mountain</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="45.473055556" lon="-114.6775">
+  <ele>8350.0</ele>
+  <name>Square Top</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="45.258888889" lon="-116.636111111">
+  <ele>7418.0</ele>
+  <name>Cliff Mountain</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="43.784722222" lon="-114.025">
+  <ele>11863.0</ele>
+  <name>Standhope Peak</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="44.171666667" lon="-115.049444444">
+  <ele>9787.0</ele>
+  <name>Alpine Peak</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="44.213333333" lon="-115.080833333">
+  <ele>9724.0</ele>
+  <name>McGown Peak</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="44.16" lon="-115.061111111">
+  <ele>10115.0</ele>
+  <name>Mount Regan</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="44.171111111" lon="-115.108888889">
+  <ele>9114.0</ele>
+  <name>Observation Peak</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="44.141388889" lon="-115.01">
+  <ele>10682.0</ele>
+  <name>Thompson Peak</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="44.1525" lon="-115.005833333">
+  <ele>10633.0</ele>
+  <name>Williams Peak</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="43.724444444" lon="-113.963333333">
+  <ele>10174.0</ele>
+  <name>Glide Mountain</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="43.630277778" lon="-113.956388889">
+  <ele>7539.0</ele>
+  <name>Mormon Hill</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="43.671388889" lon="-113.912777778">
+  <ele>10302.0</ele>
+  <name>Pioneer Mountain</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="43.6325" lon="-113.884722222">
+  <ele>10397.0</ele>
+  <name>Scorpion Mountain</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="43.640277778" lon="-113.993055556">
+  <ele>8494.0</ele>
+  <name>Swede Peak</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="42.744166667" lon="-111.159722222">
+  <ele>8970.0</ele>
+  <name>Draney Peak</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="44.925555556" lon="-115.300555556">
+  <ele>8665.0</ele>
+  <name>Cinnabar Peak</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="44.971944444" lon="-115.315277778">
+  <ele>8730.0</ele>
+  <name>Sugar Mountain</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="43.609722222" lon="-111.368888889">
+  <ele>8346.0</ele>
+  <name>Chicken Peak</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="43.619166667" lon="-111.362777778">
+  <ele>8658.0</ele>
+  <name>Liars Peak</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="43.547777778" lon="-111.348611111">
+  <ele>8507.0</ele>
+  <name>Stouts Mountain</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="45.503055556" lon="-114.817222222">
+  <ele>8104.0</ele>
+  <name>Eakin Point</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="45.606388889" lon="-114.824444444">
+  <ele>8517.0</ele>
+  <name>Goat Mountain</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="45.617222222" lon="-114.837777778">
+  <ele>8852.0</ele>
+  <name>Salmon Mountain</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="45.513333333" lon="-114.774444444">
+  <ele>8970.0</ele>
+  <name>Stripe Mountain</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="45.5225" lon="-114.829444444">
+  <ele>8501.0</ele>
+  <name>Swet Point</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="45.529166667" lon="-114.7625">
+  <ele>8986.0</ele>
+  <name>Thirteen Mountain</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="45.56" lon="-114.810277778">
+  <ele>7963.0</ele>
+  <name>Witter Point</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="42.900833333" lon="-111.185833333">
+  <ele>8212.0</ele>
+  <name>Stump Peak</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="44.6225" lon="-116.964722222">
+  <ele>7208.0</ele>
+  <name>Benton Peak</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="44.594166667" lon="-116.925833333">
+  <ele>7415.0</ele>
+  <name>Hitt Peak</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="44.62" lon="-116.943611111">
+  <ele>7572.0</ele>
+  <name>Sturgill Peak</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="43.704166667" lon="-114.309166667">
+  <ele>7723.0</ele>
+  <name>Proctor Mountain</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="44.371944444" lon="-114.641944444">
+  <ele>9413.0</ele>
+  <name>Bachelor Mountain</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="44.356944444" lon="-114.690555556">
+  <ele>9262.0</ele>
+  <name>Bonanza Peak</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="43.951388889" lon="-115.707777778">
+  <ele>8094.0</ele>
+  <name>Freeman Peak</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="43.960555556" lon="-115.686944444">
+  <ele>8090.0</ele>
+  <name>Pilot Peak</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="43.898611111" lon="-115.646666667">
+  <ele>7851.0</ele>
+  <name>Sunset Mountain</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="43.966944444" lon="-115.750555556">
+  <ele>7815.0</ele>
+  <name>Wilson Peak</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="43.976111111" lon="-113.369722222">
+  <ele>10695.0</ele>
+  <name>Sunset Peak</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="42.359444444" lon="-111.939444444">
+  <ele>7139.0</ele>
+  <name>Dry Hollow Mountain</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="43.965" lon="-115.350833333">
+  <ele>8812.0</ele>
+  <name>Goat Mountain</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="43.981666667" lon="-115.296666667">
+  <ele>7900.0</ele>
+  <name>Graham Peak</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="43.9725" lon="-115.3225">
+  <ele>8802.0</ele>
+  <name>Shephard Peak</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="43.964722222" lon="-115.316944444">
+  <ele>8556.0</ele>
+  <name>Silver Mountain</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="43.892777778" lon="-115.325833333">
+  <ele>8737.0</ele>
+  <name>Swanholm Peak</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="43.876111111" lon="-115.299444444">
+  <ele>8920.0</ele>
+  <name>West Warrior Peak</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="43.535" lon="-114.791944444">
+  <ele>8140.0</ele>
+  <name>Sydney Butte</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="44.724444444" lon="-111.348055556">
+  <ele>10197.0</ele>
+  <name>Bald Peak</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="44.728611111" lon="-111.323888889">
+  <ele>9534.0</ele>
+  <name>Lionhead</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="44.625" lon="-111.259166667">
+  <ele>8661.0</ele>
+  <name>Mount Two Top</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="44.710833333" lon="-111.415">
+  <ele>10187.0</ele>
+  <name>Black Mountain</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="44.7225" lon="-111.388333333">
+  <ele>10239.0</ele>
+  <name>Targhee Peak</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="44.972222222" lon="-114.219722222">
+  <ele>9078.0</ele>
+  <name>Moyer Peak</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="44.885" lon="-114.216111111">
+  <ele>9977.0</ele>
+  <name>Taylor Mountain</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="43.676666667" lon="-111.475555556">
+  <ele>7267.0</ele>
+  <name>East Farnes Mountain</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="43.668611111" lon="-111.498888889">
+  <ele>7379.0</ele>
+  <name>Farnes Mountain</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="43.633055556" lon="-111.476666667">
+  <ele>7707.0</ele>
+  <name>Twin Peaks</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="43.669166667" lon="-111.498611111">
+  <ele>7362.0</ele>
+  <name>West Farnes Mountain</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="42.400555556" lon="-111.853055556">
+  <ele>7969.0</ele>
+  <name>Thatcher Hill</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="48.734444444" lon="-116.683333333">
+  <ele>7096.0</ele>
+  <name>Kent Peak</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="48.651111111" lon="-116.660833333">
+  <ele>7070.0</ele>
+  <name>Twin Peaks</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="43.467222222" lon="-111.178333333">
+  <ele>8084.0</ele>
+  <name>Atkinson Peak</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="43.433888889" lon="-111.212777778">
+  <ele>8966.0</ele>
+  <name>Baldy Mountain</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="43.423888889" lon="-111.217777778">
+  <ele>8113.0</ele>
+  <name>Little Baldy Mountain</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="43.389722222" lon="-111.165">
+  <ele>9544.0</ele>
+  <name>Sheep Mountain</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="43.480277778" lon="-111.146111111">
+  <ele>8343.0</ele>
+  <name>Thompson Peak</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="45.772777778" lon="-114.926666667">
+  <ele>8176.0</ele>
+  <name>Three Prong Mountain</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="42.072222222" lon="-114.300555556">
+  <ele>7005.0</ele>
+  <name>Timber Butte</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="45.911944444" lon="-114.493611111">
+  <ele>8632.0</ele>
+  <name>Vance Mountain</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="45.472777778" lon="-114.413611111">
+  <ele>8228.0</ele>
+  <name>Tincup Hill</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="43.103611111" lon="-111.210555556">
+  <ele>8481.0</ele>
+  <name>Bald Mountain</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="43.118333333" lon="-111.129722222">
+  <ele>8786.0</ele>
+  <name>Black Mountain</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="43.119444444" lon="-111.216944444">
+  <ele>8323.0</ele>
+  <name>Old Baldy Peak</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="43.013611111" lon="-111.225">
+  <ele>8205.0</ele>
+  <name>Tincup Mountain</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="46.445277778" lon="-114.768888889">
+  <ele>7575.0</ele>
+  <name>Tom Beal Peak</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="47.155277778" lon="-115.248333333">
+  <ele>7090.0</ele>
+  <name>Little Joe Mountain</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="42.127777778" lon="-114.159722222">
+  <ele>7556.0</ele>
+  <name>Badger Mountain</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="42.141388889" lon="-114.1975">
+  <ele>7798.0</ele>
+  <name>Flatiron Mountain</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="42.184444444" lon="-114.190555556">
+  <ele>7592.0</ele>
+  <name>Freds Mound</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="42.231388889" lon="-114.164166667">
+  <ele>7464.0</ele>
+  <name>Fuller Peak</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="42.233611111" lon="-114.203888889">
+  <ele>7280.0</ele>
+  <name>Harrington Peak</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="42.128888889" lon="-114.218055556">
+  <ele>8041.0</ele>
+  <name>Monument Peak</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="42.1525" lon="-114.208888889">
+  <ele>7874.0</ele>
+  <name>Trapper Peak</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="43.598888889" lon="-115.428888889">
+  <ele>9449.0</ele>
+  <name>Trinity Mountain</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="44.430555556" lon="-116.163333333">
+  <ele>7651.0</ele>
+  <name>Gabes Peak</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="44.424444444" lon="-116.141666667">
+  <ele>8222.0</ele>
+  <name>Granite Peak</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="44.451388889" lon="-116.128611111">
+  <ele>8166.0</ele>
+  <name>Snowbank Mountain</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="44.383888889" lon="-116.127777778">
+  <ele>8067.0</ele>
+  <name>Tripod Peak</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="44.4575" lon="-116.159166667">
+  <ele>7864.0</ele>
+  <name>Wilson Peak</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="44.53" lon="-114.383333333">
+  <ele>9344.0</ele>
+  <name>Corkscrew Mountain</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="44.504444444" lon="-114.415277778">
+  <ele>7933.0</ele>
+  <name>Pine Summit</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="44.6" lon="-114.472222222">
+  <ele>9186.0</ele>
+  <name>Twin Peaks</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="44.571666667" lon="-114.479166667">
+  <ele>9790.0</ele>
+  <name>White Mountain</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="44.621388889" lon="-114.448611111">
+  <ele>9974.0</ele>
+  <name>White Valley Mountain</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="44.017777778" lon="-115.303888889">
+  <ele>8727.0</ele>
+  <name>Tyee Mountain</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="43.9375" lon="-112.954722222">
+  <ele>10758.0</ele>
+  <name>Saddle Mountain</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="43.988611111" lon="-112.965555556">
+  <ele>10669.0</ele>
+  <name>Tyler Peak</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="45.472777778" lon="-114.198611111">
+  <ele>7618.0</ele>
+  <name>Bald Mountain</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="45.443055556" lon="-114.240833333">
+  <ele>7041.0</ele>
+  <name>Dutchler Mountain</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="45.490833333" lon="-114.108333333">
+  <ele>7739.0</ele>
+  <name>Indian Peak</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="45.429722222" lon="-114.111388889">
+  <ele>7602.0</ele>
+  <name>Ulysses Mountain</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="44.561388889" lon="-111.6825">
+  <ele>9813.0</ele>
+  <name>Taylor Mountain</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="45.986666667" lon="-115.194722222">
+  <ele>7126.0</ele>
+  <name>Copper Butte</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="45.981388889" lon="-115.159166667">
+  <ele>7169.0</ele>
+  <name>Little Copper Butte</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="45.928888889" lon="-115.137222222">
+  <ele>7513.0</ele>
+  <name>Vermilion Peak</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="43.508888889" lon="-111.1175">
+  <ele>8898.0</ele>
+  <name>Fogg Hill</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="43.519722222" lon="-111.056111111">
+  <ele>8986.0</ele>
+  <name>Oliver Peak</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="45.173888889" lon="-115.903611111">
+  <ele>8445.0</ele>
+  <name>Diamond Rock</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="45.203055556" lon="-115.918055556">
+  <ele>7851.0</ele>
+  <name>Lake Rock</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="45.217777778" lon="-115.971388889">
+  <ele>8287.0</ele>
+  <name>Squaw Point</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="45.132222222" lon="-115.919166667">
+  <ele>9022.0</ele>
+  <name>Storm Peak</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="45.148055556" lon="-115.886944444">
+  <ele>8658.0</ele>
+  <name>Victor Peak</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="45.249166667" lon="-114.948888889">
+  <ele>8084.0</ele>
+  <name>Cold Mountain</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="45.129444444" lon="-114.879444444">
+  <ele>8143.0</ele>
+  <name>Horse Mountain</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="46.164722222" lon="-114.646388889">
+  <ele>7588.0</ele>
+  <name>Wahoo Peak</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="42.395555556" lon="-112.2925">
+  <ele>8806.0</ele>
+  <name>Wakley Peak</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="45.301944444" lon="-115.778055556">
+  <ele>7533.0</ele>
+  <name>Chimney Rock</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="45.374444444" lon="-115.846388889">
+  <ele>8435.0</ele>
+  <name>Marshall Mountain</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="45.321666667" lon="-115.794722222">
+  <ele>8209.0</ele>
+  <name>War Eagle Mountain</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="44.123888889" lon="-115.045555556">
+  <ele>10085.0</ele>
+  <name>Baron Peak</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="44.063055556" lon="-115.066666667">
+  <ele>7707.0</ele>
+  <name>Cony Peak</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="44.024444444" lon="-115.037222222">
+  <ele>10574.0</ele>
+  <name>Elk Peak</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="44.118055556" lon="-115.105277778">
+  <ele>9062.0</ele>
+  <name>Grandjean Peak</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="44.112777778" lon="-115.001111111">
+  <ele>10233.0</ele>
+  <name>Horstmann Peak</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="44.075" lon="-115.0425">
+  <ele>9094.0</ele>
+  <name>Monte Verita</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="44.058611111" lon="-115.043611111">
+  <ele>10249.0</ele>
+  <name>Packrat Peak</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="44.016944444" lon="-115.104166667">
+  <ele>9452.0</ele>
+  <name>Pinchot Mountain</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="44.035277778" lon="-115.041388889">
+  <ele>9245.0</ele>
+  <name>Reward Peak</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="44.091666667" lon="-115.021944444">
+  <ele>8232.0</ele>
+  <name>Tohobit Peak</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="44.079166667" lon="-115.053888889">
+  <ele>10144.0</ele>
+  <name>Warbonnet Peak</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="44.833888889" lon="-114.198888889">
+  <ele>8678.0</ele>
+  <name>Wards Butte</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="44.726666667" lon="-115.628611111">
+  <ele>8064.0</ele>
+  <name>Cabin Peak</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="44.7325" lon="-115.639444444">
+  <ele>8592.0</ele>
+  <name>Thunderbolt Mountain</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="44.199444444" lon="-111.186388889">
+  <ele>7008.0</ele>
+  <name>Moose Creek Butte</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="45.286666667" lon="-115.645833333">
+  <ele>7575.0</ele>
+  <name>Bemis Point</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="44.023611111" lon="-113.455833333">
+  <ele>7641.0</ele>
+  <name>Pass Creek Summit</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="44.008611111" lon="-113.480555556">
+  <ele>9390.0</ele>
+  <name>Warren Mountain</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="44.058055556" lon="-114.6525">
+  <ele>10302.0</ele>
+  <name>Blackmon Peak</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="44.102777778" lon="-114.628611111">
+  <ele>11332.0</ele>
+  <name>Lee Peak</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="44.008611111" lon="-114.6725">
+  <ele>10495.0</ele>
+  <name>Washington Peak</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="45.790277778" lon="-114.543888889">
+  <ele>8294.0</ele>
+  <name>Indian Hill</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="45.829444444" lon="-114.511666667">
+  <ele>8737.0</ele>
+  <name>Watchtower Peak</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="45.376111111" lon="-114.836944444">
+  <ele>7054.0</ele>
+  <name>Goat Point</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="45.48" lon="-114.794444444">
+  <ele>8658.0</ele>
+  <name>Lost Packer Peak</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="45.494166667" lon="-114.7925">
+  <ele>8802.0</ele>
+  <name>Waugh Mountain</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="45.424722222" lon="-114.766111111">
+  <ele>7379.0</ele>
+  <name>West Horse Point</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="42.920833333" lon="-111.404444444">
+  <ele>8287.0</ele>
+  <name>Henry Peak</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="46.664722222" lon="-114.395">
+  <ele>7195.0</ele>
+  <name>Skookum Butte</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="43.6075" lon="-111.448888889">
+  <ele>7041.0</ele>
+  <name>Wheaton Mountain</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="44.719444444" lon="-114.406944444">
+  <ele>9390.0</ele>
+  <name>White Goat Mountain</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="44.741666667" lon="-114.418611111">
+  <ele>8779.0</ele>
+  <name>White Mountain</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="44.786666667" lon="-115.730833333">
+  <ele>7713.0</ele>
+  <name>White Rock Peak</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="44.2875" lon="-115.531111111">
+  <ele>8366.0</ele>
+  <name>Whitehawk Mountain</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="44.464166667" lon="-115.711944444">
+  <ele>7618.0</ele>
+  <name>Monumental Peak</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="44.490833333" lon="-115.655277778">
+  <ele>8409.0</ele>
+  <name>Rocky Peak</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="44.388333333" lon="-115.664444444">
+  <ele>7969.0</ele>
+  <name>Wild Buck Peak</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="45.14" lon="-115.414166667">
+  <ele>9196.0</ele>
+  <name>Mount Eldridge</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="45.213333333" lon="-115.484722222">
+  <ele>7789.0</ele>
+  <name>Rattlesnake Peak</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="45.174166667" lon="-115.416388889">
+  <ele>8993.0</ele>
+  <name>Wolf Fang Peak</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="43.305833333" lon="-111.920555556">
+  <ele>7382.0</ele>
+  <name>Taylor Mountain</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="45.551666667" lon="-114.670833333">
+  <ele>7192.0</ele>
+  <name>Wood Hump</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="45.919722222" lon="-114.923611111">
+  <ele>7487.0</ele>
+  <name>Archer Mountain</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="45.926388889" lon="-114.968055556">
+  <ele>7490.0</ele>
+  <name>Box Car Mountain</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="45.9825" lon="-114.966388889">
+  <ele>7710.0</ele>
+  <name>Wylies Peak</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="44.593611111" lon="-113.521388889">
+  <ele>10558.0</ele>
+  <name>Gunsight Peak</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="44.515" lon="-113.502222222">
+  <ele>10522.0</ele>
+  <name>Junction Peak</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="44.522777778" lon="-113.518888889">
+  <ele>10800.0</ele>
+  <name>Yellow Peak</name>
+  <desc>ID</desc>
+</wpt>
+<wpt lat="44.976666667" lon="-115.443333333">
+  <ele>7697.0</ele>
+  <name>Bald Hill</name>
+  <desc>ID</desc>
+</wpt>
+</gpx>
