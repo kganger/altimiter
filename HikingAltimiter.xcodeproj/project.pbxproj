@@ -14,6 +14,10 @@
 		6002868F1AE413750083D6C2 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6002868E1AE413750083D6C2 /* Images.xcassets */; };
 		600286921AE413750083D6C2 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 600286901AE413750083D6C2 /* LaunchScreen.xib */; };
 		6002869E1AE413750083D6C2 /* HikingAltimiterTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6002869D1AE413750083D6C2 /* HikingAltimiterTests.swift */; };
+		601E4A511B000A8C00ADAEBA /* Altimiter.swift in Sources */ = {isa = PBXBuildFile; fileRef = 601E4A4D1B000A8C00ADAEBA /* Altimiter.swift */; };
+		601E4A521B000A8C00ADAEBA /* PreferenceHelper.swift in Sources */ = {isa = PBXBuildFile; fileRef = 601E4A4E1B000A8C00ADAEBA /* PreferenceHelper.swift */; };
+		601E4A531B000A8C00ADAEBA /* AltimiterDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 601E4A4F1B000A8C00ADAEBA /* AltimiterDelegate.swift */; };
+		601E4A541B000A8C00ADAEBA /* gpx.swift in Sources */ = {isa = PBXBuildFile; fileRef = 601E4A501B000A8C00ADAEBA /* gpx.swift */; };
 		6024799B1AED9A64008B1B4A /* Settings.bundle in Resources */ = {isa = PBXBuildFile; fileRef = 6024799A1AED9A64008B1B4A /* Settings.bundle */; };
 		602479A31AEDC3A2008B1B4A /* NM.gpx in Resources */ = {isa = PBXBuildFile; fileRef = 6024799C1AEDC3A2008B1B4A /* NM.gpx */; };
 		602479A41AEDC3A2008B1B4A /* HI.gpx in Resources */ = {isa = PBXBuildFile; fileRef = 6024799D1AEDC3A2008B1B4A /* HI.gpx */; };
@@ -26,13 +30,9 @@
 		602479AF1AEDD6D0008B1B4A /* CA.gpx in Resources */ = {isa = PBXBuildFile; fileRef = 602479AD1AEDD6D0008B1B4A /* CA.gpx */; };
 		6050DCAD1AF16090002AB7B8 /* GPSAltimiter.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6050DCAC1AF16090002AB7B8 /* GPSAltimiter.swift */; };
 		605748C21AF01A02007874F1 /* AltimiterWatchController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 605748C11AF01A02007874F1 /* AltimiterWatchController.swift */; };
-		607F20DB1AE42C1D006DBDDB /* Altimiter.swift in Sources */ = {isa = PBXBuildFile; fileRef = 607F20D41AE42C1D006DBDDB /* Altimiter.swift */; };
 		607F20DC1AE42C1D006DBDDB /* Chart.swift in Sources */ = {isa = PBXBuildFile; fileRef = 607F20D51AE42C1D006DBDDB /* Chart.swift */; };
-		607F20DD1AE42C1D006DBDDB /* AltimiterDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 607F20D61AE42C1D006DBDDB /* AltimiterDelegate.swift */; };
 		607F20DE1AE42C1D006DBDDB /* ChartColors.swift in Sources */ = {isa = PBXBuildFile; fileRef = 607F20D71AE42C1D006DBDDB /* ChartColors.swift */; };
 		607F20DF1AE42C1D006DBDDB /* ChartSeries.swift in Sources */ = {isa = PBXBuildFile; fileRef = 607F20D81AE42C1D006DBDDB /* ChartSeries.swift */; };
-		607F20E11AE42C1D006DBDDB /* PreferenceHelper.swift in Sources */ = {isa = PBXBuildFile; fileRef = 607F20DA1AE42C1D006DBDDB /* PreferenceHelper.swift */; };
-		607F20EF1AE57EF7006DBDDB /* gpx.swift in Sources */ = {isa = PBXBuildFile; fileRef = 607F20EE1AE57EF7006DBDDB /* gpx.swift */; };
 		607F20F11AE58115006DBDDB /* SavedPointHelper.swift in Sources */ = {isa = PBXBuildFile; fileRef = 607F20F01AE58115006DBDDB /* SavedPointHelper.swift */; };
 		607F20F31AE5AC5E006DBDDB /* CO.gpx in Resources */ = {isa = PBXBuildFile; fileRef = 607F20F21AE5AC5E006DBDDB /* CO.gpx */; };
 		607F20F51AE5B842006DBDDB /* CO.gpx in Resources */ = {isa = PBXBuildFile; fileRef = 607F20F21AE5AC5E006DBDDB /* CO.gpx */; };
@@ -98,6 +98,10 @@
 		600286971AE413750083D6C2 /* HikingAltimiterTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = HikingAltimiterTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		6002869C1AE413750083D6C2 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		6002869D1AE413750083D6C2 /* HikingAltimiterTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HikingAltimiterTests.swift; sourceTree = "<group>"; };
+		601E4A4D1B000A8C00ADAEBA /* Altimiter.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Altimiter.swift; sourceTree = "<group>"; };
+		601E4A4E1B000A8C00ADAEBA /* PreferenceHelper.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PreferenceHelper.swift; sourceTree = "<group>"; };
+		601E4A4F1B000A8C00ADAEBA /* AltimiterDelegate.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AltimiterDelegate.swift; sourceTree = "<group>"; };
+		601E4A501B000A8C00ADAEBA /* gpx.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = gpx.swift; sourceTree = "<group>"; };
 		6024799A1AED9A64008B1B4A /* Settings.bundle */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.plug-in"; path = Settings.bundle; sourceTree = "<group>"; };
 		6024799C1AEDC3A2008B1B4A /* NM.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; name = NM.gpx; path = ../../../Downloads/NM.gpx; sourceTree = "<group>"; };
 		6024799D1AEDC3A2008B1B4A /* HI.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; name = HI.gpx; path = ../../../Downloads/HI.gpx; sourceTree = "<group>"; };
@@ -112,13 +116,9 @@
 		605748B71AF010D8007874F1 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		605748C11AF01A02007874F1 /* AltimiterWatchController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AltimiterWatchController.swift; sourceTree = "<group>"; };
 		607F20D21AE424E2006DBDDB /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/Main.strings; sourceTree = "<group>"; };
-		607F20D41AE42C1D006DBDDB /* Altimiter.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = Altimiter.swift; path = ../../HikingApp/HikingApp/Altimiter.swift; sourceTree = "<group>"; };
 		607F20D51AE42C1D006DBDDB /* Chart.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = Chart.swift; path = ../../HikingApp/HikingApp/Chart.swift; sourceTree = "<group>"; };
-		607F20D61AE42C1D006DBDDB /* AltimiterDelegate.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = AltimiterDelegate.swift; path = ../../HikingApp/HikingApp/AltimiterDelegate.swift; sourceTree = "<group>"; };
 		607F20D71AE42C1D006DBDDB /* ChartColors.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = ChartColors.swift; path = ../../HikingApp/HikingApp/ChartColors.swift; sourceTree = "<group>"; };
 		607F20D81AE42C1D006DBDDB /* ChartSeries.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = ChartSeries.swift; path = ../../HikingApp/HikingApp/ChartSeries.swift; sourceTree = "<group>"; };
-		607F20DA1AE42C1D006DBDDB /* PreferenceHelper.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = PreferenceHelper.swift; path = ../../HikingApp/HikingApp/PreferenceHelper.swift; sourceTree = "<group>"; };
-		607F20EE1AE57EF7006DBDDB /* gpx.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = gpx.swift; path = ../../gpxImporttest/gpxImporttest/gpx.swift; sourceTree = "<group>"; };
 		607F20F01AE58115006DBDDB /* SavedPointHelper.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SavedPointHelper.swift; sourceTree = "<group>"; };
 		607F20F21AE5AC5E006DBDDB /* CO.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; name = CO.gpx; path = HikingAltimiterTests/CO.gpx; sourceTree = SOURCE_ROOT; };
 		607F20F81AE5C26F006DBDDB /* PlacesTableView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PlacesTableView.swift; sourceTree = "<group>"; };
@@ -260,10 +260,10 @@
 		607F20D31AE42C10006DBDDB /* Classes */ = {
 			isa = PBXGroup;
 			children = (
-				607F20EE1AE57EF7006DBDDB /* gpx.swift */,
-				607F20D41AE42C1D006DBDDB /* Altimiter.swift */,
-				607F20D61AE42C1D006DBDDB /* AltimiterDelegate.swift */,
-				607F20DA1AE42C1D006DBDDB /* PreferenceHelper.swift */,
+				601E4A4D1B000A8C00ADAEBA /* Altimiter.swift */,
+				601E4A4E1B000A8C00ADAEBA /* PreferenceHelper.swift */,
+				601E4A4F1B000A8C00ADAEBA /* AltimiterDelegate.swift */,
+				601E4A501B000A8C00ADAEBA /* gpx.swift */,
 				607F20F01AE58115006DBDDB /* SavedPointHelper.swift */,
 				6050DCAC1AF16090002AB7B8 /* GPSAltimiter.swift */,
 			);
@@ -508,19 +508,19 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				607F20E11AE42C1D006DBDDB /* PreferenceHelper.swift in Sources */,
 				607F20F11AE58115006DBDDB /* SavedPointHelper.swift in Sources */,
 				607F20DC1AE42C1D006DBDDB /* Chart.swift in Sources */,
 				607F20DF1AE42C1D006DBDDB /* ChartSeries.swift in Sources */,
-				607F20EF1AE57EF7006DBDDB /* gpx.swift in Sources */,
 				6002868A1AE413750083D6C2 /* ViewController.swift in Sources */,
-				607F20DB1AE42C1D006DBDDB /* Altimiter.swift in Sources */,
+				601E4A531B000A8C00ADAEBA /* AltimiterDelegate.swift in Sources */,
 				607F20F91AE5C26F006DBDDB /* PlacesTableView.swift in Sources */,
 				607F20DE1AE42C1D006DBDDB /* ChartColors.swift in Sources */,
 				600286851AE413750083D6C2 /* AppDelegate.swift in Sources */,
+				601E4A521B000A8C00ADAEBA /* PreferenceHelper.swift in Sources */,
 				6050DCAD1AF16090002AB7B8 /* GPSAltimiter.swift in Sources */,
-				607F20DD1AE42C1D006DBDDB /* AltimiterDelegate.swift in Sources */,
 				600286881AE413750083D6C2 /* HikingAltimiter.xcdatamodeld in Sources */,
+				601E4A511B000A8C00ADAEBA /* Altimiter.swift in Sources */,
+				601E4A541B000A8C00ADAEBA /* gpx.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
