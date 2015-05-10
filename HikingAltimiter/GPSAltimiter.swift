@@ -81,7 +81,8 @@ class GPSAltimiter: NSObject, CLLocationManagerDelegate{
                 CLError.LocationUnknown
             }
             
-            altimiter.delegate?.didStatusChange(description, isError: true)
+        
+            altimiter.delegate?.didStatusChange(description, isError: !altimiter.calibrationPerformed)
             
     }
     
@@ -152,6 +153,7 @@ class GPSAltimiter: NSObject, CLLocationManagerDelegate{
             altimiter.startAltitude = altimiter.calibratedAltitude
             altimiter.delegate?.didStatusChange("Calibrated with accuracy +- \(formatForDisplay(accuracy,roundToTens: false))", isError: false)
             setRecalbrateTask()
+            altimiter.autoSave()
             altimiter.statusChanged()
             
         }else if accuracy <= 5 {
