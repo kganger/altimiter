@@ -174,13 +174,13 @@ class GPSAltimiter: NSObject, CLLocationManagerDelegate{
     private func doReCalibrateFromGPS(accuracy : Int, altitude : Double){
         let timeElapsedInSeconds = -recalibrationStart.timeIntervalSinceNow
         println ("re calibrating from gps")
-        if accuracy < 0 || accuracy > 50 {
+        if accuracy < 0 || accuracy > 50 && calibrationData.count <= 10 {
             if   timeElapsedInSeconds > 30 {
                 locationManager.stopUpdatingLocation()
                 setRecalbrateTask()
             }
             
-        }else if calibrationData.count > 10 || timeElapsedInSeconds > 30 {
+        }else if calibrationData.count >= 10 || timeElapsedInSeconds > 30 {
             setCalibratedAltitudeFromData()
             println ("recalibrated with accuracy \(accuracy)" )
             

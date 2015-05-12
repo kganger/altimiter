@@ -33,6 +33,7 @@ class Altimiter: NSObject, CLLocationManagerDelegate{
     var calibrationPerformed = false
     var inBackground = false
     var altitudeUpdateRecieved = false
+    var simulation = false
     private var backgroundedTime = NSDate()
     let lock = NSCondition()
     
@@ -46,6 +47,7 @@ class Altimiter: NSObject, CLLocationManagerDelegate{
     override init(){
         super.init()
         useBarometer = CMAltimeter.isRelativeAltitudeAvailable() && prefs.boolForKey("useBarometer")
+         simulation = UIDevice.currentDevice().model == "iPhone Simulator"
         gps =  GPSAltimiter(altimiter:self)
     }
     
@@ -72,7 +74,7 @@ class Altimiter: NSObject, CLLocationManagerDelegate{
     
     func enterForegroundMode(){
           statusChanged()
-        if(!useBarometer){
+        if(!useBarometer && !simulation){
           gps.startUpdates()
         }else if (-backgroundedTime.timeIntervalSinceNow > 120) && prefs.boolForKey("recalibrateOnResume"){
             gps.reCalibrate()
@@ -141,7 +143,10 @@ class Altimiter: NSObject, CLLocationManagerDelegate{
         
         userStoped = false
         rollingAsscentRate = (NSDate(),0.0)
-        if UIDevice.currentDevice().model == "iPhone Simulator" {
+       
+        if simulation {
+            calibrationPerformed = true
+            
             simulateAltitude()
         }
     }
@@ -152,9 +157,13 @@ class Altimiter: NSObject, CLLocationManagerDelegate{
         doCommonCalibration()
         calibrationPerformed = false
         startTime = NSDate()
-        calibratedAltitude = 0
-        gps.calibrateAndStart()
-        lock.unlock()
+
+        if !simulation {
+            calibratedAltitude = 0
+            gps.calibrateAndStart()
+
+        }
+               lock.unlock()
 
         
     }
@@ -174,6 +183,9 @@ class Altimiter: NSObject, CLLocationManagerDelegate{
             userStoped = true
             calibrationPerformed=false
             delegate?.didStatusChange("Altitude Tracking Stopped", isError: false)
+            prefs.removeObjectForKey("startTime")
+            prefs.removeObjectForKey("startAltitude")
+            prefs.synchronize()
         }
         lock.unlock()
 
@@ -319,6 +331,7 @@ class Altimiter: NSObject, CLLocationManagerDelegate{
         rollingAsscentRate.altitude = calibratedAltitude
         rollingAsscentRate.timeStamp = NSDate()
         calibrationPerformed=true
+        gps.stopUpdates()
         doSimulatedUpdate(0)
         
         
