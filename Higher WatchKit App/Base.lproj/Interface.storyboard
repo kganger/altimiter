@@ -8,7 +8,7 @@
         <!--Higher-->
         <scene sceneID="aou-V4-d1y">
             <objects>
-                <controller title="Higher" id="AgC-eL-Hgc" customClass="InterfaceController" customModule="Higher_WatchKit_App" customModuleProvider="target">
+                <controller identifier="highter" title="Higher" id="AgC-eL-Hgc" customClass="InterfaceController" customModule="Higher_WatchKit_App" customModuleProvider="target">
                     <items>
                         <timer alignment="center" textAlignment="center" id="3wN-Ba-djc">
                             <color key="textColor" red="0.79380006849999996" green="1" blue="0.31941645600000002" alpha="1" colorSpace="calibratedRGB"/>
@@ -51,29 +51,48 @@
             </objects>
             <point key="canvasLocation" x="235" y="344.5"/>
         </scene>
-        <!--Interface Controller-->
+        <!--Remaining Controller-->
         <scene sceneID="aYB-jO-AFQ">
             <objects>
-                <controller id="NBg-rL-eJC">
+                <controller id="NBg-rL-eJC" customClass="RemainingController" customModule="Higher_WatchKit_Extension">
                     <items>
-                        <group width="135" height="78.5" alignment="left" id="xWc-Bt-zR1">
+                        <group width="135" height="49" alignment="left" layout="vertical" id="xWc-Bt-zR1">
                             <items>
-                                <label width="73.5" alignment="left" text="Remaining" textAlignment="left" id="G7X-wz-9dl">
+                                <label width="136" alignment="left" text="Remaining" textAlignment="left" id="G7X-wz-9dl">
+                                    <color key="textColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="calibratedRGB"/>
                                     <fontDescription key="font" style="UICTFontTextStyleHeadline"/>
                                 </label>
-                                <label width="90.5" alignment="left" verticalAlignment="center" text="Label" textAlignment="left" id="lmm-hI-tpB"/>
+                                <label width="90.5" alignment="left" verticalAlignment="center" text="Label" textAlignment="left" id="lmm-hI-tpB">
+                                    <color key="textColor" red="0.79380006849999996" green="1" blue="0.31941645600000002" alpha="1" colorSpace="calibratedRGB"/>
+                                </label>
                             </items>
                             <color key="backgroundColor" red="0.098039217293262482" green="0.098039217293262482" blue="0.098039217293262482" alpha="1" colorSpace="calibratedRGB"/>
                         </group>
+                        <group width="135" height="49" alignment="left" layout="vertical" id="Xdm-MG-X0K">
+                            <items>
+                                <label width="136" alignment="left" text="Climbed" textAlignment="left" id="hyP-XQ-LVj">
+                                    <color key="textColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="calibratedRGB"/>
+                                    <fontDescription key="font" style="UICTFontTextStyleHeadline"/>
+                                </label>
+                                <label width="90.5" alignment="left" verticalAlignment="center" text="Label" textAlignment="left" id="Tx4-1t-rZp">
+                                    <color key="textColor" red="0.79380006849999996" green="1" blue="0.31941645600000002" alpha="1" colorSpace="calibratedRGB"/>
+                                </label>
+                            </items>
+                            <color key="backgroundColor" red="0.098039217289999994" green="0.098039217289999994" blue="0.098039217289999994" alpha="1" colorSpace="calibratedRGB"/>
+                        </group>
                     </items>
+                    <connections>
+                        <outlet property="climbedLabel" destination="Tx4-1t-rZp" id="swm-RS-MFI"/>
+                        <outlet property="remainingLabel" destination="lmm-hI-tpB" id="gFL-FX-yUf"/>
+                    </connections>
                 </controller>
             </objects>
             <point key="canvasLocation" x="403" y="344"/>
         </scene>
-        <!--Done-->
+        <!--setDestination-->
         <scene sceneID="Ns1-ZD-5pd">
             <objects>
-                <controller identifier="setDestination" title="Done" id="T6Y-bq-g1w" customClass="SetDestinationController" customModule="Higher_WatchKit_Extension">
+                <controller identifier="setDestination" title="setDestination" id="T6Y-bq-g1w" customClass="SetDestinationController" customModule="Higher_WatchKit_Extension">
                     <items>
                         <group width="1" alignment="left" id="QU8-xp-jwQ">
                             <items>
@@ -117,9 +136,9 @@
                                 <timer alignment="left" id="CbI-5n-KBW"/>
                             </items>
                         </group>
-                        <group alignment="left" contentMode="scaleAspectFit" id="uCw-4Q-Ouw">
+                        <group alignment="left" backgroundImage="graph_inactive" contentMode="scaleAspectFit" id="uCw-4Q-Ouw">
                             <items>
-                                <label width="1" alignment="center" verticalAlignment="center" text="Getting Altitude" textAlignment="center" id="YbE-h9-g9D">
+                                <label width="1" alignment="center" verticalAlignment="center" text="Unknown" textAlignment="center" id="YbE-h9-g9D">
                                     <color key="textColor" red="0.79380006849999996" green="1" blue="0.31941645600000002" alpha="1" colorSpace="calibratedRGB"/>
                                     <fontDescription key="font" style="UICTFontTextStyleHeadline"/>
                                 </label>

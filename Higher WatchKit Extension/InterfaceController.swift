@@ -22,7 +22,8 @@ class InterfaceController: AltimiterWatchController {
     }
        
     @IBAction func doSetDestination(){
-        pushControllerWithName("setDestination", context: self)
+        println ("setting destintation")
+        presentControllerWithName("setDestination", context: self)
     }
     
     @IBAction func doStart(){

@@ -23,17 +23,13 @@ class SetDestinationController : WKInterfaceController {
     }
     
     @IBAction func saveDestination() {
-        
-        
         WKInterfaceController.openParentApplication(["action": "setDestination","destination": selectedValue],
             reply: { (replyInfo, error) -> Void in
-                
                 self.mainController.handleReply(replyInfo, error: error)
-                
         })
 
    
-        popController()
+        dismissController()
     }
     override func awakeWithContext(context: AnyObject?) {
         super.awakeWithContext(context)

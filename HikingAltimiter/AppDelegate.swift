@@ -78,6 +78,8 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
         retValues["percentComplete"] = altimiter.getPercentComplete()
         retValues["userStoped"] = altimiter.userStoped 
         retValues["startTime"] = altimiter.startTime
+        retValues["remaining"] = ViewController.getRemainingText(altimiter)
+        retValues["climbed"] = altimiter.formatForDisplay(altimiter.alititudeChange, roundToTens: true)
         
         reply(retValues)
     }

@@ -155,12 +155,11 @@ class Altimiter: NSObject, CLLocationManagerDelegate{
         stopTracking()
         lock.lock()
         doCommonCalibration()
-        calibrationPerformed = false
         startTime = NSDate()
-
         if !simulation {
             calibratedAltitude = 0
             gps.calibrateAndStart()
+            calibrationPerformed = false
 
         }
                lock.unlock()

@@ -14,9 +14,12 @@ class AltimiterWatchController : WKInterfaceController {
     var startTime : NSDate?
     var percentComplete : NSNumber = 0
     var destinationAltitude : NSNumber = 0
+    var climbed = ""
+    var remaining = ""
     var userStopped = false
     var isPaused = false
     var submitedAction = false
+    var lastImageName = "graph000"
     @IBOutlet weak var currentAltitudeLabel: WKInterfaceLabel!
     
     
@@ -30,24 +33,28 @@ class AltimiterWatchController : WKInterfaceController {
     }
     
     func updateBackground(){
-        let number = lroundf(percentComplete.floatValue * 100)
-        if (destinationAltitude.floatValue > 0 && number > 0 && number <= 100){
-            let formatter = NSNumberFormatter()
-            
-            formatter.numberStyle = NSNumberFormatterStyle.NoStyle
-            formatter.roundingIncrement = 0
-            formatter.minimumIntegerDigits = 3
-            var numberString = formatter.stringFromNumber(number)
-            if(numberString != nil){
-                let imageName = "graph\(numberString!)"
-                println ("setting background to '\(imageName)'")
-                group.setBackgroundImageNamed(imageName)
+        if group != nil {
+            let number = lroundf(percentComplete.floatValue * 100)
+            if (destinationAltitude.floatValue > 0 && number > 0 && number <= 100){
+                let formatter = NSNumberFormatter()
                 
+                formatter.numberStyle = NSNumberFormatterStyle.NoStyle
+                formatter.roundingIncrement = 0
+                formatter.minimumIntegerDigits = 3
+                var numberString = formatter.stringFromNumber(number)
+                if(numberString != nil){
+                    lastImageName = "graph\(numberString!)"
+                    println ("setting background to '\(lastImageName)'")
+                    group.setBackgroundImageNamed(lastImageName)
+                }
             }
-            
         }
- 
         
+    }
+    
+     override func willActivate() {
+        super.willActivate()
+        self.didReciveData()
     }
     
     func didPause(){
@@ -61,7 +68,7 @@ class AltimiterWatchController : WKInterfaceController {
     }
     
     func didResume(){
-        group.setBackgroundImageNamed("blank")
+        group.setBackgroundImageNamed(lastImageName)
         currentAltitudeLabel.setHidden(false)
         if(timer != nil){
             timer?.start()
@@ -130,6 +137,16 @@ class AltimiterWatchController : WKInterfaceController {
             self.userStopped = replyInfo["userStoped"]! as Bool
         }
         
+        if(replyInfo["remaining"]  != nil){
+            self.remaining = replyInfo["remaining"]! as NSString
+        }
+        
+        if(replyInfo["climbed"] != nil){
+            self.climbed = replyInfo["climbed"]! as NSString
+        }
+
+
+        
         
         self.didReciveData()
         //handle update in main queue
@@ -176,6 +193,10 @@ class AltimiterWatchController : WKInterfaceController {
 
         }
         
+    }
+    
+    override func contextForSegueWithIdentifier(segueIdentifier: String) -> AnyObject?{
+        return self
     }
     
     

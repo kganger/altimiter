@@ -14,6 +14,7 @@
 		6002868F1AE413750083D6C2 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6002868E1AE413750083D6C2 /* Images.xcassets */; };
 		600286921AE413750083D6C2 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 600286901AE413750083D6C2 /* LaunchScreen.xib */; };
 		6002869E1AE413750083D6C2 /* HikingAltimiterTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6002869D1AE413750083D6C2 /* HikingAltimiterTests.swift */; };
+		601850501B0410020069B3BD /* RemainingController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6018504F1B0410020069B3BD /* RemainingController.swift */; };
 		601E4A511B000A8C00ADAEBA /* Altimiter.swift in Sources */ = {isa = PBXBuildFile; fileRef = 601E4A4D1B000A8C00ADAEBA /* Altimiter.swift */; };
 		601E4A521B000A8C00ADAEBA /* PreferenceHelper.swift in Sources */ = {isa = PBXBuildFile; fileRef = 601E4A4E1B000A8C00ADAEBA /* PreferenceHelper.swift */; };
 		601E4A531B000A8C00ADAEBA /* AltimiterDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 601E4A4F1B000A8C00ADAEBA /* AltimiterDelegate.swift */; };
@@ -97,6 +98,7 @@
 		600286971AE413750083D6C2 /* HikingAltimiterTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = HikingAltimiterTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		6002869C1AE413750083D6C2 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		6002869D1AE413750083D6C2 /* HikingAltimiterTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HikingAltimiterTests.swift; sourceTree = "<group>"; };
+		6018504F1B0410020069B3BD /* RemainingController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = RemainingController.swift; sourceTree = "<group>"; };
 		601E4A4D1B000A8C00ADAEBA /* Altimiter.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Altimiter.swift; sourceTree = "<group>"; };
 		601E4A4E1B000A8C00ADAEBA /* PreferenceHelper.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PreferenceHelper.swift; sourceTree = "<group>"; };
 		601E4A4F1B000A8C00ADAEBA /* AltimiterDelegate.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AltimiterDelegate.swift; sourceTree = "<group>"; };
@@ -303,6 +305,7 @@
 				60F867FD1AEEDD6400067EC5 /* Images.xcassets */,
 				60F867F41AEEDD6300067EC5 /* Supporting Files */,
 				60DD027C1AF299A7008D9503 /* SetDestinationController.swift */,
+				6018504F1B0410020069B3BD /* RemainingController.swift */,
 			);
 			path = "Higher WatchKit Extension";
 			sourceTree = "<group>";
@@ -544,6 +547,7 @@
 				60DD027D1AF299A7008D9503 /* SetDestinationController.swift in Sources */,
 				60F867F81AEEDD6400067EC5 /* InterfaceController.swift in Sources */,
 				60F867FC1AEEDD6400067EC5 /* GlanceController.swift in Sources */,
+				601850501B0410020069B3BD /* RemainingController.swift in Sources */,
 				605748C21AF01A02007874F1 /* AltimiterWatchController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
