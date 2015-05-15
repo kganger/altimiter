@@ -29,13 +29,14 @@ class Altimiter: NSObject, CLLocationManagerDelegate{
     let gps : GPSAltimiter!
     
     var userStoped = false
-    private var altimiterRunning = false
+    var altimiterRunning = false
     var calibrationPerformed = false
     var inBackground = false
-    var altitudeUpdateRecieved = false
+    var lastUpdateRceived : NSDate?
     var simulation = false
     private var backgroundedTime = NSDate()
     let lock = NSCondition()
+
     
    
     
@@ -50,14 +51,7 @@ class Altimiter: NSObject, CLLocationManagerDelegate{
          simulation = UIDevice.currentDevice().model == "iPhone Simulator"
         gps =  GPSAltimiter(altimiter:self)
     }
-    
-    func getCurrentAltitudeSynchcronsously()->Double{
-       altitudeUpdateRecieved = false
-//        while !altitudeUpdateRecieved {
-//            lock.wait()
-//        }
-          return currentAltititude
-    }
+
     
  
     func setDelegate(delegate: AltimiterDelegate){
@@ -76,7 +70,7 @@ class Altimiter: NSObject, CLLocationManagerDelegate{
           statusChanged()
         if(!useBarometer && !simulation){
           gps.startUpdates()
-        }else if (-backgroundedTime.timeIntervalSinceNow > 120) && prefs.boolForKey("recalibrateOnResume"){
+        }else if (-backgroundedTime.timeIntervalSinceNow > 60 * 120) && prefs.boolForKey("recalibrateOnResume"){
             gps.reCalibrate()
         }
       
@@ -92,7 +86,8 @@ class Altimiter: NSObject, CLLocationManagerDelegate{
             lock.unlock()
              //if there was an autosave from today then restart
              let lastAutoSaveStart = prefs.objectForKey("startTime") as NSDate?
-            if lastAutoSaveStart != nil && (-lastAutoSaveStart!.timeIntervalSinceNow  < 86400){
+          
+            if prefs.boolForKey("resumeFromAutosave") && lastAutoSaveStart != nil && (-lastAutoSaveStart!.timeIntervalSinceNow  < 86400){
                resumeFromSave()
             }else{
                 calibrateAndStart()
@@ -143,7 +138,7 @@ class Altimiter: NSObject, CLLocationManagerDelegate{
         
         userStoped = false
         rollingAsscentRate = (NSDate(),0.0)
-       
+         delegate?.didStatusChange("Begining Calibration", isError: false)
         if simulation {
             calibrationPerformed = true
             
@@ -154,6 +149,7 @@ class Altimiter: NSObject, CLLocationManagerDelegate{
     func calibrateAndStart(){
         stopTracking()
         lock.lock()
+        lastUpdateRceived = nil
         doCommonCalibration()
         startTime = NSDate()
         if !simulation {
@@ -170,6 +166,7 @@ class Altimiter: NSObject, CLLocationManagerDelegate{
     
     func setDestination(altitude : NSNumber){
         destinationAltitude = prefs.boolForKey("useMetric") ? altitude.doubleValue : altitude.doubleValue / 3.28084
+         prefs.setDouble(destinationAltitude, forKey: "destinationAltitude")
         delegate?.didDestinationAltitudeChange(self)
         delegate?.didStatusChange("Destination altitude set to \(formatForDisplay(destinationAltitude, roundToTens: false))", isError: false)
     }
@@ -180,12 +177,14 @@ class Altimiter: NSObject, CLLocationManagerDelegate{
             altimeter.stopRelativeAltitudeUpdates()
             gps.stopUpdates()
             userStoped = true
+            altimiterRunning=false
             calibrationPerformed=false
             delegate?.didStatusChange("Altitude Tracking Stopped", isError: false)
             prefs.removeObjectForKey("startTime")
             prefs.removeObjectForKey("startAltitude")
+            prefs.removeObjectForKey("destinationAltitude")
             prefs.synchronize()
-        }
+                  }
         lock.unlock()
 
     }
@@ -331,6 +330,7 @@ class Altimiter: NSObject, CLLocationManagerDelegate{
         rollingAsscentRate.timeStamp = NSDate()
         calibrationPerformed=true
         gps.stopUpdates()
+        autoSave()
         doSimulatedUpdate(0)
         
         
@@ -357,10 +357,8 @@ class Altimiter: NSObject, CLLocationManagerDelegate{
         if(delegate != nil){
             delegate?.didAltitudeChange(self)
         }
-//        lock.lock()
-//        altitudeUpdateRecieved = true
-//        lock.broadcast()
-//        lock.unlock()
+        lastUpdateRceived = NSDate()
+
     }
 }
 

@@ -39,7 +39,6 @@ class ViewController: UIViewController, AltimiterDelegate{
     
     //member variables
     private let  appDelegate = (UIApplication.sharedApplication().delegate as AppDelegate)
-    private var currentlyTracking = true
     private var altimiter = Altimiter()
     private var statusHidden = false
     private let prefs =  PreferenceHelper.getUserDefaults()
@@ -102,10 +101,8 @@ class ViewController: UIViewController, AltimiterDelegate{
     
     
     @IBAction func toggleTracking(sender: AnyObject) {
-        if currentlyTracking {
+        if  altimiter.altimiterRunning {
             altimiter.stopTracking()
-            actionButton.setTitle("Start Tracking", forState: UIControlState.Normal)
-            currentlyTracking = false
             hideStatusLabel()
         }else{
             hideKeyboard()
@@ -113,9 +110,15 @@ class ViewController: UIViewController, AltimiterDelegate{
             activityIndicator.startAnimating()
             
             altimiter.calibrateAndStart()
-            actionButton.setTitle("Stop Tracking", forState: UIControlState.Normal)
-            currentlyTracking = true
         }
+        updateTrackingButtons()
+    }
+    
+    func updateTrackingButtons(){
+        let title = altimiter.altimiterRunning ? "Stop Tracking" : "Start Tracking"
+        println ("updating buttons \(altimiter.altimiterRunning) \(title)")
+        actionButton.setTitle(title, forState: UIControlState.Normal)
+
     }
     
     class func getRemainingText(altimiter : Altimiter) -> String {
@@ -178,11 +181,9 @@ class ViewController: UIViewController, AltimiterDelegate{
             let okAction = UIAlertAction(title: "OK", style: .Cancel, handler: { action in })
             alertController.addAction(okAction)
             presentViewController(alertController, animated: true, completion: nil)
-            if(currentlyTracking){
-                toggleTracking(actionButton)
-            }
-            activityIndicator.hidden = true
+                        activityIndicator.hidden = true
             actionButton.enabled = true
+            
             
         }else{
             statusLabel.text = status
@@ -196,6 +197,8 @@ class ViewController: UIViewController, AltimiterDelegate{
                     }, completion: nil)
             }
         }
+        updateTrackingButtons()
+
     }
     
     func didDestinationAltitudeChange(altimiter : Altimiter){

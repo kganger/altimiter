@@ -45,16 +45,16 @@
                         <outlet property="currentAltitudeLabel" destination="U9e-mc-sdC" id="WGD-fL-csu"/>
                         <outlet property="group" destination="voT-fI-9AO" id="dHt-S2-Arr"/>
                         <outlet property="timer" destination="3wN-Ba-djc" id="UjW-qp-sUf"/>
-                        <segue destination="NBg-rL-eJC" kind="relationship" relationship="nextPage" id="7ly-en-bET"/>
+                        <segue destination="NBg-rL-eJC" kind="relationship" relationship="nextPage" id="sBF-Fo-p4W"/>
                     </connections>
                 </controller>
             </objects>
             <point key="canvasLocation" x="235" y="344.5"/>
         </scene>
-        <!--Remaining Controller-->
+        <!--remaining-->
         <scene sceneID="aYB-jO-AFQ">
             <objects>
-                <controller id="NBg-rL-eJC" customClass="RemainingController" customModule="Higher_WatchKit_Extension">
+                <controller identifier="remaining" id="NBg-rL-eJC" customClass="RemainingController" customModule="Higher_WatchKit_Extension">
                     <items>
                         <group width="135" height="49" alignment="left" layout="vertical" id="xWc-Bt-zR1">
                             <items>
@@ -62,7 +62,7 @@
                                     <color key="textColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="calibratedRGB"/>
                                     <fontDescription key="font" style="UICTFontTextStyleHeadline"/>
                                 </label>
-                                <label width="90.5" alignment="left" verticalAlignment="center" text="Label" textAlignment="left" id="lmm-hI-tpB">
+                                <label width="90.5" alignment="left" verticalAlignment="center" text="Unknown" textAlignment="left" id="lmm-hI-tpB">
                                     <color key="textColor" red="0.79380006849999996" green="1" blue="0.31941645600000002" alpha="1" colorSpace="calibratedRGB"/>
                                 </label>
                             </items>
@@ -74,7 +74,7 @@
                                     <color key="textColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="calibratedRGB"/>
                                     <fontDescription key="font" style="UICTFontTextStyleHeadline"/>
                                 </label>
-                                <label width="90.5" alignment="left" verticalAlignment="center" text="Label" textAlignment="left" id="Tx4-1t-rZp">
+                                <label width="90.5" alignment="left" verticalAlignment="center" text="Unknown" textAlignment="left" id="Tx4-1t-rZp">
                                     <color key="textColor" red="0.79380006849999996" green="1" blue="0.31941645600000002" alpha="1" colorSpace="calibratedRGB"/>
                                 </label>
                             </items>
@@ -92,7 +92,7 @@
         <!--setDestination-->
         <scene sceneID="Ns1-ZD-5pd">
             <objects>
-                <controller identifier="setDestination" title="setDestination" id="T6Y-bq-g1w" customClass="SetDestinationController" customModule="Higher_WatchKit_Extension">
+                <controller identifier="setDestination" id="T6Y-bq-g1w" customClass="SetDestinationController" customModule="Higher_WatchKit_Extension">
                     <items>
                         <group width="1" alignment="left" id="QU8-xp-jwQ">
                             <items>
@@ -102,7 +102,7 @@
                                 </label>
                             </items>
                         </group>
-                        <slider width="1" alignment="center" continuous="YES" value="5000" maximum="15000" steps="250" id="AV3-tI-MCq">
+                        <slider width="1" alignment="center" continuous="YES" value="5000" maximum="15000" steps="60" id="AV3-tI-MCq">
                             <color key="color" red="0.79380006849999996" green="1" blue="0.31941645600000002" alpha="1" colorSpace="calibratedRGB"/>
                             <connections>
                                 <action selector="sliderChanged:" destination="T6Y-bq-g1w" id="CbK-7x-eMi"/>

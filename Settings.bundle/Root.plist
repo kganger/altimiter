@@ -54,9 +54,9 @@
 			<key>DefaultValue</key>
 			<true/>
 			<key>Key</key>
-			<string>recalibrateOnResume</string>
+			<string>resumeFromAutosave</string>
 			<key>Title</key>
-			<string>Re Calibrate On Resume</string>
+			<string>Resume From Autosave</string>
 			<key>Type</key>
 			<string>PSToggleSwitchSpecifier</string>
 		</dict>
@@ -64,9 +64,9 @@
 			<key>DefaultValue</key>
 			<true/>
 			<key>Key</key>
-			<string>useBarometer</string>
+			<string>recalibrateOnResume</string>
 			<key>Title</key>
-			<string>Use barometer if available</string>
+			<string>Re Calibrate On Resume</string>
 			<key>Type</key>
 			<string>PSToggleSwitchSpecifier</string>
 		</dict>

@@ -14,12 +14,12 @@ class AltimiterWatchController : WKInterfaceController {
     var startTime : NSDate?
     var percentComplete : NSNumber = 0
     var destinationAltitude : NSNumber = 0
-    var climbed = ""
-    var remaining = ""
+    var lastUpdateRecieved : NSDate?
     var userStopped = false
     var isPaused = false
     var submitedAction = false
     var lastImageName = "graph000"
+    var inForeground = false
     @IBOutlet weak var currentAltitudeLabel: WKInterfaceLabel!
     
     
@@ -29,7 +29,7 @@ class AltimiterWatchController : WKInterfaceController {
     override func awakeWithContext(context: AnyObject?) {
         super.awakeWithContext(context)
         // Configure interface objects here.
-        updateFromApp()
+        updateFromApp(true,isMainUpdateThread: true)
     }
     
     func updateBackground(){
@@ -54,7 +54,13 @@ class AltimiterWatchController : WKInterfaceController {
     
      override func willActivate() {
         super.willActivate()
+        inForeground = true
+        updateFromApp(true,isMainUpdateThread: false)
         self.didReciveData()
+    }
+    
+    override func didDeactivate() {
+       inForeground = false
     }
     
     func didPause(){
@@ -118,6 +124,9 @@ class AltimiterWatchController : WKInterfaceController {
   
     
     func handleReply(replyInfo: [NSObject : AnyObject]!, error: NSError!){
+        if(replyInfo != nil){
+            
+      
         if(replyInfo["percentComplete"] != nil){
             self.percentComplete = replyInfo["percentComplete"]! as NSNumber
         }
@@ -137,25 +146,19 @@ class AltimiterWatchController : WKInterfaceController {
             self.userStopped = replyInfo["userStoped"]! as Bool
         }
         
-        if(replyInfo["remaining"]  != nil){
-            self.remaining = replyInfo["remaining"]! as NSString
-        }
+            
         
-        if(replyInfo["climbed"] != nil){
-            self.climbed = replyInfo["climbed"]! as NSString
-        }
+        self.lastUpdateRecieved = replyInfo["lastUpdateRecieved"] as? NSDate
+        let prefs = NSUserDefaults.standardUserDefaults()
+        prefs.setObject(replyInfo["remaining"] , forKey: "remaining")
+            prefs.setObject(replyInfo["climbed"] , forKey: "climbed")
 
-
-        
         
         self.didReciveData()
-        //handle update in main queue
-        let delayTime = dispatch_time(DISPATCH_TIME_NOW,
-            Int64(5 * Double(NSEC_PER_SEC)))
-
-        dispatch_after(delayTime, dispatch_get_main_queue()) {
-            self.updateFromApp()
+        }else if error != nil{
+            currentAltitude = "Error"
         }
+    
         
 
     }
@@ -163,7 +166,7 @@ class AltimiterWatchController : WKInterfaceController {
     
     
     
-    func updateFromApp(){
+    func updateFromApp(scheduleUpdates: Bool, isMainUpdateThread:Bool){
         if(!submitedAction){
             WKInterfaceController.openParentApplication(["action": "refreshData"],
                 reply: { (replyInfo, error) -> Void in
@@ -171,6 +174,20 @@ class AltimiterWatchController : WKInterfaceController {
                     
                     
             })
+        }
+        
+        if(scheduleUpdates){
+            
+            if isMainUpdateThread || inForeground {
+                let seconds = isMainUpdateThread ? 60 : 1 as Double
+                let delayTime = dispatch_time(DISPATCH_TIME_NOW,
+                    Int64(seconds * Double(NSEC_PER_SEC)))
+                
+                dispatch_after(delayTime, dispatch_get_main_queue()) {
+                    self.updateFromApp(true,isMainUpdateThread: isMainUpdateThread)
+                }
+            }
+            
         }
         
         
@@ -181,9 +198,15 @@ class AltimiterWatchController : WKInterfaceController {
     func didReciveData(){
                   handlePaused()
         if(!isPaused){
-            if(currentAltitudeLabel != nil){
+            let secondsSinceUpdate = lastUpdateRecieved != nil ? -lastUpdateRecieved!.timeIntervalSinceNow : 10000 as NSNumber
+            println ("seconds since update = \(secondsSinceUpdate)")
+            if secondsSinceUpdate.floatValue > (60 * 5) {
+                currentAltitudeLabel.setText("Updating")
+            }else if(currentAltitudeLabel != nil){
                 currentAltitudeLabel.setText(currentAltitude)
             }
+            
+            
                       updateBackground()
             if(startTime != nil && timer != nil  ){
                 timer?.setDate(startTime!)

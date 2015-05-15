@@ -24,7 +24,7 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
      
         loadPointDatabase()
         altimiter.startIfNotRunning()
-        // Override point for customization after application launch.
+               // Override point for customization after application launch.
         return true
     }
     
@@ -50,10 +50,7 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
     }
     
     func application(application: UIApplication!, handleWatchKitExtensionRequest userInfo: [NSObject : AnyObject]!, reply: (([NSObject : AnyObject]!) -> Void)!) {
-       // altimiter.startIfNotRunning()
-        // retrieved parameters from Apple Watch
-//        println(userInfo["value1"])
-//        println(userInfo["value2"])
+ 
         println (userInfo["action"])
         if(userInfo["action"] != nil){
             let action = userInfo["action"]! as String
@@ -68,7 +65,7 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
         }
         // pass back values to Apple Watch
         var retValues = Dictionary<String,NSObject>()
-        let currentAltitude = altimiter.getCurrentAltitudeSynchcronsously()
+        let currentAltitude = altimiter.currentAltititude
         if(currentAltitude > -1000){
         retValues["currentAltitude"] = (altimiter.formatForDisplay(currentAltitude, roundToTens: true) as NSString)
         }else{
@@ -80,6 +77,7 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
         retValues["startTime"] = altimiter.startTime
         retValues["remaining"] = ViewController.getRemainingText(altimiter)
         retValues["climbed"] = altimiter.formatForDisplay(altimiter.alititudeChange, roundToTens: true)
+        retValues["lastUpdateRecieved"] = altimiter.lastUpdateRceived
         
         reply(retValues)
     }

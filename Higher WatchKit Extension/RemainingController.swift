@@ -15,18 +15,38 @@ class RemainingController : WKInterfaceController {
     
     
     @IBOutlet weak var climbedLabel: WKInterfaceLabel!
-    var mainController : AltimiterWatchController!
-
+    var inForeground = true
     override func awakeWithContext(context: AnyObject?) {
         super.awakeWithContext(context)
-        if(context != nil){
-            mainController = context as AltimiterWatchController
-            remainingLabel.setText(mainController.remaining)
-            climbedLabel.setText(mainController.climbed)
-        }
+        
 
         // Configure interface objects here.
     }
     
+    override func willActivate() {
+        inForeground = true
+        doUpdates()
+    }
+    
+    override func didDeactivate() {
+        inForeground = false
+    }
+    
+    func doUpdates(){
+        let prefs = NSUserDefaults.standardUserDefaults()
+        if prefs.objectForKey("remaining") != nil && prefs.objectForKey("climbed") != nil &&
+            inForeground {
+            remainingLabel.setText(prefs.objectForKey("remaining") as? String)
+            climbedLabel.setText(prefs.objectForKey("climbed") as? String)
+            
+            let delayTime = dispatch_time(DISPATCH_TIME_NOW,
+                Int64(5 * Double(NSEC_PER_SEC)))
+            
+            dispatch_after(delayTime, dispatch_get_main_queue()) {
+                self.doUpdates()
+            }
+            
+        }
+    }
     
 }

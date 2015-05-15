@@ -17,6 +17,7 @@ class PreferenceHelper: NSObject, CLLocationManagerDelegate{
             "state":"",
             "hasSetLocation":false,
             "recalibrateOnResume":false,
+            "resumeFromAutosave": true,
             
         ]
         prefs.registerDefaults(defaults)
